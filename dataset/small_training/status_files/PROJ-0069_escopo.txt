@@ -1,0 +1,30 @@
+RELATÓRIO DE STATUS DE ESCOPO
+Projeto: A liberdade de realizar seus sonhos direto da fonte (PROJ-0069)
+Data: 14/07/2025
+Gerente: Henry Ramos
+
+Escopo original: Sistema para a liberdade de realizar seus sonhos direto da fonte
+Houve mudança de escopo: Sim
+Descrição das mudanças: Expansão do escopo para incluir funcionalidades adicionais
+Impacto no cronograma: 29 dias
+Impacto no custo: R$ 194985.32
+
+Solicitações de mudança:
+- SCM-01: Implementação de módulo de exportação de dados
+- SCM-02: Adição de funcionalidade de autenticação biométrica
+- SCM-03: Alteração na interface do usuário
+- SCM-04: Alteração na interface do usuário
+
+Requisitos atuais:
+- REQ-01: O sistema deve passar por testes de segurança
+- REQ-02: O sistema deve registrar logs de auditoria
+- REQ-03: O sistema deve passar por testes de segurança
+- REQ-04: O sistema deve ser compatível com navegadores modernos
+- REQ-05: O sistema deve permitir autenticação de usuários
+- REQ-06: O sistema deve ser compatível com navegadores modernos
+- REQ-07: O sistema deve ter interface responsiva
+- REQ-08: O sistema deve ser compatível com navegadores modernos
+- REQ-09: O sistema deve processar transações em menos de 2 seconds
+- REQ-10: O sistema deve permitir exportação de dados em formato CSV
+- REQ-11: O sistema deve processar transações em menos de 2 seconds
+- REQ-12: O sistema deve permitir autenticação de usuários

@@ -1,0 +1,39 @@
+RELATÓRIO DE STATUS DE RISCOS
+Projeto: A arte de evoluir com toda a tranquilidade (PROJ-0708)
+Data: 14/07/2025
+Gerente: Lívia Andrade
+
+Riscos identificados:
+- R01: Falhas em testes de aceitação
+  Probabilidade: 5/5, Impacto: 2/5, Nível: Médio
+  Mitigação: Melhorar a documentação de requisitos
+
+- R02: Atraso na entrega de componentes críticos
+  Probabilidade: 2/5, Impacto: 2/5, Nível: Baixo
+  Mitigação: Implementar plano de contingência
+
+- R03: Falhas em testes de aceitação
+  Probabilidade: 4/5, Impacto: 5/5, Nível: Alto
+  Mitigação: Gerenciar dependências ativamente
+
+- R04: Estimativas imprecisas
+  Probabilidade: 5/5, Impacto: 4/5, Nível: Alto
+  Mitigação: Comunicar benefícios da mudança
+
+- R05: Requisitos mal definidos
+  Probabilidade: 3/5, Impacto: 5/5, Nível: Médio
+  Mitigação: Testar compatibilidade em diferentes ambientes
+
+- R06: Estimativas imprecisas
+  Probabilidade: 5/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Implementar plano de contingência
+
+- R07: Requisitos mal definidos
+  Probabilidade: 5/5, Impacto: 4/5, Nível: Alto
+  Mitigação: Fortalecer medidas de segurança
+
+Riscos ocorridos:
+- R03 (ocorrido em 24/12/2024)
+  Impacto real: Aumento de 10% nos custos
+  Ações tomadas: Implementação de soluções alternativas
+

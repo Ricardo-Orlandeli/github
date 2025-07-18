@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A simplicidade de realizar seus sonhos com força total (PROJ-0431)
+Data: 14/07/2025
+Gerente: Gustavo Cunha
+
+Orçamento inicial: R$ 1881122.00
+Custo real atual: R$ 2152979.40
+Desvio orçamentário: 14.45%
+Índice de Desempenho de Custo (CPI): 0.87
+Valor Agregado (EV): R$ 1879240.88
+Estimativa para conclusão: R$ 2155.13
+Estimativa no término (EAC): R$ 2155134.53
+Variação no término (VAC): R$ -274012.53
+
+Detalhamento por categoria:
+- Pessoal: R$ 961522.55 (44.7%)
+- Equipamentos: R$ 417223.20 (19.4%)
+- Software: R$ 308953.95 (14.4%)
+- Serviços: R$ 266819.29 (12.4%)
+- Outros: R$ 198460.42 (9.2%)

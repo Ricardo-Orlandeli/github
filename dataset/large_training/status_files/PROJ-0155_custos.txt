@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O conforto de conseguir com toda a tranquilidade (PROJ-0155)
+Data: 14/07/2025
+Gerente: Eduarda Leão
+
+Orçamento inicial: R$ 622800.00
+Custo real atual: R$ 496989.50
+Desvio orçamentário: -20.20%
+Índice de Desempenho de Custo (CPI): 0.81
+Valor Agregado (EV): R$ 401380.20
+Estimativa para conclusão: R$ 274162.29
+Estimativa no término (EAC): R$ 771151.79
+Variação no término (VAC): R$ -148351.79
+
+Detalhamento por categoria:
+- Pessoal: R$ 253749.83 (51.1%)
+- Equipamentos: R$ 61673.57 (12.4%)
+- Software: R$ 40952.56 (8.2%)
+- Serviços: R$ 93760.04 (18.9%)
+- Outros: R$ 46853.50 (9.4%)

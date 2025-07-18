@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A vantagem de realizar seus sonhos em estado puro (PROJ-0725)
+Data: 14/07/2025
+Gerente: Sra. Ana Liz Vargas
+
+Orçamento inicial: R$ 2393061.00
+Custo real atual: R$ 251355.14
+Desvio orçamentário: -28.43%
+Índice de Desempenho de Custo (CPI): 0.76
+Valor Agregado (EV): R$ 191675.04
+Estimativa para conclusão: R$ 2886811.41
+Estimativa no término (EAC): R$ 3138166.56
+Variação no término (VAC): R$ -745105.56
+
+Detalhamento por categoria:
+- Pessoal: R$ 137449.43 (54.7%)
+- Equipamentos: R$ 33765.49 (13.4%)
+- Software: R$ 32772.65 (13.0%)
+- Serviços: R$ 29106.60 (11.6%)
+- Outros: R$ 18260.98 (7.3%)

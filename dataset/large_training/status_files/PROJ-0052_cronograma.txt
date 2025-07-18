@@ -1,0 +1,26 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A vantagem de realizar seus sonhos simplesmente (PROJ-0052)
+Data: 14/07/2025
+Gerente: Sra. Agatha Campos
+
+Status atual: Atrasado
+Percentual de conclusão: 69.9%
+Data de início: 03/12/2023
+Data de término planejada: 30/09/2024
+Data de término real/prevista: 27/01/2025
+Atraso atual: 287 dias
+Motivo do atraso: Problemas de comunicação
+Índice de Desempenho de Cronograma (SPI): 0.70
+Valor Planejado (PV): R$ 146706.00
+Valor Agregado (EV): R$ 102562.66
+
+Tarefas críticas:
+- Migração de dados legados
+- Configuração do ambiente de produção
+- Desenvolvimento do módulo de autenticação
+- Integração com sistema de pagamentos
+
+Tarefas atrasadas:
+- Integração com sistema de pagamentos
+- Migração de dados legados
+- Configuração do ambiente de produção

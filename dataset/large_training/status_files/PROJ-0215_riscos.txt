@@ -1,0 +1,47 @@
+RELATÓRIO DE STATUS DE RISCOS
+Projeto: A liberdade de conseguir com confiança (PROJ-0215)
+Data: 14/07/2025
+Gerente: Thomas Pereira
+
+Riscos identificados:
+- R01: Requisitos mal definidos
+  Probabilidade: 1/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Realizar testes de integração antecipados
+
+- R02: Problemas de integração com sistemas legados
+  Probabilidade: 4/5, Impacto: 3/5, Nível: Médio
+  Mitigação: Fortalecer medidas de segurança
+
+- R03: Estimativas imprecisas
+  Probabilidade: 4/5, Impacto: 4/5, Nível: Alto
+  Mitigação: Fortalecer medidas de segurança
+
+- R04: Falhas de segurança
+  Probabilidade: 1/5, Impacto: 3/5, Nível: Baixo
+  Mitigação: Refinar estimativas com base em dados históricos
+
+- R05: Rotatividade de pessoal-chave
+  Probabilidade: 2/5, Impacto: 4/5, Nível: Médio
+  Mitigação: Implementar redundância de infraestrutura
+
+- R06: Falhas de segurança
+  Probabilidade: 5/5, Impacto: 4/5, Nível: Alto
+  Mitigação: Buscar fornecedores alternativos
+
+- R07: Requisitos mal definidos
+  Probabilidade: 2/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Fortalecer medidas de segurança
+
+- R08: Indisponibilidade de recursos especializados
+  Probabilidade: 3/5, Impacto: 5/5, Nível: Médio
+  Mitigação: Buscar fornecedores alternativos
+
+- R09: Atraso na entrega de componentes críticos
+  Probabilidade: 1/5, Impacto: 5/5, Nível: Baixo
+  Mitigação: Implementar plano de contingência
+
+- R10: Problemas de comunicação com stakeholders
+  Probabilidade: 2/5, Impacto: 5/5, Nível: Médio
+  Mitigação: Implementar plano de contingência
+
+Riscos ocorridos:

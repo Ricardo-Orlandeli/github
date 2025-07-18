@@ -1,0 +1,43 @@
+RELATÓRIO DE STATUS DE RISCOS
+Projeto: A possibilidade de conseguir com toda a tranquilidade (PROJ-0752)
+Data: 14/07/2025
+Gerente: Nina Fonseca
+
+Riscos identificados:
+- R01: Atraso na entrega de componentes críticos
+  Probabilidade: 1/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Testar compatibilidade em diferentes ambientes
+
+- R02: Dependências externas não cumpridas
+  Probabilidade: 3/5, Impacto: 3/5, Nível: Médio
+  Mitigação: Implementar plano de contingência
+
+- R03: Problemas de compatibilidade
+  Probabilidade: 2/5, Impacto: 3/5, Nível: Baixo
+  Mitigação: Implementar plano de contingência
+
+- R04: Atraso na entrega de componentes críticos
+  Probabilidade: 2/5, Impacto: 5/5, Nível: Médio
+  Mitigação: Testar compatibilidade em diferentes ambientes
+
+- R05: Problemas de desempenho
+  Probabilidade: 5/5, Impacto: 3/5, Nível: Médio
+  Mitigação: Realizar testes de aceitação com usuários-chave
+
+- R06: Mudanças regulatórias
+  Probabilidade: 2/5, Impacto: 4/5, Nível: Médio
+  Mitigação: Implementar redundância de infraestrutura
+
+Riscos ocorridos:
+- R02 (ocorrido em 23/02/2025)
+  Impacto real: Problemas de qualidade
+  Ações tomadas: Revisão do orçamento
+
+- R03 (ocorrido em 22/02/2025)
+  Impacto real: Retrabalho significativo
+  Ações tomadas: Implementação de controles adicionais
+
+- R06 (ocorrido em 09/06/2025)
+  Impacto real: Aumento de 10% nos custos
+  Ações tomadas: Implementação de soluções alternativas
+

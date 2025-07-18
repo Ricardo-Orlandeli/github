@@ -1,0 +1,24 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: O prazer de conseguir sem preocupação (PROJ-0679)
+Data: 14/07/2025
+Gerente: Matteo Azevedo
+
+Status atual: Em andamento
+Percentual de conclusão: 80.0%
+Data de início: 10/12/2024
+Data de término planejada: 16/06/2025
+Data de término real/prevista: 11/06/2025
+Atraso atual: 28 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.10
+Valor Planejado (PV): R$ 2420404.00
+Valor Agregado (EV): R$ 1937524.17
+
+Tarefas críticas:
+- Implementação do módulo de análise de dados
+- Configuração da infraestrutura
+- Implementação do módulo de relatórios
+- Implementação do módulo de notificações
+- Integração com sistema de pagamentos
+
+Tarefas atrasadas:

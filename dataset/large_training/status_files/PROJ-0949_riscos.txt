@@ -1,0 +1,39 @@
+RELATÓRIO DE STATUS DE RISCOS
+Projeto: A certeza de evoluir antes de tudo (PROJ-0949)
+Data: 14/07/2025
+Gerente: Enrico Mendonça
+
+Riscos identificados:
+- R01: Requisitos mal definidos
+  Probabilidade: 2/5, Impacto: 3/5, Nível: Baixo
+  Mitigação: Implementar redundância de infraestrutura
+
+- R02: Requisitos mal definidos
+  Probabilidade: 1/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Contratar pessoal adicional
+
+- R03: Dependências externas não cumpridas
+  Probabilidade: 4/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Implementar redundância de infraestrutura
+
+- R04: Mudanças regulatórias
+  Probabilidade: 1/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Monitorar mudanças regulatórias
+
+- R05: Falhas de segurança
+  Probabilidade: 3/5, Impacto: 2/5, Nível: Baixo
+  Mitigação: Implementar redundância de infraestrutura
+
+- R06: Problemas de desempenho
+  Probabilidade: 1/5, Impacto: 2/5, Nível: Baixo
+  Mitigação: Gerenciar dependências ativamente
+
+- R07: Falhas de infraestrutura
+  Probabilidade: 1/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Fortalecer medidas de segurança
+
+- R08: Problemas de compatibilidade
+  Probabilidade: 3/5, Impacto: 4/5, Nível: Médio
+  Mitigação: Monitorar mudanças regulatórias
+
+Riscos ocorridos:

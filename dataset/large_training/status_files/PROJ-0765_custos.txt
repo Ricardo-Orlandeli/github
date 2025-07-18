@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A arte de avançar com toda a tranquilidade (PROJ-0765)
+Data: 14/07/2025
+Gerente: João Felipe Viana
+
+Orçamento inicial: R$ 3447099.00
+Custo real atual: R$ 2998635.87
+Desvio orçamentário: -13.01%
+Índice de Desempenho de Custo (CPI): 1.15
+Valor Agregado (EV): R$ 3447099.00
+Estimativa para conclusão: R$ 0.00
+Estimativa no término (EAC): R$ 2998635.87
+Variação no término (VAC): R$ 448463.13
+
+Detalhamento por categoria:
+- Pessoal: R$ 1577507.23 (52.6%)
+- Equipamentos: R$ 391871.49 (13.1%)
+- Software: R$ 394268.33 (13.1%)
+- Serviços: R$ 449932.94 (15.0%)
+- Outros: R$ 185055.88 (6.2%)

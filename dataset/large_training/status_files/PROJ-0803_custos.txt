@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O poder de inovar mais facilmente (PROJ-0803)
+Data: 14/07/2025
+Gerente: Bruno Peixoto
+
+Orçamento inicial: R$ 4253136.00
+Custo real atual: R$ 4105499.04
+Desvio orçamentário: -3.47%
+Índice de Desempenho de Custo (CPI): 1.03
+Valor Agregado (EV): R$ 4248882.86
+Estimativa para conclusão: R$ 4109.61
+Estimativa no término (EAC): R$ 4109608.65
+Variação no término (VAC): R$ 143527.35
+
+Detalhamento por categoria:
+- Pessoal: R$ 2208066.68 (53.8%)
+- Equipamentos: R$ 773326.82 (18.8%)
+- Software: R$ 288328.18 (7.0%)
+- Serviços: R$ 542311.23 (13.2%)
+- Outros: R$ 293466.12 (7.1%)

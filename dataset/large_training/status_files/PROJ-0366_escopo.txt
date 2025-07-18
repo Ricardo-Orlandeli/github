@@ -1,0 +1,25 @@
+RELATÓRIO DE STATUS DE ESCOPO
+Projeto: A simplicidade de realizar seus sonhos direto da fonte (PROJ-0366)
+Data: 14/07/2025
+Gerente: Francisco Vasconcelos
+
+Escopo original: Sistema para a simplicidade de realizar seus sonhos direto da fonte
+Houve mudança de escopo: Sim
+Descrição das mudanças: Mudança na plataforma de implementação
+Impacto no cronograma: 46 dias
+Impacto no custo: R$ 370588.44
+
+Solicitações de mudança:
+- SCM-01: Mudança no banco de dados
+- SCM-02: Adição de relatórios gerenciais
+
+Requisitos atuais:
+- REQ-01: O sistema deve permitir exportação de dados em formato CSV
+- REQ-02: O sistema deve permitir integração com APIs externas
+- REQ-03: O sistema deve registrar logs de auditoria
+- REQ-04: O sistema deve ser compatível com dispositivos móveis
+- REQ-05: O sistema deve ser compatível com navegadores modernos
+- REQ-06: O sistema deve ter controle de acesso baseado em perfis
+- REQ-07: O sistema deve ser compatível com dispositivos móveis
+- REQ-08: O sistema deve ter interface responsiva
+- REQ-09: O sistema deve processar transações em menos de 2 seconds

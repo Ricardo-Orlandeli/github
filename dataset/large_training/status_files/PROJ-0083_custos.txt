@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A segurança de ganhar com confiança (PROJ-0083)
+Data: 14/07/2025
+Gerente: Heitor Abreu
+
+Orçamento inicial: R$ 4373811.00
+Custo real atual: R$ 4752439.00
+Desvio orçamentário: 8.66%
+Índice de Desempenho de Custo (CPI): 0.86
+Valor Agregado (EV): R$ 4095588.31
+Estimativa para conclusão: R$ 322844.06
+Estimativa no término (EAC): R$ 5075283.05
+Variação no término (VAC): R$ -701472.05
+
+Detalhamento por categoria:
+- Pessoal: R$ 2390465.87 (50.3%)
+- Equipamentos: R$ 667408.77 (14.0%)
+- Software: R$ 526756.58 (11.1%)
+- Serviços: R$ 873222.26 (18.4%)
+- Outros: R$ 294585.52 (6.2%)

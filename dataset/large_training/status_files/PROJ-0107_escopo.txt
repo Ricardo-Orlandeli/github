@@ -1,0 +1,19 @@
+RELATÓRIO DE STATUS DE ESCOPO
+Projeto: O prazer de inovar direto da fonte (PROJ-0107)
+Data: 14/07/2025
+Gerente: Lorena Sales
+
+Escopo original: Sistema para o prazer de inovar direto da fonte
+Houve mudança de escopo: Não
+Descrição das mudanças: N/A
+Impacto no cronograma: 0 dias
+Impacto no custo: R$ 0.00
+
+Solicitações de mudança:
+
+Requisitos atuais:
+- REQ-01: O sistema deve ter alta disponibilidade (99.9%)
+- REQ-02: O sistema deve registrar logs de auditoria
+- REQ-03: O sistema deve ter controle de acesso baseado em perfis
+- REQ-04: O sistema deve ter interface responsiva
+- REQ-05: O sistema deve permitir exportação de dados em formato CSV

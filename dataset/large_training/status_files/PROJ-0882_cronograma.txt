@@ -1,0 +1,22 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A arte de realizar seus sonhos com confiança (PROJ-0882)
+Data: 14/07/2025
+Gerente: Sr. Luan Albuquerque
+
+Status atual: Cancelado
+Percentual de conclusão: 55.7%
+Data de início: 03/07/2025
+Data de término planejada: 21/12/2025
+Data de término real/prevista: 06/10/2025
+Atraso atual: 0 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 8.66
+Valor Planejado (PV): R$ 196215.75
+Valor Agregado (EV): R$ 1699940.17
+
+Tarefas críticas:
+- Implementação do módulo de relatórios
+- Desenvolvimento do painel administrativo
+- Implementação do módulo de análise de dados
+
+Tarefas atrasadas:

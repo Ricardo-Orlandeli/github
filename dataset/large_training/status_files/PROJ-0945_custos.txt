@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O direito de mudar direto da fonte (PROJ-0945)
+Data: 14/07/2025
+Gerente: Isadora Pacheco
+
+Orçamento inicial: R$ 627567.00
+Custo real atual: R$ 459117.05
+Desvio orçamentário: -26.84%
+Índice de Desempenho de Custo (CPI): 0.86
+Valor Agregado (EV): R$ 393009.43
+Estimativa para conclusão: R$ 274012.20
+Estimativa no término (EAC): R$ 733129.25
+Variação no término (VAC): R$ -105562.25
+
+Detalhamento por categoria:
+- Pessoal: R$ 219740.05 (47.9%)
+- Equipamentos: R$ 51541.71 (11.2%)
+- Software: R$ 53905.72 (11.7%)
+- Serviços: R$ 91235.40 (19.9%)
+- Outros: R$ 42694.16 (9.3%)

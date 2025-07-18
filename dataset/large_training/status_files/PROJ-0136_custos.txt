@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O poder de concretizar seus projetos simplesmente (PROJ-0136)
+Data: 14/07/2025
+Gerente: Sra. Manuella Ramos
+
+Orçamento inicial: R$ 4419246.00
+Custo real atual: R$ 4152558.07
+Desvio orçamentário: -6.03%
+Índice de Desempenho de Custo (CPI): 1.06
+Valor Agregado (EV): R$ 4414826.75
+Estimativa para conclusão: R$ 4156.71
+Estimativa no término (EAC): R$ 4156714.78
+Variação no término (VAC): R$ 262531.22
+
+Detalhamento por categoria:
+- Pessoal: R$ 1977529.69 (47.6%)
+- Equipamentos: R$ 488985.85 (11.8%)
+- Software: R$ 600291.97 (14.5%)
+- Serviços: R$ 764887.28 (18.4%)
+- Outros: R$ 320863.28 (7.7%)

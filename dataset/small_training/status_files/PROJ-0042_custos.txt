@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O poder de evoluir em estado puro (PROJ-0042)
+Data: 14/07/2025
+Gerente: Ísis Lima
+
+Orçamento inicial: R$ 138734.00
+Custo real atual: R$ 111539.33
+Desvio orçamentário: -19.60%
+Índice de Desempenho de Custo (CPI): 1.24
+Valor Agregado (EV): R$ 138595.27
+Estimativa para conclusão: R$ 111.65
+Estimativa no término (EAC): R$ 111650.98
+Variação no término (VAC): R$ 27083.02
+
+Detalhamento por categoria:
+- Pessoal: R$ 56868.56 (51.0%)
+- Equipamentos: R$ 19541.89 (17.5%)
+- Software: R$ 9722.90 (8.7%)
+- Serviços: R$ 17343.74 (15.5%)
+- Outros: R$ 8062.23 (7.2%)

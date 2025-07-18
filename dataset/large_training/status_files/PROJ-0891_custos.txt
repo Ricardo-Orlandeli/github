@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A vantagem de ganhar sem preocupação (PROJ-0891)
+Data: 14/07/2025
+Gerente: Apollo Nogueira
+
+Orçamento inicial: R$ 4565922.00
+Custo real atual: R$ 3793219.20
+Desvio orçamentário: -16.92%
+Índice de Desempenho de Custo (CPI): 1.20
+Valor Agregado (EV): R$ 4565922.00
+Estimativa para conclusão: R$ 0.00
+Estimativa no término (EAC): R$ 3793219.20
+Variação no término (VAC): R$ 772702.80
+
+Detalhamento por categoria:
+- Pessoal: R$ 1748460.73 (46.1%)
+- Equipamentos: R$ 675376.71 (17.8%)
+- Software: R$ 411524.53 (10.8%)
+- Serviços: R$ 609440.32 (16.1%)
+- Outros: R$ 348416.91 (9.2%)

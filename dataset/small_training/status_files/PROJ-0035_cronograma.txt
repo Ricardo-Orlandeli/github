@@ -1,0 +1,26 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A segurança de conseguir mais facilmente (PROJ-0035)
+Data: 14/07/2025
+Gerente: Theo Almeida
+
+Status atual: Em andamento
+Percentual de conclusão: 99.9%
+Data de início: 04/08/2024
+Data de término planejada: 12/01/2025
+Data de término real/prevista: 01/01/2025
+Atraso atual: 183 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.13
+Valor Planejado (PV): R$ 1901556.00
+Valor Agregado (EV): R$ 1899654.44
+
+Tarefas críticas:
+- Integração com sistema de pagamentos
+- Migração de dados legados
+- Desenvolvimento da interface do usuário
+- Testes de segurança
+- Implementação do sistema de backup
+- Desenvolvimento da interface do usuário
+- Implementação do módulo de relatórios
+
+Tarefas atrasadas:

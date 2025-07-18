@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O poder de realizar seus sonhos sem preocupação (PROJ-0985)
+Data: 14/07/2025
+Gerente: Emanuel Martins
+
+Orçamento inicial: R$ 2216145.00
+Custo real atual: R$ 2568342.31
+Desvio orçamentário: 15.89%
+Índice de Desempenho de Custo (CPI): 0.86
+Valor Agregado (EV): R$ 2213928.86
+Estimativa para conclusão: R$ 2570.91
+Estimativa no término (EAC): R$ 2570913.22
+Variação no término (VAC): R$ -354768.22
+
+Detalhamento por categoria:
+- Pessoal: R$ 1186241.63 (46.2%)
+- Equipamentos: R$ 394977.61 (15.4%)
+- Software: R$ 348570.01 (13.6%)
+- Serviços: R$ 468492.51 (18.2%)
+- Outros: R$ 170060.56 (6.6%)

@@ -1,0 +1,27 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A simplicidade de inovar de maneira eficaz (PROJ-0191)
+Data: 14/07/2025
+Gerente: Dr. Gael Farias
+
+Status atual: Em andamento
+Percentual de conclusão: 91.7%
+Data de início: 09/12/2023
+Data de término planejada: 05/05/2024
+Data de término real/prevista: 25/05/2024
+Atraso atual: 435 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 0.91
+Valor Planejado (PV): R$ 842647.00
+Valor Agregado (EV): R$ 772820.21
+
+Tarefas críticas:
+- Implementação do sistema de backup
+- Configuração do ambiente de produção
+- Implementação do módulo de análise de dados
+- Implementação do módulo de exportação de dados
+- Desenvolvimento do painel administrativo
+- Implementação do módulo de exportação de dados
+- Implementação da API REST
+- Testes de segurança
+
+Tarefas atrasadas:

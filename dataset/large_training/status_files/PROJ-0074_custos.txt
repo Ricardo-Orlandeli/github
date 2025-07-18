@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A segurança de ganhar direto da fonte (PROJ-0074)
+Data: 14/07/2025
+Gerente: Alana Garcia
+
+Orçamento inicial: R$ 594612.00
+Custo real atual: R$ 531205.51
+Desvio orçamentário: -10.66%
+Índice de Desempenho de Custo (CPI): 1.01
+Valor Agregado (EV): R$ 535191.38
+Estimativa para conclusão: R$ 58978.08
+Estimativa no término (EAC): R$ 590183.59
+Variação no término (VAC): R$ 4428.41
+
+Detalhamento por categoria:
+- Pessoal: R$ 277887.74 (52.3%)
+- Equipamentos: R$ 102719.25 (19.3%)
+- Software: R$ 27182.62 (5.1%)
+- Serviços: R$ 94964.61 (17.9%)
+- Outros: R$ 28451.29 (5.4%)

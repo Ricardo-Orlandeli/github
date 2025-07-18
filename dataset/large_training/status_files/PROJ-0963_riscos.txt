@@ -1,0 +1,43 @@
+RELATÓRIO DE STATUS DE RISCOS
+Projeto: O conforto de concretizar seus projetos com força total (PROJ-0963)
+Data: 14/07/2025
+Gerente: Ana Costela
+
+Riscos identificados:
+- R01: Problemas de comunicação com stakeholders
+  Probabilidade: 2/5, Impacto: 5/5, Nível: Médio
+  Mitigação: Contratar pessoal adicional
+
+- R02: Problemas de desempenho
+  Probabilidade: 3/5, Impacto: 2/5, Nível: Baixo
+  Mitigação: Buscar fornecedores alternativos
+
+- R03: Indisponibilidade de recursos especializados
+  Probabilidade: 1/5, Impacto: 2/5, Nível: Baixo
+  Mitigação: Realizar testes de integração antecipados
+
+- R04: Problemas de comunicação com stakeholders
+  Probabilidade: 1/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Contratar pessoal adicional
+
+- R05: Resistência dos usuários à mudança
+  Probabilidade: 2/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Realizar testes de integração antecipados
+
+- R06: Atraso na entrega de componentes críticos
+  Probabilidade: 2/5, Impacto: 5/5, Nível: Médio
+  Mitigação: Testar compatibilidade em diferentes ambientes
+
+- R07: Mudanças regulatórias
+  Probabilidade: 2/5, Impacto: 2/5, Nível: Baixo
+  Mitigação: Melhorar a documentação de requisitos
+
+- R08: Indisponibilidade de recursos especializados
+  Probabilidade: 3/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Gerenciar dependências ativamente
+
+- R09: Falhas em testes de aceitação
+  Probabilidade: 1/5, Impacto: 4/5, Nível: Baixo
+  Mitigação: Realizar testes de integração antecipados
+
+Riscos ocorridos:

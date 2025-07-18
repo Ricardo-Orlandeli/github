@@ -1,0 +1,24 @@
+RELATÓRIO DE STATUS DE ESCOPO
+Projeto: A segurança de mudar direto da fonte (PROJ-0097)
+Data: 14/07/2025
+Gerente: Daniela Machado
+
+Escopo original: Sistema para a segurança de mudar direto da fonte
+Houve mudança de escopo: Não
+Descrição das mudanças: N/A
+Impacto no cronograma: 0 dias
+Impacto no custo: R$ 0.00
+
+Solicitações de mudança:
+
+Requisitos atuais:
+- REQ-01: O sistema deve ter interface responsiva
+- REQ-02: O sistema deve ter interface responsiva
+- REQ-03: O sistema deve ter alta disponibilidade (99.9%)
+- REQ-04: O sistema deve permitir integração com APIs externas
+- REQ-05: O sistema deve ser compatível com navegadores modernos
+- REQ-06: O sistema deve ser escalável para suportar até 10.000 usuários simultâneos
+- REQ-07: O sistema deve ter controle de acesso baseado em perfis
+- REQ-08: O sistema deve permitir exportação de dados em formato CSV
+- REQ-09: O sistema deve permitir exportação de dados em formato CSV
+- REQ-10: O sistema deve permitir exportação de dados em formato CSV

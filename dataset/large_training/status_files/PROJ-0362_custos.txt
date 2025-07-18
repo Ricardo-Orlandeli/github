@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O prazer de concretizar seus projetos simplesmente (PROJ-0362)
+Data: 14/07/2025
+Gerente: Laís Ribeiro
+
+Orçamento inicial: R$ 3901297.00
+Custo real atual: R$ 4228979.66
+Desvio orçamentário: 1588.75%
+Índice de Desempenho de Custo (CPI): 0.92
+Valor Agregado (EV): R$ 3901297.00
+Estimativa para conclusão: R$ 0.00
+Estimativa no término (EAC): R$ 4228979.66
+Variação no término (VAC): R$ -327682.66
+
+Detalhamento por categoria:
+- Pessoal: R$ 1961339.19 (46.4%)
+- Equipamentos: R$ 654658.93 (15.5%)
+- Software: R$ 539219.15 (12.8%)
+- Serviços: R$ 752033.99 (17.8%)
+- Outros: R$ 321728.40 (7.6%)

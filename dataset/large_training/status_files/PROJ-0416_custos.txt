@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A liberdade de evoluir naturalmente (PROJ-0416)
+Data: 14/07/2025
+Gerente: Maria Eduarda Jesus
+
+Orçamento inicial: R$ 2090056.00
+Custo real atual: R$ 1621677.88
+Desvio orçamentário: -22.41%
+Índice de Desempenho de Custo (CPI): 1.04
+Valor Agregado (EV): R$ 1693224.12
+Estimativa para conclusão: R$ 380063.97
+Estimativa no término (EAC): R$ 2001741.85
+Variação no término (VAC): R$ 88314.15
+
+Detalhamento por categoria:
+- Pessoal: R$ 879883.28 (54.3%)
+- Equipamentos: R$ 228802.82 (14.1%)
+- Software: R$ 222893.49 (13.7%)
+- Serviços: R$ 206999.50 (12.8%)
+- Outros: R$ 83098.79 (5.1%)

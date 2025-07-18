@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A possibilidade de ganhar com força total (PROJ-0771)
+Data: 14/07/2025
+Gerente: Pietra Mendonça
+
+Orçamento inicial: R$ 172892.00
+Custo real atual: R$ 144545.23
+Desvio orçamentário: -16.40%
+Índice de Desempenho de Custo (CPI): 0.87
+Valor Agregado (EV): R$ 125663.41
+Estimativa para conclusão: R$ 54325.02
+Estimativa no término (EAC): R$ 198870.25
+Variação no término (VAC): R$ -25978.25
+
+Detalhamento por categoria:
+- Pessoal: R$ 70132.63 (48.5%)
+- Equipamentos: R$ 22784.57 (15.8%)
+- Software: R$ 21732.03 (15.0%)
+- Serviços: R$ 21511.45 (14.9%)
+- Outros: R$ 8384.56 (5.8%)

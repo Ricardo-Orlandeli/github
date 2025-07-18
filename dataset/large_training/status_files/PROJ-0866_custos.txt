@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A arte de ganhar direto da fonte (PROJ-0866)
+Data: 14/07/2025
+Gerente: Breno Ramos
+
+Orçamento inicial: R$ 748204.00
+Custo real atual: R$ 129695.43
+Desvio orçamentário: -4.88%
+Índice de Desempenho de Custo (CPI): 1.04
+Valor Agregado (EV): R$ 135412.05
+Estimativa para conclusão: R$ 586922.04
+Estimativa no término (EAC): R$ 716617.47
+Variação no término (VAC): R$ 31586.53
+
+Detalhamento por categoria:
+- Pessoal: R$ 76729.75 (59.2%)
+- Equipamentos: R$ 19213.74 (14.8%)
+- Software: R$ 8880.13 (6.8%)
+- Serviços: R$ 15037.96 (11.6%)
+- Outros: R$ 9833.86 (7.6%)

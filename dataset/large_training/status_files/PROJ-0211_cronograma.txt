@@ -1,0 +1,24 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A arte de conseguir antes de tudo (PROJ-0211)
+Data: 14/07/2025
+Gerente: Clara Camargo
+
+Status atual: Em andamento
+Percentual de conclusão: 99.9%
+Data de início: 12/08/2024
+Data de término planejada: 30/10/2024
+Data de término real/prevista: 22/11/2024
+Atraso atual: 257 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.14
+Valor Planejado (PV): R$ 3964092.00
+Valor Agregado (EV): R$ 3960127.91
+
+Tarefas críticas:
+- Desenvolvimento do módulo de autenticação
+- Configuração da infraestrutura
+- Configuração do ambiente de produção
+- Implementação do módulo de análise de dados
+- Implementação do módulo de notificações
+
+Tarefas atrasadas:

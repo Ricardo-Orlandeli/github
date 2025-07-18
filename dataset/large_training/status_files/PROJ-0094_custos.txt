@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O prazer de conseguir mais facilmente (PROJ-0094)
+Data: 14/07/2025
+Gerente: Ana Clara Aragão
+
+Orçamento inicial: R$ 3341801.00
+Custo real atual: R$ 1824134.72
+Desvio orçamentário: 5.47%
+Índice de Desempenho de Custo (CPI): 0.93
+Valor Agregado (EV): R$ 1691130.42
+Estimativa para conclusão: R$ 1780492.79
+Estimativa no término (EAC): R$ 3604627.51
+Variação no término (VAC): R$ -262826.51
+
+Detalhamento por categoria:
+- Pessoal: R$ 964095.95 (52.9%)
+- Equipamentos: R$ 258201.84 (14.2%)
+- Software: R$ 230327.28 (12.6%)
+- Serviços: R$ 247257.06 (13.6%)
+- Outros: R$ 124252.58 (6.8%)

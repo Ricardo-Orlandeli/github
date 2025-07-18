@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A possibilidade de mudar de maneira eficaz (PROJ-0573)
+Data: 14/07/2025
+Gerente: Sarah Melo
+
+Orçamento inicial: R$ 81407.00
+Custo real atual: R$ 91493.92
+Desvio orçamentário: 111.04%
+Índice de Desempenho de Custo (CPI): 0.89
+Valor Agregado (EV): R$ 81407.00
+Estimativa para conclusão: R$ 0.00
+Estimativa no término (EAC): R$ 91493.92
+Variação no término (VAC): R$ -10086.92
+
+Detalhamento por categoria:
+- Pessoal: R$ 49229.17 (53.8%)
+- Equipamentos: R$ 11327.30 (12.4%)
+- Software: R$ 12941.08 (14.1%)
+- Serviços: R$ 10695.11 (11.7%)
+- Outros: R$ 7301.26 (8.0%)

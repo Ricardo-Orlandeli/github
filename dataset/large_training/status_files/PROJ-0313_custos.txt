@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O prazer de conseguir com confiança (PROJ-0313)
+Data: 14/07/2025
+Gerente: Liam Sá
+
+Orçamento inicial: R$ 2572894.00
+Custo real atual: R$ 893194.55
+Desvio orçamentário: -24.74%
+Índice de Desempenho de Custo (CPI): 1.10
+Valor Agregado (EV): R$ 983136.46
+Estimativa para conclusão: R$ 1444319.10
+Estimativa no término (EAC): R$ 2337513.65
+Variação no término (VAC): R$ 235380.35
+
+Detalhamento por categoria:
+- Pessoal: R$ 443756.50 (49.7%)
+- Equipamentos: R$ 127686.57 (14.3%)
+- Software: R$ 86383.61 (9.7%)
+- Serviços: R$ 146217.35 (16.4%)
+- Outros: R$ 89150.53 (10.0%)

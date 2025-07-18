@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A possibilidade de realizar seus sonhos com confiança (PROJ-0078)
+Data: 14/07/2025
+Gerente: Théo Rezende
+
+Orçamento inicial: R$ 2542760.00
+Custo real atual: R$ 1729640.85
+Desvio orçamentário: -31.98%
+Índice de Desempenho de Custo (CPI): 1.19
+Valor Agregado (EV): R$ 2066704.25
+Estimativa para conclusão: R$ 398414.76
+Estimativa no término (EAC): R$ 2128055.61
+Variação no término (VAC): R$ 414704.39
+
+Detalhamento por categoria:
+- Pessoal: R$ 880370.03 (50.9%)
+- Equipamentos: R$ 250293.95 (14.5%)
+- Software: R$ 224471.77 (13.0%)
+- Serviços: R$ 211656.83 (12.2%)
+- Outros: R$ 162848.27 (9.4%)

@@ -1,0 +1,27 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A simplicidade de inovar mais rapidamente (PROJ-0846)
+Data: 14/07/2025
+Gerente: Gael Henrique Pacheco
+
+Status atual: Atrasado
+Percentual de conclusão: 69.9%
+Data de início: 14/05/2024
+Data de término planejada: 06/12/2024
+Data de término real/prevista: 20/12/2024
+Atraso atual: 220 dias
+Motivo do atraso: Dependências externas não cumpridas
+Índice de Desempenho de Cronograma (SPI): 0.70
+Valor Planejado (PV): R$ 3962159.00
+Valor Agregado (EV): R$ 2769064.93
+
+Tarefas críticas:
+- Implementação do módulo de notificações
+- Implementação do módulo de exportação de dados
+- Implementação do módulo de notificações
+- Configuração da infraestrutura
+- Desenvolvimento da interface do usuário
+- Implementação do sistema de backup
+- Migração de dados legados
+
+Tarefas atrasadas:
+- Implementação do módulo de notificações

@@ -1,0 +1,43 @@
+RELATÓRIO DE STATUS DE RISCOS
+Projeto: A vantagem de mudar antes de tudo (PROJ-0257)
+Data: 14/07/2025
+Gerente: Leandro Rezende
+
+Riscos identificados:
+- R01: Rotatividade de pessoal-chave
+  Probabilidade: 3/5, Impacto: 3/5, Nível: Médio
+  Mitigação: Contratar pessoal adicional
+
+- R02: Falhas de infraestrutura
+  Probabilidade: 3/5, Impacto: 5/5, Nível: Médio
+  Mitigação: Implementar plano de contingência
+
+- R03: Mudanças regulatórias
+  Probabilidade: 3/5, Impacto: 5/5, Nível: Médio
+  Mitigação: Melhorar a documentação de requisitos
+
+- R04: Resistência dos usuários à mudança
+  Probabilidade: 3/5, Impacto: 4/5, Nível: Médio
+  Mitigação: Realizar testes de aceitação com usuários-chave
+
+- R05: Requisitos mal definidos
+  Probabilidade: 1/5, Impacto: 3/5, Nível: Baixo
+  Mitigação: Monitorar mudanças regulatórias
+
+- R06: Problemas de desempenho
+  Probabilidade: 4/5, Impacto: 3/5, Nível: Médio
+  Mitigação: Testar compatibilidade em diferentes ambientes
+
+- R07: Indisponibilidade de recursos especializados
+  Probabilidade: 4/5, Impacto: 5/5, Nível: Alto
+  Mitigação: Implementar plano de contingência
+
+- R08: Estimativas imprecisas
+  Probabilidade: 5/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Refinar estimativas com base em dados históricos
+
+- R09: Problemas de desempenho
+  Probabilidade: 3/5, Impacto: 4/5, Nível: Médio
+  Mitigação: Melhorar a documentação de requisitos
+
+Riscos ocorridos:

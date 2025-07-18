@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O prazer de concretizar seus projetos mais rapidamente (PROJ-0305)
+Data: 14/07/2025
+Gerente: Eduarda Lima
+
+Orçamento inicial: R$ 1377088.00
+Custo real atual: R$ 1616617.79
+Desvio orçamentário: 17.39%
+Índice de Desempenho de Custo (CPI): 0.85
+Valor Agregado (EV): R$ 1377088.00
+Estimativa para conclusão: R$ 0.00
+Estimativa no término (EAC): R$ 1616617.79
+Variação no término (VAC): R$ -239529.79
+
+Detalhamento por categoria:
+- Pessoal: R$ 724673.34 (44.8%)
+- Equipamentos: R$ 320032.79 (19.8%)
+- Software: R$ 123586.84 (7.6%)
+- Serviços: R$ 333525.32 (20.6%)
+- Outros: R$ 114799.51 (7.1%)

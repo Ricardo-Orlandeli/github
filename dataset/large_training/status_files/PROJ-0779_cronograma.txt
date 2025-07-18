@@ -1,0 +1,25 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A segurança de inovar com força total (PROJ-0779)
+Data: 14/07/2025
+Gerente: Eloá Cassiano
+
+Status atual: Em andamento
+Percentual de conclusão: 99.9%
+Data de início: 17/05/2024
+Data de término planejada: 25/08/2024
+Data de término real/prevista: 09/09/2024
+Atraso atual: 323 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.00
+Valor Planejado (PV): R$ 4870329.00
+Valor Agregado (EV): R$ 4865458.67
+
+Tarefas críticas:
+- Desenvolvimento do painel administrativo
+- Integração com sistema de pagamentos
+- Configuração da infraestrutura
+- Testes de aceitação do usuário
+- Implementação do módulo de relatórios
+- Desenvolvimento do painel administrativo
+
+Tarefas atrasadas:

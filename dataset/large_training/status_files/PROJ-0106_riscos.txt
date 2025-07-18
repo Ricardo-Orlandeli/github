@@ -1,0 +1,27 @@
+RELATÓRIO DE STATUS DE RISCOS
+Projeto: O conforto de realizar seus sonhos com confiança (PROJ-0106)
+Data: 14/07/2025
+Gerente: Dante Novaes
+
+Riscos identificados:
+- R01: Estimativas imprecisas
+  Probabilidade: 2/5, Impacto: 4/5, Nível: Médio
+  Mitigação: Testar compatibilidade em diferentes ambientes
+
+- R02: Problemas de compatibilidade
+  Probabilidade: 2/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Refinar estimativas com base em dados históricos
+
+- R03: Problemas de comunicação com stakeholders
+  Probabilidade: 1/5, Impacto: 3/5, Nível: Baixo
+  Mitigação: Melhorar a documentação de requisitos
+
+Riscos ocorridos:
+- R03 (ocorrido em 21/11/2024)
+  Impacto real: Retrabalho significativo
+  Ações tomadas: Comunicação intensificada com stakeholders
+
+- R01 (ocorrido em 14/04/2024)
+  Impacto real: Problemas de qualidade
+  Ações tomadas: Revisão do orçamento
+

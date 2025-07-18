@@ -1,0 +1,19 @@
+RELATÓRIO DE STATUS DE RISCOS
+Projeto: A possibilidade de ganhar naturalmente (PROJ-0301)
+Data: 14/07/2025
+Gerente: Thomas Correia
+
+Riscos identificados:
+- R01: Atraso na entrega de componentes críticos
+  Probabilidade: 4/5, Impacto: 3/5, Nível: Médio
+  Mitigação: Comunicar benefícios da mudança
+
+- R02: Problemas de desempenho
+  Probabilidade: 1/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Realizar testes de aceitação com usuários-chave
+
+- R03: Problemas de compatibilidade
+  Probabilidade: 1/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Contratar pessoal adicional
+
+Riscos ocorridos:

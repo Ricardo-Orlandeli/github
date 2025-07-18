@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A certeza de concretizar seus projetos em estado puro (PROJ-0906)
+Data: 14/07/2025
+Gerente: Agatha Jesus
+
+Orçamento inicial: R$ 2960754.00
+Custo real atual: R$ 2097676.78
+Desvio orçamentário: -29.15%
+Índice de Desempenho de Custo (CPI): 0.87
+Valor Agregado (EV): R$ 1819367.48
+Estimativa para conclusão: R$ 1315984.82
+Estimativa no término (EAC): R$ 3413661.60
+Variação no término (VAC): R$ -452907.60
+
+Detalhamento por categoria:
+- Pessoal: R$ 1018613.89 (48.6%)
+- Equipamentos: R$ 281635.31 (13.4%)
+- Software: R$ 283949.25 (13.5%)
+- Serviços: R$ 399172.63 (19.0%)
+- Outros: R$ 114305.70 (5.4%)

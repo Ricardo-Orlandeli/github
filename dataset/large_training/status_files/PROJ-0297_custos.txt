@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A simplicidade de realizar seus sonhos naturalmente (PROJ-0297)
+Data: 14/07/2025
+Gerente: Clara Cavalcanti
+
+Orçamento inicial: R$ 3631960.00
+Custo real atual: R$ 4079564.63
+Desvio orçamentário: 2782.98%
+Índice de Desempenho de Custo (CPI): 0.89
+Valor Agregado (EV): R$ 3631960.00
+Estimativa para conclusão: R$ 0.00
+Estimativa no término (EAC): R$ 4079564.63
+Variação no término (VAC): R$ -447604.63
+
+Detalhamento por categoria:
+- Pessoal: R$ 2119926.64 (52.0%)
+- Equipamentos: R$ 644246.18 (15.8%)
+- Software: R$ 256063.41 (6.3%)
+- Serviços: R$ 789037.50 (19.3%)
+- Outros: R$ 270290.89 (6.6%)

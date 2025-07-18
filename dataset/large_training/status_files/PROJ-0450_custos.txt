@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O poder de realizar seus sonhos de maneira eficaz (PROJ-0450)
+Data: 14/07/2025
+Gerente: Sr. Luiz Henrique Vasconcelos
+
+Orçamento inicial: R$ 104383.00
+Custo real atual: R$ 45652.33
+Desvio orçamentário: -7.43%
+Índice de Desempenho de Custo (CPI): 1.03
+Valor Agregado (EV): R$ 46897.03
+Estimativa para conclusão: R$ 55960.23
+Estimativa no término (EAC): R$ 101612.56
+Variação no término (VAC): R$ 2770.44
+
+Detalhamento por categoria:
+- Pessoal: R$ 22841.50 (50.0%)
+- Equipamentos: R$ 8047.76 (17.6%)
+- Software: R$ 5342.24 (11.7%)
+- Serviços: R$ 6206.47 (13.6%)
+- Outros: R$ 3214.36 (7.0%)

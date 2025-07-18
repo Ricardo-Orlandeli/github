@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A arte de mudar sem preocupação (PROJ-0735)
+Data: 14/07/2025
+Gerente: Rael Castro
+
+Orçamento inicial: R$ 2215298.00
+Custo real atual: R$ 2202684.82
+Desvio orçamentário: -0.57%
+Índice de Desempenho de Custo (CPI): 0.84
+Valor Agregado (EV): R$ 1840539.91
+Estimativa para conclusão: R$ 448495.55
+Estimativa no término (EAC): R$ 2651180.36
+Variação no término (VAC): R$ -435882.36
+
+Detalhamento por categoria:
+- Pessoal: R$ 1089749.41 (49.5%)
+- Equipamentos: R$ 336666.61 (15.3%)
+- Software: R$ 286331.27 (13.0%)
+- Serviços: R$ 304536.13 (13.8%)
+- Outros: R$ 185401.40 (8.4%)

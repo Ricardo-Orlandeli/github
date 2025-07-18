@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A vantagem de realizar seus sonhos com toda a tranquilidade (PROJ-0561)
+Data: 14/07/2025
+Gerente: Valentim da Luz
+
+Orçamento inicial: R$ 1678787.00
+Custo real atual: R$ 1915523.02
+Desvio orçamentário: 14.10%
+Índice de Desempenho de Custo (CPI): 0.88
+Valor Agregado (EV): R$ 1678787.00
+Estimativa para conclusão: R$ 0.00
+Estimativa no término (EAC): R$ 1915523.02
+Variação no término (VAC): R$ -236736.02
+
+Detalhamento por categoria:
+- Pessoal: R$ 890537.91 (46.5%)
+- Equipamentos: R$ 311521.03 (16.3%)
+- Software: R$ 252043.37 (13.2%)
+- Serviços: R$ 339049.30 (17.7%)
+- Outros: R$ 122371.41 (6.4%)

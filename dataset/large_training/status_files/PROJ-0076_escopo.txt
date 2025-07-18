@@ -1,0 +1,24 @@
+RELATÓRIO DE STATUS DE ESCOPO
+Projeto: A simplicidade de conseguir mais facilmente (PROJ-0076)
+Data: 14/07/2025
+Gerente: Luigi Sousa
+
+Escopo original: Sistema para a simplicidade de conseguir mais facilmente
+Houve mudança de escopo: Sim
+Descrição das mudanças: Adição de novos requisitos de segurança
+Impacto no cronograma: 7 dias
+Impacto no custo: R$ 316016.38
+
+Solicitações de mudança:
+- SCM-01: Alteração na interface do usuário
+- SCM-02: Integração com sistema legado
+- SCM-03: Implementação de módulo de exportação de dados
+- SCM-04: Adição de funcionalidade de autenticação biométrica
+
+Requisitos atuais:
+- REQ-01: O sistema deve permitir integração com APIs externas
+- REQ-02: O sistema deve ter documentação completa
+- REQ-03: O sistema deve ser escalável para suportar até 10.000 usuários simultâneos
+- REQ-04: O sistema deve permitir exportação de dados em formato CSV
+- REQ-05: O sistema deve registrar logs de auditoria
+- REQ-06: O sistema deve registrar logs de auditoria

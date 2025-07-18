@@ -1,0 +1,27 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A vantagem de atingir seus objetivos com toda a tranquilidade (PROJ-0288)
+Data: 14/07/2025
+Gerente: Henry Gabriel Oliveira
+
+Status atual: Em andamento
+Percentual de conclusão: 91.1%
+Data de início: 28/06/2024
+Data de término planejada: 22/10/2024
+Data de término real/prevista: 15/11/2024
+Atraso atual: 265 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.09
+Valor Planejado (PV): R$ 2069640.00
+Valor Agregado (EV): R$ 1884600.10
+
+Tarefas críticas:
+- Configuração da infraestrutura
+- Implementação do módulo de relatórios
+- Desenvolvimento do módulo de autenticação
+- Implementação do módulo de análise de dados
+- Configuração do ambiente de produção
+- Migração de dados legados
+- Implementação do módulo de relatórios
+- Implementação do módulo de exportação de dados
+
+Tarefas atrasadas:

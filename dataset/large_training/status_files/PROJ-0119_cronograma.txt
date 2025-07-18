@@ -1,0 +1,27 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: O direito de concretizar seus projetos de maneira eficaz (PROJ-0119)
+Data: 14/07/2025
+Gerente: Mateus Cirino
+
+Status atual: Em andamento
+Percentual de conclusão: 99.6%
+Data de início: 04/01/2024
+Data de término planejada: 25/11/2024
+Data de término real/prevista: 10/11/2024
+Atraso atual: 231 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 0.98
+Valor Planejado (PV): R$ 2321230.00
+Valor Agregado (EV): R$ 2312938.19
+
+Tarefas críticas:
+- Configuração da infraestrutura
+- Desenvolvimento do painel administrativo
+- Testes de segurança
+- Testes de segurança
+- Configuração do ambiente de produção
+- Implementação do sistema de backup
+- Implementação do módulo de relatórios
+- Implementação da API REST
+
+Tarefas atrasadas:

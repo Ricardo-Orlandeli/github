@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A possibilidade de inovar com força total (PROJ-0108)
+Data: 14/07/2025
+Gerente: Dra. Alícia Casa Grande
+
+Orçamento inicial: R$ 3239294.00
+Custo real atual: R$ 2278204.88
+Desvio orçamentário: -29.67%
+Índice de Desempenho de Custo (CPI): 0.98
+Valor Agregado (EV): R$ 2239820.14
+Estimativa para conclusão: R$ 1016602.26
+Estimativa no término (EAC): R$ 3294807.14
+Variação no término (VAC): R$ -55513.14
+
+Detalhamento por categoria:
+- Pessoal: R$ 1153980.53 (50.7%)
+- Equipamentos: R$ 269061.41 (11.8%)
+- Software: R$ 230006.71 (10.1%)
+- Serviços: R$ 424537.94 (18.6%)
+- Outros: R$ 200618.28 (8.8%)

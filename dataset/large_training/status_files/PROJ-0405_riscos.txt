@@ -1,0 +1,23 @@
+RELATÓRIO DE STATUS DE RISCOS
+Projeto: A segurança de avançar com força total (PROJ-0405)
+Data: 14/07/2025
+Gerente: Ana Júlia Camargo
+
+Riscos identificados:
+- R01: Resistência dos usuários à mudança
+  Probabilidade: 5/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Implementar redundância de infraestrutura
+
+- R02: Mudanças regulatórias
+  Probabilidade: 3/5, Impacto: 5/5, Nível: Médio
+  Mitigação: Testar compatibilidade em diferentes ambientes
+
+- R03: Dependências externas não cumpridas
+  Probabilidade: 4/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Gerenciar dependências ativamente
+
+- R04: Mudanças regulatórias
+  Probabilidade: 3/5, Impacto: 4/5, Nível: Médio
+  Mitigação: Implementar plano de contingência
+
+Riscos ocorridos:

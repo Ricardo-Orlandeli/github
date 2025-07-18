@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O poder de realizar seus sonhos com força total (PROJ-0981)
+Data: 14/07/2025
+Gerente: Pietra Santos
+
+Orçamento inicial: R$ 1197026.00
+Custo real atual: R$ 824578.34
+Desvio orçamentário: -31.11%
+Índice de Desempenho de Custo (CPI): 0.84
+Valor Agregado (EV): R$ 694344.97
+Estimativa para conclusão: R$ 596965.35
+Estimativa no término (EAC): R$ 1421543.70
+Variação no término (VAC): R$ -224517.70
+
+Detalhamento por categoria:
+- Pessoal: R$ 434856.84 (52.7%)
+- Equipamentos: R$ 102425.13 (12.4%)
+- Software: R$ 82958.38 (10.1%)
+- Serviços: R$ 142739.21 (17.3%)
+- Outros: R$ 61598.78 (7.5%)

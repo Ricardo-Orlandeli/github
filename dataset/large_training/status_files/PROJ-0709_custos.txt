@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A segurança de concretizar seus projetos mais facilmente (PROJ-0709)
+Data: 14/07/2025
+Gerente: Renan Rios
+
+Orçamento inicial: R$ 3332715.00
+Custo real atual: R$ 413311.61
+Desvio orçamentário: -19.20%
+Índice de Desempenho de Custo (CPI): 1.12
+Valor Agregado (EV): R$ 461340.69
+Estimativa para conclusão: R$ 2572442.37
+Estimativa no término (EAC): R$ 2985753.98
+Variação no término (VAC): R$ 346961.02
+
+Detalhamento por categoria:
+- Pessoal: R$ 195493.59 (47.3%)
+- Equipamentos: R$ 71541.18 (17.3%)
+- Software: R$ 67113.67 (16.2%)
+- Serviços: R$ 53835.60 (13.0%)
+- Outros: R$ 25327.56 (6.1%)

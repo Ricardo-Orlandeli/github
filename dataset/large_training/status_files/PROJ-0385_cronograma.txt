@@ -1,0 +1,26 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: O conforto de ganhar simplesmente (PROJ-0385)
+Data: 14/07/2025
+Gerente: Alana Cavalcanti
+
+Status atual: Em andamento
+Percentual de conclusão: 83.4%
+Data de início: 21/06/2024
+Data de término planejada: 28/05/2025
+Data de término real/prevista: 21/06/2025
+Atraso atual: 47 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.09
+Valor Planejado (PV): R$ 3311170.00
+Valor Agregado (EV): R$ 2762073.82
+
+Tarefas críticas:
+- Configuração da infraestrutura
+- Implementação do módulo de exportação de dados
+- Implementação do sistema de backup
+- Implementação do sistema de backup
+- Desenvolvimento do painel administrativo
+- Desenvolvimento da interface do usuário
+- Testes de segurança
+
+Tarefas atrasadas:

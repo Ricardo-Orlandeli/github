@@ -1,0 +1,23 @@
+RELATÓRIO DE STATUS DE RISCOS
+Projeto: O direito de ganhar simplesmente (PROJ-0833)
+Data: 14/07/2025
+Gerente: Igor Sales
+
+Riscos identificados:
+- R01: Indisponibilidade de recursos especializados
+  Probabilidade: 4/5, Impacto: 2/5, Nível: Médio
+  Mitigação: Testar compatibilidade em diferentes ambientes
+
+- R02: Dependências externas não cumpridas
+  Probabilidade: 2/5, Impacto: 5/5, Nível: Médio
+  Mitigação: Refinar estimativas com base em dados históricos
+
+- R03: Problemas de desempenho
+  Probabilidade: 3/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Realizar testes de integração antecipados
+
+Riscos ocorridos:
+- R01 (ocorrido em 28/06/2025)
+  Impacto real: Perda de dados
+  Ações tomadas: Contratação de recursos adicionais
+

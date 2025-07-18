@@ -1,0 +1,26 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: O direito de avançar naturalmente (PROJ-0916)
+Data: 14/07/2025
+Gerente: Sara Campos
+
+Status atual: Em andamento
+Percentual de conclusão: 92.1%
+Data de início: 07/08/2024
+Data de término planejada: 13/11/2024
+Data de término real/prevista: 27/11/2024
+Atraso atual: 243 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.08
+Valor Planejado (PV): R$ 4312953.00
+Valor Agregado (EV): R$ 3970545.79
+
+Tarefas críticas:
+- Implementação do módulo de análise de dados
+- Desenvolvimento da interface do usuário
+- Migração de dados legados
+- Migração de dados legados
+- Desenvolvimento do painel administrativo
+- Implementação do sistema de backup
+- Configuração do ambiente de produção
+
+Tarefas atrasadas:

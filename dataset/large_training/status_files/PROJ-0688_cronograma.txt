@@ -1,0 +1,28 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A liberdade de conseguir mais rapidamente (PROJ-0688)
+Data: 14/07/2025
+Gerente: Dom Dias
+
+Status atual: Atrasado
+Percentual de conclusão: 65.0%
+Data de início: 21/11/2024
+Data de término planejada: 16/07/2025
+Data de término real/prevista: 25/12/2025
+Atraso atual: 0 dias
+Motivo do atraso: Recursos insuficientes
+Índice de Desempenho de Cronograma (SPI): 0.66
+Valor Planejado (PV): R$ 1293343.82
+Valor Agregado (EV): R$ 847351.00
+
+Tarefas críticas:
+- Implementação do módulo de notificações
+- Implementação do módulo de relatórios
+- Configuração do ambiente de produção
+- Implementação do módulo de notificações
+- Configuração do ambiente de produção
+- Implementação do módulo de notificações
+- Implementação do sistema de backup
+
+Tarefas atrasadas:
+- Implementação do módulo de relatórios
+- Configuração do ambiente de produção

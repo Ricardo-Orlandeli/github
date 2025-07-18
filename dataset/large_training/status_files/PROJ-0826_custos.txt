@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A vantagem de evoluir sem preocupação (PROJ-0826)
+Data: 14/07/2025
+Gerente: Dr. Heitor Teixeira
+
+Orçamento inicial: R$ 3569625.00
+Custo real atual: R$ 3908878.73
+Desvio orçamentário: 9.50%
+Índice de Desempenho de Custo (CPI): 0.84
+Valor Agregado (EV): R$ 3288178.45
+Estimativa para conclusão: R$ 334574.43
+Estimativa no término (EAC): R$ 4243453.16
+Variação no término (VAC): R$ -673828.16
+
+Detalhamento por categoria:
+- Pessoal: R$ 1970895.73 (50.4%)
+- Equipamentos: R$ 686849.08 (17.6%)
+- Software: R$ 452321.34 (11.6%)
+- Serviços: R$ 491055.28 (12.6%)
+- Outros: R$ 307757.29 (7.9%)

@@ -1,0 +1,23 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A liberdade de inovar mais facilmente (PROJ-0848)
+Data: 14/07/2025
+Gerente: Isis Pinto
+
+Status atual: Em andamento
+Percentual de conclusão: 27.7%
+Data de início: 01/04/2025
+Data de término planejada: 08/02/2026
+Data de término real/prevista: 26/02/2026
+Atraso atual: 0 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.08
+Valor Planejado (PV): R$ 1515255.74
+Valor Agregado (EV): R$ 1261168.32
+
+Tarefas críticas:
+- Implementação da API REST
+- Implementação do módulo de relatórios
+- Configuração do ambiente de produção
+- Implementação do módulo de relatórios
+
+Tarefas atrasadas:

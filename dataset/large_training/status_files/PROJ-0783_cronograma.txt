@@ -1,0 +1,27 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: O poder de conseguir mais facilmente (PROJ-0783)
+Data: 14/07/2025
+Gerente: Dr. Anthony Gabriel Novais
+
+Status atual: Em andamento
+Percentual de conclusão: 92.0%
+Data de início: 06/10/2024
+Data de término planejada: 20/04/2025
+Data de término real/prevista: 17/05/2025
+Atraso atual: 85 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.11
+Valor Planejado (PV): R$ 4275185.00
+Valor Agregado (EV): R$ 3931197.62
+
+Tarefas críticas:
+- Configuração da infraestrutura
+- Desenvolvimento da interface do usuário
+- Desenvolvimento da interface do usuário
+- Configuração do ambiente de produção
+- Desenvolvimento da interface do usuário
+- Desenvolvimento da interface do usuário
+- Desenvolvimento do módulo de autenticação
+- Implementação do módulo de exportação de dados
+
+Tarefas atrasadas:

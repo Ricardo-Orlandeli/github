@@ -1,0 +1,21 @@
+RELATÓRIO DE STATUS DE ESCOPO
+Projeto: A simplicidade de inovar naturalmente (PROJ-0005)
+Data: 14/07/2025
+Gerente: Hadassa Guerra
+
+Escopo original: Sistema para a simplicidade de inovar naturalmente
+Houve mudança de escopo: Não
+Descrição das mudanças: N/A
+Impacto no cronograma: 0 dias
+Impacto no custo: R$ 0.00
+
+Solicitações de mudança:
+
+Requisitos atuais:
+- REQ-01: O sistema deve implementar criptografia de dados sensíveis
+- REQ-02: O sistema deve processar transações em menos de 2 seconds
+- REQ-03: O sistema deve registrar logs de auditoria
+- REQ-04: O sistema deve permitir autenticação de usuários
+- REQ-05: O sistema deve ser compatível com dispositivos móveis
+- REQ-06: O sistema deve implementar criptografia de dados sensíveis
+- REQ-07: O sistema deve registrar logs de auditoria

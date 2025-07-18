@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O direito de realizar seus sonhos com toda a tranquilidade (PROJ-0680)
+Data: 14/07/2025
+Gerente: Sra. Maria Clara Monteiro
+
+Orçamento inicial: R$ 2256323.00
+Custo real atual: R$ 2050408.28
+Desvio orçamentário: -9.13%
+Índice de Desempenho de Custo (CPI): 1.08
+Valor Agregado (EV): R$ 2221066.29
+Estimativa para conclusão: R$ 32547.72
+Estimativa no término (EAC): R$ 2082956.01
+Variação no término (VAC): R$ 173366.99
+
+Detalhamento por categoria:
+- Pessoal: R$ 1077015.01 (52.5%)
+- Equipamentos: R$ 262997.73 (12.8%)
+- Software: R$ 142885.40 (7.0%)
+- Serviços: R$ 389785.35 (19.0%)
+- Outros: R$ 177724.79 (8.7%)

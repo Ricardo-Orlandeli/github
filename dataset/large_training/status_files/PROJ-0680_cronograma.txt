@@ -1,0 +1,26 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: O direito de realizar seus sonhos com toda a tranquilidade (PROJ-0680)
+Data: 14/07/2025
+Gerente: Sra. Maria Clara Monteiro
+
+Status atual: Em andamento
+Percentual de conclusão: 98.4%
+Data de início: 22/07/2023
+Data de término planejada: 18/11/2023
+Data de término real/prevista: 01/12/2023
+Atraso atual: 604 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.01
+Valor Planejado (PV): R$ 2256323.00
+Valor Agregado (EV): R$ 2221066.29
+
+Tarefas críticas:
+- Implementação do módulo de notificações
+- Configuração do ambiente de produção
+- Configuração da infraestrutura
+- Desenvolvimento do módulo de autenticação
+- Testes de aceitação do usuário
+- Desenvolvimento do módulo de autenticação
+- Integração com sistema de pagamentos
+
+Tarefas atrasadas:

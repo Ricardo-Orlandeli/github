@@ -1,0 +1,25 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: O conforto de evoluir sem preocupação (PROJ-0039)
+Data: 14/07/2025
+Gerente: Srta. Emanuella Leão
+
+Status atual: Atrasado
+Percentual de conclusão: 54.7%
+Data de início: 06/02/2025
+Data de término planejada: 05/10/2025
+Data de término real/prevista: 30/12/2025
+Atraso atual: 0 dias
+Motivo do atraso: Estimativas imprecisas
+Índice de Desempenho de Cronograma (SPI): 0.83
+Valor Planejado (PV): R$ 340878.77
+Valor Agregado (EV): R$ 284307.31
+
+Tarefas críticas:
+- Configuração do ambiente de produção
+- Implementação do sistema de backup
+- Implementação do módulo de exportação de dados
+
+Tarefas atrasadas:
+- Implementação do sistema de backup
+- Configuração do ambiente de produção
+- Implementação do módulo de exportação de dados

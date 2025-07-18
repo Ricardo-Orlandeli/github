@@ -1,0 +1,31 @@
+RELATÓRIO DE STATUS DE RISCOS
+Projeto: A certeza de inovar com força total (PROJ-0287)
+Data: 14/07/2025
+Gerente: Maria Alice Carvalho
+
+Riscos identificados:
+- R01: Atraso na entrega de componentes críticos
+  Probabilidade: 1/5, Impacto: 5/5, Nível: Baixo
+  Mitigação: Fortalecer medidas de segurança
+
+- R02: Problemas de integração com sistemas legados
+  Probabilidade: 1/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Realizar testes de aceitação com usuários-chave
+
+- R03: Resistência dos usuários à mudança
+  Probabilidade: 4/5, Impacto: 3/5, Nível: Médio
+  Mitigação: Fortalecer medidas de segurança
+
+- R04: Rotatividade de pessoal-chave
+  Probabilidade: 5/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Estabelecer canais de comunicação claros
+
+- R05: Problemas de comunicação com stakeholders
+  Probabilidade: 3/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Buscar fornecedores alternativos
+
+- R06: Dependências externas não cumpridas
+  Probabilidade: 4/5, Impacto: 3/5, Nível: Médio
+  Mitigação: Implementar plano de contingência
+
+Riscos ocorridos:

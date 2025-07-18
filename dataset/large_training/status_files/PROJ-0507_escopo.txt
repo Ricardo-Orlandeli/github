@@ -1,0 +1,24 @@
+RELATÓRIO DE STATUS DE ESCOPO
+Projeto: A liberdade de atingir seus objetivos com toda a tranquilidade (PROJ-0507)
+Data: 14/07/2025
+Gerente: Maria Clara Montenegro
+
+Escopo original: Sistema para a liberdade de atingir seus objetivos com toda a tranquilidade
+Houve mudança de escopo: Sim
+Descrição das mudanças: Redução do escopo devido a restrições orçamentárias
+Impacto no cronograma: 26 dias
+Impacto no custo: R$ 104145.79
+
+Solicitações de mudança:
+- SCM-01: Implementação de módulo de exportação de dados
+- SCM-02: Alteração na interface do usuário
+
+Requisitos atuais:
+- REQ-01: O sistema deve ter documentação completa
+- REQ-02: O sistema deve permitir autenticação de usuários
+- REQ-03: O sistema deve ter controle de acesso baseado em perfis
+- REQ-04: O sistema deve ser compatível com dispositivos móveis
+- REQ-05: O sistema deve ser compatível com dispositivos móveis
+- REQ-06: O sistema deve registrar logs de auditoria
+- REQ-07: O sistema deve ter controle de acesso baseado em perfis
+- REQ-08: O sistema deve passar por testes de segurança

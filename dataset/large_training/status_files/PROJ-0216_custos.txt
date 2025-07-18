@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A arte de realizar seus sonhos com toda a tranquilidade (PROJ-0216)
+Data: 14/07/2025
+Gerente: Lorenzo Cavalcante
+
+Orçamento inicial: R$ 1196034.00
+Custo real atual: R$ 1247094.58
+Desvio orçamentário: 4.27%
+Índice de Desempenho de Custo (CPI): 0.72
+Valor Agregado (EV): R$ 896725.48
+Estimativa para conclusão: R$ 416254.52
+Estimativa no término (EAC): R$ 1663349.09
+Variação no término (VAC): R$ -467315.09
+
+Detalhamento por categoria:
+- Pessoal: R$ 710633.31 (57.0%)
+- Equipamentos: R$ 155152.91 (12.4%)
+- Software: R$ 93917.85 (7.5%)
+- Serviços: R$ 170114.23 (13.6%)
+- Outros: R$ 117276.26 (9.4%)

@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A certeza de avançar mais facilmente (PROJ-0027)
+Data: 14/07/2025
+Gerente: Luísa Cardoso
+
+Orçamento inicial: R$ 1366402.00
+Custo real atual: R$ 1557067.32
+Desvio orçamentário: 13.95%
+Índice de Desempenho de Custo (CPI): 0.88
+Valor Agregado (EV): R$ 1366402.00
+Estimativa para conclusão: R$ 0.00
+Estimativa no término (EAC): R$ 1557067.32
+Variação no término (VAC): R$ -190665.32
+
+Detalhamento por categoria:
+- Pessoal: R$ 890785.72 (57.2%)
+- Equipamentos: R$ 166841.39 (10.7%)
+- Software: R$ 153924.34 (9.9%)
+- Serviços: R$ 192612.16 (12.4%)
+- Outros: R$ 152903.70 (9.8%)

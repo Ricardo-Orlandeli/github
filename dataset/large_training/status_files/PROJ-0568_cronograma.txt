@@ -1,0 +1,22 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: O conforto de atingir seus objetivos com toda a tranquilidade (PROJ-0568)
+Data: 14/07/2025
+Gerente: Hadassa Costela
+
+Status atual: Em andamento
+Percentual de conclusão: 99.9%
+Data de início: 17/10/2023
+Data de término planejada: 20/05/2024
+Data de término real/prevista: 08/05/2024
+Atraso atual: 420 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 0.98
+Valor Planejado (PV): R$ 2015497.00
+Valor Agregado (EV): R$ 2013481.50
+
+Tarefas críticas:
+- Implementação do módulo de notificações
+- Configuração do ambiente de produção
+- Implementação do módulo de relatórios
+
+Tarefas atrasadas:

@@ -1,0 +1,51 @@
+RELATÓRIO DE STATUS DE RISCOS
+Projeto: A liberdade de concretizar seus projetos naturalmente (PROJ-0812)
+Data: 14/07/2025
+Gerente: Sr. Caio Melo
+
+Riscos identificados:
+- R01: Problemas de integração com sistemas legados
+  Probabilidade: 5/5, Impacto: 5/5, Nível: Alto
+  Mitigação: Melhorar a documentação de requisitos
+
+- R02: Requisitos mal definidos
+  Probabilidade: 3/5, Impacto: 4/5, Nível: Médio
+  Mitigação: Gerenciar dependências ativamente
+
+- R03: Dependências externas não cumpridas
+  Probabilidade: 4/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Fortalecer medidas de segurança
+
+- R04: Falhas em testes de aceitação
+  Probabilidade: 1/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Comunicar benefícios da mudança
+
+- R05: Requisitos mal definidos
+  Probabilidade: 2/5, Impacto: 3/5, Nível: Baixo
+  Mitigação: Contratar pessoal adicional
+
+- R06: Problemas de comunicação com stakeholders
+  Probabilidade: 2/5, Impacto: 4/5, Nível: Médio
+  Mitigação: Testar compatibilidade em diferentes ambientes
+
+- R07: Problemas de integração com sistemas legados
+  Probabilidade: 3/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Buscar fornecedores alternativos
+
+- R08: Falhas de infraestrutura
+  Probabilidade: 1/5, Impacto: 3/5, Nível: Baixo
+  Mitigação: Melhorar a documentação de requisitos
+
+- R09: Atraso na entrega de componentes críticos
+  Probabilidade: 4/5, Impacto: 3/5, Nível: Médio
+  Mitigação: Comunicar benefícios da mudança
+
+- R10: Resistência dos usuários à mudança
+  Probabilidade: 2/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Implementar redundância de infraestrutura
+
+Riscos ocorridos:
+- R05 (ocorrido em 20/02/2025)
+  Impacto real: Problemas de qualidade
+  Ações tomadas: Ajuste no cronograma
+

@@ -1,0 +1,26 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A simplicidade de realizar seus sonhos naturalmente (PROJ-0297)
+Data: 14/07/2025
+Gerente: Clara Cavalcanti
+
+Status atual: Concluído
+Percentual de conclusão: 100.0%
+Data de início: 05/07/2025
+Data de término planejada: 21/02/2026
+Data de término real/prevista: 17/03/2026
+Atraso atual: 0 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.07
+Valor Planejado (PV): R$ 141504.94
+Valor Agregado (EV): R$ 3631960.00
+
+Tarefas críticas:
+- Implementação do módulo de exportação de dados
+- Configuração do ambiente de produção
+- Implementação do módulo de relatórios
+- Migração de dados legados
+- Migração de dados legados
+- Desenvolvimento do painel administrativo
+- Implementação da API REST
+
+Tarefas atrasadas:

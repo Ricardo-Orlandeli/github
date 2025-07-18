@@ -1,0 +1,24 @@
+RELATÓRIO DE STATUS DE ESCOPO
+Projeto: O conforto de conseguir com força total (PROJ-0986)
+Data: 14/07/2025
+Gerente: Rafael Dias
+
+Escopo original: Sistema para o conforto de conseguir com força total
+Houve mudança de escopo: Sim
+Descrição das mudanças: Alteração nas especificações técnicas
+Impacto no cronograma: 54 dias
+Impacto no custo: R$ 645813.02
+
+Solicitações de mudança:
+- SCM-01: Integração com sistema legado
+- SCM-02: Alteração nos requisitos de desempenho
+- SCM-03: Mudança na arquitetura do sistema
+- SCM-04: Integração com sistema legado
+- SCM-05: Adição de funcionalidade de autenticação biométrica
+
+Requisitos atuais:
+- REQ-01: O sistema deve registrar logs de auditoria
+- REQ-02: O sistema deve registrar logs de auditoria
+- REQ-03: O sistema deve permitir exportação de dados em formato CSV
+- REQ-04: O sistema deve ter controle de acesso baseado em perfis
+- REQ-05: O sistema deve ser compatível com navegadores modernos

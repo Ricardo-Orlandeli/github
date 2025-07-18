@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A vantagem de evoluir mais rapidamente (PROJ-0348)
+Data: 14/07/2025
+Gerente: Thomas Pimenta
+
+Orçamento inicial: R$ 2264760.00
+Custo real atual: R$ 2342749.77
+Desvio orçamentário: 3.44%
+Índice de Desempenho de Custo (CPI): 0.97
+Valor Agregado (EV): R$ 2262495.24
+Estimativa para conclusão: R$ 2345.09
+Estimativa no término (EAC): R$ 2345094.87
+Variação no término (VAC): R$ -80334.87
+
+Detalhamento por categoria:
+- Pessoal: R$ 1172991.80 (50.1%)
+- Equipamentos: R$ 444981.13 (19.0%)
+- Software: R$ 309089.62 (13.2%)
+- Serviços: R$ 287402.43 (12.3%)
+- Outros: R$ 128284.79 (5.5%)

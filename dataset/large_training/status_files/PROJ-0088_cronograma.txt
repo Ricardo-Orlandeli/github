@@ -1,0 +1,25 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: O prazer de mudar mais facilmente (PROJ-0088)
+Data: 14/07/2025
+Gerente: Gabrielly Macedo
+
+Status atual: Atrasado
+Percentual de conclusão: 59.1%
+Data de início: 17/11/2024
+Data de término planejada: 13/01/2025
+Data de término real/prevista: 30/06/2025
+Atraso atual: 182 dias
+Motivo do atraso: Rotatividade de pessoal-chave
+Índice de Desempenho de Cronograma (SPI): 0.59
+Valor Planejado (PV): R$ 4153470.00
+Valor Agregado (EV): R$ 2456508.38
+
+Tarefas críticas:
+- Migração de dados legados
+- Configuração da infraestrutura
+- Configuração da infraestrutura
+
+Tarefas atrasadas:
+- Configuração da infraestrutura
+- Migração de dados legados
+- Configuração da infraestrutura

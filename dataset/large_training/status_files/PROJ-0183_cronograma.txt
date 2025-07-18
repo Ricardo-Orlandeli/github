@@ -1,0 +1,27 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A certeza de inovar com confiança (PROJ-0183)
+Data: 14/07/2025
+Gerente: Kevin Macedo
+
+Status atual: Em andamento
+Percentual de conclusão: 99.9%
+Data de início: 12/02/2024
+Data de término planejada: 12/08/2024
+Data de término real/prevista: 30/07/2024
+Atraso atual: 336 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 0.87
+Valor Planejado (PV): R$ 4916183.00
+Valor Agregado (EV): R$ 4911266.82
+
+Tarefas críticas:
+- Testes de segurança
+- Configuração do ambiente de produção
+- Desenvolvimento do painel administrativo
+- Configuração da infraestrutura
+- Testes de segurança
+- Desenvolvimento da interface do usuário
+- Testes de segurança
+- Implementação do módulo de análise de dados
+
+Tarefas atrasadas:

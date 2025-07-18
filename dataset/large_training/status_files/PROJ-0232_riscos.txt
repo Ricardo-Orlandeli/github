@@ -1,0 +1,31 @@
+RELATÓRIO DE STATUS DE RISCOS
+Projeto: O poder de mudar simplesmente (PROJ-0232)
+Data: 14/07/2025
+Gerente: Léo Aragão
+
+Riscos identificados:
+- R01: Indisponibilidade de recursos especializados
+  Probabilidade: 2/5, Impacto: 3/5, Nível: Baixo
+  Mitigação: Buscar fornecedores alternativos
+
+- R02: Resistência dos usuários à mudança
+  Probabilidade: 4/5, Impacto: 2/5, Nível: Médio
+  Mitigação: Buscar fornecedores alternativos
+
+- R03: Rotatividade de pessoal-chave
+  Probabilidade: 5/5, Impacto: 5/5, Nível: Alto
+  Mitigação: Comunicar benefícios da mudança
+
+- R04: Falhas de segurança
+  Probabilidade: 2/5, Impacto: 5/5, Nível: Médio
+  Mitigação: Estabelecer canais de comunicação claros
+
+- R05: Problemas de compatibilidade
+  Probabilidade: 2/5, Impacto: 5/5, Nível: Médio
+  Mitigação: Refinar estimativas com base em dados históricos
+
+- R06: Resistência dos usuários à mudança
+  Probabilidade: 4/5, Impacto: 3/5, Nível: Médio
+  Mitigação: Refinar estimativas com base em dados históricos
+
+Riscos ocorridos:

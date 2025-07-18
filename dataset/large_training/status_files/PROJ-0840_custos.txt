@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O prazer de avançar com confiança (PROJ-0840)
+Data: 14/07/2025
+Gerente: Giovanna Almeida
+
+Orçamento inicial: R$ 2504734.00
+Custo real atual: R$ 1963353.63
+Desvio orçamentário: -21.61%
+Índice de Desempenho de Custo (CPI): 1.03
+Valor Agregado (EV): R$ 2027039.01
+Estimativa para conclusão: R$ 462686.80
+Estimativa no término (EAC): R$ 2426040.43
+Variação no término (VAC): R$ 78693.57
+
+Detalhamento por categoria:
+- Pessoal: R$ 1019531.94 (51.9%)
+- Equipamentos: R$ 274237.44 (14.0%)
+- Software: R$ 202449.35 (10.3%)
+- Serviços: R$ 306136.56 (15.6%)
+- Outros: R$ 160998.34 (8.2%)

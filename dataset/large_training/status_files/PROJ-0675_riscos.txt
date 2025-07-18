@@ -1,0 +1,51 @@
+RELATÓRIO DE STATUS DE RISCOS
+Projeto: O direito de concretizar seus projetos mais facilmente (PROJ-0675)
+Data: 14/07/2025
+Gerente: Dra. Marcela Rocha
+
+Riscos identificados:
+- R01: Falhas de infraestrutura
+  Probabilidade: 5/5, Impacto: 3/5, Nível: Médio
+  Mitigação: Comunicar benefícios da mudança
+
+- R02: Mudanças regulatórias
+  Probabilidade: 3/5, Impacto: 5/5, Nível: Médio
+  Mitigação: Gerenciar dependências ativamente
+
+- R03: Problemas de integração com sistemas legados
+  Probabilidade: 2/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Comunicar benefícios da mudança
+
+- R04: Falhas de segurança
+  Probabilidade: 4/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Implementar redundância de infraestrutura
+
+- R05: Problemas de comunicação com stakeholders
+  Probabilidade: 2/5, Impacto: 3/5, Nível: Baixo
+  Mitigação: Contratar pessoal adicional
+
+- R06: Falhas em testes de aceitação
+  Probabilidade: 3/5, Impacto: 5/5, Nível: Médio
+  Mitigação: Implementar plano de contingência
+
+- R07: Resistência dos usuários à mudança
+  Probabilidade: 5/5, Impacto: 4/5, Nível: Alto
+  Mitigação: Realizar testes de aceitação com usuários-chave
+
+- R08: Problemas de integração com sistemas legados
+  Probabilidade: 2/5, Impacto: 2/5, Nível: Baixo
+  Mitigação: Buscar fornecedores alternativos
+
+Riscos ocorridos:
+- R02 (ocorrido em 22/08/2024)
+  Impacto real: Aumento de 10% nos custos
+  Ações tomadas: Revisão de processos
+
+- R03 (ocorrido em 28/05/2024)
+  Impacto real: Falhas de segurança
+  Ações tomadas: Comunicação intensificada com stakeholders
+
+- R05 (ocorrido em 23/05/2025)
+  Impacto real: Retrabalho significativo
+  Ações tomadas: Comunicação intensificada com stakeholders
+

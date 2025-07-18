@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A possibilidade de evoluir em estado puro (PROJ-0321)
+Data: 14/07/2025
+Gerente: Luna Garcia
+
+Orçamento inicial: R$ 4302250.00
+Custo real atual: R$ 4577340.25
+Desvio orçamentário: 6.39%
+Índice de Desempenho de Custo (CPI): 0.86
+Valor Agregado (EV): R$ 3923974.58
+Estimativa para conclusão: R$ 441260.59
+Estimativa no término (EAC): R$ 5018600.83
+Variação no término (VAC): R$ -716350.83
+
+Detalhamento por categoria:
+- Pessoal: R$ 2620197.20 (57.2%)
+- Equipamentos: R$ 768430.19 (16.8%)
+- Software: R$ 244312.94 (5.3%)
+- Serviços: R$ 632365.93 (13.8%)
+- Outros: R$ 312033.99 (6.8%)

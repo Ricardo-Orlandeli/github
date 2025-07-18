@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A vantagem de atingir seus objetivos simplesmente (PROJ-0973)
+Data: 14/07/2025
+Gerente: José Pedro Caldeira
+
+Orçamento inicial: R$ 1309905.00
+Custo real atual: R$ 1181982.14
+Desvio orçamentário: -9.77%
+Índice de Desempenho de Custo (CPI): 1.04
+Valor Agregado (EV): R$ 1228105.69
+Estimativa para conclusão: R$ 78727.20
+Estimativa no término (EAC): R$ 1260709.35
+Variação no término (VAC): R$ 49195.65
+
+Detalhamento por categoria:
+- Pessoal: R$ 548272.59 (46.4%)
+- Equipamentos: R$ 120532.11 (10.2%)
+- Software: R$ 177673.04 (15.0%)
+- Serviços: R$ 227208.30 (19.2%)
+- Outros: R$ 108296.10 (9.2%)

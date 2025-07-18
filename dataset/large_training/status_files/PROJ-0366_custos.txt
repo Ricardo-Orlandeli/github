@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A simplicidade de realizar seus sonhos direto da fonte (PROJ-0366)
+Data: 14/07/2025
+Gerente: Francisco Vasconcelos
+
+Orçamento inicial: R$ 3338588.00
+Custo real atual: R$ 2298968.92
+Desvio orçamentário: -29.48%
+Índice de Desempenho de Custo (CPI): 1.20
+Valor Agregado (EV): R$ 2757571.53
+Estimativa para conclusão: R$ 484389.54
+Estimativa no término (EAC): R$ 2783358.46
+Variação no término (VAC): R$ 555229.54
+
+Detalhamento por categoria:
+- Pessoal: R$ 1277189.96 (55.6%)
+- Equipamentos: R$ 330103.58 (14.4%)
+- Software: R$ 201317.73 (8.8%)
+- Serviços: R$ 277157.04 (12.1%)
+- Outros: R$ 213200.60 (9.3%)

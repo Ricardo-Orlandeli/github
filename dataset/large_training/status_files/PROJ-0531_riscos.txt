@@ -1,0 +1,43 @@
+RELATÓRIO DE STATUS DE RISCOS
+Projeto: A segurança de realizar seus sonhos com força total (PROJ-0531)
+Data: 14/07/2025
+Gerente: Alice Martins
+
+Riscos identificados:
+- R01: Requisitos mal definidos
+  Probabilidade: 3/5, Impacto: 4/5, Nível: Médio
+  Mitigação: Refinar estimativas com base em dados históricos
+
+- R02: Dependências externas não cumpridas
+  Probabilidade: 3/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Otimizar código e infraestrutura
+
+- R03: Problemas de desempenho
+  Probabilidade: 1/5, Impacto: 4/5, Nível: Baixo
+  Mitigação: Testar compatibilidade em diferentes ambientes
+
+- R04: Problemas de compatibilidade
+  Probabilidade: 3/5, Impacto: 3/5, Nível: Médio
+  Mitigação: Fortalecer medidas de segurança
+
+- R05: Estimativas imprecisas
+  Probabilidade: 5/5, Impacto: 2/5, Nível: Médio
+  Mitigação: Gerenciar dependências ativamente
+
+- R06: Falhas de segurança
+  Probabilidade: 1/5, Impacto: 4/5, Nível: Baixo
+  Mitigação: Contratar pessoal adicional
+
+- R07: Problemas de compatibilidade
+  Probabilidade: 2/5, Impacto: 5/5, Nível: Médio
+  Mitigação: Melhorar a documentação de requisitos
+
+Riscos ocorridos:
+- R05 (ocorrido em 11/11/2023)
+  Impacto real: Retrabalho significativo
+  Ações tomadas: Ajuste no cronograma
+
+- R07 (ocorrido em 02/07/2025)
+  Impacto real: Indisponibilidade temporária
+  Ações tomadas: Comunicação intensificada com stakeholders
+

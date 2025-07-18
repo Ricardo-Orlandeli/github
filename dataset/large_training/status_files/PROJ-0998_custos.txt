@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O prazer de realizar seus sonhos com confiança (PROJ-0998)
+Data: 14/07/2025
+Gerente: Arthur Sá
+
+Orçamento inicial: R$ 1227576.00
+Custo real atual: R$ 1387755.58
+Desvio orçamentário: 13.05%
+Índice de Desempenho de Custo (CPI): 0.88
+Valor Agregado (EV): R$ 1227576.00
+Estimativa para conclusão: R$ 0.00
+Estimativa no término (EAC): R$ 1387755.58
+Variação no término (VAC): R$ -160179.58
+
+Detalhamento por categoria:
+- Pessoal: R$ 730262.36 (52.6%)
+- Equipamentos: R$ 186771.41 (13.5%)
+- Software: R$ 88712.00 (6.4%)
+- Serviços: R$ 246357.48 (17.8%)
+- Outros: R$ 135652.32 (9.8%)

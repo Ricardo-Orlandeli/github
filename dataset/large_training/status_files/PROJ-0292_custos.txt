@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A liberdade de mudar com força total (PROJ-0292)
+Data: 14/07/2025
+Gerente: Daniela Viana
+
+Orçamento inicial: R$ 3444802.00
+Custo real atual: R$ 3624745.33
+Desvio orçamentário: 5.22%
+Índice de Desempenho de Custo (CPI): 0.95
+Valor Agregado (EV): R$ 3444802.00
+Estimativa para conclusão: R$ 0.00
+Estimativa no término (EAC): R$ 3624745.33
+Variação no término (VAC): R$ -179943.33
+
+Detalhamento por categoria:
+- Pessoal: R$ 1944672.91 (53.6%)
+- Equipamentos: R$ 706650.82 (19.5%)
+- Software: R$ 261999.58 (7.2%)
+- Serviços: R$ 500863.41 (13.8%)
+- Outros: R$ 210558.61 (5.8%)

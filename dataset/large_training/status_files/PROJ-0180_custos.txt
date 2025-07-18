@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O direito de atingir seus objetivos em estado puro (PROJ-0180)
+Data: 14/07/2025
+Gerente: Sr. João Guilherme Marques
+
+Orçamento inicial: R$ 3019160.00
+Custo real atual: R$ 2174036.59
+Desvio orçamentário: -27.99%
+Índice de Desempenho de Custo (CPI): 0.69
+Valor Agregado (EV): R$ 1498557.08
+Estimativa para conclusão: R$ 2206019.67
+Estimativa no término (EAC): R$ 4380056.26
+Variação no término (VAC): R$ -1360896.26
+
+Detalhamento por categoria:
+- Pessoal: R$ 988605.19 (45.5%)
+- Equipamentos: R$ 330991.77 (15.2%)
+- Software: R$ 199220.17 (9.2%)
+- Serviços: R$ 431497.12 (19.8%)
+- Outros: R$ 223722.33 (10.3%)

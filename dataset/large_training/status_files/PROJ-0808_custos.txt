@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O poder de inovar mais facilmente (PROJ-0808)
+Data: 14/07/2025
+Gerente: Dr. Ravi Lucca Abreu
+
+Orçamento inicial: R$ 1569377.00
+Custo real atual: R$ 991991.18
+Desvio orçamentário: -36.79%
+Índice de Desempenho de Custo (CPI): 0.82
+Valor Agregado (EV): R$ 812547.68
+Estimativa para conclusão: R$ 923967.94
+Estimativa no término (EAC): R$ 1915959.12
+Variação no término (VAC): R$ -346582.12
+
+Detalhamento por categoria:
+- Pessoal: R$ 440450.36 (44.4%)
+- Equipamentos: R$ 200685.46 (20.2%)
+- Software: R$ 99707.62 (10.1%)
+- Serviços: R$ 156967.75 (15.8%)
+- Outros: R$ 94179.99 (9.5%)

@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A arte de atingir seus objetivos mais facilmente (PROJ-0514)
+Data: 14/07/2025
+Gerente: Isadora Marques
+
+Orçamento inicial: R$ 3123135.00
+Custo real atual: R$ 548527.73
+Desvio orçamentário: -82.44%
+Índice de Desempenho de Custo (CPI): 0.70
+Valor Agregado (EV): R$ 383859.38
+Estimativa para conclusão: R$ 3914372.56
+Estimativa no término (EAC): R$ 4462900.29
+Variação no término (VAC): R$ -1339765.29
+
+Detalhamento por categoria:
+- Pessoal: R$ 325411.12 (59.3%)
+- Equipamentos: R$ 79354.01 (14.5%)
+- Software: R$ 32311.70 (5.9%)
+- Serviços: R$ 64114.91 (11.7%)
+- Outros: R$ 47335.99 (8.6%)

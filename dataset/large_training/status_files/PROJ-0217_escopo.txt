@@ -1,0 +1,25 @@
+RELATÓRIO DE STATUS DE ESCOPO
+Projeto: A liberdade de evoluir em estado puro (PROJ-0217)
+Data: 14/07/2025
+Gerente: Nathan Garcia
+
+Escopo original: Sistema para a liberdade de evoluir em estado puro
+Houve mudança de escopo: Sim
+Descrição das mudanças: Expansão do escopo para incluir funcionalidades adicionais
+Impacto no cronograma: 9 dias
+Impacto no custo: R$ 14475.18
+
+Solicitações de mudança:
+- SCM-01: Mudança no banco de dados
+- SCM-02: Adição de relatórios gerenciais
+- SCM-03: Alteração na interface do usuário
+
+Requisitos atuais:
+- REQ-01: O sistema deve ter interface responsiva
+- REQ-02: O sistema deve passar por testes de segurança
+- REQ-03: O sistema deve ter alta disponibilidade (99.9%)
+- REQ-04: O sistema deve ter backup automático diário
+- REQ-05: O sistema deve ser escalável para suportar até 10.000 usuários simultâneos
+- REQ-06: O sistema deve processar transações em menos de 2 seconds
+- REQ-07: O sistema deve ter documentação completa
+- REQ-08: O sistema deve permitir integração com APIs externas

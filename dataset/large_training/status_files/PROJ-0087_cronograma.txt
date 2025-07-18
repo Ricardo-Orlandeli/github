@@ -1,0 +1,26 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A liberdade de inovar direto da fonte (PROJ-0087)
+Data: 14/07/2025
+Gerente: Dra. Joana da Rosa
+
+Status atual: Em andamento
+Percentual de conclusão: 99.9%
+Data de início: 13/01/2025
+Data de término planejada: 25/03/2025
+Data de término real/prevista: 17/04/2025
+Atraso atual: 111 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.04
+Valor Planejado (PV): R$ 3668752.00
+Valor Agregado (EV): R$ 3665083.25
+
+Tarefas críticas:
+- Integração com sistema de pagamentos
+- Configuração do ambiente de produção
+- Desenvolvimento da interface do usuário
+- Implementação do módulo de relatórios
+- Implementação do módulo de análise de dados
+- Testes de aceitação do usuário
+- Integração com sistema de pagamentos
+
+Tarefas atrasadas:

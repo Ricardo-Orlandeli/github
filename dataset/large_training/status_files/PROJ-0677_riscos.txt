@@ -1,0 +1,31 @@
+RELATÓRIO DE STATUS DE RISCOS
+Projeto: A certeza de mudar em estado puro (PROJ-0677)
+Data: 14/07/2025
+Gerente: Sr. Murilo Abreu
+
+Riscos identificados:
+- R01: Falhas de segurança
+  Probabilidade: 5/5, Impacto: 2/5, Nível: Médio
+  Mitigação: Implementar redundância de infraestrutura
+
+- R02: Resistência dos usuários à mudança
+  Probabilidade: 4/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Implementar plano de contingência
+
+- R03: Problemas de compatibilidade
+  Probabilidade: 3/5, Impacto: 2/5, Nível: Baixo
+  Mitigação: Comunicar benefícios da mudança
+
+Riscos ocorridos:
+- R01 (ocorrido em 16/03/2025)
+  Impacto real: Insatisfação dos stakeholders
+  Ações tomadas: Revisão de processos
+
+- R03 (ocorrido em 19/11/2024)
+  Impacto real: Aumento de 10% nos custos
+  Ações tomadas: Realocação de recursos
+
+- R02 (ocorrido em 28/04/2025)
+  Impacto real: Perda de recursos-chave
+  Ações tomadas: Realocação de recursos
+

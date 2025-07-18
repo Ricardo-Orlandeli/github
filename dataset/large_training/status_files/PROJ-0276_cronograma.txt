@@ -1,0 +1,28 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A certeza de avançar direto da fonte (PROJ-0276)
+Data: 14/07/2025
+Gerente: Matheus Carvalho
+
+Status atual: Atrasado
+Percentual de conclusão: 83.5%
+Data de início: 22/10/2023
+Data de término planejada: 30/05/2024
+Data de término real/prevista: 09/09/2024
+Atraso atual: 410 dias
+Motivo do atraso: Problemas técnicos inesperados
+Índice de Desempenho de Cronograma (SPI): 0.83
+Valor Planejado (PV): R$ 3680298.00
+Valor Agregado (EV): R$ 3071331.50
+
+Tarefas críticas:
+- Implementação do módulo de análise de dados
+- Desenvolvimento do módulo de autenticação
+- Configuração da infraestrutura
+- Configuração da infraestrutura
+- Testes de aceitação do usuário
+- Implementação do módulo de exportação de dados
+- Desenvolvimento do painel administrativo
+
+Tarefas atrasadas:
+- Testes de aceitação do usuário
+- Implementação do módulo de exportação de dados

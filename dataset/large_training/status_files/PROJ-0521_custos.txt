@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O prazer de evoluir mais rapidamente (PROJ-0521)
+Data: 14/07/2025
+Gerente: Maria Eduarda Martins
+
+Orçamento inicial: R$ 3219014.00
+Custo real atual: R$ 3611369.13
+Desvio orçamentário: 12.19%
+Índice de Desempenho de Custo (CPI): 0.89
+Valor Agregado (EV): R$ 3219014.00
+Estimativa para conclusão: R$ 0.00
+Estimativa no término (EAC): R$ 3611369.13
+Variação no término (VAC): R$ -392355.13
+
+Detalhamento por categoria:
+- Pessoal: R$ 2048693.68 (56.7%)
+- Equipamentos: R$ 522590.05 (14.5%)
+- Software: R$ 361154.13 (10.0%)
+- Serviços: R$ 404197.42 (11.2%)
+- Outros: R$ 274733.86 (7.6%)

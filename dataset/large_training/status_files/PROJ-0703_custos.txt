@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O direito de evoluir antes de tudo (PROJ-0703)
+Data: 14/07/2025
+Gerente: Sr. Rael Nunes
+
+Orçamento inicial: R$ 945733.00
+Custo real atual: R$ 16138.71
+Desvio orçamentário: -0.60%
+Índice de Desempenho de Custo (CPI): 0.91
+Valor Agregado (EV): R$ 14743.25
+Estimativa para conclusão: R$ 1019108.14
+Estimativa no término (EAC): R$ 1035246.85
+Variação no término (VAC): R$ -89513.85
+
+Detalhamento por categoria:
+- Pessoal: R$ 8226.15 (51.0%)
+- Equipamentos: R$ 2548.74 (15.8%)
+- Software: R$ 1359.60 (8.4%)
+- Serviços: R$ 2501.01 (15.5%)
+- Outros: R$ 1503.20 (9.3%)

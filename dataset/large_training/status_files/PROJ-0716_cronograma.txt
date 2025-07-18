@@ -1,0 +1,26 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A vantagem de conseguir antes de tudo (PROJ-0716)
+Data: 14/07/2025
+Gerente: Bárbara Pereira
+
+Status atual: Em andamento
+Percentual de conclusão: 78.8%
+Data de início: 31/12/2024
+Data de término planejada: 04/09/2025
+Data de término real/prevista: 26/08/2025
+Atraso atual: 0 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.11
+Valor Planejado (PV): R$ 3194706.32
+Valor Agregado (EV): R$ 3190005.33
+
+Tarefas críticas:
+- Implementação do sistema de backup
+- Migração de dados legados
+- Implementação do módulo de análise de dados
+- Migração de dados legados
+- Desenvolvimento do módulo de autenticação
+- Implementação da API REST
+- Implementação do módulo de análise de dados
+
+Tarefas atrasadas:

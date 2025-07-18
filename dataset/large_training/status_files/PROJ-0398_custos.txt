@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A segurança de conseguir direto da fonte (PROJ-0398)
+Data: 14/07/2025
+Gerente: Emanuelly Guerra
+
+Orçamento inicial: R$ 2018741.00
+Custo real atual: R$ 1931671.12
+Desvio orçamentário: -4.31%
+Índice de Desempenho de Custo (CPI): 1.05
+Valor Agregado (EV): R$ 2018741.00
+Estimativa para conclusão: R$ 0.00
+Estimativa no término (EAC): R$ 1931671.12
+Variação no término (VAC): R$ 87069.88
+
+Detalhamento por categoria:
+- Pessoal: R$ 1000773.25 (51.8%)
+- Equipamentos: R$ 207560.19 (10.7%)
+- Software: R$ 277984.59 (14.4%)
+- Serviços: R$ 322713.76 (16.7%)
+- Outros: R$ 122639.34 (6.3%)

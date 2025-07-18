@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O conforto de inovar com força total (PROJ-0879)
+Data: 14/07/2025
+Gerente: Amanda Pastor
+
+Orçamento inicial: R$ 1448602.00
+Custo real atual: R$ 808435.84
+Desvio orçamentário: -8.63%
+Índice de Desempenho de Custo (CPI): 1.23
+Valor Agregado (EV): R$ 991966.20
+Estimativa para conclusão: R$ 372150.53
+Estimativa no término (EAC): R$ 1180586.37
+Variação no término (VAC): R$ 268015.63
+
+Detalhamento por categoria:
+- Pessoal: R$ 404518.20 (50.0%)
+- Equipamentos: R$ 159387.40 (19.7%)
+- Software: R$ 68247.22 (8.4%)
+- Serviços: R$ 128967.12 (16.0%)
+- Outros: R$ 47315.89 (5.9%)

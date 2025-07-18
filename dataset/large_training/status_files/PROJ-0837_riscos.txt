@@ -1,0 +1,39 @@
+RELATÓRIO DE STATUS DE RISCOS
+Projeto: A certeza de conseguir com confiança (PROJ-0837)
+Data: 14/07/2025
+Gerente: Dr. Cauã Vieira
+
+Riscos identificados:
+- R01: Problemas de desempenho
+  Probabilidade: 1/5, Impacto: 3/5, Nível: Baixo
+  Mitigação: Monitorar mudanças regulatórias
+
+- R02: Problemas de comunicação com stakeholders
+  Probabilidade: 1/5, Impacto: 3/5, Nível: Baixo
+  Mitigação: Testar compatibilidade em diferentes ambientes
+
+- R03: Estimativas imprecisas
+  Probabilidade: 4/5, Impacto: 3/5, Nível: Médio
+  Mitigação: Realizar testes de aceitação com usuários-chave
+
+- R04: Problemas de compatibilidade
+  Probabilidade: 3/5, Impacto: 5/5, Nível: Médio
+  Mitigação: Monitorar mudanças regulatórias
+
+- R05: Atraso na entrega de componentes críticos
+  Probabilidade: 3/5, Impacto: 4/5, Nível: Médio
+  Mitigação: Implementar redundância de infraestrutura
+
+- R06: Indisponibilidade de recursos especializados
+  Probabilidade: 2/5, Impacto: 4/5, Nível: Médio
+  Mitigação: Refinar estimativas com base em dados históricos
+
+Riscos ocorridos:
+- R04 (ocorrido em 20/01/2025)
+  Impacto real: Aumento de 10% nos custos
+  Ações tomadas: Implementação de controles adicionais
+
+- R05 (ocorrido em 18/04/2025)
+  Impacto real: Atraso de 2 semanas no cronograma
+  Ações tomadas: Revisão de prioridades
+

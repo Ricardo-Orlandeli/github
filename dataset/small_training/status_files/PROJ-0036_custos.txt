@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A segurança de avançar simplesmente (PROJ-0036)
+Data: 14/07/2025
+Gerente: Dr. Valentim Marques
+
+Orçamento inicial: R$ 4041758.00
+Custo real atual: R$ 4115486.54
+Desvio orçamentário: 1.82%
+Índice de Desempenho de Custo (CPI): 0.98
+Valor Agregado (EV): R$ 4037716.24
+Estimativa para conclusão: R$ 4119.61
+Estimativa no término (EAC): R$ 4119606.15
+Variação no término (VAC): R$ -77848.15
+
+Detalhamento por categoria:
+- Pessoal: R$ 1987755.80 (48.3%)
+- Equipamentos: R$ 594410.23 (14.4%)
+- Software: R$ 496361.73 (12.1%)
+- Serviços: R$ 730133.77 (17.7%)
+- Outros: R$ 306825.01 (7.5%)

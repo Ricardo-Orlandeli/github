@@ -1,0 +1,43 @@
+RELATÓRIO DE STATUS DE RISCOS
+Projeto: O prazer de inovar com toda a tranquilidade (PROJ-0741)
+Data: 14/07/2025
+Gerente: João Guilherme Vieira
+
+Riscos identificados:
+- R01: Resistência dos usuários à mudança
+  Probabilidade: 1/5, Impacto: 3/5, Nível: Baixo
+  Mitigação: Fortalecer medidas de segurança
+
+- R02: Problemas de desempenho
+  Probabilidade: 2/5, Impacto: 3/5, Nível: Baixo
+  Mitigação: Contratar pessoal adicional
+
+- R03: Estimativas imprecisas
+  Probabilidade: 3/5, Impacto: 2/5, Nível: Baixo
+  Mitigação: Testar compatibilidade em diferentes ambientes
+
+- R04: Problemas de integração com sistemas legados
+  Probabilidade: 2/5, Impacto: 5/5, Nível: Médio
+  Mitigação: Contratar pessoal adicional
+
+- R05: Problemas de compatibilidade
+  Probabilidade: 1/5, Impacto: 3/5, Nível: Baixo
+  Mitigação: Gerenciar dependências ativamente
+
+- R06: Falhas em testes de aceitação
+  Probabilidade: 2/5, Impacto: 3/5, Nível: Baixo
+  Mitigação: Implementar plano de contingência
+
+Riscos ocorridos:
+- R06 (ocorrido em 20/03/2025)
+  Impacto real: Atraso de 2 semanas no cronograma
+  Ações tomadas: Implementação de soluções alternativas
+
+- R04 (ocorrido em 01/05/2025)
+  Impacto real: Aumento de 10% nos custos
+  Ações tomadas: Comunicação intensificada com stakeholders
+
+- R01 (ocorrido em 02/05/2025)
+  Impacto real: Retrabalho significativo
+  Ações tomadas: Revisão do orçamento
+

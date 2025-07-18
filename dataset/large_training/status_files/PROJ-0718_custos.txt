@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A certeza de mudar com toda a tranquilidade (PROJ-0718)
+Data: 14/07/2025
+Gerente: Alana Correia
+
+Orçamento inicial: R$ 3072322.00
+Custo real atual: R$ 2542960.15
+Desvio orçamentário: -17.23%
+Índice de Desempenho de Custo (CPI): 1.21
+Valor Agregado (EV): R$ 3069249.68
+Estimativa para conclusão: R$ 2545.51
+Estimativa no término (EAC): R$ 2545505.65
+Variação no término (VAC): R$ 526816.35
+
+Detalhamento por categoria:
+- Pessoal: R$ 1066781.17 (42.0%)
+- Equipamentos: R$ 480067.18 (18.9%)
+- Software: R$ 333288.01 (13.1%)
+- Serviços: R$ 427024.78 (16.8%)
+- Outros: R$ 235799.00 (9.3%)

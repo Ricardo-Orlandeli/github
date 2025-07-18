@@ -1,0 +1,55 @@
+RELATÓRIO DE STATUS DE RISCOS
+Projeto: A simplicidade de conseguir de maneira eficaz (PROJ-0041)
+Data: 14/07/2025
+Gerente: Rafael Cardoso
+
+Riscos identificados:
+- R01: Dependências externas não cumpridas
+  Probabilidade: 1/5, Impacto: 2/5, Nível: Baixo
+  Mitigação: Gerenciar dependências ativamente
+
+- R02: Falhas em testes de aceitação
+  Probabilidade: 5/5, Impacto: 3/5, Nível: Médio
+  Mitigação: Comunicar benefícios da mudança
+
+- R03: Problemas de comunicação com stakeholders
+  Probabilidade: 1/5, Impacto: 5/5, Nível: Baixo
+  Mitigação: Testar compatibilidade em diferentes ambientes
+
+- R04: Falhas em testes de aceitação
+  Probabilidade: 1/5, Impacto: 2/5, Nível: Baixo
+  Mitigação: Implementar redundância de infraestrutura
+
+- R05: Estimativas imprecisas
+  Probabilidade: 1/5, Impacto: 5/5, Nível: Baixo
+  Mitigação: Testar compatibilidade em diferentes ambientes
+
+- R06: Atraso na entrega de componentes críticos
+  Probabilidade: 3/5, Impacto: 5/5, Nível: Médio
+  Mitigação: Estabelecer canais de comunicação claros
+
+- R07: Estimativas imprecisas
+  Probabilidade: 3/5, Impacto: 5/5, Nível: Médio
+  Mitigação: Implementar plano de contingência
+
+- R08: Resistência dos usuários à mudança
+  Probabilidade: 4/5, Impacto: 4/5, Nível: Alto
+  Mitigação: Estabelecer canais de comunicação claros
+
+- R09: Dependências externas não cumpridas
+  Probabilidade: 4/5, Impacto: 5/5, Nível: Alto
+  Mitigação: Buscar fornecedores alternativos
+
+- R10: Estimativas imprecisas
+  Probabilidade: 4/5, Impacto: 3/5, Nível: Médio
+  Mitigação: Fortalecer medidas de segurança
+
+Riscos ocorridos:
+- R02 (ocorrido em 06/05/2025)
+  Impacto real: Perda de recursos-chave
+  Ações tomadas: Revisão de processos
+
+- R05 (ocorrido em 17/06/2025)
+  Impacto real: Indisponibilidade temporária
+  Ações tomadas: Revisão do orçamento
+

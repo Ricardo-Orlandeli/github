@@ -1,0 +1,51 @@
+RELATÓRIO DE STATUS DE RISCOS
+Projeto: A segurança de realizar seus sonhos em estado puro (PROJ-0608)
+Data: 14/07/2025
+Gerente: Valentim Fernandes
+
+Riscos identificados:
+- R01: Problemas de desempenho
+  Probabilidade: 5/5, Impacto: 2/5, Nível: Médio
+  Mitigação: Fortalecer medidas de segurança
+
+- R02: Falhas de infraestrutura
+  Probabilidade: 2/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Realizar testes de aceitação com usuários-chave
+
+- R03: Rotatividade de pessoal-chave
+  Probabilidade: 1/5, Impacto: 2/5, Nível: Baixo
+  Mitigação: Contratar pessoal adicional
+
+- R04: Falhas em testes de aceitação
+  Probabilidade: 2/5, Impacto: 5/5, Nível: Médio
+  Mitigação: Estabelecer canais de comunicação claros
+
+- R05: Requisitos mal definidos
+  Probabilidade: 1/5, Impacto: 2/5, Nível: Baixo
+  Mitigação: Refinar estimativas com base em dados históricos
+
+- R06: Resistência dos usuários à mudança
+  Probabilidade: 4/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Realizar testes de integração antecipados
+
+- R07: Dependências externas não cumpridas
+  Probabilidade: 5/5, Impacto: 4/5, Nível: Alto
+  Mitigação: Contratar pessoal adicional
+
+- R08: Estimativas imprecisas
+  Probabilidade: 3/5, Impacto: 2/5, Nível: Baixo
+  Mitigação: Gerenciar dependências ativamente
+
+- R09: Falhas em testes de aceitação
+  Probabilidade: 3/5, Impacto: 5/5, Nível: Médio
+  Mitigação: Contratar pessoal adicional
+
+- R10: Requisitos mal definidos
+  Probabilidade: 2/5, Impacto: 3/5, Nível: Baixo
+  Mitigação: Implementar redundância de infraestrutura
+
+Riscos ocorridos:
+- R07 (ocorrido em 13/03/2025)
+  Impacto real: Falhas de segurança
+  Ações tomadas: Revisão do orçamento
+

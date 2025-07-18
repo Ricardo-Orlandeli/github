@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A vantagem de conseguir mais facilmente (PROJ-0473)
+Data: 14/07/2025
+Gerente: Sr. Ravi Lucca da Costa
+
+Orçamento inicial: R$ 1087441.00
+Custo real atual: R$ 668922.72
+Desvio orçamentário: 5.84%
+Índice de Desempenho de Custo (CPI): 0.77
+Valor Agregado (EV): R$ 511793.91
+Estimativa para conclusão: R$ 752379.83
+Estimativa no término (EAC): R$ 1421302.56
+Variação no término (VAC): R$ -333861.56
+
+Detalhamento por categoria:
+- Pessoal: R$ 366068.50 (54.7%)
+- Equipamentos: R$ 113567.15 (17.0%)
+- Software: R$ 36879.65 (5.5%)
+- Serviços: R$ 111399.37 (16.7%)
+- Outros: R$ 41008.06 (6.1%)

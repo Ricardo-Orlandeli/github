@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A liberdade de concretizar seus projetos com toda a tranquilidade (PROJ-0104)
+Data: 14/07/2025
+Gerente: Vitória Aparecida
+
+Orçamento inicial: R$ 3568542.00
+Custo real atual: R$ 3122376.25
+Desvio orçamentário: 133.33%
+Índice de Desempenho de Custo (CPI): 1.14
+Valor Agregado (EV): R$ 3568542.00
+Estimativa para conclusão: R$ 0.00
+Estimativa no término (EAC): R$ 3122376.25
+Variação no término (VAC): R$ 446165.75
+
+Detalhamento por categoria:
+- Pessoal: R$ 1549113.15 (49.6%)
+- Equipamentos: R$ 632949.73 (20.3%)
+- Software: R$ 371099.15 (11.9%)
+- Serviços: R$ 375851.37 (12.0%)
+- Outros: R$ 193362.86 (6.2%)

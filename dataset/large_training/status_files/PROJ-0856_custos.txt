@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A arte de conseguir simplesmente (PROJ-0856)
+Data: 14/07/2025
+Gerente: Maria Alice Marques
+
+Orçamento inicial: R$ 4766533.00
+Custo real atual: R$ 3597635.45
+Desvio orçamentário: -24.52%
+Índice de Desempenho de Custo (CPI): 1.09
+Valor Agregado (EV): R$ 3931426.29
+Estimativa para conclusão: R$ 764203.44
+Estimativa no término (EAC): R$ 4361838.89
+Variação no término (VAC): R$ 404694.11
+
+Detalhamento por categoria:
+- Pessoal: R$ 1738273.90 (48.3%)
+- Equipamentos: R$ 480208.09 (13.3%)
+- Software: R$ 459095.35 (12.8%)
+- Serviços: R$ 699043.08 (19.4%)
+- Outros: R$ 221015.03 (6.1%)

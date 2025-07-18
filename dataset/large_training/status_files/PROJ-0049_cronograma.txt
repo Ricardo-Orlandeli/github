@@ -1,0 +1,23 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A segurança de realizar seus sonhos antes de tudo (PROJ-0049)
+Data: 14/07/2025
+Gerente: Stella Vieira
+
+Status atual: Cancelado
+Percentual de conclusão: 53.6%
+Data de início: 10/06/2025
+Data de término planejada: 09/02/2026
+Data de término real/prevista: 18/10/2025
+Atraso atual: 0 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 3.85
+Valor Planejado (PV): R$ 224722.02
+Valor Agregado (EV): R$ 864350.01
+
+Tarefas críticas:
+- Configuração do ambiente de produção
+- Migração de dados legados
+- Implementação do sistema de backup
+- Testes de segurança
+
+Tarefas atrasadas:

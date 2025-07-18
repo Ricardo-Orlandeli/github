@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O prazer de avançar antes de tudo (PROJ-0294)
+Data: 14/07/2025
+Gerente: Anthony Freitas
+
+Orçamento inicial: R$ 1890242.00
+Custo real atual: R$ 1444110.62
+Desvio orçamentário: -23.60%
+Índice de Desempenho de Custo (CPI): 1.24
+Valor Agregado (EV): R$ 1785179.00
+Estimativa para conclusão: R$ 84990.13
+Estimativa no término (EAC): R$ 1529100.75
+Variação no término (VAC): R$ 361141.25
+
+Detalhamento por categoria:
+- Pessoal: R$ 776825.76 (53.8%)
+- Equipamentos: R$ 209334.87 (14.5%)
+- Software: R$ 153292.52 (10.6%)
+- Serviços: R$ 194429.71 (13.5%)
+- Outros: R$ 110227.76 (7.6%)

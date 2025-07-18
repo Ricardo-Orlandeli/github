@@ -1,0 +1,24 @@
+RELATÓRIO DE STATUS DE ESCOPO
+Projeto: O poder de evoluir com força total (PROJ-0685)
+Data: 14/07/2025
+Gerente: Maria Isis Freitas
+
+Escopo original: Sistema para o poder de evoluir com força total
+Houve mudança de escopo: Sim
+Descrição das mudanças: Mudança na plataforma de implementação
+Impacto no cronograma: 22 dias
+Impacto no custo: R$ 67905.53
+
+Solicitações de mudança:
+- SCM-01: Mudança no banco de dados
+- SCM-02: Implementação de módulo de exportação de dados
+- SCM-03: Mudança na arquitetura do sistema
+
+Requisitos atuais:
+- REQ-01: O sistema deve ser compatível com navegadores modernos
+- REQ-02: O sistema deve ter interface responsiva
+- REQ-03: O sistema deve ter backup automático diário
+- REQ-04: O sistema deve ter documentação completa
+- REQ-05: O sistema deve implementar criptografia de dados sensíveis
+- REQ-06: O sistema deve ser compatível com dispositivos móveis
+- REQ-07: O sistema deve ser compatível com navegadores modernos

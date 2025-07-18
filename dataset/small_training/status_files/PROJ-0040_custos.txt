@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O prazer de realizar seus sonhos sem preocupação (PROJ-0040)
+Data: 14/07/2025
+Gerente: André da Luz
+
+Orçamento inicial: R$ 3954029.00
+Custo real atual: R$ 2916785.57
+Desvio orçamentário: -26.23%
+Índice de Desempenho de Custo (CPI): 0.93
+Valor Agregado (EV): R$ 2721235.31
+Estimativa para conclusão: R$ 1321383.28
+Estimativa no término (EAC): R$ 4238168.85
+Variação no término (VAC): R$ -284139.85
+
+Detalhamento por categoria:
+- Pessoal: R$ 1680006.29 (57.6%)
+- Equipamentos: R$ 364943.87 (12.5%)
+- Software: R$ 250474.83 (8.6%)
+- Serviços: R$ 343274.51 (11.8%)
+- Outros: R$ 278086.07 (9.5%)

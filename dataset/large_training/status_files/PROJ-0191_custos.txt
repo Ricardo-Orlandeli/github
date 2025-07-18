@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A simplicidade de inovar de maneira eficaz (PROJ-0191)
+Data: 14/07/2025
+Gerente: Dr. Gael Farias
+
+Orçamento inicial: R$ 842647.00
+Custo real atual: R$ 912989.76
+Desvio orçamentário: 8.35%
+Índice de Desempenho de Custo (CPI): 0.85
+Valor Agregado (EV): R$ 772820.21
+Estimativa para conclusão: R$ 82491.56
+Estimativa no término (EAC): R$ 995481.33
+Variação no término (VAC): R$ -152834.33
+
+Detalhamento por categoria:
+- Pessoal: R$ 421397.47 (46.2%)
+- Equipamentos: R$ 154824.17 (17.0%)
+- Software: R$ 124993.82 (13.7%)
+- Serviços: R$ 117645.73 (12.9%)
+- Outros: R$ 94128.58 (10.3%)

@@ -1,0 +1,26 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A simplicidade de conseguir mais rapidamente (PROJ-0243)
+Data: 14/07/2025
+Gerente: Otávio Campos
+
+Status atual: Concluído
+Percentual de conclusão: 100.0%
+Data de início: 05/07/2025
+Data de término planejada: 18/09/2025
+Data de término real/prevista: 05/09/2025
+Atraso atual: 0 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.09
+Valor Planejado (PV): R$ 182079.96
+Valor Agregado (EV): R$ 1517333.00
+
+Tarefas críticas:
+- Implementação do módulo de análise de dados
+- Migração de dados legados
+- Implementação do sistema de backup
+- Desenvolvimento da interface do usuário
+- Desenvolvimento do módulo de autenticação
+- Implementação do módulo de exportação de dados
+- Testes de aceitação do usuário
+
+Tarefas atrasadas:

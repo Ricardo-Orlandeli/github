@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O poder de realizar seus sonhos em estado puro (PROJ-0753)
+Data: 14/07/2025
+Gerente: Isadora Correia
+
+Orçamento inicial: R$ 415446.00
+Custo real atual: R$ 384670.98
+Desvio orçamentário: 493.68%
+Índice de Desempenho de Custo (CPI): 1.08
+Valor Agregado (EV): R$ 415446.00
+Estimativa para conclusão: R$ 0.00
+Estimativa no término (EAC): R$ 384670.98
+Variação no término (VAC): R$ 30775.02
+
+Detalhamento por categoria:
+- Pessoal: R$ 176027.76 (45.8%)
+- Equipamentos: R$ 57467.49 (14.9%)
+- Software: R$ 59982.33 (15.6%)
+- Serviços: R$ 56328.62 (14.6%)
+- Outros: R$ 34864.79 (9.1%)

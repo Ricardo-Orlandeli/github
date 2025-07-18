@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A liberdade de inovar em estado puro (PROJ-0099)
+Data: 14/07/2025
+Gerente: Maria Helena Camargo
+
+Orçamento inicial: R$ 237702.00
+Custo real atual: R$ 77104.17
+Desvio orçamentário: -13.33%
+Índice de Desempenho de Custo (CPI): 0.96
+Valor Agregado (EV): R$ 74060.79
+Estimativa para conclusão: R$ 170365.73
+Estimativa no término (EAC): R$ 247469.90
+Variação no término (VAC): R$ -9767.90
+
+Detalhamento por categoria:
+- Pessoal: R$ 42688.38 (55.4%)
+- Equipamentos: R$ 11991.59 (15.6%)
+- Software: R$ 8207.74 (10.6%)
+- Serviços: R$ 8442.09 (10.9%)
+- Outros: R$ 5774.38 (7.5%)

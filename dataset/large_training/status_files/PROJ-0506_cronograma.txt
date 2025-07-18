@@ -1,0 +1,22 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A certeza de inovar naturalmente (PROJ-0506)
+Data: 14/07/2025
+Gerente: Clara Camargo
+
+Status atual: Concluído
+Percentual de conclusão: 100.0%
+Data de início: 27/06/2025
+Data de término planejada: 24/03/2026
+Data de término real/prevista: 06/04/2026
+Atraso atual: 0 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.06
+Valor Planejado (PV): R$ 190838.41
+Valor Agregado (EV): R$ 3030963.00
+
+Tarefas críticas:
+- Implementação da API REST
+- Testes de aceitação do usuário
+- Implementação do módulo de exportação de dados
+
+Tarefas atrasadas:

@@ -1,0 +1,51 @@
+RELATÓRIO DE STATUS DE RISCOS
+Projeto: O prazer de avançar sem preocupação (PROJ-0922)
+Data: 14/07/2025
+Gerente: Sra. Amanda Siqueira
+
+Riscos identificados:
+- R01: Problemas de desempenho
+  Probabilidade: 4/5, Impacto: 2/5, Nível: Médio
+  Mitigação: Buscar fornecedores alternativos
+
+- R02: Problemas de desempenho
+  Probabilidade: 1/5, Impacto: 5/5, Nível: Baixo
+  Mitigação: Contratar pessoal adicional
+
+- R03: Falhas de infraestrutura
+  Probabilidade: 4/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Implementar plano de contingência
+
+- R04: Problemas de integração com sistemas legados
+  Probabilidade: 2/5, Impacto: 5/5, Nível: Médio
+  Mitigação: Realizar testes de aceitação com usuários-chave
+
+- R05: Problemas de compatibilidade
+  Probabilidade: 5/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Realizar testes de aceitação com usuários-chave
+
+- R06: Atraso na entrega de componentes críticos
+  Probabilidade: 5/5, Impacto: 5/5, Nível: Alto
+  Mitigação: Implementar redundância de infraestrutura
+
+- R07: Dependências externas não cumpridas
+  Probabilidade: 1/5, Impacto: 3/5, Nível: Baixo
+  Mitigação: Melhorar a documentação de requisitos
+
+- R08: Problemas de desempenho
+  Probabilidade: 2/5, Impacto: 2/5, Nível: Baixo
+  Mitigação: Buscar fornecedores alternativos
+
+- R09: Falhas em testes de aceitação
+  Probabilidade: 2/5, Impacto: 5/5, Nível: Médio
+  Mitigação: Fortalecer medidas de segurança
+
+- R10: Falhas de segurança
+  Probabilidade: 4/5, Impacto: 2/5, Nível: Médio
+  Mitigação: Testar compatibilidade em diferentes ambientes
+
+Riscos ocorridos:
+- R02 (ocorrido em 24/09/2024)
+  Impacto real: Retrabalho significativo
+  Ações tomadas: Implementação do plano de contingência
+

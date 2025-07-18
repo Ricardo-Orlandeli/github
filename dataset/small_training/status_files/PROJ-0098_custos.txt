@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A possibilidade de realizar seus sonhos naturalmente (PROJ-0098)
+Data: 14/07/2025
+Gerente: Ravi Lucca Porto
+
+Orçamento inicial: R$ 3113653.00
+Custo real atual: R$ 2665248.10
+Desvio orçamentário: -14.40%
+Índice de Desempenho de Custo (CPI): 0.91
+Valor Agregado (EV): R$ 2431770.03
+Estimativa para conclusão: R$ 747351.62
+Estimativa no término (EAC): R$ 3412599.72
+Variação no término (VAC): R$ -298946.72
+
+Detalhamento por categoria:
+- Pessoal: R$ 1222899.14 (45.9%)
+- Equipamentos: R$ 407704.83 (15.3%)
+- Software: R$ 379681.33 (14.2%)
+- Serviços: R$ 399439.74 (15.0%)
+- Outros: R$ 255523.06 (9.6%)

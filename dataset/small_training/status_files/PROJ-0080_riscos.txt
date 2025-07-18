@@ -1,0 +1,47 @@
+RELATÓRIO DE STATUS DE RISCOS
+Projeto: A certeza de ganhar de maneira eficaz (PROJ-0080)
+Data: 14/07/2025
+Gerente: Apollo Marques
+
+Riscos identificados:
+- R01: Problemas de compatibilidade
+  Probabilidade: 3/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Comunicar benefícios da mudança
+
+- R02: Resistência dos usuários à mudança
+  Probabilidade: 5/5, Impacto: 5/5, Nível: Alto
+  Mitigação: Melhorar a documentação de requisitos
+
+- R03: Indisponibilidade de recursos especializados
+  Probabilidade: 4/5, Impacto: 3/5, Nível: Médio
+  Mitigação: Otimizar código e infraestrutura
+
+- R04: Mudanças regulatórias
+  Probabilidade: 3/5, Impacto: 2/5, Nível: Baixo
+  Mitigação: Implementar plano de contingência
+
+- R05: Resistência dos usuários à mudança
+  Probabilidade: 2/5, Impacto: 4/5, Nível: Médio
+  Mitigação: Fortalecer medidas de segurança
+
+- R06: Indisponibilidade de recursos especializados
+  Probabilidade: 5/5, Impacto: 5/5, Nível: Alto
+  Mitigação: Contratar pessoal adicional
+
+- R07: Mudanças regulatórias
+  Probabilidade: 3/5, Impacto: 3/5, Nível: Médio
+  Mitigação: Contratar pessoal adicional
+
+- R08: Falhas em testes de aceitação
+  Probabilidade: 3/5, Impacto: 3/5, Nível: Médio
+  Mitigação: Realizar testes de aceitação com usuários-chave
+
+- R09: Falhas de segurança
+  Probabilidade: 2/5, Impacto: 2/5, Nível: Baixo
+  Mitigação: Estabelecer canais de comunicação claros
+
+- R10: Estimativas imprecisas
+  Probabilidade: 3/5, Impacto: 5/5, Nível: Médio
+  Mitigação: Contratar pessoal adicional
+
+Riscos ocorridos:

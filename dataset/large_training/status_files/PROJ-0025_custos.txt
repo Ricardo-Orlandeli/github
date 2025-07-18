@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O direito de ganhar direto da fonte (PROJ-0025)
+Data: 14/07/2025
+Gerente: Isaque Ramos
+
+Orçamento inicial: R$ 461915.00
+Custo real atual: R$ 416203.24
+Desvio orçamentário: -9.90%
+Índice de Desempenho de Custo (CPI): 1.10
+Valor Agregado (EV): R$ 459147.46
+Estimativa para conclusão: R$ 2508.69
+Estimativa no término (EAC): R$ 418711.93
+Variação no término (VAC): R$ 43203.07
+
+Detalhamento por categoria:
+- Pessoal: R$ 199445.85 (47.9%)
+- Equipamentos: R$ 60650.29 (14.6%)
+- Software: R$ 31327.58 (7.5%)
+- Serviços: R$ 79668.79 (19.1%)
+- Outros: R$ 45110.73 (10.8%)

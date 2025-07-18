@@ -1,0 +1,23 @@
+RELATÓRIO DE STATUS DE RISCOS
+Projeto: A certeza de concretizar seus projetos direto da fonte (PROJ-0018)
+Data: 14/07/2025
+Gerente: Carlos Eduardo da Cunha
+
+Riscos identificados:
+- R01: Indisponibilidade de recursos especializados
+  Probabilidade: 2/5, Impacto: 5/5, Nível: Médio
+  Mitigação: Implementar plano de contingência
+
+- R02: Falhas de segurança
+  Probabilidade: 2/5, Impacto: 4/5, Nível: Médio
+  Mitigação: Comunicar benefícios da mudança
+
+- R03: Problemas de desempenho
+  Probabilidade: 1/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Fortalecer medidas de segurança
+
+Riscos ocorridos:
+- R01 (ocorrido em 30/06/2024)
+  Impacto real: Perda de dados
+  Ações tomadas: Implementação de controles adicionais
+

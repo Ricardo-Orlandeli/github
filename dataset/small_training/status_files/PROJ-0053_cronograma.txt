@@ -1,0 +1,27 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: O direito de concretizar seus projetos antes de tudo (PROJ-0053)
+Data: 14/07/2025
+Gerente: Bento Nunes
+
+Status atual: Concluído
+Percentual de conclusão: 100.0%
+Data de início: 05/04/2025
+Data de término planejada: 13/03/2026
+Data de término real/prevista: 04/04/2026
+Atraso atual: 0 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.03
+Valor Planejado (PV): R$ 264482.75
+Valor Agregado (EV): R$ 904531.00
+
+Tarefas críticas:
+- Testes de aceitação do usuário
+- Implementação do módulo de análise de dados
+- Implementação do módulo de relatórios
+- Desenvolvimento do painel administrativo
+- Desenvolvimento da interface do usuário
+- Implementação do módulo de notificações
+- Desenvolvimento do painel administrativo
+- Migração de dados legados
+
+Tarefas atrasadas:

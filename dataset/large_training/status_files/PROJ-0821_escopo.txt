@@ -1,0 +1,22 @@
+RELATÓRIO DE STATUS DE ESCOPO
+Projeto: A simplicidade de conseguir com confiança (PROJ-0821)
+Data: 14/07/2025
+Gerente: Eloah Camargo
+
+Escopo original: Sistema para a simplicidade de conseguir com confiança
+Houve mudança de escopo: Sim
+Descrição das mudanças: Expansão do escopo para incluir funcionalidades adicionais
+Impacto no cronograma: 55 dias
+Impacto no custo: R$ 139788.45
+
+Solicitações de mudança:
+- SCM-01: Implementação de módulo de exportação de dados
+- SCM-02: Mudança na arquitetura do sistema
+
+Requisitos atuais:
+- REQ-01: O sistema deve permitir autenticação de usuários
+- REQ-02: O sistema deve permitir autenticação de usuários
+- REQ-03: O sistema deve processar transações em menos de 2 seconds
+- REQ-04: O sistema deve ter backup automático diário
+- REQ-05: O sistema deve ter controle de acesso baseado em perfis
+- REQ-06: O sistema deve ter backup automático diário

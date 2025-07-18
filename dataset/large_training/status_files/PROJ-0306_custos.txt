@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A arte de atingir seus objetivos direto da fonte (PROJ-0306)
+Data: 14/07/2025
+Gerente: Letícia Sampaio
+
+Orçamento inicial: R$ 1715455.00
+Custo real atual: R$ 1594364.29
+Desvio orçamentário: -7.06%
+Índice de Desempenho de Custo (CPI): 1.05
+Valor Agregado (EV): R$ 1668555.53
+Estimativa para conclusão: R$ 44814.11
+Estimativa no término (EAC): R$ 1639178.41
+Variação no término (VAC): R$ 76276.59
+
+Detalhamento por categoria:
+- Pessoal: R$ 781660.91 (49.0%)
+- Equipamentos: R$ 226124.38 (14.2%)
+- Software: R$ 179905.25 (11.3%)
+- Serviços: R$ 303738.88 (19.1%)
+- Outros: R$ 102934.87 (6.5%)

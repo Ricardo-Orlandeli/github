@@ -1,0 +1,25 @@
+RELATÓRIO DE STATUS DE ESCOPO
+Projeto: A arte de mudar mais rapidamente (PROJ-0733)
+Data: 14/07/2025
+Gerente: Sr. João Felipe da Rosa
+
+Escopo original: Sistema para a arte de mudar mais rapidamente
+Houve mudança de escopo: Sim
+Descrição das mudanças: Alteração nas especificações técnicas
+Impacto no cronograma: 49 dias
+Impacto no custo: R$ 109396.62
+
+Solicitações de mudança:
+- SCM-01: Alteração nos requisitos de desempenho
+- SCM-02: Alteração na interface do usuário
+- SCM-03: Alteração nos requisitos de desempenho
+
+Requisitos atuais:
+- REQ-01: O sistema deve ter interface responsiva
+- REQ-02: O sistema deve permitir autenticação de usuários
+- REQ-03: O sistema deve ser compatível com navegadores modernos
+- REQ-04: O sistema deve permitir exportação de dados em formato CSV
+- REQ-05: O sistema deve ser compatível com navegadores modernos
+- REQ-06: O sistema deve permitir exportação de dados em formato CSV
+- REQ-07: O sistema deve processar transações em menos de 2 seconds
+- REQ-08: O sistema deve implementar criptografia de dados sensíveis

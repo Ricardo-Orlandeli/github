@@ -1,0 +1,24 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: O prazer de avançar antes de tudo (PROJ-0576)
+Data: 14/07/2025
+Gerente: Ian Teixeira
+
+Status atual: Concluído
+Percentual de conclusão: 100.0%
+Data de início: 25/03/2025
+Data de término planejada: 08/12/2025
+Data de término real/prevista: 19/12/2025
+Atraso atual: 0 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 0.96
+Valor Planejado (PV): R$ 958583.09
+Valor Agregado (EV): R$ 2228058.00
+
+Tarefas críticas:
+- Implementação do sistema de backup
+- Desenvolvimento do módulo de autenticação
+- Implementação da API REST
+- Implementação do sistema de backup
+- Desenvolvimento da interface do usuário
+
+Tarefas atrasadas:

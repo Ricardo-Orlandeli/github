@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O poder de evoluir antes de tudo (PROJ-0996)
+Data: 14/07/2025
+Gerente: Rodrigo Dias
+
+Orçamento inicial: R$ 215431.00
+Custo real atual: R$ 116784.80
+Desvio orçamentário: -1.65%
+Índice de Desempenho de Custo (CPI): 0.94
+Valor Agregado (EV): R$ 110360.17
+Estimativa para conclusão: R$ 111187.55
+Estimativa no término (EAC): R$ 227972.34
+Variação no término (VAC): R$ -12541.34
+
+Detalhamento por categoria:
+- Pessoal: R$ 67600.50 (57.9%)
+- Equipamentos: R$ 14033.51 (12.0%)
+- Software: R$ 12955.86 (11.1%)
+- Serviços: R$ 13270.22 (11.4%)
+- Outros: R$ 8924.71 (7.6%)

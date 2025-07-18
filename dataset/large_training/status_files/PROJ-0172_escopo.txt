@@ -1,0 +1,24 @@
+RELATÓRIO DE STATUS DE ESCOPO
+Projeto: A possibilidade de realizar seus sonhos direto da fonte (PROJ-0172)
+Data: 14/07/2025
+Gerente: João Gabriel Souza
+
+Escopo original: Sistema para a possibilidade de realizar seus sonhos direto da fonte
+Houve mudança de escopo: Sim
+Descrição das mudanças: Mudança na plataforma de implementação
+Impacto no cronograma: 46 dias
+Impacto no custo: R$ 168117.26
+
+Solicitações de mudança:
+- SCM-01: Adição de relatórios gerenciais
+- SCM-02: Adição de funcionalidade de autenticação biométrica
+- SCM-03: Adição de relatórios gerenciais
+
+Requisitos atuais:
+- REQ-01: O sistema deve ter alta disponibilidade (99.9%)
+- REQ-02: O sistema deve registrar logs de auditoria
+- REQ-03: O sistema deve implementar criptografia de dados sensíveis
+- REQ-04: O sistema deve processar transações em menos de 2 seconds
+- REQ-05: O sistema deve passar por testes de segurança
+- REQ-06: O sistema deve ser compatível com navegadores modernos
+- REQ-07: O sistema deve ter interface responsiva

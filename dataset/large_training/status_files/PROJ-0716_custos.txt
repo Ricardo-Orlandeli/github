@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A vantagem de conseguir antes de tudo (PROJ-0716)
+Data: 14/07/2025
+Gerente: Bárbara Pereira
+
+Orçamento inicial: R$ 4046628.00
+Custo real atual: R$ 3253278.04
+Desvio orçamentário: 1.83%
+Índice de Desempenho de Custo (CPI): 0.98
+Valor Agregado (EV): R$ 3190005.33
+Estimativa para conclusão: R$ 873613.50
+Estimativa no término (EAC): R$ 4126891.53
+Variação no término (VAC): R$ -80263.53
+
+Detalhamento por categoria:
+- Pessoal: R$ 1679509.54 (51.6%)
+- Equipamentos: R$ 546225.11 (16.8%)
+- Software: R$ 474406.77 (14.6%)
+- Serviços: R$ 376484.25 (11.6%)
+- Outros: R$ 176652.35 (5.4%)

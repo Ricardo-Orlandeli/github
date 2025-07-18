@@ -1,0 +1,26 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A simplicidade de conseguir com confiança (PROJ-0821)
+Data: 14/07/2025
+Gerente: Eloah Camargo
+
+Status atual: Em andamento
+Percentual de conclusão: 79.2%
+Data de início: 27/11/2024
+Data de término planejada: 22/07/2025
+Data de término real/prevista: 27/07/2025
+Atraso atual: 0 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.07
+Valor Planejado (PV): R$ 1064852.90
+Valor Agregado (EV): R$ 872963.79
+
+Tarefas críticas:
+- Implementação do módulo de relatórios
+- Implementação do módulo de relatórios
+- Implementação do módulo de exportação de dados
+- Implementação do sistema de backup
+- Testes de segurança
+- Desenvolvimento da interface do usuário
+- Migração de dados legados
+
+Tarefas atrasadas:

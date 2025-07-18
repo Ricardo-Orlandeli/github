@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O conforto de realizar seus sonhos com toda a tranquilidade (PROJ-0054)
+Data: 14/07/2025
+Gerente: Thales Moraes
+
+Orçamento inicial: R$ 4010763.00
+Custo real atual: R$ 3476798.29
+Desvio orçamentário: -13.31%
+Índice de Desempenho de Custo (CPI): 0.93
+Valor Agregado (EV): R$ 3240573.13
+Estimativa para conclusão: R$ 826333.71
+Estimativa no término (EAC): R$ 4303132.00
+Variação no término (VAC): R$ -292369.00
+
+Detalhamento por categoria:
+- Pessoal: R$ 1674985.72 (48.2%)
+- Equipamentos: R$ 580829.52 (16.7%)
+- Software: R$ 256343.97 (7.4%)
+- Serviços: R$ 635682.55 (18.3%)
+- Outros: R$ 328956.53 (9.5%)

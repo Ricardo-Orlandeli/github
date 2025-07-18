@@ -1,0 +1,26 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: O prazer de concretizar seus projetos mais rapidamente (PROJ-0476)
+Data: 14/07/2025
+Gerente: Dr. Luan Nascimento
+
+Status atual: Concluído
+Percentual de conclusão: 100.0%
+Data de início: 21/09/2023
+Data de término planejada: 26/06/2024
+Data de término real/prevista: 18/07/2024
+Atraso atual: 383 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 0.98
+Valor Planejado (PV): R$ 1737180.00
+Valor Agregado (EV): R$ 1737180.00
+
+Tarefas críticas:
+- Configuração da infraestrutura
+- Implementação do módulo de relatórios
+- Configuração da infraestrutura
+- Migração de dados legados
+- Implementação do sistema de backup
+- Integração com sistema de pagamentos
+- Implementação do sistema de backup
+
+Tarefas atrasadas:

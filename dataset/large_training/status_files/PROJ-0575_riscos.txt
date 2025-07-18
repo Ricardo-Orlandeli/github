@@ -1,0 +1,39 @@
+RELATÓRIO DE STATUS DE RISCOS
+Projeto: O conforto de mudar antes de tudo (PROJ-0575)
+Data: 14/07/2025
+Gerente: Alícia Leão
+
+Riscos identificados:
+- R01: Atraso na entrega de componentes críticos
+  Probabilidade: 1/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Monitorar mudanças regulatórias
+
+- R02: Requisitos mal definidos
+  Probabilidade: 2/5, Impacto: 4/5, Nível: Médio
+  Mitigação: Melhorar a documentação de requisitos
+
+- R03: Problemas de integração com sistemas legados
+  Probabilidade: 4/5, Impacto: 4/5, Nível: Alto
+  Mitigação: Otimizar código e infraestrutura
+
+- R04: Rotatividade de pessoal-chave
+  Probabilidade: 1/5, Impacto: 3/5, Nível: Baixo
+  Mitigação: Realizar testes de aceitação com usuários-chave
+
+- R05: Requisitos mal definidos
+  Probabilidade: 1/5, Impacto: 2/5, Nível: Baixo
+  Mitigação: Otimizar código e infraestrutura
+
+- R06: Indisponibilidade de recursos especializados
+  Probabilidade: 3/5, Impacto: 3/5, Nível: Médio
+  Mitigação: Testar compatibilidade em diferentes ambientes
+
+- R07: Problemas de desempenho
+  Probabilidade: 2/5, Impacto: 2/5, Nível: Baixo
+  Mitigação: Fortalecer medidas de segurança
+
+Riscos ocorridos:
+- R04 (ocorrido em 20/03/2025)
+  Impacto real: Perda de dados
+  Ações tomadas: Realocação de recursos
+

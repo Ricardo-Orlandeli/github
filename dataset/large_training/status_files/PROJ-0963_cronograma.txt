@@ -1,0 +1,27 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: O conforto de concretizar seus projetos com força total (PROJ-0963)
+Data: 14/07/2025
+Gerente: Ana Costela
+
+Status atual: Em andamento
+Percentual de conclusão: 84.1%
+Data de início: 16/10/2024
+Data de término planejada: 13/12/2024
+Data de término real/prevista: 03/01/2025
+Atraso atual: 213 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.14
+Valor Planejado (PV): R$ 4874199.00
+Valor Agregado (EV): R$ 4101480.57
+
+Tarefas críticas:
+- Implementação do módulo de notificações
+- Testes de aceitação do usuário
+- Desenvolvimento da interface do usuário
+- Testes de aceitação do usuário
+- Implementação do módulo de análise de dados
+- Implementação do módulo de notificações
+- Desenvolvimento do módulo de autenticação
+- Implementação do módulo de exportação de dados
+
+Tarefas atrasadas:

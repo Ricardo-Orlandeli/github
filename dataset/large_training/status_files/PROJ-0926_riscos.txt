@@ -1,0 +1,43 @@
+RELATÓRIO DE STATUS DE RISCOS
+Projeto: A possibilidade de mudar antes de tudo (PROJ-0926)
+Data: 14/07/2025
+Gerente: Isabelly Costa
+
+Riscos identificados:
+- R01: Falhas de segurança
+  Probabilidade: 5/5, Impacto: 2/5, Nível: Médio
+  Mitigação: Implementar plano de contingência
+
+- R02: Falhas em testes de aceitação
+  Probabilidade: 1/5, Impacto: 2/5, Nível: Baixo
+  Mitigação: Implementar redundância de infraestrutura
+
+- R03: Problemas de compatibilidade
+  Probabilidade: 4/5, Impacto: 5/5, Nível: Alto
+  Mitigação: Comunicar benefícios da mudança
+
+- R04: Falhas em testes de aceitação
+  Probabilidade: 3/5, Impacto: 2/5, Nível: Baixo
+  Mitigação: Implementar redundância de infraestrutura
+
+- R05: Problemas de integração com sistemas legados
+  Probabilidade: 3/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Implementar plano de contingência
+
+- R06: Dependências externas não cumpridas
+  Probabilidade: 1/5, Impacto: 3/5, Nível: Baixo
+  Mitigação: Gerenciar dependências ativamente
+
+- R07: Rotatividade de pessoal-chave
+  Probabilidade: 2/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Implementar redundância de infraestrutura
+
+- R08: Falhas em testes de aceitação
+  Probabilidade: 2/5, Impacto: 5/5, Nível: Médio
+  Mitigação: Estabelecer canais de comunicação claros
+
+- R09: Falhas em testes de aceitação
+  Probabilidade: 1/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Refinar estimativas com base em dados históricos
+
+Riscos ocorridos:

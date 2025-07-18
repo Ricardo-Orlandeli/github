@@ -1,0 +1,28 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A possibilidade de ganhar com força total (PROJ-0771)
+Data: 14/07/2025
+Gerente: Pietra Mendonça
+
+Status atual: Atrasado
+Percentual de conclusão: 72.7%
+Data de início: 08/11/2024
+Data de término planejada: 26/01/2025
+Data de término real/prevista: 27/05/2025
+Atraso atual: 169 dias
+Motivo do atraso: Estimativas imprecisas
+Índice de Desempenho de Cronograma (SPI): 0.73
+Valor Planejado (PV): R$ 172892.00
+Valor Agregado (EV): R$ 125663.41
+
+Tarefas críticas:
+- Configuração da infraestrutura
+- Configuração da infraestrutura
+- Implementação do sistema de backup
+- Implementação do sistema de backup
+- Testes de aceitação do usuário
+- Configuração do ambiente de produção
+
+Tarefas atrasadas:
+- Configuração da infraestrutura
+- Testes de aceitação do usuário
+- Implementação do sistema de backup

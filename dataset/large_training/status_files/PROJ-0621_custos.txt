@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A vantagem de ganhar antes de tudo (PROJ-0621)
+Data: 14/07/2025
+Gerente: Aylla Cirino
+
+Orçamento inicial: R$ 3820314.00
+Custo real atual: R$ 3833268.51
+Desvio orçamentário: 0.34%
+Índice de Desempenho de Custo (CPI): 0.99
+Valor Agregado (EV): R$ 3776116.87
+Estimativa para conclusão: R$ 44866.05
+Estimativa no término (EAC): R$ 3878134.56
+Variação no término (VAC): R$ -57820.56
+
+Detalhamento por categoria:
+- Pessoal: R$ 1775487.56 (46.3%)
+- Equipamentos: R$ 712521.39 (18.6%)
+- Software: R$ 527595.66 (13.8%)
+- Serviços: R$ 464434.66 (12.1%)
+- Outros: R$ 353229.24 (9.2%)

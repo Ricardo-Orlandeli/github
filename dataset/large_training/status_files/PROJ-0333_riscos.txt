@@ -1,0 +1,23 @@
+RELATÓRIO DE STATUS DE RISCOS
+Projeto: O prazer de inovar com toda a tranquilidade (PROJ-0333)
+Data: 14/07/2025
+Gerente: Dr. José Miguel Castro
+
+Riscos identificados:
+- R01: Resistência dos usuários à mudança
+  Probabilidade: 2/5, Impacto: 3/5, Nível: Baixo
+  Mitigação: Estabelecer canais de comunicação claros
+
+- R02: Indisponibilidade de recursos especializados
+  Probabilidade: 1/5, Impacto: 2/5, Nível: Baixo
+  Mitigação: Melhorar a documentação de requisitos
+
+- R03: Rotatividade de pessoal-chave
+  Probabilidade: 4/5, Impacto: 2/5, Nível: Médio
+  Mitigação: Testar compatibilidade em diferentes ambientes
+
+- R04: Falhas em testes de aceitação
+  Probabilidade: 4/5, Impacto: 3/5, Nível: Médio
+  Mitigação: Otimizar código e infraestrutura
+
+Riscos ocorridos:

@@ -1,0 +1,26 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A possibilidade de ganhar naturalmente (PROJ-0451)
+Data: 14/07/2025
+Gerente: Stephany Vargas
+
+Status atual: Em andamento
+Percentual de conclusão: 99.9%
+Data de início: 26/09/2024
+Data de término planejada: 02/06/2025
+Data de término real/prevista: 28/06/2025
+Atraso atual: 42 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.01
+Valor Planejado (PV): R$ 116251.00
+Valor Agregado (EV): R$ 116134.75
+
+Tarefas críticas:
+- Configuração do ambiente de produção
+- Desenvolvimento do painel administrativo
+- Implementação do módulo de análise de dados
+- Implementação do módulo de exportação de dados
+- Testes de segurança
+- Configuração da infraestrutura
+- Implementação do módulo de análise de dados
+
+Tarefas atrasadas:

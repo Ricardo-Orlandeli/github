@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A liberdade de inovar direto da fonte (PROJ-0087)
+Data: 14/07/2025
+Gerente: Dra. Joana da Rosa
+
+Orçamento inicial: R$ 3668752.00
+Custo real atual: R$ 4139780.66
+Desvio orçamentário: 12.84%
+Índice de Desempenho de Custo (CPI): 0.89
+Valor Agregado (EV): R$ 3665083.25
+Estimativa para conclusão: R$ 4143.92
+Estimativa no término (EAC): R$ 4143924.59
+Variação no término (VAC): R$ -475172.59
+
+Detalhamento por categoria:
+- Pessoal: R$ 2206366.28 (53.3%)
+- Equipamentos: R$ 565198.37 (13.7%)
+- Software: R$ 246874.85 (6.0%)
+- Serviços: R$ 710910.75 (17.2%)
+- Outros: R$ 410430.42 (9.9%)

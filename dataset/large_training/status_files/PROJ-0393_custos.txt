@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O direito de avançar simplesmente (PROJ-0393)
+Data: 14/07/2025
+Gerente: Emilly da Luz
+
+Orçamento inicial: R$ 804498.00
+Custo real atual: R$ 804978.71
+Desvio orçamentário: 0.06%
+Índice de Desempenho de Custo (CPI): 0.84
+Valor Agregado (EV): R$ 679462.69
+Estimativa para conclusão: R$ 148132.87
+Estimativa no término (EAC): R$ 953111.58
+Variação no término (VAC): R$ -148613.58
+
+Detalhamento por categoria:
+- Pessoal: R$ 411842.01 (51.2%)
+- Equipamentos: R$ 126795.83 (15.8%)
+- Software: R$ 71025.80 (8.8%)
+- Serviços: R$ 142028.33 (17.6%)
+- Outros: R$ 53286.74 (6.6%)

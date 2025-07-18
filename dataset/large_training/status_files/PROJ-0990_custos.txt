@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A possibilidade de mudar com força total (PROJ-0990)
+Data: 14/07/2025
+Gerente: Ana Mendonça
+
+Orçamento inicial: R$ 2353417.00
+Custo real atual: R$ 167643.97
+Desvio orçamentário: 36.06%
+Índice de Desempenho de Custo (CPI): 0.85
+Valor Agregado (EV): R$ 142540.92
+Estimativa para conclusão: R$ 2600236.02
+Estimativa no término (EAC): R$ 2767879.99
+Variação no término (VAC): R$ -414462.99
+
+Detalhamento por categoria:
+- Pessoal: R$ 82309.74 (49.1%)
+- Equipamentos: R$ 28435.86 (17.0%)
+- Software: R$ 16195.78 (9.7%)
+- Serviços: R$ 26024.83 (15.5%)
+- Outros: R$ 14677.76 (8.8%)

@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O conforto de conseguir direto da fonte (PROJ-0374)
+Data: 14/07/2025
+Gerente: Melissa Pacheco
+
+Orçamento inicial: R$ 1201776.00
+Custo real atual: R$ 1226869.79
+Desvio orçamentário: 142.21%
+Índice de Desempenho de Custo (CPI): 0.98
+Valor Agregado (EV): R$ 1201776.00
+Estimativa para conclusão: R$ 0.00
+Estimativa no término (EAC): R$ 1226869.79
+Variação no término (VAC): R$ -25093.79
+
+Detalhamento por categoria:
+- Pessoal: R$ 664398.64 (54.2%)
+- Equipamentos: R$ 165589.32 (13.5%)
+- Software: R$ 94674.02 (7.7%)
+- Serviços: R$ 214060.63 (17.4%)
+- Outros: R$ 88147.17 (7.2%)

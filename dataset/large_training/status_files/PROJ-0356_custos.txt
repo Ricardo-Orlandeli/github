@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O prazer de ganhar sem preocupação (PROJ-0356)
+Data: 14/07/2025
+Gerente: Sr. Henry Gabriel Leão
+
+Orçamento inicial: R$ 2726184.00
+Custo real atual: R$ 2943799.16
+Desvio orçamentário: 7.98%
+Índice de Desempenho de Custo (CPI): 0.72
+Valor Agregado (EV): R$ 2115901.00
+Estimativa para conclusão: R$ 849071.18
+Estimativa no término (EAC): R$ 3792870.34
+Variação no término (VAC): R$ -1066686.34
+
+Detalhamento por categoria:
+- Pessoal: R$ 1659908.71 (56.4%)
+- Equipamentos: R$ 366723.90 (12.5%)
+- Software: R$ 393010.68 (13.4%)
+- Serviços: R$ 339153.47 (11.5%)
+- Outros: R$ 185002.39 (6.3%)

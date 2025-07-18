@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A certeza de concretizar seus projetos mais facilmente (PROJ-0579)
+Data: 14/07/2025
+Gerente: Ravy Nascimento
+
+Orçamento inicial: R$ 4068873.00
+Custo real atual: R$ 4651834.22
+Desvio orçamentário: 14.33%
+Índice de Desempenho de Custo (CPI): 0.87
+Valor Agregado (EV): R$ 4064804.13
+Estimativa para conclusão: R$ 4656.49
+Estimativa no término (EAC): R$ 4656490.71
+Variação no término (VAC): R$ -587617.71
+
+Detalhamento por categoria:
+- Pessoal: R$ 2315858.05 (49.8%)
+- Equipamentos: R$ 663646.60 (14.3%)
+- Software: R$ 429295.85 (9.2%)
+- Serviços: R$ 878329.22 (18.9%)
+- Outros: R$ 364704.50 (7.8%)

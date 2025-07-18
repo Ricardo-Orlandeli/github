@@ -1,0 +1,31 @@
+RELATÓRIO DE STATUS DE RISCOS
+Projeto: A possibilidade de concretizar seus projetos em estado puro (PROJ-0548)
+Data: 14/07/2025
+Gerente: Dr. Davi Lucca Costela
+
+Riscos identificados:
+- R01: Problemas de integração com sistemas legados
+  Probabilidade: 3/5, Impacto: 2/5, Nível: Baixo
+  Mitigação: Buscar fornecedores alternativos
+
+- R02: Problemas de integração com sistemas legados
+  Probabilidade: 2/5, Impacto: 3/5, Nível: Baixo
+  Mitigação: Refinar estimativas com base em dados históricos
+
+- R03: Atraso na entrega de componentes críticos
+  Probabilidade: 2/5, Impacto: 2/5, Nível: Baixo
+  Mitigação: Comunicar benefícios da mudança
+
+- R04: Falhas de infraestrutura
+  Probabilidade: 1/5, Impacto: 2/5, Nível: Baixo
+  Mitigação: Realizar testes de aceitação com usuários-chave
+
+Riscos ocorridos:
+- R04 (ocorrido em 12/06/2025)
+  Impacto real: Problemas de qualidade
+  Ações tomadas: Ajuste no cronograma
+
+- R01 (ocorrido em 22/06/2025)
+  Impacto real: Indisponibilidade temporária
+  Ações tomadas: Revisão de prioridades
+

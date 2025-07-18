@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O poder de mudar sem preocupação (PROJ-0868)
+Data: 14/07/2025
+Gerente: Sr. Davi Lucas Aparecida
+
+Orçamento inicial: R$ 3843112.00
+Custo real atual: R$ 2648983.05
+Desvio orçamentário: -6.26%
+Índice de Desempenho de Custo (CPI): 1.04
+Valor Agregado (EV): R$ 2743719.60
+Estimativa para conclusão: R$ 1061432.02
+Estimativa no término (EAC): R$ 3710415.08
+Variação no término (VAC): R$ 132696.92
+
+Detalhamento por categoria:
+- Pessoal: R$ 1381957.35 (52.2%)
+- Equipamentos: R$ 357301.98 (13.5%)
+- Software: R$ 231667.83 (8.7%)
+- Serviços: R$ 484842.79 (18.3%)
+- Outros: R$ 193213.10 (7.3%)

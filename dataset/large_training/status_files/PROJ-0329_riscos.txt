@@ -1,0 +1,19 @@
+RELATÓRIO DE STATUS DE RISCOS
+Projeto: A possibilidade de avançar antes de tudo (PROJ-0329)
+Data: 14/07/2025
+Gerente: Ana Vitória Albuquerque
+
+Riscos identificados:
+- R01: Rotatividade de pessoal-chave
+  Probabilidade: 5/5, Impacto: 3/5, Nível: Médio
+  Mitigação: Contratar pessoal adicional
+
+- R02: Estimativas imprecisas
+  Probabilidade: 2/5, Impacto: 5/5, Nível: Médio
+  Mitigação: Otimizar código e infraestrutura
+
+- R03: Indisponibilidade de recursos especializados
+  Probabilidade: 3/5, Impacto: 3/5, Nível: Médio
+  Mitigação: Monitorar mudanças regulatórias
+
+Riscos ocorridos:

@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A possibilidade de conseguir direto da fonte (PROJ-0460)
+Data: 14/07/2025
+Gerente: Vitor Hugo Costela
+
+Orçamento inicial: R$ 1431136.00
+Custo real atual: R$ 1457021.20
+Desvio orçamentário: 1.81%
+Índice de Desempenho de Custo (CPI): 0.89
+Valor Agregado (EV): R$ 1296012.84
+Estimativa para conclusão: R$ 151910.00
+Estimativa no término (EAC): R$ 1608931.19
+Variação no término (VAC): R$ -177795.19
+
+Detalhamento por categoria:
+- Pessoal: R$ 738847.53 (50.7%)
+- Equipamentos: R$ 207629.81 (14.3%)
+- Software: R$ 173337.53 (11.9%)
+- Serviços: R$ 242052.25 (16.6%)
+- Outros: R$ 95154.09 (6.5%)

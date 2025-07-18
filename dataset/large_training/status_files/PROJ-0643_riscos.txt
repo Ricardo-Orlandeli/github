@@ -1,0 +1,31 @@
+RELATÓRIO DE STATUS DE RISCOS
+Projeto: A arte de mudar com confiança (PROJ-0643)
+Data: 14/07/2025
+Gerente: Srta. Luísa Barbosa
+
+Riscos identificados:
+- R01: Mudanças regulatórias
+  Probabilidade: 1/5, Impacto: 5/5, Nível: Baixo
+  Mitigação: Buscar fornecedores alternativos
+
+- R02: Problemas de integração com sistemas legados
+  Probabilidade: 1/5, Impacto: 2/5, Nível: Baixo
+  Mitigação: Comunicar benefícios da mudança
+
+- R03: Problemas de desempenho
+  Probabilidade: 1/5, Impacto: 5/5, Nível: Baixo
+  Mitigação: Monitorar mudanças regulatórias
+
+Riscos ocorridos:
+- R01 (ocorrido em 07/07/2025)
+  Impacto real: Falhas de segurança
+  Ações tomadas: Revisão de prioridades
+
+- R03 (ocorrido em 10/07/2025)
+  Impacto real: Atraso de 2 semanas no cronograma
+  Ações tomadas: Revisão do orçamento
+
+- R02 (ocorrido em 04/07/2025)
+  Impacto real: Retrabalho significativo
+  Ações tomadas: Implementação de controles adicionais
+

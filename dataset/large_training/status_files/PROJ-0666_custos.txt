@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O poder de conseguir com toda a tranquilidade (PROJ-0666)
+Data: 14/07/2025
+Gerente: Hellena Rodrigues
+
+Orçamento inicial: R$ 2297395.00
+Custo real atual: R$ 1484493.93
+Desvio orçamentário: -35.38%
+Índice de Desempenho de Custo (CPI): 0.87
+Valor Agregado (EV): R$ 1287304.42
+Estimativa para conclusão: R$ 1164816.42
+Estimativa no término (EAC): R$ 2649310.36
+Variação no término (VAC): R$ -351915.36
+
+Detalhamento por categoria:
+- Pessoal: R$ 748040.93 (50.4%)
+- Equipamentos: R$ 211843.35 (14.3%)
+- Software: R$ 189325.19 (12.8%)
+- Serviços: R$ 236570.75 (15.9%)
+- Outros: R$ 98713.72 (6.6%)

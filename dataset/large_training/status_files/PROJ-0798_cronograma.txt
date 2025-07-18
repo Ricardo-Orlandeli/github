@@ -1,0 +1,28 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: O prazer de ganhar mais rapidamente (PROJ-0798)
+Data: 14/07/2025
+Gerente: João Vitor Porto
+
+Status atual: Atrasado
+Percentual de conclusão: 60.6%
+Data de início: 23/02/2024
+Data de término planejada: 10/02/2025
+Data de término real/prevista: 14/06/2025
+Atraso atual: 154 dias
+Motivo do atraso: Recursos insuficientes
+Índice de Desempenho de Cronograma (SPI): 0.61
+Valor Planejado (PV): R$ 4914554.00
+Valor Agregado (EV): R$ 2976690.82
+
+Tarefas críticas:
+- Configuração da infraestrutura
+- Implementação do módulo de exportação de dados
+- Configuração do ambiente de produção
+- Testes de segurança
+- Testes de aceitação do usuário
+- Desenvolvimento do painel administrativo
+- Implementação do módulo de análise de dados
+- Configuração da infraestrutura
+
+Tarefas atrasadas:
+- Configuração da infraestrutura

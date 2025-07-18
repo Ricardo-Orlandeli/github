@@ -1,0 +1,47 @@
+RELATÓRIO DE STATUS DE RISCOS
+Projeto: A liberdade de mudar direto da fonte (PROJ-0069)
+Data: 14/07/2025
+Gerente: Catarina Farias
+
+Riscos identificados:
+- R01: Estimativas imprecisas
+  Probabilidade: 3/5, Impacto: 5/5, Nível: Médio
+  Mitigação: Refinar estimativas com base em dados históricos
+
+- R02: Requisitos mal definidos
+  Probabilidade: 4/5, Impacto: 5/5, Nível: Alto
+  Mitigação: Monitorar mudanças regulatórias
+
+- R03: Indisponibilidade de recursos especializados
+  Probabilidade: 3/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Contratar pessoal adicional
+
+- R04: Indisponibilidade de recursos especializados
+  Probabilidade: 4/5, Impacto: 4/5, Nível: Alto
+  Mitigação: Fortalecer medidas de segurança
+
+- R05: Mudanças regulatórias
+  Probabilidade: 3/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Monitorar mudanças regulatórias
+
+- R06: Falhas de segurança
+  Probabilidade: 3/5, Impacto: 3/5, Nível: Médio
+  Mitigação: Contratar pessoal adicional
+
+- R07: Problemas de compatibilidade
+  Probabilidade: 5/5, Impacto: 5/5, Nível: Alto
+  Mitigação: Realizar testes de aceitação com usuários-chave
+
+- R08: Mudanças regulatórias
+  Probabilidade: 3/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Refinar estimativas com base em dados históricos
+
+- R09: Resistência dos usuários à mudança
+  Probabilidade: 2/5, Impacto: 2/5, Nível: Baixo
+  Mitigação: Otimizar código e infraestrutura
+
+- R10: Atraso na entrega de componentes críticos
+  Probabilidade: 5/5, Impacto: 4/5, Nível: Alto
+  Mitigação: Comunicar benefícios da mudança
+
+Riscos ocorridos:

@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A possibilidade de concretizar seus projetos em estado puro (PROJ-0346)
+Data: 14/07/2025
+Gerente: Maria Isis Almeida
+
+Orçamento inicial: R$ 4728487.00
+Custo real atual: R$ 3749860.31
+Desvio orçamentário: -20.70%
+Índice de Desempenho de Custo (CPI): 1.20
+Valor Agregado (EV): R$ 4514552.88
+Estimativa para conclusão: R$ 177697.13
+Estimativa no término (EAC): R$ 3927557.44
+Variação no término (VAC): R$ 800929.56
+
+Detalhamento por categoria:
+- Pessoal: R$ 1783314.47 (47.6%)
+- Equipamentos: R$ 483717.37 (12.9%)
+- Software: R$ 594263.54 (15.8%)
+- Serviços: R$ 566360.59 (15.1%)
+- Outros: R$ 322204.34 (8.6%)

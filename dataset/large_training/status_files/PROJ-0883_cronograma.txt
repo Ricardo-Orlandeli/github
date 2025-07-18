@@ -1,0 +1,27 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A simplicidade de avançar mais facilmente (PROJ-0883)
+Data: 14/07/2025
+Gerente: Théo da Rosa
+
+Status atual: Concluído
+Percentual de conclusão: 100.0%
+Data de início: 15/08/2023
+Data de término planejada: 25/12/2023
+Data de término real/prevista: 11/12/2023
+Atraso atual: 567 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.06
+Valor Planejado (PV): R$ 1336296.00
+Valor Agregado (EV): R$ 1336296.00
+
+Tarefas críticas:
+- Testes de segurança
+- Implementação da API REST
+- Implementação da API REST
+- Integração com sistema de pagamentos
+- Configuração do ambiente de produção
+- Configuração do ambiente de produção
+- Configuração da infraestrutura
+- Implementação do módulo de relatórios
+
+Tarefas atrasadas:

@@ -1,0 +1,31 @@
+RELATÓRIO DE STATUS DE RISCOS
+Projeto: A vantagem de ganhar simplesmente (PROJ-0438)
+Data: 14/07/2025
+Gerente: Rhavi Silva
+
+Riscos identificados:
+- R01: Requisitos mal definidos
+  Probabilidade: 5/5, Impacto: 4/5, Nível: Alto
+  Mitigação: Implementar redundância de infraestrutura
+
+- R02: Resistência dos usuários à mudança
+  Probabilidade: 1/5, Impacto: 4/5, Nível: Baixo
+  Mitigação: Refinar estimativas com base em dados históricos
+
+- R03: Dependências externas não cumpridas
+  Probabilidade: 5/5, Impacto: 4/5, Nível: Alto
+  Mitigação: Contratar pessoal adicional
+
+- R04: Dependências externas não cumpridas
+  Probabilidade: 4/5, Impacto: 5/5, Nível: Alto
+  Mitigação: Melhorar a documentação de requisitos
+
+- R05: Falhas de infraestrutura
+  Probabilidade: 2/5, Impacto: 2/5, Nível: Baixo
+  Mitigação: Estabelecer canais de comunicação claros
+
+Riscos ocorridos:
+- R02 (ocorrido em 19/02/2025)
+  Impacto real: Indisponibilidade temporária
+  Ações tomadas: Contratação de recursos adicionais
+

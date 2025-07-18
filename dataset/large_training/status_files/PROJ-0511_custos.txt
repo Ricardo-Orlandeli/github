@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A arte de concretizar seus projetos mais rapidamente (PROJ-0511)
+Data: 14/07/2025
+Gerente: Olívia da Mata
+
+Orçamento inicial: R$ 435990.00
+Custo real atual: R$ 145141.64
+Desvio orçamentário: -1.28%
+Índice de Desempenho de Custo (CPI): 0.84
+Valor Agregado (EV): R$ 122083.27
+Estimativa para conclusão: R$ 373195.56
+Estimativa no término (EAC): R$ 518337.20
+Variação no término (VAC): R$ -82347.20
+
+Detalhamento por categoria:
+- Pessoal: R$ 84271.31 (58.1%)
+- Equipamentos: R$ 28138.90 (19.4%)
+- Software: R$ 9212.61 (6.3%)
+- Serviços: R$ 15567.24 (10.7%)
+- Outros: R$ 7951.58 (5.5%)

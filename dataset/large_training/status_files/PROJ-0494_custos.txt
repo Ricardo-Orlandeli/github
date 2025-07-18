@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A liberdade de realizar seus sonhos mais facilmente (PROJ-0494)
+Data: 14/07/2025
+Gerente: Clara da Cunha
+
+Orçamento inicial: R$ 1062714.00
+Custo real atual: R$ 893784.72
+Desvio orçamentário: -15.90%
+Índice de Desempenho de Custo (CPI): 0.68
+Valor Agregado (EV): R$ 605460.13
+Estimativa para conclusão: R$ 675001.54
+Estimativa no término (EAC): R$ 1568786.26
+Variação no término (VAC): R$ -506072.26
+
+Detalhamento por categoria:
+- Pessoal: R$ 439306.88 (49.2%)
+- Equipamentos: R$ 113543.35 (12.7%)
+- Software: R$ 82258.99 (9.2%)
+- Serviços: R$ 163780.43 (18.3%)
+- Outros: R$ 94895.06 (10.6%)

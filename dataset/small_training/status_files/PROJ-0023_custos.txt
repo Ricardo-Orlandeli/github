@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A certeza de ganhar mais rapidamente (PROJ-0023)
+Data: 14/07/2025
+Gerente: Henry Gabriel Lima
+
+Orçamento inicial: R$ 60747.00
+Custo real atual: R$ 43097.54
+Desvio orçamentário: -29.05%
+Índice de Desempenho de Custo (CPI): 0.73
+Valor Agregado (EV): R$ 31543.43
+Estimativa para conclusão: R$ 39900.62
+Estimativa no término (EAC): R$ 82998.16
+Variação no término (VAC): R$ -22251.16
+
+Detalhamento por categoria:
+- Pessoal: R$ 23334.44 (54.1%)
+- Equipamentos: R$ 7405.43 (17.2%)
+- Software: R$ 3902.36 (9.1%)
+- Serviços: R$ 5417.71 (12.6%)
+- Outros: R$ 3037.59 (7.0%)

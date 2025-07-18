@@ -1,0 +1,30 @@
+RELATÓRIO DE STATUS DE ESCOPO
+Projeto: O prazer de conseguir simplesmente (PROJ-0054)
+Data: 14/07/2025
+Gerente: Caleb Siqueira
+
+Escopo original: Sistema para o prazer de conseguir simplesmente
+Houve mudança de escopo: Sim
+Descrição das mudanças: Adição de novos requisitos de segurança
+Impacto no cronograma: 28 dias
+Impacto no custo: R$ 747807.97
+
+Solicitações de mudança:
+- SCM-01: Alteração nos requisitos de desempenho
+- SCM-02: Adição de relatórios gerenciais
+- SCM-03: Mudança na arquitetura do sistema
+- SCM-04: Alteração nos requisitos de desempenho
+
+Requisitos atuais:
+- REQ-01: O sistema deve ser escalável para suportar até 10.000 usuários simultâneos
+- REQ-02: O sistema deve ser compatível com dispositivos móveis
+- REQ-03: O sistema deve ter backup automático diário
+- REQ-04: O sistema deve ser escalável para suportar até 10.000 usuários simultâneos
+- REQ-05: O sistema deve permitir integração com APIs externas
+- REQ-06: O sistema deve passar por testes de segurança
+- REQ-07: O sistema deve ser compatível com navegadores modernos
+- REQ-08: O sistema deve ser compatível com navegadores modernos
+- REQ-09: O sistema deve ter controle de acesso baseado em perfis
+- REQ-10: O sistema deve ser compatível com navegadores modernos
+- REQ-11: O sistema deve ter backup automático diário
+- REQ-12: O sistema deve ser escalável para suportar até 10.000 usuários simultâneos

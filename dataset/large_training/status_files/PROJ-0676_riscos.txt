@@ -1,0 +1,27 @@
+RELATÓRIO DE STATUS DE RISCOS
+Projeto: O direito de concretizar seus projetos mais rapidamente (PROJ-0676)
+Data: 14/07/2025
+Gerente: Valentina Sousa
+
+Riscos identificados:
+- R01: Problemas de comunicação com stakeholders
+  Probabilidade: 5/5, Impacto: 5/5, Nível: Alto
+  Mitigação: Monitorar mudanças regulatórias
+
+- R02: Falhas em testes de aceitação
+  Probabilidade: 3/5, Impacto: 4/5, Nível: Médio
+  Mitigação: Realizar testes de integração antecipados
+
+- R03: Dependências externas não cumpridas
+  Probabilidade: 4/5, Impacto: 3/5, Nível: Médio
+  Mitigação: Refinar estimativas com base em dados históricos
+
+- R04: Problemas de compatibilidade
+  Probabilidade: 4/5, Impacto: 4/5, Nível: Alto
+  Mitigação: Refinar estimativas com base em dados históricos
+
+- R05: Requisitos mal definidos
+  Probabilidade: 5/5, Impacto: 3/5, Nível: Médio
+  Mitigação: Realizar testes de aceitação com usuários-chave
+
+Riscos ocorridos:

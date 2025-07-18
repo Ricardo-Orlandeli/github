@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A possibilidade de avançar sem preocupação (PROJ-0263)
+Data: 14/07/2025
+Gerente: Sra. Mirella Pires
+
+Orçamento inicial: R$ 1285810.00
+Custo real atual: R$ 226019.39
+Desvio orçamentário: -7.25%
+Índice de Desempenho de Custo (CPI): 1.02
+Valor Agregado (EV): R$ 230641.92
+Estimativa para conclusão: R$ 1034020.36
+Estimativa no término (EAC): R$ 1260039.75
+Variação no término (VAC): R$ 25770.25
+
+Detalhamento por categoria:
+- Pessoal: R$ 103591.10 (45.8%)
+- Equipamentos: R$ 33794.95 (15.0%)
+- Software: R$ 25475.50 (11.3%)
+- Serviços: R$ 44291.51 (19.6%)
+- Outros: R$ 18866.33 (8.3%)

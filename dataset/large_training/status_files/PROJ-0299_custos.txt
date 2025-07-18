@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O prazer de evoluir sem preocupação (PROJ-0299)
+Data: 14/07/2025
+Gerente: Sofia Vieira
+
+Orçamento inicial: R$ 1097838.00
+Custo real atual: R$ 1011052.07
+Desvio orçamentário: -7.91%
+Índice de Desempenho de Custo (CPI): 0.98
+Valor Agregado (EV): R$ 992027.64
+Estimativa para conclusão: R$ 107839.51
+Estimativa no término (EAC): R$ 1118891.58
+Variação no término (VAC): R$ -21053.58
+
+Detalhamento por categoria:
+- Pessoal: R$ 491664.51 (48.6%)
+- Equipamentos: R$ 134707.67 (13.3%)
+- Software: R$ 158009.33 (15.6%)
+- Serviços: R$ 154028.26 (15.2%)
+- Outros: R$ 72642.30 (7.2%)

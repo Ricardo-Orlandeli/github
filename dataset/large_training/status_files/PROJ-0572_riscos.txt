@@ -1,0 +1,47 @@
+RELATÓRIO DE STATUS DE RISCOS
+Projeto: A simplicidade de evoluir mais facilmente (PROJ-0572)
+Data: 14/07/2025
+Gerente: Agatha Aragão
+
+Riscos identificados:
+- R01: Problemas de desempenho
+  Probabilidade: 5/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Estabelecer canais de comunicação claros
+
+- R02: Resistência dos usuários à mudança
+  Probabilidade: 2/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Contratar pessoal adicional
+
+- R03: Mudanças regulatórias
+  Probabilidade: 5/5, Impacto: 2/5, Nível: Médio
+  Mitigação: Estabelecer canais de comunicação claros
+
+- R04: Indisponibilidade de recursos especializados
+  Probabilidade: 5/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Testar compatibilidade em diferentes ambientes
+
+- R05: Mudanças regulatórias
+  Probabilidade: 3/5, Impacto: 4/5, Nível: Médio
+  Mitigação: Otimizar código e infraestrutura
+
+- R06: Falhas de infraestrutura
+  Probabilidade: 4/5, Impacto: 4/5, Nível: Alto
+  Mitigação: Estabelecer canais de comunicação claros
+
+- R07: Estimativas imprecisas
+  Probabilidade: 5/5, Impacto: 4/5, Nível: Alto
+  Mitigação: Melhorar a documentação de requisitos
+
+- R08: Estimativas imprecisas
+  Probabilidade: 5/5, Impacto: 5/5, Nível: Alto
+  Mitigação: Realizar testes de aceitação com usuários-chave
+
+Riscos ocorridos:
+- R08 (ocorrido em 26/10/2024)
+  Impacto real: Atraso de 2 semanas no cronograma
+  Ações tomadas: Revisão do orçamento
+
+- R05 (ocorrido em 23/05/2025)
+  Impacto real: Retrabalho significativo
+  Ações tomadas: Revisão de processos
+

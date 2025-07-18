@@ -1,0 +1,31 @@
+RELATÓRIO DE STATUS DE RISCOS
+Projeto: A liberdade de inovar mais facilmente (PROJ-0636)
+Data: 14/07/2025
+Gerente: Breno Novaes
+
+Riscos identificados:
+- R01: Falhas de infraestrutura
+  Probabilidade: 3/5, Impacto: 2/5, Nível: Baixo
+  Mitigação: Otimizar código e infraestrutura
+
+- R02: Problemas de comunicação com stakeholders
+  Probabilidade: 4/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Buscar fornecedores alternativos
+
+- R03: Dependências externas não cumpridas
+  Probabilidade: 2/5, Impacto: 2/5, Nível: Baixo
+  Mitigação: Testar compatibilidade em diferentes ambientes
+
+- R04: Problemas de integração com sistemas legados
+  Probabilidade: 2/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Realizar testes de integração antecipados
+
+Riscos ocorridos:
+- R03 (ocorrido em 05/05/2025)
+  Impacto real: Insatisfação dos stakeholders
+  Ações tomadas: Implementação de controles adicionais
+
+- R02 (ocorrido em 20/03/2025)
+  Impacto real: Indisponibilidade temporária
+  Ações tomadas: Implementação de controles adicionais
+

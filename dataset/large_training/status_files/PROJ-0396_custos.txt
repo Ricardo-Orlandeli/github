@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A vantagem de avançar antes de tudo (PROJ-0396)
+Data: 14/07/2025
+Gerente: Júlia Freitas
+
+Orçamento inicial: R$ 1372560.00
+Custo real atual: R$ 1070696.08
+Desvio orçamentário: -21.99%
+Índice de Desempenho de Custo (CPI): 0.97
+Valor Agregado (EV): R$ 1037934.78
+Estimativa para conclusão: R$ 345187.31
+Estimativa no término (EAC): R$ 1415883.40
+Variação no término (VAC): R$ -43323.40
+
+Detalhamento por categoria:
+- Pessoal: R$ 550935.42 (51.5%)
+- Equipamentos: R$ 151169.29 (14.1%)
+- Software: R$ 151683.66 (14.2%)
+- Serviços: R$ 135071.66 (12.6%)
+- Outros: R$ 81836.05 (7.6%)

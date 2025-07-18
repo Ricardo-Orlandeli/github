@@ -1,0 +1,47 @@
+RELATÓRIO DE STATUS DE RISCOS
+Projeto: A possibilidade de atingir seus objetivos com confiança (PROJ-0331)
+Data: 14/07/2025
+Gerente: Luiza das Neves
+
+Riscos identificados:
+- R01: Mudanças regulatórias
+  Probabilidade: 4/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Comunicar benefícios da mudança
+
+- R02: Problemas de compatibilidade
+  Probabilidade: 1/5, Impacto: 4/5, Nível: Baixo
+  Mitigação: Melhorar a documentação de requisitos
+
+- R03: Estimativas imprecisas
+  Probabilidade: 3/5, Impacto: 3/5, Nível: Médio
+  Mitigação: Refinar estimativas com base em dados históricos
+
+- R04: Rotatividade de pessoal-chave
+  Probabilidade: 2/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Implementar plano de contingência
+
+- R05: Problemas de integração com sistemas legados
+  Probabilidade: 5/5, Impacto: 3/5, Nível: Médio
+  Mitigação: Contratar pessoal adicional
+
+- R06: Indisponibilidade de recursos especializados
+  Probabilidade: 4/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Otimizar código e infraestrutura
+
+- R07: Dependências externas não cumpridas
+  Probabilidade: 4/5, Impacto: 4/5, Nível: Alto
+  Mitigação: Comunicar benefícios da mudança
+
+- R08: Falhas em testes de aceitação
+  Probabilidade: 3/5, Impacto: 5/5, Nível: Médio
+  Mitigação: Refinar estimativas com base em dados históricos
+
+Riscos ocorridos:
+- R03 (ocorrido em 07/01/2025)
+  Impacto real: Aumento de 10% nos custos
+  Ações tomadas: Ajuste no cronograma
+
+- R02 (ocorrido em 02/01/2024)
+  Impacto real: Aumento de 10% nos custos
+  Ações tomadas: Realocação de recursos
+

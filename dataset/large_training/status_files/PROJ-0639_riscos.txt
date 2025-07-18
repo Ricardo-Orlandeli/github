@@ -1,0 +1,31 @@
+RELATÓRIO DE STATUS DE RISCOS
+Projeto: A certeza de conseguir mais facilmente (PROJ-0639)
+Data: 14/07/2025
+Gerente: Oliver Albuquerque
+
+Riscos identificados:
+- R01: Estimativas imprecisas
+  Probabilidade: 1/5, Impacto: 4/5, Nível: Baixo
+  Mitigação: Gerenciar dependências ativamente
+
+- R02: Atraso na entrega de componentes críticos
+  Probabilidade: 3/5, Impacto: 2/5, Nível: Baixo
+  Mitigação: Contratar pessoal adicional
+
+- R03: Estimativas imprecisas
+  Probabilidade: 4/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Melhorar a documentação de requisitos
+
+- R04: Requisitos mal definidos
+  Probabilidade: 5/5, Impacto: 5/5, Nível: Alto
+  Mitigação: Gerenciar dependências ativamente
+
+- R05: Problemas de desempenho
+  Probabilidade: 1/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Buscar fornecedores alternativos
+
+- R06: Dependências externas não cumpridas
+  Probabilidade: 1/5, Impacto: 4/5, Nível: Baixo
+  Mitigação: Melhorar a documentação de requisitos
+
+Riscos ocorridos:

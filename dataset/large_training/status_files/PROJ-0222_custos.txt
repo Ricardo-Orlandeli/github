@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A vantagem de mudar em estado puro (PROJ-0222)
+Data: 14/07/2025
+Gerente: Sr. Thales Gonçalves
+
+Orçamento inicial: R$ 2540939.00
+Custo real atual: R$ 2598720.60
+Desvio orçamentário: 2.27%
+Índice de Desempenho de Custo (CPI): 0.89
+Valor Agregado (EV): R$ 2306180.83
+Estimativa para conclusão: R$ 264537.31
+Estimativa no término (EAC): R$ 2863257.92
+Variação no término (VAC): R$ -322318.92
+
+Detalhamento por categoria:
+- Pessoal: R$ 1440354.77 (55.4%)
+- Equipamentos: R$ 349854.62 (13.5%)
+- Software: R$ 171753.97 (6.6%)
+- Serviços: R$ 449188.50 (17.3%)
+- Outros: R$ 187568.74 (7.2%)

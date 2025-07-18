@@ -1,0 +1,25 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A arte de concretizar seus projetos mais facilmente (PROJ-0077)
+Data: 14/07/2025
+Gerente: Maria Júlia da Rosa
+
+Status atual: Atrasado
+Percentual de conclusão: 58.0%
+Data de início: 09/05/2025
+Data de término planejada: 20/07/2025
+Data de término real/prevista: 12/11/2025
+Atraso atual: 0 dias
+Motivo do atraso: Recursos insuficientes
+Índice de Desempenho de Cronograma (SPI): 0.63
+Valor Planejado (PV): R$ 1720579.67
+Valor Agregado (EV): R$ 1088436.11
+
+Tarefas críticas:
+- Testes de segurança
+- Desenvolvimento do módulo de autenticação
+- Implementação do módulo de notificações
+- Testes de segurança
+
+Tarefas atrasadas:
+- Implementação do módulo de notificações
+- Testes de segurança

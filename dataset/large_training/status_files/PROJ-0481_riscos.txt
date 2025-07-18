@@ -1,0 +1,31 @@
+RELATÓRIO DE STATUS DE RISCOS
+Projeto: A certeza de mudar antes de tudo (PROJ-0481)
+Data: 14/07/2025
+Gerente: Sr. Benjamin Fernandes
+
+Riscos identificados:
+- R01: Falhas de segurança
+  Probabilidade: 1/5, Impacto: 4/5, Nível: Baixo
+  Mitigação: Refinar estimativas com base em dados históricos
+
+- R02: Falhas em testes de aceitação
+  Probabilidade: 1/5, Impacto: 4/5, Nível: Baixo
+  Mitigação: Implementar redundância de infraestrutura
+
+- R03: Dependências externas não cumpridas
+  Probabilidade: 1/5, Impacto: 2/5, Nível: Baixo
+  Mitigação: Contratar pessoal adicional
+
+- R04: Mudanças regulatórias
+  Probabilidade: 3/5, Impacto: 5/5, Nível: Médio
+  Mitigação: Refinar estimativas com base em dados históricos
+
+- R05: Estimativas imprecisas
+  Probabilidade: 5/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Realizar testes de aceitação com usuários-chave
+
+- R06: Falhas de segurança
+  Probabilidade: 5/5, Impacto: 2/5, Nível: Médio
+  Mitigação: Implementar plano de contingência
+
+Riscos ocorridos:

@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A arte de realizar seus sonhos antes de tudo (PROJ-0162)
+Data: 14/07/2025
+Gerente: Leonardo Montenegro
+
+Orçamento inicial: R$ 4411685.00
+Custo real atual: R$ 5187619.10
+Desvio orçamentário: 17.59%
+Índice de Desempenho de Custo (CPI): 0.85
+Valor Agregado (EV): R$ 4407273.32
+Estimativa para conclusão: R$ 5192.81
+Estimativa no término (EAC): R$ 5192811.91
+Variação no término (VAC): R$ -781126.91
+
+Detalhamento por categoria:
+- Pessoal: R$ 2175860.61 (41.9%)
+- Equipamentos: R$ 988863.03 (19.1%)
+- Software: R$ 553676.75 (10.7%)
+- Serviços: R$ 995440.80 (19.2%)
+- Outros: R$ 473777.91 (9.1%)

@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A arte de atingir seus objetivos com força total (PROJ-0424)
+Data: 14/07/2025
+Gerente: Alice Martins
+
+Orçamento inicial: R$ 1768075.00
+Custo real atual: R$ 1097823.60
+Desvio orçamentário: 17.90%
+Índice de Desempenho de Custo (CPI): 0.73
+Valor Agregado (EV): R$ 799709.22
+Estimativa para conclusão: R$ 1329351.69
+Estimativa no término (EAC): R$ 2427175.29
+Variação no término (VAC): R$ -659100.29
+
+Detalhamento por categoria:
+- Pessoal: R$ 573186.01 (52.2%)
+- Equipamentos: R$ 113836.95 (10.4%)
+- Software: R$ 150567.85 (13.7%)
+- Serviços: R$ 164568.72 (15.0%)
+- Outros: R$ 95664.07 (8.7%)

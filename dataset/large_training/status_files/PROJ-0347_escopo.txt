@@ -1,0 +1,33 @@
+RELATÓRIO DE STATUS DE ESCOPO
+Projeto: O direito de mudar com força total (PROJ-0347)
+Data: 14/07/2025
+Gerente: Marina Farias
+
+Escopo original: Sistema para o direito de mudar com força total
+Houve mudança de escopo: Sim
+Descrição das mudanças: Alteração nas especificações técnicas
+Impacto no cronograma: 40 dias
+Impacto no custo: R$ 257681.61
+
+Solicitações de mudança:
+- SCM-01: Implementação de módulo de exportação de dados
+- SCM-02: Mudança na arquitetura do sistema
+- SCM-03: Alteração na interface do usuário
+- SCM-04: Mudança no banco de dados
+
+Requisitos atuais:
+- REQ-01: O sistema deve ter alta disponibilidade (99.9%)
+- REQ-02: O sistema deve registrar logs de auditoria
+- REQ-03: O sistema deve passar por testes de segurança
+- REQ-04: O sistema deve ter interface responsiva
+- REQ-05: O sistema deve ter backup automático diário
+- REQ-06: O sistema deve permitir autenticação de usuários
+- REQ-07: O sistema deve permitir autenticação de usuários
+- REQ-08: O sistema deve processar transações em menos de 2 seconds
+- REQ-09: O sistema deve permitir integração com APIs externas
+- REQ-10: O sistema deve ter controle de acesso baseado em perfis
+- REQ-11: O sistema deve implementar criptografia de dados sensíveis
+- REQ-12: O sistema deve ter interface responsiva
+- REQ-13: O sistema deve processar transações em menos de 2 seconds
+- REQ-14: O sistema deve ter alta disponibilidade (99.9%)
+- REQ-15: O sistema deve ser compatível com navegadores modernos

@@ -1,0 +1,43 @@
+RELATÓRIO DE STATUS DE RISCOS
+Projeto: A segurança de ganhar de maneira eficaz (PROJ-0059)
+Data: 14/07/2025
+Gerente: Valentim Pastor
+
+Riscos identificados:
+- R01: Problemas de comunicação com stakeholders
+  Probabilidade: 4/5, Impacto: 4/5, Nível: Alto
+  Mitigação: Estabelecer canais de comunicação claros
+
+- R02: Requisitos mal definidos
+  Probabilidade: 1/5, Impacto: 4/5, Nível: Baixo
+  Mitigação: Gerenciar dependências ativamente
+
+- R03: Problemas de compatibilidade
+  Probabilidade: 2/5, Impacto: 3/5, Nível: Baixo
+  Mitigação: Fortalecer medidas de segurança
+
+- R04: Atraso na entrega de componentes críticos
+  Probabilidade: 2/5, Impacto: 5/5, Nível: Médio
+  Mitigação: Melhorar a documentação de requisitos
+
+- R05: Estimativas imprecisas
+  Probabilidade: 3/5, Impacto: 4/5, Nível: Médio
+  Mitigação: Contratar pessoal adicional
+
+- R06: Requisitos mal definidos
+  Probabilidade: 4/5, Impacto: 3/5, Nível: Médio
+  Mitigação: Buscar fornecedores alternativos
+
+- R07: Resistência dos usuários à mudança
+  Probabilidade: 1/5, Impacto: 5/5, Nível: Baixo
+  Mitigação: Realizar testes de aceitação com usuários-chave
+
+- R08: Requisitos mal definidos
+  Probabilidade: 1/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Melhorar a documentação de requisitos
+
+Riscos ocorridos:
+- R07 (ocorrido em 01/03/2025)
+  Impacto real: Perda de dados
+  Ações tomadas: Realocação de recursos
+

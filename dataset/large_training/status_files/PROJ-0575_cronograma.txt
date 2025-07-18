@@ -1,0 +1,24 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: O conforto de mudar antes de tudo (PROJ-0575)
+Data: 14/07/2025
+Gerente: Alícia Leão
+
+Status atual: Em andamento
+Percentual de conclusão: 94.4%
+Data de início: 02/04/2024
+Data de término planejada: 13/11/2024
+Data de término real/prevista: 02/11/2024
+Atraso atual: 243 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.04
+Valor Planejado (PV): R$ 258546.00
+Valor Agregado (EV): R$ 244051.69
+
+Tarefas críticas:
+- Configuração da infraestrutura
+- Desenvolvimento do módulo de autenticação
+- Implementação do módulo de exportação de dados
+- Implementação do módulo de relatórios
+- Configuração do ambiente de produção
+
+Tarefas atrasadas:

@@ -1,0 +1,47 @@
+RELATÓRIO DE STATUS DE RISCOS
+Projeto: O prazer de conseguir simplesmente (PROJ-0192)
+Data: 14/07/2025
+Gerente: Rebeca Peixoto
+
+Riscos identificados:
+- R01: Mudanças regulatórias
+  Probabilidade: 5/5, Impacto: 2/5, Nível: Médio
+  Mitigação: Realizar testes de integração antecipados
+
+- R02: Problemas de comunicação com stakeholders
+  Probabilidade: 1/5, Impacto: 4/5, Nível: Baixo
+  Mitigação: Estabelecer canais de comunicação claros
+
+- R03: Dependências externas não cumpridas
+  Probabilidade: 3/5, Impacto: 2/5, Nível: Baixo
+  Mitigação: Contratar pessoal adicional
+
+- R04: Problemas de comunicação com stakeholders
+  Probabilidade: 1/5, Impacto: 4/5, Nível: Baixo
+  Mitigação: Comunicar benefícios da mudança
+
+- R05: Atraso na entrega de componentes críticos
+  Probabilidade: 3/5, Impacto: 4/5, Nível: Médio
+  Mitigação: Realizar testes de integração antecipados
+
+- R06: Estimativas imprecisas
+  Probabilidade: 5/5, Impacto: 5/5, Nível: Alto
+  Mitigação: Buscar fornecedores alternativos
+
+- R07: Problemas de compatibilidade
+  Probabilidade: 1/5, Impacto: 3/5, Nível: Baixo
+  Mitigação: Monitorar mudanças regulatórias
+
+Riscos ocorridos:
+- R03 (ocorrido em 16/10/2024)
+  Impacto real: Retrabalho significativo
+  Ações tomadas: Comunicação intensificada com stakeholders
+
+- R01 (ocorrido em 22/10/2024)
+  Impacto real: Perda de recursos-chave
+  Ações tomadas: Ajuste no cronograma
+
+- R05 (ocorrido em 28/11/2024)
+  Impacto real: Falhas de segurança
+  Ações tomadas: Realocação de recursos
+

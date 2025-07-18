@@ -1,0 +1,29 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: O direito de mudar direto da fonte (PROJ-0945)
+Data: 14/07/2025
+Gerente: Isadora Pacheco
+
+Status atual: Atrasado
+Percentual de conclusão: 62.6%
+Data de início: 26/12/2023
+Data de término planejada: 15/04/2024
+Data de término real/prevista: 29/06/2024
+Atraso atual: 455 dias
+Motivo do atraso: Problemas de integração com sistemas legados
+Índice de Desempenho de Cronograma (SPI): 0.63
+Valor Planejado (PV): R$ 627567.00
+Valor Agregado (EV): R$ 393009.43
+
+Tarefas críticas:
+- Desenvolvimento do módulo de autenticação
+- Integração com sistema de pagamentos
+- Implementação do sistema de backup
+- Desenvolvimento da interface do usuário
+- Implementação do módulo de relatórios
+- Desenvolvimento da interface do usuário
+- Implementação do módulo de notificações
+
+Tarefas atrasadas:
+- Desenvolvimento da interface do usuário
+- Implementação do módulo de notificações
+- Implementação do módulo de relatórios

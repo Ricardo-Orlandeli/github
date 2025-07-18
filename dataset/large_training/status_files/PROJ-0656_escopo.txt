@@ -1,0 +1,24 @@
+RELATÓRIO DE STATUS DE ESCOPO
+Projeto: O poder de avançar antes de tudo (PROJ-0656)
+Data: 14/07/2025
+Gerente: Pietra Andrade
+
+Escopo original: Sistema para o poder de avançar antes de tudo
+Houve mudança de escopo: Sim
+Descrição das mudanças: Adição de novos requisitos de segurança
+Impacto no cronograma: 42 dias
+Impacto no custo: R$ 153448.07
+
+Solicitações de mudança:
+- SCM-01: Implementação de módulo de exportação de dados
+- SCM-02: Adição de relatórios gerenciais
+- SCM-03: Adição de relatórios gerenciais
+- SCM-04: Adição de relatórios gerenciais
+- SCM-05: Adição de relatórios gerenciais
+
+Requisitos atuais:
+- REQ-01: O sistema deve ter interface responsiva
+- REQ-02: O sistema deve permitir integração com APIs externas
+- REQ-03: O sistema deve ter interface responsiva
+- REQ-04: O sistema deve ter interface responsiva
+- REQ-05: O sistema deve ter alta disponibilidade (99.9%)

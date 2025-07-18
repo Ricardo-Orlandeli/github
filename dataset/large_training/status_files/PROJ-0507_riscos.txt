@@ -1,0 +1,23 @@
+RELATÓRIO DE STATUS DE RISCOS
+Projeto: A liberdade de atingir seus objetivos com toda a tranquilidade (PROJ-0507)
+Data: 14/07/2025
+Gerente: Maria Clara Montenegro
+
+Riscos identificados:
+- R01: Requisitos mal definidos
+  Probabilidade: 4/5, Impacto: 5/5, Nível: Alto
+  Mitigação: Refinar estimativas com base em dados históricos
+
+- R02: Requisitos mal definidos
+  Probabilidade: 1/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Estabelecer canais de comunicação claros
+
+- R03: Falhas de infraestrutura
+  Probabilidade: 3/5, Impacto: 5/5, Nível: Médio
+  Mitigação: Comunicar benefícios da mudança
+
+- R04: Estimativas imprecisas
+  Probabilidade: 4/5, Impacto: 2/5, Nível: Médio
+  Mitigação: Fortalecer medidas de segurança
+
+Riscos ocorridos:

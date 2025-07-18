@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O poder de atingir seus objetivos em estado puro (PROJ-0750)
+Data: 14/07/2025
+Gerente: Dra. Lara Freitas
+
+Orçamento inicial: R$ 3022929.00
+Custo real atual: R$ 2593226.06
+Desvio orçamentário: -14.21%
+Índice de Desempenho de Custo (CPI): 1.16
+Valor Agregado (EV): R$ 3000621.20
+Estimativa para conclusão: R$ 19279.06
+Estimativa no término (EAC): R$ 2612505.12
+Variação no término (VAC): R$ 410423.88
+
+Detalhamento por categoria:
+- Pessoal: R$ 1356653.19 (52.3%)
+- Equipamentos: R$ 413087.62 (15.9%)
+- Software: R$ 178814.48 (6.9%)
+- Serviços: R$ 499217.45 (19.3%)
+- Outros: R$ 145453.32 (5.6%)

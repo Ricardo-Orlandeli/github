@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O direito de mudar de maneira eficaz (PROJ-0115)
+Data: 14/07/2025
+Gerente: Samuel Macedo
+
+Orçamento inicial: R$ 4732116.00
+Custo real atual: R$ 4313855.11
+Desvio orçamentário: -8.84%
+Índice de Desempenho de Custo (CPI): 1.08
+Valor Agregado (EV): R$ 4677688.04
+Estimativa para conclusão: R$ 50194.53
+Estimativa no término (EAC): R$ 4364049.64
+Variação no término (VAC): R$ 368066.36
+
+Detalhamento por categoria:
+- Pessoal: R$ 2472561.73 (57.3%)
+- Equipamentos: R$ 542520.08 (12.6%)
+- Software: R$ 336717.10 (7.8%)
+- Serviços: R$ 541863.39 (12.6%)
+- Outros: R$ 420192.82 (9.7%)

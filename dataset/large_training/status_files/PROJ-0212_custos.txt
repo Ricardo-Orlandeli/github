@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A arte de avançar mais rapidamente (PROJ-0212)
+Data: 14/07/2025
+Gerente: Isabella Nascimento
+
+Orçamento inicial: R$ 1620195.00
+Custo real atual: R$ 1772280.18
+Desvio orçamentário: 9.39%
+Índice de Desempenho de Custo (CPI): 0.91
+Valor Agregado (EV): R$ 1620195.00
+Estimativa para conclusão: R$ 0.00
+Estimativa no término (EAC): R$ 1772280.18
+Variação no término (VAC): R$ -152085.18
+
+Detalhamento por categoria:
+- Pessoal: R$ 910348.86 (51.4%)
+- Equipamentos: R$ 261088.35 (14.7%)
+- Software: R$ 226434.90 (12.8%)
+- Serviços: R$ 289674.69 (16.3%)
+- Outros: R$ 84733.40 (4.8%)

@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O prazer de evoluir de maneira eficaz (PROJ-0896)
+Data: 14/07/2025
+Gerente: Daniel Cirino
+
+Orçamento inicial: R$ 4960507.00
+Custo real atual: R$ 5527843.95
+Desvio orçamentário: 11.44%
+Índice de Desempenho de Custo (CPI): 0.90
+Valor Agregado (EV): R$ 4955546.49
+Estimativa para conclusão: R$ 5533.38
+Estimativa no término (EAC): R$ 5533377.32
+Variação no término (VAC): R$ -572870.32
+
+Detalhamento por categoria:
+- Pessoal: R$ 3002685.72 (54.3%)
+- Equipamentos: R$ 571838.81 (10.3%)
+- Software: R$ 779256.85 (14.1%)
+- Serviços: R$ 729860.97 (13.2%)
+- Outros: R$ 444201.60 (8.0%)

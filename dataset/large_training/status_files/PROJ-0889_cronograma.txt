@@ -1,0 +1,29 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A liberdade de realizar seus sonhos em estado puro (PROJ-0889)
+Data: 14/07/2025
+Gerente: Maria Alice Aparecida
+
+Status atual: Atrasado
+Percentual de conclusão: 52.0%
+Data de início: 30/11/2023
+Data de término planejada: 13/03/2024
+Data de término real/prevista: 16/06/2024
+Atraso atual: 488 dias
+Motivo do atraso: Mudanças de requisitos não planejadas
+Índice de Desempenho de Cronograma (SPI): 0.52
+Valor Planejado (PV): R$ 2584334.00
+Valor Agregado (EV): R$ 1343876.22
+
+Tarefas críticas:
+- Desenvolvimento do painel administrativo
+- Testes de segurança
+- Implementação do módulo de relatórios
+- Implementação do módulo de exportação de dados
+- Implementação do módulo de exportação de dados
+- Testes de segurança
+- Testes de aceitação do usuário
+- Implementação do módulo de exportação de dados
+
+Tarefas atrasadas:
+- Implementação do módulo de exportação de dados
+- Testes de segurança

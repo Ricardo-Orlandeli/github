@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O poder de mudar simplesmente (PROJ-0098)
+Data: 14/07/2025
+Gerente: Ísis Vasconcelos
+
+Orçamento inicial: R$ 3886563.00
+Custo real atual: R$ 3244480.40
+Desvio orçamentário: -16.52%
+Índice de Desempenho de Custo (CPI): 1.20
+Valor Agregado (EV): R$ 3886563.00
+Estimativa para conclusão: R$ 0.00
+Estimativa no término (EAC): R$ 3244480.40
+Variação no término (VAC): R$ 642082.60
+
+Detalhamento por categoria:
+- Pessoal: R$ 1687495.96 (52.0%)
+- Equipamentos: R$ 402619.93 (12.4%)
+- Software: R$ 320118.06 (9.9%)
+- Serviços: R$ 525099.75 (16.2%)
+- Outros: R$ 309146.71 (9.5%)

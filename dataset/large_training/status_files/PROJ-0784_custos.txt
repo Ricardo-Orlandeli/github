@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O prazer de conseguir mais facilmente (PROJ-0784)
+Data: 14/07/2025
+Gerente: Sr. Lucas Gabriel Duarte
+
+Orçamento inicial: R$ 2615250.00
+Custo real atual: R$ 2522275.05
+Desvio orçamentário: -3.56%
+Índice de Desempenho de Custo (CPI): 0.68
+Valor Agregado (EV): R$ 1713583.79
+Estimativa para conclusão: R$ 1327189.37
+Estimativa no término (EAC): R$ 3849464.42
+Variação no término (VAC): R$ -1234214.42
+
+Detalhamento por categoria:
+- Pessoal: R$ 1300679.90 (51.6%)
+- Equipamentos: R$ 448843.93 (17.8%)
+- Software: R$ 259255.30 (10.3%)
+- Serviços: R$ 305857.27 (12.1%)
+- Outros: R$ 207638.65 (8.2%)

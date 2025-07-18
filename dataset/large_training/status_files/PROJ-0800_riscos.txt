@@ -1,0 +1,31 @@
+RELATÓRIO DE STATUS DE RISCOS
+Projeto: A simplicidade de ganhar naturalmente (PROJ-0800)
+Data: 14/07/2025
+Gerente: Raquel da Mata
+
+Riscos identificados:
+- R01: Rotatividade de pessoal-chave
+  Probabilidade: 1/5, Impacto: 4/5, Nível: Baixo
+  Mitigação: Realizar testes de integração antecipados
+
+- R02: Falhas de segurança
+  Probabilidade: 3/5, Impacto: 5/5, Nível: Médio
+  Mitigação: Comunicar benefícios da mudança
+
+- R03: Problemas de desempenho
+  Probabilidade: 4/5, Impacto: 5/5, Nível: Alto
+  Mitigação: Contratar pessoal adicional
+
+- R04: Problemas de compatibilidade
+  Probabilidade: 3/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Otimizar código e infraestrutura
+
+Riscos ocorridos:
+- R02 (ocorrido em 08/07/2025)
+  Impacto real: Falhas de segurança
+  Ações tomadas: Revisão de prioridades
+
+- R03 (ocorrido em 17/09/2024)
+  Impacto real: Falhas de segurança
+  Ações tomadas: Implementação de controles adicionais
+

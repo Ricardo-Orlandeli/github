@@ -1,0 +1,39 @@
+RELATÓRIO DE STATUS DE RISCOS
+Projeto: A certeza de mudar de maneira eficaz (PROJ-0109)
+Data: 14/07/2025
+Gerente: Elisa da Rosa
+
+Riscos identificados:
+- R01: Falhas de segurança
+  Probabilidade: 2/5, Impacto: 5/5, Nível: Médio
+  Mitigação: Testar compatibilidade em diferentes ambientes
+
+- R02: Falhas em testes de aceitação
+  Probabilidade: 2/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Gerenciar dependências ativamente
+
+- R03: Falhas em testes de aceitação
+  Probabilidade: 3/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Testar compatibilidade em diferentes ambientes
+
+- R04: Indisponibilidade de recursos especializados
+  Probabilidade: 5/5, Impacto: 4/5, Nível: Alto
+  Mitigação: Fortalecer medidas de segurança
+
+- R05: Mudanças regulatórias
+  Probabilidade: 4/5, Impacto: 4/5, Nível: Alto
+  Mitigação: Comunicar benefícios da mudança
+
+- R06: Dependências externas não cumpridas
+  Probabilidade: 5/5, Impacto: 4/5, Nível: Alto
+  Mitigação: Realizar testes de integração antecipados
+
+- R07: Resistência dos usuários à mudança
+  Probabilidade: 3/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Testar compatibilidade em diferentes ambientes
+
+- R08: Mudanças regulatórias
+  Probabilidade: 4/5, Impacto: 2/5, Nível: Médio
+  Mitigação: Buscar fornecedores alternativos
+
+Riscos ocorridos:

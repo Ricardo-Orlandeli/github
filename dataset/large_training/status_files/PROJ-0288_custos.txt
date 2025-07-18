@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A vantagem de atingir seus objetivos com toda a tranquilidade (PROJ-0288)
+Data: 14/07/2025
+Gerente: Henry Gabriel Oliveira
+
+Orçamento inicial: R$ 2069640.00
+Custo real atual: R$ 2122478.95
+Desvio orçamentário: 2.55%
+Índice de Desempenho de Custo (CPI): 0.89
+Valor Agregado (EV): R$ 1884600.10
+Estimativa para conclusão: R$ 208396.09
+Estimativa no término (EAC): R$ 2330875.04
+Variação no término (VAC): R$ -261235.04
+
+Detalhamento por categoria:
+- Pessoal: R$ 1109787.87 (52.3%)
+- Equipamentos: R$ 235237.36 (11.1%)
+- Software: R$ 288251.58 (13.6%)
+- Serviços: R$ 339161.58 (16.0%)
+- Outros: R$ 150040.58 (7.1%)

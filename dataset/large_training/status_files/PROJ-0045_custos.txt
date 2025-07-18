@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O conforto de avançar com confiança (PROJ-0045)
+Data: 14/07/2025
+Gerente: Davi Lucas Rodrigues
+
+Orçamento inicial: R$ 2943343.00
+Custo real atual: R$ 2826661.54
+Desvio orçamentário: -3.96%
+Índice de Desempenho de Custo (CPI): 1.04
+Valor Agregado (EV): R$ 2940399.66
+Estimativa para conclusão: R$ 2829.49
+Estimativa no término (EAC): R$ 2829491.03
+Variação no término (VAC): R$ 113851.97
+
+Detalhamento por categoria:
+- Pessoal: R$ 1547625.71 (54.8%)
+- Equipamentos: R$ 430518.32 (15.2%)
+- Software: R$ 308789.96 (10.9%)
+- Serviços: R$ 274335.90 (9.7%)
+- Outros: R$ 265391.64 (9.4%)

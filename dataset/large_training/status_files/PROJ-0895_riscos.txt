@@ -1,0 +1,23 @@
+RELATÓRIO DE STATUS DE RISCOS
+Projeto: A segurança de evoluir mais facilmente (PROJ-0895)
+Data: 14/07/2025
+Gerente: Sr. Levi Pimenta
+
+Riscos identificados:
+- R01: Mudanças regulatórias
+  Probabilidade: 1/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Buscar fornecedores alternativos
+
+- R02: Atraso na entrega de componentes críticos
+  Probabilidade: 2/5, Impacto: 4/5, Nível: Médio
+  Mitigação: Realizar testes de aceitação com usuários-chave
+
+- R03: Problemas de desempenho
+  Probabilidade: 5/5, Impacto: 2/5, Nível: Médio
+  Mitigação: Monitorar mudanças regulatórias
+
+Riscos ocorridos:
+- R02 (ocorrido em 10/06/2025)
+  Impacto real: Atraso de 2 semanas no cronograma
+  Ações tomadas: Realocação de recursos
+

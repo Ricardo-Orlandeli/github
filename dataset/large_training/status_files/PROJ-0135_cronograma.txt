@@ -1,0 +1,24 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: O conforto de realizar seus sonhos com força total (PROJ-0135)
+Data: 14/07/2025
+Gerente: Enzo Gabriel Viana
+
+Status atual: Em andamento
+Percentual de conclusão: 99.9%
+Data de início: 11/11/2024
+Data de término planejada: 07/08/2025
+Data de término real/prevista: 05/08/2025
+Atraso atual: 0 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 0.94
+Valor Planejado (PV): R$ 237693.72
+Valor Agregado (EV): R$ 260717.02
+
+Tarefas críticas:
+- Implementação do módulo de notificações
+- Implementação do sistema de backup
+- Desenvolvimento do painel administrativo
+- Testes de segurança
+- Testes de aceitação do usuário
+
+Tarefas atrasadas:

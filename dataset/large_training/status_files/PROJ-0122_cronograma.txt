@@ -1,0 +1,26 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A certeza de avançar antes de tudo (PROJ-0122)
+Data: 14/07/2025
+Gerente: Maria Cecília Barros
+
+Status atual: Em andamento
+Percentual de conclusão: 99.9%
+Data de início: 27/05/2025
+Data de término planejada: 04/07/2025
+Data de término real/prevista: 22/07/2025
+Atraso atual: 10 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 0.94
+Valor Planejado (PV): R$ 3678834.00
+Valor Agregado (EV): R$ 3675155.17
+
+Tarefas críticas:
+- Testes de aceitação do usuário
+- Desenvolvimento do módulo de autenticação
+- Implementação da API REST
+- Implementação do módulo de exportação de dados
+- Implementação do módulo de exportação de dados
+- Implementação do módulo de notificações
+- Implementação do sistema de backup
+
+Tarefas atrasadas:

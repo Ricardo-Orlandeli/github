@@ -1,0 +1,31 @@
+RELATÓRIO DE STATUS DE RISCOS
+Projeto: O direito de mudar simplesmente (PROJ-0772)
+Data: 14/07/2025
+Gerente: Eloah Lima
+
+Riscos identificados:
+- R01: Falhas em testes de aceitação
+  Probabilidade: 3/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Buscar fornecedores alternativos
+
+- R02: Rotatividade de pessoal-chave
+  Probabilidade: 4/5, Impacto: 4/5, Nível: Alto
+  Mitigação: Melhorar a documentação de requisitos
+
+- R03: Requisitos mal definidos
+  Probabilidade: 2/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Realizar testes de integração antecipados
+
+- R04: Requisitos mal definidos
+  Probabilidade: 4/5, Impacto: 5/5, Nível: Alto
+  Mitigação: Fortalecer medidas de segurança
+
+- R05: Requisitos mal definidos
+  Probabilidade: 2/5, Impacto: 2/5, Nível: Baixo
+  Mitigação: Otimizar código e infraestrutura
+
+- R06: Problemas de integração com sistemas legados
+  Probabilidade: 1/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Fortalecer medidas de segurança
+
+Riscos ocorridos:

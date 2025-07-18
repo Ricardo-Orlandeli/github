@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A possibilidade de realizar seus sonhos com toda a tranquilidade (PROJ-0776)
+Data: 14/07/2025
+Gerente: Sofia Freitas
+
+Orçamento inicial: R$ 807411.00
+Custo real atual: R$ 806876.60
+Desvio orçamentário: -0.07%
+Índice de Desempenho de Custo (CPI): 1.00
+Valor Agregado (EV): R$ 806603.59
+Estimativa para conclusão: R$ 807.68
+Estimativa no término (EAC): R$ 807684.29
+Variação no término (VAC): R$ -273.29
+
+Detalhamento por categoria:
+- Pessoal: R$ 414143.59 (51.3%)
+- Equipamentos: R$ 130689.62 (16.2%)
+- Software: R$ 100497.87 (12.5%)
+- Serviços: R$ 101258.75 (12.5%)
+- Outros: R$ 60286.76 (7.5%)

@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A simplicidade de evoluir com confiança (PROJ-0801)
+Data: 14/07/2025
+Gerente: Bruna Rocha
+
+Orçamento inicial: R$ 1078975.00
+Custo real atual: R$ 1100747.07
+Desvio orçamentário: 2.02%
+Índice de Desempenho de Custo (CPI): 0.98
+Valor Agregado (EV): R$ 1077896.03
+Estimativa para conclusão: R$ 1101.85
+Estimativa no término (EAC): R$ 1101848.92
+Variação no término (VAC): R$ -22873.92
+
+Detalhamento por categoria:
+- Pessoal: R$ 554705.76 (50.4%)
+- Equipamentos: R$ 220002.92 (20.0%)
+- Software: R$ 75833.95 (6.9%)
+- Serviços: R$ 144393.96 (13.1%)
+- Outros: R$ 105810.48 (9.6%)

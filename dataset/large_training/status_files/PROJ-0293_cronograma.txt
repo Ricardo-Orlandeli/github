@@ -1,0 +1,27 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A segurança de inovar sem preocupação (PROJ-0293)
+Data: 14/07/2025
+Gerente: Sr. José Sales
+
+Status atual: Atrasado
+Percentual de conclusão: 63.2%
+Data de início: 08/11/2023
+Data de término planejada: 24/03/2024
+Data de término real/prevista: 02/05/2024
+Atraso atual: 477 dias
+Motivo do atraso: Dependências externas não cumpridas
+Índice de Desempenho de Cronograma (SPI): 0.63
+Valor Planejado (PV): R$ 2302936.00
+Valor Agregado (EV): R$ 1454997.30
+
+Tarefas críticas:
+- Implementação do módulo de relatórios
+- Implementação do módulo de notificações
+- Testes de aceitação do usuário
+- Implementação do módulo de relatórios
+- Configuração do ambiente de produção
+- Integração com sistema de pagamentos
+- Desenvolvimento do painel administrativo
+
+Tarefas atrasadas:
+- Implementação do módulo de relatórios

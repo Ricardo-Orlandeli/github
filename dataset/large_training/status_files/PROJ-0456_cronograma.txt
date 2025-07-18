@@ -1,0 +1,26 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A certeza de mudar de maneira eficaz (PROJ-0456)
+Data: 14/07/2025
+Gerente: Srta. Maria Isis Marques
+
+Status atual: Em andamento
+Percentual de conclusão: 99.9%
+Data de início: 18/06/2024
+Data de término planejada: 11/12/2024
+Data de término real/prevista: 21/12/2024
+Atraso atual: 215 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 0.93
+Valor Planejado (PV): R$ 3289178.00
+Valor Agregado (EV): R$ 3285888.82
+
+Tarefas críticas:
+- Implementação do módulo de análise de dados
+- Integração com sistema de pagamentos
+- Testes de segurança
+- Testes de segurança
+- Testes de segurança
+- Implementação da API REST
+- Desenvolvimento do módulo de autenticação
+
+Tarefas atrasadas:

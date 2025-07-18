@@ -1,0 +1,24 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A arte de ganhar mais rapidamente (PROJ-0047)
+Data: 14/07/2025
+Gerente: Theodoro Souza
+
+Status atual: Atrasado
+Percentual de conclusão: 73.7%
+Data de início: 26/01/2025
+Data de término planejada: 13/03/2025
+Data de término real/prevista: 21/07/2025
+Atraso atual: 123 dias
+Motivo do atraso: Problemas técnicos inesperados
+Índice de Desempenho de Cronograma (SPI): 0.74
+Valor Planejado (PV): R$ 4357375.00
+Valor Agregado (EV): R$ 3212563.91
+
+Tarefas críticas:
+- Integração com sistema de pagamentos
+- Implementação da API REST
+- Migração de dados legados
+- Implementação da API REST
+
+Tarefas atrasadas:
+- Implementação da API REST

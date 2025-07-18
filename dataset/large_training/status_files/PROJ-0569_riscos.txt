@@ -1,0 +1,23 @@
+RELATÓRIO DE STATUS DE RISCOS
+Projeto: A liberdade de evoluir sem preocupação (PROJ-0569)
+Data: 14/07/2025
+Gerente: Gabriel Rodrigues
+
+Riscos identificados:
+- R01: Falhas de segurança
+  Probabilidade: 3/5, Impacto: 4/5, Nível: Médio
+  Mitigação: Testar compatibilidade em diferentes ambientes
+
+- R02: Falhas de segurança
+  Probabilidade: 2/5, Impacto: 3/5, Nível: Baixo
+  Mitigação: Testar compatibilidade em diferentes ambientes
+
+- R03: Atraso na entrega de componentes críticos
+  Probabilidade: 3/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Testar compatibilidade em diferentes ambientes
+
+- R04: Resistência dos usuários à mudança
+  Probabilidade: 4/5, Impacto: 3/5, Nível: Médio
+  Mitigação: Realizar testes de aceitação com usuários-chave
+
+Riscos ocorridos:

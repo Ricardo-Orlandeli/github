@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A possibilidade de concretizar seus projetos mais facilmente (PROJ-0044)
+Data: 14/07/2025
+Gerente: Heitor Correia
+
+Orçamento inicial: R$ 3299162.00
+Custo real atual: R$ 3407614.74
+Desvio orçamentário: 3.29%
+Índice de Desempenho de Custo (CPI): 0.92
+Valor Agregado (EV): R$ 3132204.72
+Estimativa para conclusão: R$ 181637.59
+Estimativa no término (EAC): R$ 3589252.32
+Variação no término (VAC): R$ -290090.32
+
+Detalhamento por categoria:
+- Pessoal: R$ 2027388.41 (59.5%)
+- Equipamentos: R$ 409561.86 (12.0%)
+- Software: R$ 213674.67 (6.3%)
+- Serviços: R$ 576491.95 (16.9%)
+- Outros: R$ 180497.84 (5.3%)

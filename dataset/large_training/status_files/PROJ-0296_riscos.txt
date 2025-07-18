@@ -1,0 +1,55 @@
+RELATÓRIO DE STATUS DE RISCOS
+Projeto: A vantagem de evoluir com confiança (PROJ-0296)
+Data: 14/07/2025
+Gerente: Maria Liz da Rosa
+
+Riscos identificados:
+- R01: Problemas de compatibilidade
+  Probabilidade: 2/5, Impacto: 3/5, Nível: Baixo
+  Mitigação: Comunicar benefícios da mudança
+
+- R02: Problemas de desempenho
+  Probabilidade: 3/5, Impacto: 5/5, Nível: Médio
+  Mitigação: Realizar testes de integração antecipados
+
+- R03: Problemas de desempenho
+  Probabilidade: 3/5, Impacto: 2/5, Nível: Baixo
+  Mitigação: Buscar fornecedores alternativos
+
+- R04: Falhas de segurança
+  Probabilidade: 1/5, Impacto: 5/5, Nível: Baixo
+  Mitigação: Contratar pessoal adicional
+
+- R05: Falhas de infraestrutura
+  Probabilidade: 4/5, Impacto: 2/5, Nível: Médio
+  Mitigação: Gerenciar dependências ativamente
+
+- R06: Mudanças regulatórias
+  Probabilidade: 4/5, Impacto: 4/5, Nível: Alto
+  Mitigação: Fortalecer medidas de segurança
+
+- R07: Problemas de compatibilidade
+  Probabilidade: 1/5, Impacto: 5/5, Nível: Baixo
+  Mitigação: Otimizar código e infraestrutura
+
+- R08: Falhas de infraestrutura
+  Probabilidade: 2/5, Impacto: 5/5, Nível: Médio
+  Mitigação: Realizar testes de aceitação com usuários-chave
+
+- R09: Problemas de comunicação com stakeholders
+  Probabilidade: 1/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Gerenciar dependências ativamente
+
+- R10: Requisitos mal definidos
+  Probabilidade: 2/5, Impacto: 2/5, Nível: Baixo
+  Mitigação: Contratar pessoal adicional
+
+Riscos ocorridos:
+- R03 (ocorrido em 15/05/2025)
+  Impacto real: Atraso de 2 semanas no cronograma
+  Ações tomadas: Realocação de recursos
+
+- R06 (ocorrido em 11/11/2024)
+  Impacto real: Perda de recursos-chave
+  Ações tomadas: Realocação de recursos
+

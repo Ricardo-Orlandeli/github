@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE ESCOPO
+Projeto: O poder de evoluir em estado puro (PROJ-0266)
+Data: 14/07/2025
+Gerente: Maria Luiza Câmara
+
+Escopo original: Sistema para o poder de evoluir em estado puro
+Houve mudança de escopo: Não
+Descrição das mudanças: N/A
+Impacto no cronograma: 0 dias
+Impacto no custo: R$ 0.00
+
+Solicitações de mudança:
+
+Requisitos atuais:
+- REQ-01: O sistema deve ter interface responsiva
+- REQ-02: O sistema deve ter controle de acesso baseado em perfis
+- REQ-03: O sistema deve ter backup automático diário
+- REQ-04: O sistema deve ser compatível com dispositivos móveis
+- REQ-05: O sistema deve ser escalável para suportar até 10.000 usuários simultâneos
+- REQ-06: O sistema deve ser compatível com dispositivos móveis

@@ -1,0 +1,24 @@
+RELATÓRIO DE STATUS DE ESCOPO
+Projeto: A certeza de mudar em estado puro (PROJ-0677)
+Data: 14/07/2025
+Gerente: Sr. Murilo Abreu
+
+Escopo original: Sistema para a certeza de mudar em estado puro
+Houve mudança de escopo: Sim
+Descrição das mudanças: Expansão do escopo para incluir funcionalidades adicionais
+Impacto no cronograma: 53 dias
+Impacto no custo: R$ 145614.51
+
+Solicitações de mudança:
+- SCM-01: Integração com sistema legado
+- SCM-02: Integração com sistema legado
+
+Requisitos atuais:
+- REQ-01: O sistema deve implementar criptografia de dados sensíveis
+- REQ-02: O sistema deve registrar logs de auditoria
+- REQ-03: O sistema deve ter documentação completa
+- REQ-04: O sistema deve ter backup automático diário
+- REQ-05: O sistema deve ser escalável para suportar até 10.000 usuários simultâneos
+- REQ-06: O sistema deve ser compatível com navegadores modernos
+- REQ-07: O sistema deve ser compatível com dispositivos móveis
+- REQ-08: O sistema deve ter backup automático diário

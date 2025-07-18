@@ -1,0 +1,25 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: O conforto de realizar seus sonhos em estado puro (PROJ-0626)
+Data: 14/07/2025
+Gerente: Mariane Cavalcante
+
+Status atual: Em andamento
+Percentual de conclusão: 55.8%
+Data de início: 16/03/2025
+Data de término planejada: 29/11/2025
+Data de término real/prevista: 26/11/2025
+Atraso atual: 0 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.01
+Valor Planejado (PV): R$ 2079509.30
+Valor Agregado (EV): R$ 2494974.23
+
+Tarefas críticas:
+- Desenvolvimento da interface do usuário
+- Implementação do módulo de exportação de dados
+- Desenvolvimento do painel administrativo
+- Testes de aceitação do usuário
+- Implementação do módulo de relatórios
+- Implementação do módulo de exportação de dados
+
+Tarefas atrasadas:

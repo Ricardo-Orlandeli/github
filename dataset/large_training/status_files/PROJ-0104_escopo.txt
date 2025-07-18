@@ -1,0 +1,25 @@
+RELATÓRIO DE STATUS DE ESCOPO
+Projeto: A liberdade de concretizar seus projetos com toda a tranquilidade (PROJ-0104)
+Data: 14/07/2025
+Gerente: Vitória Aparecida
+
+Escopo original: Sistema para a liberdade de concretizar seus projetos com toda a tranquilidade
+Houve mudança de escopo: Sim
+Descrição das mudanças: Expansão do escopo para incluir funcionalidades adicionais
+Impacto no cronograma: 8 dias
+Impacto no custo: R$ 600118.24
+
+Solicitações de mudança:
+- SCM-01: Mudança no banco de dados
+- SCM-02: Adição de relatórios gerenciais
+
+Requisitos atuais:
+- REQ-01: O sistema deve permitir integração com APIs externas
+- REQ-02: O sistema deve permitir autenticação de usuários
+- REQ-03: O sistema deve ter documentação completa
+- REQ-04: O sistema deve permitir integração com APIs externas
+- REQ-05: O sistema deve passar por testes de segurança
+- REQ-06: O sistema deve ser escalável para suportar até 10.000 usuários simultâneos
+- REQ-07: O sistema deve ser compatível com dispositivos móveis
+- REQ-08: O sistema deve permitir autenticação de usuários
+- REQ-09: O sistema deve passar por testes de segurança

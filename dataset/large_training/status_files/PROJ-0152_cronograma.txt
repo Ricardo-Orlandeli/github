@@ -1,0 +1,24 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A simplicidade de ganhar em estado puro (PROJ-0152)
+Data: 14/07/2025
+Gerente: Rebeca da Paz
+
+Status atual: Concluído
+Percentual de conclusão: 100.0%
+Data de início: 18/03/2025
+Data de término planejada: 16/06/2025
+Data de término real/prevista: 05/07/2025
+Atraso atual: 28 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 0.99
+Valor Planejado (PV): R$ 3960779.00
+Valor Agregado (EV): R$ 3960779.00
+
+Tarefas críticas:
+- Desenvolvimento do painel administrativo
+- Implementação do módulo de relatórios
+- Desenvolvimento da interface do usuário
+- Implementação do sistema de backup
+- Desenvolvimento do painel administrativo
+
+Tarefas atrasadas:

@@ -1,0 +1,27 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: O direito de realizar seus sonhos sem preocupação (PROJ-0034)
+Data: 14/07/2025
+Gerente: Ísis da Rocha
+
+Status atual: Em andamento
+Percentual de conclusão: 80.9%
+Data de início: 03/06/2025
+Data de término planejada: 12/07/2025
+Data de término real/prevista: 03/07/2025
+Atraso atual: 2 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 0.89
+Valor Planejado (PV): R$ 4537659.00
+Valor Agregado (EV): R$ 3670296.16
+
+Tarefas críticas:
+- Configuração do ambiente de produção
+- Desenvolvimento da interface do usuário
+- Implementação do módulo de análise de dados
+- Configuração da infraestrutura
+- Implementação do módulo de notificações
+- Testes de aceitação do usuário
+- Desenvolvimento do painel administrativo
+- Testes de aceitação do usuário
+
+Tarefas atrasadas:

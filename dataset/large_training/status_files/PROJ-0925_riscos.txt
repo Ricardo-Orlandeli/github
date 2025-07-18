@@ -1,0 +1,19 @@
+RELATÓRIO DE STATUS DE RISCOS
+Projeto: O prazer de realizar seus sonhos simplesmente (PROJ-0925)
+Data: 14/07/2025
+Gerente: Dra. Alexia Silva
+
+Riscos identificados:
+- R01: Requisitos mal definidos
+  Probabilidade: 3/5, Impacto: 5/5, Nível: Médio
+  Mitigação: Implementar plano de contingência
+
+- R02: Problemas de integração com sistemas legados
+  Probabilidade: 2/5, Impacto: 2/5, Nível: Baixo
+  Mitigação: Melhorar a documentação de requisitos
+
+- R03: Rotatividade de pessoal-chave
+  Probabilidade: 2/5, Impacto: 5/5, Nível: Médio
+  Mitigação: Refinar estimativas com base em dados históricos
+
+Riscos ocorridos:

@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O direito de concretizar seus projetos simplesmente (PROJ-0364)
+Data: 14/07/2025
+Gerente: Hadassa Lima
+
+Orçamento inicial: R$ 3137696.00
+Custo real atual: R$ 2873516.19
+Desvio orçamentário: -8.42%
+Índice de Desempenho de Custo (CPI): 0.94
+Valor Agregado (EV): R$ 2692252.68
+Estimativa para conclusão: R$ 475434.05
+Estimativa no término (EAC): R$ 3348950.24
+Variação no término (VAC): R$ -211254.24
+
+Detalhamento por categoria:
+- Pessoal: R$ 1480739.65 (51.5%)
+- Equipamentos: R$ 320785.95 (11.2%)
+- Software: R$ 421594.26 (14.7%)
+- Serviços: R$ 490647.36 (17.1%)
+- Outros: R$ 159748.97 (5.6%)

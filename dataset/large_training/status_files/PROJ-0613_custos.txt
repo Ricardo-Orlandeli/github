@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O conforto de atingir seus objetivos simplesmente (PROJ-0613)
+Data: 14/07/2025
+Gerente: Raquel das Neves
+
+Orçamento inicial: R$ 3470434.00
+Custo real atual: R$ 1051243.59
+Desvio orçamentário: -23.75%
+Índice de Desempenho de Custo (CPI): 1.11
+Valor Agregado (EV): R$ 1170047.59
+Estimativa para conclusão: R$ 2066810.36
+Estimativa no término (EAC): R$ 3118053.95
+Variação no término (VAC): R$ 352380.05
+
+Detalhamento por categoria:
+- Pessoal: R$ 595523.53 (56.6%)
+- Equipamentos: R$ 128323.45 (12.2%)
+- Software: R$ 88436.04 (8.4%)
+- Serviços: R$ 157272.39 (15.0%)
+- Outros: R$ 81688.18 (7.8%)

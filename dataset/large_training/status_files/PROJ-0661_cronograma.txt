@@ -1,0 +1,23 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A possibilidade de mudar mais rapidamente (PROJ-0661)
+Data: 14/07/2025
+Gerente: Dr. Benício Correia
+
+Status atual: Em andamento
+Percentual de conclusão: 85.5%
+Data de início: 21/03/2024
+Data de término planejada: 14/08/2024
+Data de término real/prevista: 10/08/2024
+Atraso atual: 334 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.08
+Valor Planejado (PV): R$ 687988.00
+Valor Agregado (EV): R$ 587908.28
+
+Tarefas críticas:
+- Configuração do ambiente de produção
+- Implementação do sistema de backup
+- Implementação da API REST
+- Implementação do módulo de notificações
+
+Tarefas atrasadas:

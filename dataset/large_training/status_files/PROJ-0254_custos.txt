@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A simplicidade de conseguir de maneira eficaz (PROJ-0254)
+Data: 14/07/2025
+Gerente: Kevin Carvalho
+
+Orçamento inicial: R$ 4266030.00
+Custo real atual: R$ 4195767.06
+Desvio orçamentário: -1.65%
+Índice de Desempenho de Custo (CPI): 1.02
+Valor Agregado (EV): R$ 4261463.70
+Estimativa para conclusão: R$ 4495.90
+Estimativa no término (EAC): R$ 4200262.96
+Variação no término (VAC): R$ 65767.04
+
+Detalhamento por categoria:
+- Pessoal: R$ 2324935.64 (55.4%)
+- Equipamentos: R$ 567610.66 (13.5%)
+- Software: R$ 294870.28 (7.0%)
+- Serviços: R$ 677747.57 (16.2%)
+- Outros: R$ 330602.91 (7.9%)

@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A possibilidade de ganhar sem preocupação (PROJ-0518)
+Data: 14/07/2025
+Gerente: Maria Flor Alves
+
+Orçamento inicial: R$ 3641741.00
+Custo real atual: R$ 4262499.92
+Desvio orçamentário: 17.05%
+Índice de Desempenho de Custo (CPI): 0.84
+Valor Agregado (EV): R$ 3581016.34
+Estimativa para conclusão: R$ 72280.83
+Estimativa no término (EAC): R$ 4334780.75
+Variação no término (VAC): R$ -693039.75
+
+Detalhamento por categoria:
+- Pessoal: R$ 2375871.37 (55.7%)
+- Equipamentos: R$ 543440.81 (12.7%)
+- Software: R$ 487248.90 (11.4%)
+- Serviços: R$ 635173.92 (14.9%)
+- Outros: R$ 220764.91 (5.2%)

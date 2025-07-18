@@ -1,0 +1,31 @@
+RELATÓRIO DE STATUS DE ESCOPO
+Projeto: A possibilidade de mudar em estado puro (PROJ-0714)
+Data: 14/07/2025
+Gerente: Rodrigo Abreu
+
+Escopo original: Sistema para a possibilidade de mudar em estado puro
+Houve mudança de escopo: Sim
+Descrição das mudanças: Mudança na plataforma de implementação
+Impacto no cronograma: 11 dias
+Impacto no custo: R$ 376264.87
+
+Solicitações de mudança:
+- SCM-01: Adição de relatórios gerenciais
+- SCM-02: Adição de relatórios gerenciais
+
+Requisitos atuais:
+- REQ-01: O sistema deve permitir integração com APIs externas
+- REQ-02: O sistema deve permitir integração com APIs externas
+- REQ-03: O sistema deve ter interface responsiva
+- REQ-04: O sistema deve ter controle de acesso baseado em perfis
+- REQ-05: O sistema deve registrar logs de auditoria
+- REQ-06: O sistema deve processar transações em menos de 2 seconds
+- REQ-07: O sistema deve ser compatível com navegadores modernos
+- REQ-08: O sistema deve permitir exportação de dados em formato CSV
+- REQ-09: O sistema deve ter alta disponibilidade (99.9%)
+- REQ-10: O sistema deve ter controle de acesso baseado em perfis
+- REQ-11: O sistema deve ter backup automático diário
+- REQ-12: O sistema deve processar transações em menos de 2 seconds
+- REQ-13: O sistema deve registrar logs de auditoria
+- REQ-14: O sistema deve ter backup automático diário
+- REQ-15: O sistema deve ser compatível com navegadores modernos

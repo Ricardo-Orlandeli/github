@@ -1,0 +1,25 @@
+RELATÓRIO DE STATUS DE ESCOPO
+Projeto: A possibilidade de mudar simplesmente (PROJ-0176)
+Data: 14/07/2025
+Gerente: Esther Sampaio
+
+Escopo original: Sistema para a possibilidade de mudar simplesmente
+Houve mudança de escopo: Sim
+Descrição das mudanças: Expansão do escopo para incluir funcionalidades adicionais
+Impacto no cronograma: 27 dias
+Impacto no custo: R$ 440252.29
+
+Solicitações de mudança:
+- SCM-01: Adição de relatórios gerenciais
+- SCM-02: Adição de funcionalidade de autenticação biométrica
+
+Requisitos atuais:
+- REQ-01: O sistema deve permitir exportação de dados em formato CSV
+- REQ-02: O sistema deve registrar logs de auditoria
+- REQ-03: O sistema deve permitir exportação de dados em formato CSV
+- REQ-04: O sistema deve ter documentação completa
+- REQ-05: O sistema deve ter interface responsiva
+- REQ-06: O sistema deve processar transações em menos de 2 seconds
+- REQ-07: O sistema deve permitir integração com APIs externas
+- REQ-08: O sistema deve permitir autenticação de usuários
+- REQ-09: O sistema deve ser compatível com navegadores modernos

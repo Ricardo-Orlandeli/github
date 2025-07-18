@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O conforto de atingir seus objetivos com toda a tranquilidade (PROJ-0568)
+Data: 14/07/2025
+Gerente: Hadassa Costela
+
+Orçamento inicial: R$ 2015497.00
+Custo real atual: R$ 1914301.13
+Desvio orçamentário: -5.02%
+Índice de Desempenho de Custo (CPI): 1.05
+Valor Agregado (EV): R$ 2013481.50
+Estimativa para conclusão: R$ 1916.22
+Estimativa no término (EAC): R$ 1916217.35
+Variação no término (VAC): R$ 99279.65
+
+Detalhamento por categoria:
+- Pessoal: R$ 853165.87 (44.6%)
+- Equipamentos: R$ 279931.61 (14.6%)
+- Software: R$ 286156.99 (14.9%)
+- Serviços: R$ 366368.32 (19.1%)
+- Outros: R$ 128678.34 (6.7%)

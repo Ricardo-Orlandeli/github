@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O prazer de conseguir com toda a tranquilidade (PROJ-0584)
+Data: 14/07/2025
+Gerente: Srta. Maria Helena Pastor
+
+Orçamento inicial: R$ 4798507.00
+Custo real atual: R$ 5038216.59
+Desvio orçamentário: 5.00%
+Índice de Desempenho de Custo (CPI): 0.78
+Valor Agregado (EV): R$ 3908802.33
+Estimativa para conclusão: R$ 1146777.06
+Estimativa no término (EAC): R$ 6184993.65
+Variação no término (VAC): R$ -1386486.65
+
+Detalhamento por categoria:
+- Pessoal: R$ 2542426.74 (50.5%)
+- Equipamentos: R$ 792837.24 (15.7%)
+- Software: R$ 526219.83 (10.4%)
+- Serviços: R$ 918264.28 (18.2%)
+- Outros: R$ 258468.50 (5.1%)

@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A simplicidade de inovar naturalmente (PROJ-0005)
+Data: 14/07/2025
+Gerente: Hadassa Guerra
+
+Orçamento inicial: R$ 4022518.00
+Custo real atual: R$ 4738219.31
+Desvio orçamentário: 17.79%
+Índice de Desempenho de Custo (CPI): 0.85
+Valor Agregado (EV): R$ 4018495.48
+Estimativa para conclusão: R$ 4742.96
+Estimativa no término (EAC): R$ 4742962.27
+Variação no término (VAC): R$ -720444.27
+
+Detalhamento por categoria:
+- Pessoal: R$ 2179484.59 (46.0%)
+- Equipamentos: R$ 661162.17 (14.0%)
+- Software: R$ 534134.70 (11.3%)
+- Serviços: R$ 948463.51 (20.0%)
+- Outros: R$ 414974.36 (8.8%)

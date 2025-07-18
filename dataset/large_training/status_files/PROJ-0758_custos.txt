@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A arte de ganhar com força total (PROJ-0758)
+Data: 14/07/2025
+Gerente: Nicolas da Mata
+
+Orçamento inicial: R$ 1616072.00
+Custo real atual: R$ 1688229.89
+Desvio orçamentário: 4.47%
+Índice de Desempenho de Custo (CPI): 0.75
+Valor Agregado (EV): R$ 1260081.79
+Estimativa para conclusão: R$ 476947.85
+Estimativa no término (EAC): R$ 2165177.74
+Variação no término (VAC): R$ -549105.74
+
+Detalhamento por categoria:
+- Pessoal: R$ 867423.42 (51.4%)
+- Equipamentos: R$ 283276.80 (16.8%)
+- Software: R$ 119843.50 (7.1%)
+- Serviços: R$ 257793.93 (15.3%)
+- Outros: R$ 159892.23 (9.5%)

@@ -1,0 +1,55 @@
+RELATÓRIO DE STATUS DE RISCOS
+Projeto: A certeza de atingir seus objetivos simplesmente (PROJ-0390)
+Data: 14/07/2025
+Gerente: Maria Helena Araújo
+
+Riscos identificados:
+- R01: Problemas de integração com sistemas legados
+  Probabilidade: 2/5, Impacto: 4/5, Nível: Médio
+  Mitigação: Contratar pessoal adicional
+
+- R02: Problemas de integração com sistemas legados
+  Probabilidade: 4/5, Impacto: 4/5, Nível: Alto
+  Mitigação: Melhorar a documentação de requisitos
+
+- R03: Problemas de compatibilidade
+  Probabilidade: 3/5, Impacto: 5/5, Nível: Médio
+  Mitigação: Monitorar mudanças regulatórias
+
+- R04: Mudanças regulatórias
+  Probabilidade: 5/5, Impacto: 3/5, Nível: Médio
+  Mitigação: Otimizar código e infraestrutura
+
+- R05: Problemas de desempenho
+  Probabilidade: 4/5, Impacto: 5/5, Nível: Alto
+  Mitigação: Gerenciar dependências ativamente
+
+- R06: Resistência dos usuários à mudança
+  Probabilidade: 1/5, Impacto: 4/5, Nível: Baixo
+  Mitigação: Melhorar a documentação de requisitos
+
+- R07: Indisponibilidade de recursos especializados
+  Probabilidade: 3/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Fortalecer medidas de segurança
+
+- R08: Problemas de comunicação com stakeholders
+  Probabilidade: 5/5, Impacto: 3/5, Nível: Médio
+  Mitigação: Implementar redundância de infraestrutura
+
+- R09: Atraso na entrega de componentes críticos
+  Probabilidade: 1/5, Impacto: 2/5, Nível: Baixo
+  Mitigação: Otimizar código e infraestrutura
+
+Riscos ocorridos:
+- R07 (ocorrido em 10/07/2025)
+  Impacto real: Indisponibilidade temporária
+  Ações tomadas: Revisão de processos
+
+- R03 (ocorrido em 06/07/2025)
+  Impacto real: Perda de dados
+  Ações tomadas: Contratação de recursos adicionais
+
+- R09 (ocorrido em 09/07/2025)
+  Impacto real: Indisponibilidade temporária
+  Ações tomadas: Revisão de prioridades
+

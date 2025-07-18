@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A possibilidade de conseguir de maneira eficaz (PROJ-0525)
+Data: 14/07/2025
+Gerente: Sra. Mirella Ferreira
+
+Orçamento inicial: R$ 2510978.00
+Custo real atual: R$ 649880.25
+Desvio orçamentário: -4.24%
+Índice de Desempenho de Custo (CPI): 1.04
+Valor Agregado (EV): R$ 674423.75
+Estimativa para conclusão: R$ 1769718.72
+Estimativa no término (EAC): R$ 2419598.97
+Variação no término (VAC): R$ 91379.03
+
+Detalhamento por categoria:
+- Pessoal: R$ 338930.45 (52.2%)
+- Equipamentos: R$ 64854.67 (10.0%)
+- Software: R$ 77361.67 (11.9%)
+- Serviços: R$ 120884.64 (18.6%)
+- Outros: R$ 47848.83 (7.4%)

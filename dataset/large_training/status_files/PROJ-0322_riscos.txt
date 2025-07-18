@@ -1,0 +1,39 @@
+RELATÓRIO DE STATUS DE RISCOS
+Projeto: A segurança de concretizar seus projetos com confiança (PROJ-0322)
+Data: 14/07/2025
+Gerente: Sr. Yan Camargo
+
+Riscos identificados:
+- R01: Problemas de integração com sistemas legados
+  Probabilidade: 2/5, Impacto: 5/5, Nível: Médio
+  Mitigação: Melhorar a documentação de requisitos
+
+- R02: Dependências externas não cumpridas
+  Probabilidade: 2/5, Impacto: 4/5, Nível: Médio
+  Mitigação: Realizar testes de aceitação com usuários-chave
+
+- R03: Rotatividade de pessoal-chave
+  Probabilidade: 2/5, Impacto: 4/5, Nível: Médio
+  Mitigação: Fortalecer medidas de segurança
+
+- R04: Falhas em testes de aceitação
+  Probabilidade: 1/5, Impacto: 3/5, Nível: Baixo
+  Mitigação: Implementar redundância de infraestrutura
+
+- R05: Problemas de compatibilidade
+  Probabilidade: 4/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Fortalecer medidas de segurança
+
+- R06: Rotatividade de pessoal-chave
+  Probabilidade: 3/5, Impacto: 4/5, Nível: Médio
+  Mitigação: Estabelecer canais de comunicação claros
+
+Riscos ocorridos:
+- R05 (ocorrido em 10/07/2025)
+  Impacto real: Problemas de qualidade
+  Ações tomadas: Realocação de recursos
+
+- R04 (ocorrido em 21/04/2025)
+  Impacto real: Atraso de 2 semanas no cronograma
+  Ações tomadas: Revisão de processos
+

@@ -1,0 +1,25 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: O direito de atingir seus objetivos com força total (PROJ-0277)
+Data: 14/07/2025
+Gerente: Maria Helena da Luz
+
+Status atual: Atrasado
+Percentual de conclusão: 84.9%
+Data de início: 22/10/2024
+Data de término planejada: 14/04/2025
+Data de término real/prevista: 23/05/2025
+Atraso atual: 91 dias
+Motivo do atraso: Falhas em testes de aceitação
+Índice de Desempenho de Cronograma (SPI): 0.85
+Valor Planejado (PV): R$ 4408866.00
+Valor Agregado (EV): R$ 3741053.87
+
+Tarefas críticas:
+- Desenvolvimento do painel administrativo
+- Implementação do módulo de análise de dados
+- Implementação do módulo de análise de dados
+- Configuração da infraestrutura
+- Testes de segurança
+
+Tarefas atrasadas:
+- Testes de segurança

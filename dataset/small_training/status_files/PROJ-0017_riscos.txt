@@ -1,0 +1,47 @@
+RELATÓRIO DE STATUS DE RISCOS
+Projeto: A segurança de conseguir antes de tudo (PROJ-0017)
+Data: 14/07/2025
+Gerente: Maria Flor Marques
+
+Riscos identificados:
+- R01: Problemas de desempenho
+  Probabilidade: 1/5, Impacto: 3/5, Nível: Baixo
+  Mitigação: Otimizar código e infraestrutura
+
+- R02: Problemas de comunicação com stakeholders
+  Probabilidade: 1/5, Impacto: 5/5, Nível: Baixo
+  Mitigação: Realizar testes de integração antecipados
+
+- R03: Mudanças regulatórias
+  Probabilidade: 5/5, Impacto: 5/5, Nível: Alto
+  Mitigação: Implementar redundância de infraestrutura
+
+- R04: Mudanças regulatórias
+  Probabilidade: 4/5, Impacto: 2/5, Nível: Médio
+  Mitigação: Fortalecer medidas de segurança
+
+- R05: Falhas em testes de aceitação
+  Probabilidade: 3/5, Impacto: 3/5, Nível: Médio
+  Mitigação: Monitorar mudanças regulatórias
+
+- R06: Problemas de desempenho
+  Probabilidade: 1/5, Impacto: 2/5, Nível: Baixo
+  Mitigação: Fortalecer medidas de segurança
+
+- R07: Falhas em testes de aceitação
+  Probabilidade: 4/5, Impacto: 3/5, Nível: Médio
+  Mitigação: Refinar estimativas com base em dados históricos
+
+- R08: Falhas de segurança
+  Probabilidade: 1/5, Impacto: 3/5, Nível: Baixo
+  Mitigação: Realizar testes de integração antecipados
+
+- R09: Problemas de compatibilidade
+  Probabilidade: 4/5, Impacto: 5/5, Nível: Alto
+  Mitigação: Realizar testes de integração antecipados
+
+Riscos ocorridos:
+- R09 (ocorrido em 09/07/2025)
+  Impacto real: Indisponibilidade temporária
+  Ações tomadas: Implementação de controles adicionais
+

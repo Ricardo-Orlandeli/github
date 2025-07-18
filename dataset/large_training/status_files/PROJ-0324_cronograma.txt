@@ -1,0 +1,26 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A possibilidade de realizar seus sonhos mais rapidamente (PROJ-0324)
+Data: 14/07/2025
+Gerente: Pedro Miguel Jesus
+
+Status atual: Em andamento
+Percentual de conclusão: 94.4%
+Data de início: 13/02/2024
+Data de término planejada: 20/10/2024
+Data de término real/prevista: 08/11/2024
+Atraso atual: 267 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.07
+Valor Planejado (PV): R$ 1325062.00
+Valor Agregado (EV): R$ 1251215.70
+
+Tarefas críticas:
+- Implementação do módulo de relatórios
+- Configuração do ambiente de produção
+- Implementação do módulo de notificações
+- Desenvolvimento do painel administrativo
+- Implementação do módulo de notificações
+- Testes de segurança
+- Integração com sistema de pagamentos
+
+Tarefas atrasadas:

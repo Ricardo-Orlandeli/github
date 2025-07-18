@@ -1,0 +1,27 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: O prazer de conseguir de maneira eficaz (PROJ-0530)
+Data: 14/07/2025
+Gerente: Dr. João Miguel Pimenta
+
+Status atual: Concluído
+Percentual de conclusão: 100.0%
+Data de início: 17/10/2024
+Data de término planejada: 21/04/2025
+Data de término real/prevista: 07/04/2025
+Atraso atual: 84 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.02
+Valor Planejado (PV): R$ 1080898.00
+Valor Agregado (EV): R$ 1080898.00
+
+Tarefas críticas:
+- Implementação do módulo de notificações
+- Implementação do sistema de backup
+- Integração com sistema de pagamentos
+- Testes de aceitação do usuário
+- Implementação do módulo de relatórios
+- Desenvolvimento do módulo de autenticação
+- Testes de aceitação do usuário
+- Implementação do módulo de exportação de dados
+
+Tarefas atrasadas:

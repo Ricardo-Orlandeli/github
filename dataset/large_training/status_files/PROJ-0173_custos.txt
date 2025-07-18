@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A certeza de inovar sem preocupação (PROJ-0173)
+Data: 14/07/2025
+Gerente: Sra. Isadora Camargo
+
+Orçamento inicial: R$ 4045688.00
+Custo real atual: R$ 4410607.88
+Desvio orçamentário: 9.02%
+Índice de Desempenho de Custo (CPI): 0.79
+Valor Agregado (EV): R$ 3468214.14
+Estimativa para conclusão: R$ 734386.81
+Estimativa no término (EAC): R$ 5144994.70
+Variação no término (VAC): R$ -1099306.70
+
+Detalhamento por categoria:
+- Pessoal: R$ 2195422.73 (49.8%)
+- Equipamentos: R$ 617971.91 (14.0%)
+- Software: R$ 434447.73 (9.9%)
+- Serviços: R$ 812883.57 (18.4%)
+- Outros: R$ 349881.95 (7.9%)

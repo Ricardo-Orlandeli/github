@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A vantagem de mudar sem preocupação (PROJ-0062)
+Data: 14/07/2025
+Gerente: Sr. Arthur Vasconcelos
+
+Orçamento inicial: R$ 2920178.00
+Custo real atual: R$ 2349834.60
+Desvio orçamentário: -19.53%
+Índice de Desempenho de Custo (CPI): 1.01
+Valor Agregado (EV): R$ 2370795.16
+Estimativa para conclusão: R$ 544525.66
+Estimativa no término (EAC): R$ 2894360.26
+Variação no término (VAC): R$ 25817.74
+
+Detalhamento por categoria:
+- Pessoal: R$ 1187681.90 (50.5%)
+- Equipamentos: R$ 299931.47 (12.8%)
+- Software: R$ 353849.06 (15.1%)
+- Serviços: R$ 284715.27 (12.1%)
+- Outros: R$ 223656.90 (9.5%)

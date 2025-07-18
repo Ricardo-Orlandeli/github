@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O poder de evoluir com força total (PROJ-0178)
+Data: 14/07/2025
+Gerente: Lucca Pires
+
+Orçamento inicial: R$ 652827.00
+Custo real atual: R$ 644399.53
+Desvio orçamentário: -1.29%
+Índice de Desempenho de Custo (CPI): 0.97
+Valor Agregado (EV): R$ 625739.05
+Estimativa para conclusão: R$ 27895.76
+Estimativa no término (EAC): R$ 672295.29
+Variação no término (VAC): R$ -19468.29
+
+Detalhamento por categoria:
+- Pessoal: R$ 321357.11 (49.9%)
+- Equipamentos: R$ 98885.83 (15.3%)
+- Software: R$ 96435.09 (15.0%)
+- Serviços: R$ 78364.38 (12.2%)
+- Outros: R$ 49357.11 (7.7%)

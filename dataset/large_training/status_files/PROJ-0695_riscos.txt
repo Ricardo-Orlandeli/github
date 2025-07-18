@@ -1,0 +1,35 @@
+RELATÓRIO DE STATUS DE RISCOS
+Projeto: A simplicidade de ganhar com força total (PROJ-0695)
+Data: 14/07/2025
+Gerente: Davi Luiz Sousa
+
+Riscos identificados:
+- R01: Problemas de comunicação com stakeholders
+  Probabilidade: 2/5, Impacto: 5/5, Nível: Médio
+  Mitigação: Estabelecer canais de comunicação claros
+
+- R02: Falhas de segurança
+  Probabilidade: 5/5, Impacto: 3/5, Nível: Médio
+  Mitigação: Realizar testes de aceitação com usuários-chave
+
+- R03: Falhas de infraestrutura
+  Probabilidade: 4/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Otimizar código e infraestrutura
+
+- R04: Resistência dos usuários à mudança
+  Probabilidade: 1/5, Impacto: 3/5, Nível: Baixo
+  Mitigação: Implementar plano de contingência
+
+- R05: Requisitos mal definidos
+  Probabilidade: 3/5, Impacto: 4/5, Nível: Médio
+  Mitigação: Estabelecer canais de comunicação claros
+
+- R06: Resistência dos usuários à mudança
+  Probabilidade: 2/5, Impacto: 3/5, Nível: Baixo
+  Mitigação: Comunicar benefícios da mudança
+
+- R07: Indisponibilidade de recursos especializados
+  Probabilidade: 3/5, Impacto: 3/5, Nível: Médio
+  Mitigação: Fortalecer medidas de segurança
+
+Riscos ocorridos:

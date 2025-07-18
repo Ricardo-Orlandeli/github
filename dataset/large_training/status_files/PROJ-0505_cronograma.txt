@@ -1,0 +1,26 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A vantagem de evoluir com força total (PROJ-0505)
+Data: 14/07/2025
+Gerente: Melina Freitas
+
+Status atual: Concluído
+Percentual de conclusão: 100.0%
+Data de início: 31/08/2023
+Data de término planejada: 31/07/2024
+Data de término real/prevista: 23/07/2024
+Atraso atual: 348 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.03
+Valor Planejado (PV): R$ 2763358.00
+Valor Agregado (EV): R$ 2763358.00
+
+Tarefas críticas:
+- Implementação do módulo de relatórios
+- Implementação do módulo de exportação de dados
+- Configuração da infraestrutura
+- Configuração do ambiente de produção
+- Implementação do módulo de notificações
+- Integração com sistema de pagamentos
+- Desenvolvimento do painel administrativo
+
+Tarefas atrasadas:

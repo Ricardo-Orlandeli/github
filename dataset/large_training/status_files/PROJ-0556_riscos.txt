@@ -1,0 +1,23 @@
+RELATÓRIO DE STATUS DE RISCOS
+Projeto: O poder de inovar simplesmente (PROJ-0556)
+Data: 14/07/2025
+Gerente: Alice Borges
+
+Riscos identificados:
+- R01: Problemas de desempenho
+  Probabilidade: 1/5, Impacto: 4/5, Nível: Baixo
+  Mitigação: Contratar pessoal adicional
+
+- R02: Falhas de infraestrutura
+  Probabilidade: 4/5, Impacto: 2/5, Nível: Médio
+  Mitigação: Fortalecer medidas de segurança
+
+- R03: Mudanças regulatórias
+  Probabilidade: 4/5, Impacto: 3/5, Nível: Médio
+  Mitigação: Monitorar mudanças regulatórias
+
+- R04: Problemas de compatibilidade
+  Probabilidade: 1/5, Impacto: 5/5, Nível: Baixo
+  Mitigação: Contratar pessoal adicional
+
+Riscos ocorridos:

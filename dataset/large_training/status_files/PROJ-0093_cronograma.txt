@@ -1,0 +1,26 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: O prazer de conseguir com força total (PROJ-0093)
+Data: 14/07/2025
+Gerente: Joana Oliveira
+
+Status atual: Atrasado
+Percentual de conclusão: 40.6%
+Data de início: 23/12/2024
+Data de término planejada: 04/09/2025
+Data de término real/prevista: 08/11/2025
+Atraso atual: 0 dias
+Motivo do atraso: Rotatividade de pessoal-chave
+Índice de Desempenho de Cronograma (SPI): 0.51
+Valor Planejado (PV): R$ 579342.10
+Valor Agregado (EV): R$ 295769.64
+
+Tarefas críticas:
+- Testes de segurança
+- Configuração do ambiente de produção
+- Implementação da API REST
+- Configuração da infraestrutura
+- Configuração da infraestrutura
+
+Tarefas atrasadas:
+- Configuração do ambiente de produção
+- Configuração da infraestrutura

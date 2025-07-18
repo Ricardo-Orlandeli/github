@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O prazer de conseguir mais facilmente (PROJ-0391)
+Data: 14/07/2025
+Gerente: Isaque Novaes
+
+Orçamento inicial: R$ 1037402.00
+Custo real atual: R$ 748742.40
+Desvio orçamentário: -27.83%
+Índice de Desempenho de Custo (CPI): 1.24
+Valor Agregado (EV): R$ 925138.83
+Estimativa para conclusão: R$ 90857.93
+Estimativa no término (EAC): R$ 839600.33
+Variação no término (VAC): R$ 197801.67
+
+Detalhamento por categoria:
+- Pessoal: R$ 437284.07 (58.4%)
+- Equipamentos: R$ 78425.12 (10.5%)
+- Software: R$ 49072.33 (6.6%)
+- Serviços: R$ 127790.22 (17.1%)
+- Outros: R$ 56170.67 (7.5%)

@@ -1,0 +1,25 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: O conforto de concretizar seus projetos direto da fonte (PROJ-0009)
+Data: 14/07/2025
+Gerente: Lívia Borges
+
+Status atual: Em andamento
+Percentual de conclusão: 99.9%
+Data de início: 17/08/2024
+Data de término planejada: 24/01/2025
+Data de término real/prevista: 08/02/2025
+Atraso atual: 171 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.10
+Valor Planejado (PV): R$ 1330428.00
+Valor Agregado (EV): R$ 1329097.57
+
+Tarefas críticas:
+- Implementação do módulo de exportação de dados
+- Integração com sistema de pagamentos
+- Configuração do ambiente de produção
+- Implementação da API REST
+- Testes de aceitação do usuário
+- Desenvolvimento da interface do usuário
+
+Tarefas atrasadas:

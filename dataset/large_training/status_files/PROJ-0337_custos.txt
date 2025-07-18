@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A vantagem de atingir seus objetivos mais facilmente (PROJ-0337)
+Data: 14/07/2025
+Gerente: Luiz Fernando Correia
+
+Orçamento inicial: R$ 3278494.00
+Custo real atual: R$ 2461823.52
+Desvio orçamentário: 27.43%
+Índice de Desempenho de Custo (CPI): 0.92
+Valor Agregado (EV): R$ 2261834.80
+Estimativa para conclusão: R$ 1106550.99
+Estimativa no término (EAC): R$ 3568374.51
+Variação no término (VAC): R$ -289880.51
+
+Detalhamento por categoria:
+- Pessoal: R$ 1296085.17 (52.6%)
+- Equipamentos: R$ 379618.71 (15.4%)
+- Software: R$ 298537.63 (12.1%)
+- Serviços: R$ 339120.41 (13.8%)
+- Outros: R$ 148461.60 (6.0%)

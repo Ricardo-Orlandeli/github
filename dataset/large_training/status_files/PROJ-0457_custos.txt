@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O poder de avançar mais rapidamente (PROJ-0457)
+Data: 14/07/2025
+Gerente: Luana Cavalcante
+
+Orçamento inicial: R$ 1693693.00
+Custo real atual: R$ 1515994.28
+Desvio orçamentário: -10.49%
+Índice de Desempenho de Custo (CPI): 0.95
+Valor Agregado (EV): R$ 1438613.08
+Estimativa para conclusão: R$ 268800.35
+Estimativa no término (EAC): R$ 1784794.63
+Variação no término (VAC): R$ -91101.63
+
+Detalhamento por categoria:
+- Pessoal: R$ 894705.55 (59.0%)
+- Equipamentos: R$ 242439.24 (16.0%)
+- Software: R$ 94833.93 (6.3%)
+- Serviços: R$ 194305.07 (12.8%)
+- Outros: R$ 89710.49 (5.9%)

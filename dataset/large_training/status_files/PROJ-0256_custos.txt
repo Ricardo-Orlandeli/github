@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A segurança de conseguir direto da fonte (PROJ-0256)
+Data: 14/07/2025
+Gerente: Srta. Eloah Aragão
+
+Orçamento inicial: R$ 2589540.00
+Custo real atual: R$ 2390843.89
+Desvio orçamentário: -7.67%
+Índice de Desempenho de Custo (CPI): 1.08
+Valor Agregado (EV): R$ 2589540.00
+Estimativa para conclusão: R$ 0.00
+Estimativa no término (EAC): R$ 2390843.89
+Variação no término (VAC): R$ 198696.11
+
+Detalhamento por categoria:
+- Pessoal: R$ 1372457.35 (57.4%)
+- Equipamentos: R$ 314346.37 (13.1%)
+- Software: R$ 260737.73 (10.9%)
+- Serviços: R$ 291136.43 (12.2%)
+- Outros: R$ 152166.00 (6.4%)

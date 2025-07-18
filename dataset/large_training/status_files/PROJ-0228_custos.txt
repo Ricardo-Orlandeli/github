@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A certeza de realizar seus sonhos de maneira eficaz (PROJ-0228)
+Data: 14/07/2025
+Gerente: Caio Cardoso
+
+Orçamento inicial: R$ 118737.00
+Custo real atual: R$ 116658.01
+Desvio orçamentário: -1.75%
+Índice de Desempenho de Custo (CPI): 1.02
+Valor Agregado (EV): R$ 118618.26
+Estimativa para conclusão: R$ 116.77
+Estimativa no término (EAC): R$ 116774.78
+Variação no término (VAC): R$ 1962.22
+
+Detalhamento por categoria:
+- Pessoal: R$ 58274.58 (50.0%)
+- Equipamentos: R$ 19982.22 (17.1%)
+- Software: R$ 12085.42 (10.4%)
+- Serviços: R$ 19324.92 (16.6%)
+- Outros: R$ 6990.87 (6.0%)

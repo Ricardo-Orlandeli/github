@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O poder de conseguir antes de tudo (PROJ-0160)
+Data: 14/07/2025
+Gerente: Luiz Miguel da Costa
+
+Orçamento inicial: R$ 3091974.00
+Custo real atual: R$ 3044925.93
+Desvio orçamentário: -1.52%
+Índice de Desempenho de Custo (CPI): 1.02
+Valor Agregado (EV): R$ 3091974.00
+Estimativa para conclusão: R$ 0.00
+Estimativa no término (EAC): R$ 3044925.93
+Variação no término (VAC): R$ 47048.07
+
+Detalhamento por categoria:
+- Pessoal: R$ 1673009.71 (54.9%)
+- Equipamentos: R$ 511173.08 (16.8%)
+- Software: R$ 165737.64 (5.4%)
+- Serviços: R$ 493402.76 (16.2%)
+- Outros: R$ 201602.74 (6.6%)

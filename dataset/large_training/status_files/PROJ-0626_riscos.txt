@@ -1,0 +1,47 @@
+RELATÓRIO DE STATUS DE RISCOS
+Projeto: O conforto de realizar seus sonhos em estado puro (PROJ-0626)
+Data: 14/07/2025
+Gerente: Mariane Cavalcante
+
+Riscos identificados:
+- R01: Falhas de infraestrutura
+  Probabilidade: 4/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Implementar redundância de infraestrutura
+
+- R02: Problemas de integração com sistemas legados
+  Probabilidade: 3/5, Impacto: 4/5, Nível: Médio
+  Mitigação: Realizar testes de integração antecipados
+
+- R03: Atraso na entrega de componentes críticos
+  Probabilidade: 2/5, Impacto: 2/5, Nível: Baixo
+  Mitigação: Implementar redundância de infraestrutura
+
+- R04: Falhas de infraestrutura
+  Probabilidade: 4/5, Impacto: 2/5, Nível: Médio
+  Mitigação: Realizar testes de integração antecipados
+
+- R05: Indisponibilidade de recursos especializados
+  Probabilidade: 5/5, Impacto: 5/5, Nível: Alto
+  Mitigação: Implementar redundância de infraestrutura
+
+- R06: Rotatividade de pessoal-chave
+  Probabilidade: 2/5, Impacto: 3/5, Nível: Baixo
+  Mitigação: Implementar plano de contingência
+
+- R07: Dependências externas não cumpridas
+  Probabilidade: 2/5, Impacto: 3/5, Nível: Baixo
+  Mitigação: Melhorar a documentação de requisitos
+
+- R08: Dependências externas não cumpridas
+  Probabilidade: 3/5, Impacto: 3/5, Nível: Médio
+  Mitigação: Gerenciar dependências ativamente
+
+- R09: Rotatividade de pessoal-chave
+  Probabilidade: 3/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Fortalecer medidas de segurança
+
+- R10: Atraso na entrega de componentes críticos
+  Probabilidade: 3/5, Impacto: 2/5, Nível: Baixo
+  Mitigação: Implementar redundância de infraestrutura
+
+Riscos ocorridos:

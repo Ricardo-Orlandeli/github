@@ -1,0 +1,47 @@
+RELATÓRIO DE STATUS DE RISCOS
+Projeto: A possibilidade de conseguir mais rapidamente (PROJ-0711)
+Data: 14/07/2025
+Gerente: Eduarda Siqueira
+
+Riscos identificados:
+- R01: Resistência dos usuários à mudança
+  Probabilidade: 1/5, Impacto: 2/5, Nível: Baixo
+  Mitigação: Monitorar mudanças regulatórias
+
+- R02: Requisitos mal definidos
+  Probabilidade: 1/5, Impacto: 4/5, Nível: Baixo
+  Mitigação: Realizar testes de integração antecipados
+
+- R03: Requisitos mal definidos
+  Probabilidade: 3/5, Impacto: 2/5, Nível: Baixo
+  Mitigação: Fortalecer medidas de segurança
+
+- R04: Requisitos mal definidos
+  Probabilidade: 3/5, Impacto: 5/5, Nível: Médio
+  Mitigação: Contratar pessoal adicional
+
+- R05: Problemas de desempenho
+  Probabilidade: 1/5, Impacto: 4/5, Nível: Baixo
+  Mitigação: Refinar estimativas com base em dados históricos
+
+- R06: Problemas de compatibilidade
+  Probabilidade: 3/5, Impacto: 4/5, Nível: Médio
+  Mitigação: Estabelecer canais de comunicação claros
+
+- R07: Atraso na entrega de componentes críticos
+  Probabilidade: 2/5, Impacto: 4/5, Nível: Médio
+  Mitigação: Comunicar benefícios da mudança
+
+- R08: Problemas de desempenho
+  Probabilidade: 1/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Fortalecer medidas de segurança
+
+- R09: Indisponibilidade de recursos especializados
+  Probabilidade: 2/5, Impacto: 5/5, Nível: Médio
+  Mitigação: Testar compatibilidade em diferentes ambientes
+
+- R10: Mudanças regulatórias
+  Probabilidade: 3/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Gerenciar dependências ativamente
+
+Riscos ocorridos:

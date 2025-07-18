@@ -1,0 +1,30 @@
+RELATÓRIO DE STATUS DE ESCOPO
+Projeto: A possibilidade de avançar antes de tudo (PROJ-0911)
+Data: 14/07/2025
+Gerente: Nina Pimenta
+
+Escopo original: Sistema para a possibilidade de avançar antes de tudo
+Houve mudança de escopo: Sim
+Descrição das mudanças: Alteração nas especificações técnicas
+Impacto no cronograma: 22 dias
+Impacto no custo: R$ 577587.29
+
+Solicitações de mudança:
+- SCM-01: Mudança no banco de dados
+- SCM-02: Implementação de módulo de exportação de dados
+- SCM-03: Alteração na interface do usuário
+- SCM-04: Implementação de módulo de exportação de dados
+
+Requisitos atuais:
+- REQ-01: O sistema deve passar por testes de segurança
+- REQ-02: O sistema deve implementar criptografia de dados sensíveis
+- REQ-03: O sistema deve ter controle de acesso baseado em perfis
+- REQ-04: O sistema deve ter interface responsiva
+- REQ-05: O sistema deve passar por testes de segurança
+- REQ-06: O sistema deve permitir integração com APIs externas
+- REQ-07: O sistema deve permitir exportação de dados em formato CSV
+- REQ-08: O sistema deve permitir integração com APIs externas
+- REQ-09: O sistema deve ser compatível com dispositivos móveis
+- REQ-10: O sistema deve permitir integração com APIs externas
+- REQ-11: O sistema deve ter alta disponibilidade (99.9%)
+- REQ-12: O sistema deve ser compatível com dispositivos móveis

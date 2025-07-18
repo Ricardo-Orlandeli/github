@@ -1,0 +1,23 @@
+RELATÓRIO DE STATUS DE RISCOS
+Projeto: A simplicidade de concretizar seus projetos antes de tudo (PROJ-0132)
+Data: 14/07/2025
+Gerente: Enzo Porto
+
+Riscos identificados:
+- R01: Dependências externas não cumpridas
+  Probabilidade: 1/5, Impacto: 5/5, Nível: Baixo
+  Mitigação: Otimizar código e infraestrutura
+
+- R02: Estimativas imprecisas
+  Probabilidade: 1/5, Impacto: 5/5, Nível: Baixo
+  Mitigação: Otimizar código e infraestrutura
+
+- R03: Falhas de segurança
+  Probabilidade: 5/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Buscar fornecedores alternativos
+
+- R04: Mudanças regulatórias
+  Probabilidade: 1/5, Impacto: 3/5, Nível: Baixo
+  Mitigação: Contratar pessoal adicional
+
+Riscos ocorridos:

@@ -1,0 +1,22 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A liberdade de mudar com toda a tranquilidade (PROJ-0786)
+Data: 14/07/2025
+Gerente: Sr. Samuel Brito
+
+Status atual: Em andamento
+Percentual de conclusão: 99.9%
+Data de início: 27/07/2023
+Data de término planejada: 30/05/2024
+Data de término real/prevista: 14/06/2024
+Atraso atual: 410 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 0.97
+Valor Planejado (PV): R$ 1367530.00
+Valor Agregado (EV): R$ 1366162.47
+
+Tarefas críticas:
+- Implementação do módulo de exportação de dados
+- Desenvolvimento do módulo de autenticação
+- Configuração do ambiente de produção
+
+Tarefas atrasadas:

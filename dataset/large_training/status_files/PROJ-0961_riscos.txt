@@ -1,0 +1,31 @@
+RELATÓRIO DE STATUS DE RISCOS
+Projeto: A vantagem de conseguir com força total (PROJ-0961)
+Data: 14/07/2025
+Gerente: Maria Liz Câmara
+
+Riscos identificados:
+- R01: Resistência dos usuários à mudança
+  Probabilidade: 2/5, Impacto: 2/5, Nível: Baixo
+  Mitigação: Implementar redundância de infraestrutura
+
+- R02: Problemas de desempenho
+  Probabilidade: 2/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Gerenciar dependências ativamente
+
+- R03: Indisponibilidade de recursos especializados
+  Probabilidade: 5/5, Impacto: 3/5, Nível: Médio
+  Mitigação: Estabelecer canais de comunicação claros
+
+- R04: Falhas em testes de aceitação
+  Probabilidade: 2/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Contratar pessoal adicional
+
+- R05: Falhas em testes de aceitação
+  Probabilidade: 3/5, Impacto: 5/5, Nível: Médio
+  Mitigação: Refinar estimativas com base em dados históricos
+
+Riscos ocorridos:
+- R02 (ocorrido em 02/03/2025)
+  Impacto real: Atraso de 2 semanas no cronograma
+  Ações tomadas: Implementação de controles adicionais
+

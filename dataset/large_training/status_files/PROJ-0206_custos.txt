@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A certeza de inovar naturalmente (PROJ-0206)
+Data: 14/07/2025
+Gerente: Maria Almeida
+
+Orçamento inicial: R$ 856028.00
+Custo real atual: R$ 972482.74
+Desvio orçamentário: 13.60%
+Índice de Desempenho de Custo (CPI): 0.87
+Valor Agregado (EV): R$ 847320.62
+Estimativa para conclusão: R$ 9993.59
+Estimativa no término (EAC): R$ 982476.33
+Variação no término (VAC): R$ -126448.33
+
+Detalhamento por categoria:
+- Pessoal: R$ 452104.90 (46.5%)
+- Equipamentos: R$ 184127.09 (18.9%)
+- Software: R$ 105149.29 (10.8%)
+- Serviços: R$ 137747.36 (14.2%)
+- Outros: R$ 93354.09 (9.6%)

@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A possibilidade de ganhar sem preocupação (PROJ-0110)
+Data: 14/07/2025
+Gerente: Sr. Matheus Lima
+
+Orçamento inicial: R$ 668017.00
+Custo real atual: R$ 777701.76
+Desvio orçamentário: 16.42%
+Índice de Desempenho de Custo (CPI): 0.86
+Valor Agregado (EV): R$ 667348.98
+Estimativa para conclusão: R$ 778.48
+Estimativa no término (EAC): R$ 778480.24
+Variação no término (VAC): R$ -110463.24
+
+Detalhamento por categoria:
+- Pessoal: R$ 338608.05 (43.5%)
+- Equipamentos: R$ 132064.24 (17.0%)
+- Software: R$ 88981.84 (11.4%)
+- Serviços: R$ 142535.79 (18.3%)
+- Outros: R$ 75511.84 (9.7%)

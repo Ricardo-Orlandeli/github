@@ -1,0 +1,43 @@
+RELATÓRIO DE STATUS DE RISCOS
+Projeto: A certeza de inovar mais facilmente (PROJ-0595)
+Data: 14/07/2025
+Gerente: Ana Carolina Aparecida
+
+Riscos identificados:
+- R01: Requisitos mal definidos
+  Probabilidade: 3/5, Impacto: 4/5, Nível: Médio
+  Mitigação: Implementar redundância de infraestrutura
+
+- R02: Falhas de segurança
+  Probabilidade: 4/5, Impacto: 3/5, Nível: Médio
+  Mitigação: Estabelecer canais de comunicação claros
+
+- R03: Rotatividade de pessoal-chave
+  Probabilidade: 3/5, Impacto: 5/5, Nível: Médio
+  Mitigação: Implementar redundância de infraestrutura
+
+- R04: Falhas de infraestrutura
+  Probabilidade: 4/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Realizar testes de aceitação com usuários-chave
+
+- R05: Mudanças regulatórias
+  Probabilidade: 1/5, Impacto: 4/5, Nível: Baixo
+  Mitigação: Gerenciar dependências ativamente
+
+- R06: Problemas de desempenho
+  Probabilidade: 1/5, Impacto: 3/5, Nível: Baixo
+  Mitigação: Otimizar código e infraestrutura
+
+- R07: Problemas de comunicação com stakeholders
+  Probabilidade: 2/5, Impacto: 5/5, Nível: Médio
+  Mitigação: Otimizar código e infraestrutura
+
+- R08: Problemas de compatibilidade
+  Probabilidade: 2/5, Impacto: 4/5, Nível: Médio
+  Mitigação: Estabelecer canais de comunicação claros
+
+Riscos ocorridos:
+- R04 (ocorrido em 06/03/2024)
+  Impacto real: Aumento de 10% nos custos
+  Ações tomadas: Revisão de processos
+

@@ -1,0 +1,32 @@
+RELATÓRIO DE STATUS DE ESCOPO
+Projeto: A arte de concretizar seus projetos direto da fonte (PROJ-0437)
+Data: 14/07/2025
+Gerente: Isabelly Teixeira
+
+Escopo original: Sistema para a arte de concretizar seus projetos direto da fonte
+Houve mudança de escopo: Sim
+Descrição das mudanças: Redução do escopo devido a restrições orçamentárias
+Impacto no cronograma: 5 dias
+Impacto no custo: R$ 231054.15
+
+Solicitações de mudança:
+- SCM-01: Adição de funcionalidade de autenticação biométrica
+- SCM-02: Adição de funcionalidade de autenticação biométrica
+- SCM-03: Integração com sistema legado
+
+Requisitos atuais:
+- REQ-01: O sistema deve ter interface responsiva
+- REQ-02: O sistema deve passar por testes de segurança
+- REQ-03: O sistema deve ter alta disponibilidade (99.9%)
+- REQ-04: O sistema deve implementar criptografia de dados sensíveis
+- REQ-05: O sistema deve permitir autenticação de usuários
+- REQ-06: O sistema deve permitir integração com APIs externas
+- REQ-07: O sistema deve ser escalável para suportar até 10.000 usuários simultâneos
+- REQ-08: O sistema deve implementar criptografia de dados sensíveis
+- REQ-09: O sistema deve ser compatível com dispositivos móveis
+- REQ-10: O sistema deve passar por testes de segurança
+- REQ-11: O sistema deve ser escalável para suportar até 10.000 usuários simultâneos
+- REQ-12: O sistema deve ter alta disponibilidade (99.9%)
+- REQ-13: O sistema deve ter alta disponibilidade (99.9%)
+- REQ-14: O sistema deve permitir integração com APIs externas
+- REQ-15: O sistema deve ter alta disponibilidade (99.9%)

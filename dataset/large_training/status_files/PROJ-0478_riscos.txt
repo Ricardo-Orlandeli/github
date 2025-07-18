@@ -1,0 +1,59 @@
+RELATÓRIO DE STATUS DE RISCOS
+Projeto: A liberdade de inovar sem preocupação (PROJ-0478)
+Data: 14/07/2025
+Gerente: João Miguel Teixeira
+
+Riscos identificados:
+- R01: Problemas de desempenho
+  Probabilidade: 1/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Monitorar mudanças regulatórias
+
+- R02: Estimativas imprecisas
+  Probabilidade: 2/5, Impacto: 3/5, Nível: Baixo
+  Mitigação: Testar compatibilidade em diferentes ambientes
+
+- R03: Problemas de compatibilidade
+  Probabilidade: 1/5, Impacto: 4/5, Nível: Baixo
+  Mitigação: Realizar testes de integração antecipados
+
+- R04: Mudanças regulatórias
+  Probabilidade: 1/5, Impacto: 5/5, Nível: Baixo
+  Mitigação: Implementar redundância de infraestrutura
+
+- R05: Requisitos mal definidos
+  Probabilidade: 3/5, Impacto: 3/5, Nível: Médio
+  Mitigação: Refinar estimativas com base em dados históricos
+
+- R06: Problemas de compatibilidade
+  Probabilidade: 4/5, Impacto: 3/5, Nível: Médio
+  Mitigação: Buscar fornecedores alternativos
+
+- R07: Falhas de infraestrutura
+  Probabilidade: 4/5, Impacto: 4/5, Nível: Alto
+  Mitigação: Implementar redundância de infraestrutura
+
+- R08: Dependências externas não cumpridas
+  Probabilidade: 3/5, Impacto: 4/5, Nível: Médio
+  Mitigação: Otimizar código e infraestrutura
+
+- R09: Falhas de infraestrutura
+  Probabilidade: 1/5, Impacto: 2/5, Nível: Baixo
+  Mitigação: Implementar plano de contingência
+
+- R10: Falhas de infraestrutura
+  Probabilidade: 4/5, Impacto: 4/5, Nível: Alto
+  Mitigação: Monitorar mudanças regulatórias
+
+Riscos ocorridos:
+- R02 (ocorrido em 01/03/2025)
+  Impacto real: Aumento de 10% nos custos
+  Ações tomadas: Implementação de controles adicionais
+
+- R06 (ocorrido em 24/12/2024)
+  Impacto real: Perda de dados
+  Ações tomadas: Ajuste no cronograma
+
+- R09 (ocorrido em 20/10/2024)
+  Impacto real: Insatisfação dos stakeholders
+  Ações tomadas: Implementação de soluções alternativas
+

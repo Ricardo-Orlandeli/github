@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O poder de avançar direto da fonte (PROJ-0662)
+Data: 14/07/2025
+Gerente: Heloisa da Luz
+
+Orçamento inicial: R$ 4889059.00
+Custo real atual: R$ 1524129.71
+Desvio orçamentário: -31.81%
+Índice de Desempenho de Custo (CPI): 0.80
+Valor Agregado (EV): R$ 1226761.38
+Estimativa para conclusão: R$ 4550042.65
+Estimativa no término (EAC): R$ 6074172.36
+Variação no término (VAC): R$ -1185113.36
+
+Detalhamento por categoria:
+- Pessoal: R$ 879523.38 (57.7%)
+- Equipamentos: R$ 159745.28 (10.5%)
+- Software: R$ 168038.51 (11.0%)
+- Serviços: R$ 238293.53 (15.6%)
+- Outros: R$ 78529.02 (5.2%)

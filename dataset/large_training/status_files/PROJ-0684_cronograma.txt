@@ -1,0 +1,26 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A vantagem de evoluir de maneira eficaz (PROJ-0684)
+Data: 14/07/2025
+Gerente: Davi Lucas Câmara
+
+Status atual: Em andamento
+Percentual de conclusão: 27.6%
+Data de início: 21/03/2025
+Data de término planejada: 20/02/2026
+Data de término real/prevista: 06/02/2026
+Atraso atual: 0 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.11
+Valor Planejado (PV): R$ 1046093.39
+Valor Agregado (EV): R$ 842606.13
+
+Tarefas críticas:
+- Implementação do módulo de análise de dados
+- Testes de aceitação do usuário
+- Configuração da infraestrutura
+- Configuração do ambiente de produção
+- Migração de dados legados
+- Implementação da API REST
+- Configuração do ambiente de produção
+
+Tarefas atrasadas:

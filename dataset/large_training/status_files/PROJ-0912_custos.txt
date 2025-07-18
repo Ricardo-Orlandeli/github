@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O prazer de conseguir simplesmente (PROJ-0912)
+Data: 14/07/2025
+Gerente: Yago Guerra
+
+Orçamento inicial: R$ 94553.00
+Custo real atual: R$ 84869.16
+Desvio orçamentário: -10.24%
+Índice de Desempenho de Custo (CPI): 1.11
+Valor Agregado (EV): R$ 94458.45
+Estimativa para conclusão: R$ 84.95
+Estimativa no término (EAC): R$ 84954.11
+Variação no término (VAC): R$ 9598.89
+
+Detalhamento por categoria:
+- Pessoal: R$ 40542.34 (47.8%)
+- Equipamentos: R$ 14352.19 (16.9%)
+- Software: R$ 10588.32 (12.5%)
+- Serviços: R$ 13033.71 (15.4%)
+- Outros: R$ 6352.61 (7.5%)

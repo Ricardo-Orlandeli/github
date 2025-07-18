@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A possibilidade de avançar direto da fonte (PROJ-0080)
+Data: 14/07/2025
+Gerente: Diego da Rosa
+
+Orçamento inicial: R$ 1246437.00
+Custo real atual: R$ 997384.16
+Desvio orçamentário: -19.98%
+Índice de Desempenho de Custo (CPI): 1.25
+Valor Agregado (EV): R$ 1246437.00
+Estimativa para conclusão: R$ 0.00
+Estimativa no término (EAC): R$ 997384.16
+Variação no término (VAC): R$ 249052.84
+
+Detalhamento por categoria:
+- Pessoal: R$ 492542.94 (49.4%)
+- Equipamentos: R$ 189505.31 (19.0%)
+- Software: R$ 75347.70 (7.6%)
+- Serviços: R$ 183107.05 (18.4%)
+- Outros: R$ 56881.16 (5.7%)

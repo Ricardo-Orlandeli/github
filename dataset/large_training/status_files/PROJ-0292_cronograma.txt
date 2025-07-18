@@ -1,0 +1,23 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A liberdade de mudar com força total (PROJ-0292)
+Data: 14/07/2025
+Gerente: Daniela Viana
+
+Status atual: Concluído
+Percentual de conclusão: 100.0%
+Data de início: 02/09/2024
+Data de término planejada: 30/11/2024
+Data de término real/prevista: 12/12/2024
+Atraso atual: 226 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 0.99
+Valor Planejado (PV): R$ 3444802.00
+Valor Agregado (EV): R$ 3444802.00
+
+Tarefas críticas:
+- Implementação do módulo de análise de dados
+- Desenvolvimento do painel administrativo
+- Implementação do módulo de relatórios
+- Configuração do ambiente de produção
+
+Tarefas atrasadas:

@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A possibilidade de conseguir antes de tudo (PROJ-0049)
+Data: 14/07/2025
+Gerente: Dr. Lucas Gabriel Lopes
+
+Orçamento inicial: R$ 2544103.00
+Custo real atual: R$ 2851225.50
+Desvio orçamentário: 12.07%
+Índice de Desempenho de Custo (CPI): 0.89
+Valor Agregado (EV): R$ 2541558.90
+Estimativa para conclusão: R$ 2854.08
+Estimativa no término (EAC): R$ 2854079.58
+Variação no término (VAC): R$ -309976.58
+
+Detalhamento por categoria:
+- Pessoal: R$ 1541773.88 (54.1%)
+- Equipamentos: R$ 447661.99 (15.7%)
+- Software: R$ 280994.47 (9.9%)
+- Serviços: R$ 414865.49 (14.6%)
+- Outros: R$ 165929.67 (5.8%)

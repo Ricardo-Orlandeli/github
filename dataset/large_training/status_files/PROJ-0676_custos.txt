@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O direito de concretizar seus projetos mais rapidamente (PROJ-0676)
+Data: 14/07/2025
+Gerente: Valentina Sousa
+
+Orçamento inicial: R$ 2215413.00
+Custo real atual: R$ 1858785.61
+Desvio orçamentário: 8.05%
+Índice de Desempenho de Custo (CPI): 1.19
+Valor Agregado (EV): R$ 2215413.00
+Estimativa para conclusão: R$ 0.00
+Estimativa no término (EAC): R$ 1858785.61
+Variação no término (VAC): R$ 356627.39
+
+Detalhamento por categoria:
+- Pessoal: R$ 955610.27 (51.4%)
+- Equipamentos: R$ 209629.41 (11.3%)
+- Software: R$ 219234.84 (11.8%)
+- Serviços: R$ 310992.56 (16.7%)
+- Outros: R$ 163318.53 (8.8%)

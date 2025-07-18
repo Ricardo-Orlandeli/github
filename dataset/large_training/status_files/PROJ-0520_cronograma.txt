@@ -1,0 +1,24 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: O poder de ganhar com força total (PROJ-0520)
+Data: 14/07/2025
+Gerente: Julia Dias
+
+Status atual: Em andamento
+Percentual de conclusão: 85.9%
+Data de início: 15/01/2024
+Data de término planejada: 11/11/2024
+Data de término real/prevista: 25/11/2024
+Atraso atual: 245 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 0.91
+Valor Planejado (PV): R$ 1430071.00
+Valor Agregado (EV): R$ 1228563.99
+
+Tarefas críticas:
+- Implementação do módulo de exportação de dados
+- Implementação do sistema de backup
+- Testes de segurança
+- Implementação do módulo de relatórios
+- Desenvolvimento do módulo de autenticação
+
+Tarefas atrasadas:

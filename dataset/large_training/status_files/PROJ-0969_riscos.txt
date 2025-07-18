@@ -1,0 +1,27 @@
+RELATÓRIO DE STATUS DE RISCOS
+Projeto: A arte de inovar mais rapidamente (PROJ-0969)
+Data: 14/07/2025
+Gerente: Bruna Sá
+
+Riscos identificados:
+- R01: Mudanças regulatórias
+  Probabilidade: 2/5, Impacto: 4/5, Nível: Médio
+  Mitigação: Fortalecer medidas de segurança
+
+- R02: Falhas de infraestrutura
+  Probabilidade: 2/5, Impacto: 2/5, Nível: Baixo
+  Mitigação: Realizar testes de integração antecipados
+
+- R03: Mudanças regulatórias
+  Probabilidade: 2/5, Impacto: 3/5, Nível: Baixo
+  Mitigação: Comunicar benefícios da mudança
+
+- R04: Requisitos mal definidos
+  Probabilidade: 5/5, Impacto: 2/5, Nível: Médio
+  Mitigação: Estabelecer canais de comunicação claros
+
+- R05: Falhas de segurança
+  Probabilidade: 3/5, Impacto: 4/5, Nível: Médio
+  Mitigação: Estabelecer canais de comunicação claros
+
+Riscos ocorridos:

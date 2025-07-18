@@ -1,0 +1,35 @@
+RELATÓRIO DE STATUS DE RISCOS
+Projeto: O direito de ganhar simplesmente (PROJ-0920)
+Data: 14/07/2025
+Gerente: Juan Câmara
+
+Riscos identificados:
+- R01: Problemas de integração com sistemas legados
+  Probabilidade: 2/5, Impacto: 3/5, Nível: Baixo
+  Mitigação: Realizar testes de integração antecipados
+
+- R02: Requisitos mal definidos
+  Probabilidade: 1/5, Impacto: 2/5, Nível: Baixo
+  Mitigação: Implementar plano de contingência
+
+- R03: Problemas de comunicação com stakeholders
+  Probabilidade: 3/5, Impacto: 4/5, Nível: Médio
+  Mitigação: Comunicar benefícios da mudança
+
+- R04: Problemas de desempenho
+  Probabilidade: 4/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Refinar estimativas com base em dados históricos
+
+- R05: Requisitos mal definidos
+  Probabilidade: 3/5, Impacto: 3/5, Nível: Médio
+  Mitigação: Gerenciar dependências ativamente
+
+- R06: Resistência dos usuários à mudança
+  Probabilidade: 3/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Contratar pessoal adicional
+
+- R07: Mudanças regulatórias
+  Probabilidade: 1/5, Impacto: 4/5, Nível: Baixo
+  Mitigação: Realizar testes de aceitação com usuários-chave
+
+Riscos ocorridos:

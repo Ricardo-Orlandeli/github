@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A vantagem de inovar com toda a tranquilidade (PROJ-0316)
+Data: 14/07/2025
+Gerente: Thomas Melo
+
+Orçamento inicial: R$ 497996.00
+Custo real atual: R$ 514115.71
+Desvio orçamentário: 3.24%
+Índice de Desempenho de Custo (CPI): 0.97
+Valor Agregado (EV): R$ 497996.00
+Estimativa para conclusão: R$ 0.00
+Estimativa no término (EAC): R$ 514115.71
+Variação no término (VAC): R$ -16119.71
+
+Detalhamento por categoria:
+- Pessoal: R$ 240376.10 (46.8%)
+- Equipamentos: R$ 67250.61 (13.1%)
+- Software: R$ 62394.61 (12.1%)
+- Serviços: R$ 98599.76 (19.2%)
+- Outros: R$ 45494.63 (8.8%)

@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A possibilidade de mudar com toda a tranquilidade (PROJ-0165)
+Data: 14/07/2025
+Gerente: Eduardo Peixoto
+
+Orçamento inicial: R$ 2560564.00
+Custo real atual: R$ 2925488.88
+Desvio orçamentário: 14.25%
+Índice de Desempenho de Custo (CPI): 0.88
+Valor Agregado (EV): R$ 2560564.00
+Estimativa para conclusão: R$ 0.00
+Estimativa no término (EAC): R$ 2925488.88
+Variação no término (VAC): R$ -364924.88
+
+Detalhamento por categoria:
+- Pessoal: R$ 1457477.47 (49.8%)
+- Equipamentos: R$ 461302.40 (15.8%)
+- Software: R$ 428692.90 (14.7%)
+- Serviços: R$ 329231.45 (11.3%)
+- Outros: R$ 248784.66 (8.5%)

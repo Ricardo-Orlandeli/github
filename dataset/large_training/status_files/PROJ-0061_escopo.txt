@@ -1,0 +1,23 @@
+RELATÓRIO DE STATUS DE ESCOPO
+Projeto: A simplicidade de conseguir sem preocupação (PROJ-0061)
+Data: 14/07/2025
+Gerente: Benjamim Pires
+
+Escopo original: Sistema para a simplicidade de conseguir sem preocupação
+Houve mudança de escopo: Não
+Descrição das mudanças: N/A
+Impacto no cronograma: 0 dias
+Impacto no custo: R$ 0.00
+
+Solicitações de mudança:
+
+Requisitos atuais:
+- REQ-01: O sistema deve ser compatível com navegadores modernos
+- REQ-02: O sistema deve permitir autenticação de usuários
+- REQ-03: O sistema deve permitir exportação de dados em formato CSV
+- REQ-04: O sistema deve ser escalável para suportar até 10.000 usuários simultâneos
+- REQ-05: O sistema deve ser escalável para suportar até 10.000 usuários simultâneos
+- REQ-06: O sistema deve registrar logs de auditoria
+- REQ-07: O sistema deve ter controle de acesso baseado em perfis
+- REQ-08: O sistema deve ter alta disponibilidade (99.9%)
+- REQ-09: O sistema deve ter alta disponibilidade (99.9%)

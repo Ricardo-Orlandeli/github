@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A segurança de mudar direto da fonte (PROJ-0097)
+Data: 14/07/2025
+Gerente: Daniela Machado
+
+Orçamento inicial: R$ 3424157.00
+Custo real atual: R$ 2215670.21
+Desvio orçamentário: -35.29%
+Índice de Desempenho de Custo (CPI): 0.85
+Valor Agregado (EV): R$ 1883319.52
+Estimativa para conclusão: R$ 1812750.12
+Estimativa no término (EAC): R$ 4028420.34
+Variação no término (VAC): R$ -604263.34
+
+Detalhamento por categoria:
+- Pessoal: R$ 1220869.74 (55.1%)
+- Equipamentos: R$ 294884.05 (13.3%)
+- Software: R$ 190426.36 (8.6%)
+- Serviços: R$ 359687.51 (16.2%)
+- Outros: R$ 149802.55 (6.8%)

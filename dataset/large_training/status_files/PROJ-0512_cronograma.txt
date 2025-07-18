@@ -1,0 +1,25 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A vantagem de mudar mais facilmente (PROJ-0512)
+Data: 14/07/2025
+Gerente: Liz Peixoto
+
+Status atual: Em andamento
+Percentual de conclusão: 27.3%
+Data de início: 01/04/2025
+Data de término planejada: 06/02/2026
+Data de término real/prevista: 07/02/2026
+Atraso atual: 0 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 0.91
+Valor Planejado (PV): R$ 1096783.33
+Valor Agregado (EV): R$ 896595.41
+
+Tarefas críticas:
+- Integração com sistema de pagamentos
+- Implementação do módulo de análise de dados
+- Implementação do módulo de relatórios
+- Implementação do módulo de análise de dados
+- Desenvolvimento da interface do usuário
+- Implementação do módulo de exportação de dados
+
+Tarefas atrasadas:

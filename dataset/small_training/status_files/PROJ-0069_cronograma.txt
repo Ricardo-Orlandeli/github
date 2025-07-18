@@ -1,0 +1,24 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A liberdade de realizar seus sonhos direto da fonte (PROJ-0069)
+Data: 14/07/2025
+Gerente: Henry Ramos
+
+Status atual: Em andamento
+Percentual de conclusão: 55.6%
+Data de início: 10/03/2025
+Data de término planejada: 04/10/2025
+Data de término real/prevista: 28/09/2025
+Atraso atual: 0 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.02
+Valor Planejado (PV): R$ 738399.98
+Valor Agregado (EV): R$ 677761.77
+
+Tarefas críticas:
+- Integração com sistema de pagamentos
+- Integração com sistema de pagamentos
+- Implementação do módulo de relatórios
+- Desenvolvimento do painel administrativo
+- Implementação do sistema de backup
+
+Tarefas atrasadas:

@@ -1,0 +1,26 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: O prazer de concretizar seus projetos de maneira eficaz (PROJ-0862)
+Data: 14/07/2025
+Gerente: Sophie Vieira
+
+Status atual: Atrasado
+Percentual de conclusão: 78.0%
+Data de início: 22/03/2024
+Data de término planejada: 18/06/2024
+Data de término real/prevista: 30/07/2024
+Atraso atual: 391 dias
+Motivo do atraso: Falhas em testes de aceitação
+Índice de Desempenho de Cronograma (SPI): 0.78
+Valor Planejado (PV): R$ 3267476.00
+Valor Agregado (EV): R$ 2548528.39
+
+Tarefas críticas:
+- Integração com sistema de pagamentos
+- Desenvolvimento do painel administrativo
+- Implementação da API REST
+- Integração com sistema de pagamentos
+- Configuração da infraestrutura
+
+Tarefas atrasadas:
+- Configuração da infraestrutura
+- Desenvolvimento do painel administrativo

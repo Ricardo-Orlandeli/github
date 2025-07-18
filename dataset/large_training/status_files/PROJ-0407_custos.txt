@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A possibilidade de inovar mais facilmente (PROJ-0407)
+Data: 14/07/2025
+Gerente: Luiz Fernando Lima
+
+Orçamento inicial: R$ 1735328.00
+Custo real atual: R$ 1654652.75
+Desvio orçamentário: 0.23%
+Índice de Desempenho de Custo (CPI): 1.05
+Valor Agregado (EV): R$ 1733592.67
+Estimativa para conclusão: R$ 1656.31
+Estimativa no término (EAC): R$ 1656309.06
+Variação no término (VAC): R$ 79018.94
+
+Detalhamento por categoria:
+- Pessoal: R$ 892230.79 (53.9%)
+- Equipamentos: R$ 226547.88 (13.7%)
+- Software: R$ 221296.47 (13.4%)
+- Serviços: R$ 210124.63 (12.7%)
+- Outros: R$ 104452.97 (6.3%)

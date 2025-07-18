@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A segurança de inovar direto da fonte (PROJ-0002)
+Data: 14/07/2025
+Gerente: Srta. Brenda Sousa
+
+Orçamento inicial: R$ 2405713.00
+Custo real atual: R$ 2184377.79
+Desvio orçamentário: -9.20%
+Índice de Desempenho de Custo (CPI): 0.74
+Valor Agregado (EV): R$ 1606827.18
+Estimativa para conclusão: R$ 1086033.67
+Estimativa no término (EAC): R$ 3270411.46
+Variação no término (VAC): R$ -864698.46
+
+Detalhamento por categoria:
+- Pessoal: R$ 1023603.83 (46.9%)
+- Equipamentos: R$ 294456.35 (13.5%)
+- Software: R$ 272140.81 (12.5%)
+- Serviços: R$ 456151.46 (20.9%)
+- Outros: R$ 138025.33 (6.3%)

@@ -1,0 +1,35 @@
+RELATÓRIO DE STATUS DE RISCOS
+Projeto: A simplicidade de atingir seus objetivos com força total (PROJ-0762)
+Data: 14/07/2025
+Gerente: Léo Alves
+
+Riscos identificados:
+- R01: Mudanças regulatórias
+  Probabilidade: 4/5, Impacto: 2/5, Nível: Médio
+  Mitigação: Melhorar a documentação de requisitos
+
+- R02: Problemas de comunicação com stakeholders
+  Probabilidade: 4/5, Impacto: 5/5, Nível: Alto
+  Mitigação: Comunicar benefícios da mudança
+
+- R03: Problemas de comunicação com stakeholders
+  Probabilidade: 4/5, Impacto: 5/5, Nível: Alto
+  Mitigação: Estabelecer canais de comunicação claros
+
+- R04: Falhas de infraestrutura
+  Probabilidade: 4/5, Impacto: 4/5, Nível: Alto
+  Mitigação: Implementar redundância de infraestrutura
+
+Riscos ocorridos:
+- R01 (ocorrido em 05/04/2025)
+  Impacto real: Problemas de qualidade
+  Ações tomadas: Contratação de recursos adicionais
+
+- R04 (ocorrido em 08/10/2024)
+  Impacto real: Indisponibilidade temporária
+  Ações tomadas: Realocação de recursos
+
+- R02 (ocorrido em 23/03/2025)
+  Impacto real: Indisponibilidade temporária
+  Ações tomadas: Contratação de recursos adicionais
+

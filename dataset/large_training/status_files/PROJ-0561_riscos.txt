@@ -1,0 +1,31 @@
+RELATÓRIO DE STATUS DE RISCOS
+Projeto: A vantagem de realizar seus sonhos com toda a tranquilidade (PROJ-0561)
+Data: 14/07/2025
+Gerente: Valentim da Luz
+
+Riscos identificados:
+- R01: Problemas de comunicação com stakeholders
+  Probabilidade: 1/5, Impacto: 3/5, Nível: Baixo
+  Mitigação: Realizar testes de integração antecipados
+
+- R02: Falhas de segurança
+  Probabilidade: 5/5, Impacto: 2/5, Nível: Médio
+  Mitigação: Buscar fornecedores alternativos
+
+- R03: Problemas de integração com sistemas legados
+  Probabilidade: 2/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Testar compatibilidade em diferentes ambientes
+
+- R04: Problemas de compatibilidade
+  Probabilidade: 3/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Fortalecer medidas de segurança
+
+- R05: Falhas em testes de aceitação
+  Probabilidade: 4/5, Impacto: 5/5, Nível: Alto
+  Mitigação: Comunicar benefícios da mudança
+
+Riscos ocorridos:
+- R01 (ocorrido em 25/11/2024)
+  Impacto real: Retrabalho significativo
+  Ações tomadas: Realocação de recursos
+

@@ -1,0 +1,33 @@
+RELATÓRIO DE STATUS DE ESCOPO
+Projeto: A liberdade de atingir seus objetivos com força total (PROJ-0474)
+Data: 14/07/2025
+Gerente: Elisa Sousa
+
+Escopo original: Sistema para a liberdade de atingir seus objetivos com força total
+Houve mudança de escopo: Sim
+Descrição das mudanças: Redução do escopo devido a restrições orçamentárias
+Impacto no cronograma: 27 dias
+Impacto no custo: R$ 48987.92
+
+Solicitações de mudança:
+- SCM-01: Adição de funcionalidade de autenticação biométrica
+- SCM-02: Alteração na interface do usuário
+- SCM-03: Mudança no banco de dados
+- SCM-04: Adição de funcionalidade de autenticação biométrica
+
+Requisitos atuais:
+- REQ-01: O sistema deve ter alta disponibilidade (99.9%)
+- REQ-02: O sistema deve ter backup automático diário
+- REQ-03: O sistema deve ter controle de acesso baseado em perfis
+- REQ-04: O sistema deve implementar criptografia de dados sensíveis
+- REQ-05: O sistema deve registrar logs de auditoria
+- REQ-06: O sistema deve ser compatível com dispositivos móveis
+- REQ-07: O sistema deve permitir autenticação de usuários
+- REQ-08: O sistema deve ter controle de acesso baseado em perfis
+- REQ-09: O sistema deve ser compatível com navegadores modernos
+- REQ-10: O sistema deve ter documentação completa
+- REQ-11: O sistema deve implementar criptografia de dados sensíveis
+- REQ-12: O sistema deve ter interface responsiva
+- REQ-13: O sistema deve permitir integração com APIs externas
+- REQ-14: O sistema deve permitir autenticação de usuários
+- REQ-15: O sistema deve ter alta disponibilidade (99.9%)

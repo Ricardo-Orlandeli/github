@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A vantagem de ganhar mais facilmente (PROJ-0633)
+Data: 14/07/2025
+Gerente: Caio Marques
+
+Orçamento inicial: R$ 1380098.00
+Custo real atual: R$ 806661.01
+Desvio orçamentário: -15.27%
+Índice de Desempenho de Custo (CPI): 1.13
+Valor Agregado (EV): R$ 912663.43
+Estimativa para conclusão: R$ 413143.81
+Estimativa no término (EAC): R$ 1219804.81
+Variação no término (VAC): R$ 160293.19
+
+Detalhamento por categoria:
+- Pessoal: R$ 438552.35 (54.4%)
+- Equipamentos: R$ 93313.79 (11.6%)
+- Software: R$ 72018.67 (8.9%)
+- Serviços: R$ 148513.46 (18.4%)
+- Outros: R$ 54262.73 (6.7%)

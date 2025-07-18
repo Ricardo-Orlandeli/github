@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O poder de inovar naturalmente (PROJ-0028)
+Data: 14/07/2025
+Gerente: Leandro Alves
+
+Orçamento inicial: R$ 693438.00
+Custo real atual: R$ 406727.26
+Desvio orçamentário: -41.35%
+Índice de Desempenho de Custo (CPI): 0.93
+Valor Agregado (EV): R$ 377619.61
+Estimativa para conclusão: R$ 340162.27
+Estimativa no término (EAC): R$ 746889.53
+Variação no término (VAC): R$ -53451.53
+
+Detalhamento por categoria:
+- Pessoal: R$ 207681.85 (51.1%)
+- Equipamentos: R$ 55403.11 (13.6%)
+- Software: R$ 48601.45 (11.9%)
+- Serviços: R$ 61807.79 (15.2%)
+- Outros: R$ 33233.05 (8.2%)

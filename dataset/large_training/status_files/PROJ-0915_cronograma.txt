@@ -1,0 +1,26 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A liberdade de ganhar com toda a tranquilidade (PROJ-0915)
+Data: 14/07/2025
+Gerente: Jade Vargas
+
+Status atual: Em andamento
+Percentual de conclusão: 99.9%
+Data de início: 26/09/2024
+Data de término planejada: 06/12/2024
+Data de término real/prevista: 27/12/2024
+Atraso atual: 220 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 0.94
+Valor Planejado (PV): R$ 3253919.00
+Valor Agregado (EV): R$ 3250665.08
+
+Tarefas críticas:
+- Testes de segurança
+- Desenvolvimento da interface do usuário
+- Desenvolvimento do módulo de autenticação
+- Implementação da API REST
+- Implementação do módulo de relatórios
+- Integração com sistema de pagamentos
+- Desenvolvimento do módulo de autenticação
+
+Tarefas atrasadas:

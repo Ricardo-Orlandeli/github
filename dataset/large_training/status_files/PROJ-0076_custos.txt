@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A simplicidade de conseguir mais facilmente (PROJ-0076)
+Data: 14/07/2025
+Gerente: Luigi Sousa
+
+Orçamento inicial: R$ 4807657.00
+Custo real atual: R$ 3962945.18
+Desvio orçamentário: -17.57%
+Índice de Desempenho de Custo (CPI): 0.83
+Valor Agregado (EV): R$ 3288753.90
+Estimativa para conclusão: R$ 1830276.74
+Estimativa no término (EAC): R$ 5793221.92
+Variação no término (VAC): R$ -985564.92
+
+Detalhamento por categoria:
+- Pessoal: R$ 2290132.29 (57.8%)
+- Equipamentos: R$ 392815.43 (9.9%)
+- Software: R$ 452701.81 (11.4%)
+- Serviços: R$ 593950.27 (15.0%)
+- Outros: R$ 233345.38 (5.9%)

@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O poder de realizar seus sonhos sem preocupação (PROJ-0246)
+Data: 14/07/2025
+Gerente: Benicio Machado
+
+Orçamento inicial: R$ 2098708.00
+Custo real atual: R$ 459582.38
+Desvio orçamentário: -78.10%
+Índice de Desempenho de Custo (CPI): 0.85
+Valor Agregado (EV): R$ 388998.99
+Estimativa para conclusão: R$ 2019933.62
+Estimativa no término (EAC): R$ 2479516.00
+Variação no término (VAC): R$ -380808.00
+
+Detalhamento por categoria:
+- Pessoal: R$ 254846.23 (55.5%)
+- Equipamentos: R$ 63652.82 (13.9%)
+- Software: R$ 56359.97 (12.3%)
+- Serviços: R$ 56612.25 (12.3%)
+- Outros: R$ 28111.09 (6.1%)

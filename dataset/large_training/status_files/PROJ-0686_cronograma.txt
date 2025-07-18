@@ -1,0 +1,22 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A certeza de evoluir mais facilmente (PROJ-0686)
+Data: 14/07/2025
+Gerente: Sr. Davi Luiz Souza
+
+Status atual: Em andamento
+Percentual de conclusão: 99.9%
+Data de início: 29/02/2024
+Data de término planejada: 16/06/2024
+Data de término real/prevista: 01/07/2024
+Atraso atual: 393 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.07
+Valor Planejado (PV): R$ 3960068.00
+Valor Agregado (EV): R$ 3956107.93
+
+Tarefas críticas:
+- Testes de segurança
+- Desenvolvimento do painel administrativo
+- Implementação do módulo de relatórios
+
+Tarefas atrasadas:

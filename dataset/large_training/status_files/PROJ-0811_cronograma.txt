@@ -1,0 +1,26 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A liberdade de mudar de maneira eficaz (PROJ-0811)
+Data: 14/07/2025
+Gerente: Maria Eduarda Marques
+
+Status atual: Concluído
+Percentual de conclusão: 100.0%
+Data de início: 27/03/2024
+Data de término planejada: 16/03/2025
+Data de término real/prevista: 10/04/2025
+Atraso atual: 120 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.02
+Valor Planejado (PV): R$ 2946192.00
+Valor Agregado (EV): R$ 2946192.00
+
+Tarefas críticas:
+- Implementação do sistema de backup
+- Implementação do módulo de análise de dados
+- Implementação do módulo de notificações
+- Configuração da infraestrutura
+- Desenvolvimento do módulo de autenticação
+- Integração com sistema de pagamentos
+- Desenvolvimento do módulo de autenticação
+
+Tarefas atrasadas:

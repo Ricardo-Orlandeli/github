@@ -1,0 +1,39 @@
+RELATÓRIO DE STATUS DE RISCOS
+Projeto: O direito de mudar direto da fonte (PROJ-0945)
+Data: 14/07/2025
+Gerente: Isadora Pacheco
+
+Riscos identificados:
+- R01: Resistência dos usuários à mudança
+  Probabilidade: 1/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Otimizar código e infraestrutura
+
+- R02: Problemas de integração com sistemas legados
+  Probabilidade: 1/5, Impacto: 2/5, Nível: Baixo
+  Mitigação: Contratar pessoal adicional
+
+- R03: Falhas de segurança
+  Probabilidade: 3/5, Impacto: 4/5, Nível: Médio
+  Mitigação: Comunicar benefícios da mudança
+
+- R04: Problemas de comunicação com stakeholders
+  Probabilidade: 2/5, Impacto: 5/5, Nível: Médio
+  Mitigação: Implementar plano de contingência
+
+- R05: Falhas de infraestrutura
+  Probabilidade: 1/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Buscar fornecedores alternativos
+
+- R06: Falhas de segurança
+  Probabilidade: 3/5, Impacto: 3/5, Nível: Médio
+  Mitigação: Implementar redundância de infraestrutura
+
+- R07: Rotatividade de pessoal-chave
+  Probabilidade: 3/5, Impacto: 4/5, Nível: Médio
+  Mitigação: Realizar testes de aceitação com usuários-chave
+
+- R08: Falhas em testes de aceitação
+  Probabilidade: 1/5, Impacto: 3/5, Nível: Baixo
+  Mitigação: Melhorar a documentação de requisitos
+
+Riscos ocorridos:

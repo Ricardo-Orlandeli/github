@@ -1,0 +1,24 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A liberdade de ganhar mais facilmente (PROJ-0635)
+Data: 14/07/2025
+Gerente: Sr. Vitor da Mata
+
+Status atual: Concluído
+Percentual de conclusão: 100.0%
+Data de início: 25/06/2025
+Data de término planejada: 30/10/2025
+Data de término real/prevista: 13/11/2025
+Atraso atual: 0 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 0.95
+Valor Planejado (PV): R$ 551379.25
+Valor Agregado (EV): R$ 3685535.00
+
+Tarefas críticas:
+- Implementação do sistema de backup
+- Implementação do módulo de relatórios
+- Implementação da API REST
+- Testes de segurança
+- Implementação do módulo de exportação de dados
+
+Tarefas atrasadas:

@@ -1,0 +1,28 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A vantagem de concretizar seus projetos com força total (PROJ-0566)
+Data: 14/07/2025
+Gerente: Bruna Silva
+
+Status atual: Atrasado
+Percentual de conclusão: 64.4%
+Data de início: 17/02/2024
+Data de término planejada: 03/12/2024
+Data de término real/prevista: 11/01/2025
+Atraso atual: 223 dias
+Motivo do atraso: Rotatividade de pessoal-chave
+Índice de Desempenho de Cronograma (SPI): 0.64
+Valor Planejado (PV): R$ 4804365.00
+Valor Agregado (EV): R$ 3093017.38
+
+Tarefas críticas:
+- Desenvolvimento da interface do usuário
+- Implementação do sistema de backup
+- Implementação do sistema de backup
+- Desenvolvimento do módulo de autenticação
+- Desenvolvimento da interface do usuário
+- Desenvolvimento do painel administrativo
+
+Tarefas atrasadas:
+- Implementação do sistema de backup
+- Implementação do sistema de backup
+- Desenvolvimento da interface do usuário

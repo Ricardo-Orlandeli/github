@@ -1,0 +1,25 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A segurança de atingir seus objetivos naturalmente (PROJ-0092)
+Data: 14/07/2025
+Gerente: Marcos Vinicius Siqueira
+
+Status atual: Em andamento
+Percentual de conclusão: 84.1%
+Data de início: 10/01/2025
+Data de término planejada: 21/07/2025
+Data de término real/prevista: 11/08/2025
+Atraso atual: 0 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 0.90
+Valor Planejado (PV): R$ 2207632.94
+Valor Agregado (EV): R$ 1926149.67
+
+Tarefas críticas:
+- Testes de aceitação do usuário
+- Desenvolvimento do módulo de autenticação
+- Integração com sistema de pagamentos
+- Configuração do ambiente de produção
+- Testes de segurança
+- Testes de aceitação do usuário
+
+Tarefas atrasadas:

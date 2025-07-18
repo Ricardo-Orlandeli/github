@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A vantagem de mudar sem preocupação (PROJ-0344)
+Data: 14/07/2025
+Gerente: Breno Vargas
+
+Orçamento inicial: R$ 2607555.00
+Custo real atual: R$ 1617444.73
+Desvio orçamentário: -21.52%
+Índice de Desempenho de Custo (CPI): 1.12
+Valor Agregado (EV): R$ 1813108.00
+Estimativa para conclusão: R$ 708713.49
+Estimativa no término (EAC): R$ 2326158.23
+Variação no término (VAC): R$ 281396.77
+
+Detalhamento por categoria:
+- Pessoal: R$ 846057.66 (52.3%)
+- Equipamentos: R$ 258388.16 (16.0%)
+- Software: R$ 123472.13 (7.6%)
+- Serviços: R$ 267277.05 (16.5%)
+- Outros: R$ 122249.74 (7.6%)

@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O prazer de atingir seus objetivos direto da fonte (PROJ-0736)
+Data: 14/07/2025
+Gerente: Valentina da Cunha
+
+Orçamento inicial: R$ 294548.00
+Custo real atual: R$ 259436.70
+Desvio orçamentário: -11.92%
+Índice de Desempenho de Custo (CPI): 1.14
+Valor Agregado (EV): R$ 294548.00
+Estimativa para conclusão: R$ 0.00
+Estimativa no término (EAC): R$ 259436.70
+Variação no término (VAC): R$ 35111.30
+
+Detalhamento por categoria:
+- Pessoal: R$ 157350.10 (60.7%)
+- Equipamentos: R$ 28991.02 (11.2%)
+- Software: R$ 27509.80 (10.6%)
+- Serviços: R$ 29801.12 (11.5%)
+- Outros: R$ 15784.65 (6.1%)

@@ -1,0 +1,35 @@
+RELATÓRIO DE STATUS DE RISCOS
+Projeto: A arte de realizar seus sonhos com confiança (PROJ-0760)
+Data: 14/07/2025
+Gerente: Nicolas Machado
+
+Riscos identificados:
+- R01: Problemas de compatibilidade
+  Probabilidade: 1/5, Impacto: 3/5, Nível: Baixo
+  Mitigação: Refinar estimativas com base em dados históricos
+
+- R02: Problemas de desempenho
+  Probabilidade: 2/5, Impacto: 5/5, Nível: Médio
+  Mitigação: Implementar redundância de infraestrutura
+
+- R03: Indisponibilidade de recursos especializados
+  Probabilidade: 4/5, Impacto: 5/5, Nível: Alto
+  Mitigação: Implementar plano de contingência
+
+- R04: Mudanças regulatórias
+  Probabilidade: 1/5, Impacto: 4/5, Nível: Baixo
+  Mitigação: Buscar fornecedores alternativos
+
+- R05: Mudanças regulatórias
+  Probabilidade: 3/5, Impacto: 3/5, Nível: Médio
+  Mitigação: Buscar fornecedores alternativos
+
+- R06: Mudanças regulatórias
+  Probabilidade: 2/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Contratar pessoal adicional
+
+- R07: Estimativas imprecisas
+  Probabilidade: 5/5, Impacto: 2/5, Nível: Médio
+  Mitigação: Contratar pessoal adicional
+
+Riscos ocorridos:

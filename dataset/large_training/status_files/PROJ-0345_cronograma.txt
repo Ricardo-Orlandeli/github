@@ -1,0 +1,24 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A arte de conseguir com confiança (PROJ-0345)
+Data: 14/07/2025
+Gerente: João Rocha
+
+Status atual: Cancelado
+Percentual de conclusão: 30.3%
+Data de início: 31/08/2024
+Data de término planejada: 28/12/2024
+Data de término real/prevista: 06/10/2024
+Atraso atual: 198 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 0.30
+Valor Planejado (PV): R$ 4129425.00
+Valor Agregado (EV): R$ 1250394.68
+
+Tarefas críticas:
+- Implementação da API REST
+- Implementação do módulo de análise de dados
+- Implementação do módulo de análise de dados
+- Implementação do módulo de exportação de dados
+- Integração com sistema de pagamentos
+
+Tarefas atrasadas:

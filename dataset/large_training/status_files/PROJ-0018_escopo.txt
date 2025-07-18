@@ -1,0 +1,25 @@
+RELATÓRIO DE STATUS DE ESCOPO
+Projeto: A certeza de concretizar seus projetos direto da fonte (PROJ-0018)
+Data: 14/07/2025
+Gerente: Carlos Eduardo da Cunha
+
+Escopo original: Sistema para a certeza de concretizar seus projetos direto da fonte
+Houve mudança de escopo: Sim
+Descrição das mudanças: Alteração nas especificações técnicas
+Impacto no cronograma: 39 dias
+Impacto no custo: R$ 194232.64
+
+Solicitações de mudança:
+- SCM-01: Alteração nos requisitos de desempenho
+- SCM-02: Alteração na interface do usuário
+- SCM-03: Mudança no banco de dados
+
+Requisitos atuais:
+- REQ-01: O sistema deve ter backup automático diário
+- REQ-02: O sistema deve processar transações em menos de 2 seconds
+- REQ-03: O sistema deve ser compatível com dispositivos móveis
+- REQ-04: O sistema deve ter alta disponibilidade (99.9%)
+- REQ-05: O sistema deve ter controle de acesso baseado em perfis
+- REQ-06: O sistema deve implementar criptografia de dados sensíveis
+- REQ-07: O sistema deve implementar criptografia de dados sensíveis
+- REQ-08: O sistema deve implementar criptografia de dados sensíveis

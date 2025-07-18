@@ -1,0 +1,35 @@
+RELATÓRIO DE STATUS DE RISCOS
+Projeto: O direito de evoluir direto da fonte (PROJ-0509)
+Data: 14/07/2025
+Gerente: Joana Novais
+
+Riscos identificados:
+- R01: Problemas de compatibilidade
+  Probabilidade: 4/5, Impacto: 4/5, Nível: Alto
+  Mitigação: Implementar plano de contingência
+
+- R02: Indisponibilidade de recursos especializados
+  Probabilidade: 2/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Contratar pessoal adicional
+
+- R03: Estimativas imprecisas
+  Probabilidade: 1/5, Impacto: 5/5, Nível: Baixo
+  Mitigação: Implementar redundância de infraestrutura
+
+- R04: Dependências externas não cumpridas
+  Probabilidade: 2/5, Impacto: 2/5, Nível: Baixo
+  Mitigação: Comunicar benefícios da mudança
+
+- R05: Mudanças regulatórias
+  Probabilidade: 2/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Gerenciar dependências ativamente
+
+- R06: Resistência dos usuários à mudança
+  Probabilidade: 3/5, Impacto: 2/5, Nível: Baixo
+  Mitigação: Buscar fornecedores alternativos
+
+Riscos ocorridos:
+- R06 (ocorrido em 08/03/2025)
+  Impacto real: Indisponibilidade temporária
+  Ações tomadas: Contratação de recursos adicionais
+

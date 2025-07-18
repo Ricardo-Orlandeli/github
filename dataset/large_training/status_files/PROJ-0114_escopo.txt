@@ -1,0 +1,21 @@
+RELATÓRIO DE STATUS DE ESCOPO
+Projeto: A liberdade de realizar seus sonhos simplesmente (PROJ-0114)
+Data: 14/07/2025
+Gerente: Dr. Bernardo Aparecida
+
+Escopo original: Sistema para a liberdade de realizar seus sonhos simplesmente
+Houve mudança de escopo: Não
+Descrição das mudanças: N/A
+Impacto no cronograma: 0 dias
+Impacto no custo: R$ 0.00
+
+Solicitações de mudança:
+
+Requisitos atuais:
+- REQ-01: O sistema deve ter alta disponibilidade (99.9%)
+- REQ-02: O sistema deve implementar criptografia de dados sensíveis
+- REQ-03: O sistema deve ter alta disponibilidade (99.9%)
+- REQ-04: O sistema deve ter controle de acesso baseado em perfis
+- REQ-05: O sistema deve ser compatível com navegadores modernos
+- REQ-06: O sistema deve ter controle de acesso baseado em perfis
+- REQ-07: O sistema deve ter backup automático diário

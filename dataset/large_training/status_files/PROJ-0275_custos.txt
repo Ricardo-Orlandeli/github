@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O conforto de concretizar seus projetos simplesmente (PROJ-0275)
+Data: 14/07/2025
+Gerente: Dra. Kamilly Azevedo
+
+Orçamento inicial: R$ 2969074.00
+Custo real atual: R$ 3004397.16
+Desvio orçamentário: 1.19%
+Índice de Desempenho de Custo (CPI): 0.99
+Valor Agregado (EV): R$ 2969074.00
+Estimativa para conclusão: R$ 0.00
+Estimativa no término (EAC): R$ 3004397.16
+Variação no término (VAC): R$ -35323.16
+
+Detalhamento por categoria:
+- Pessoal: R$ 1635907.80 (54.5%)
+- Equipamentos: R$ 340553.74 (11.3%)
+- Software: R$ 303224.91 (10.1%)
+- Serviços: R$ 464213.16 (15.5%)
+- Outros: R$ 260497.56 (8.7%)

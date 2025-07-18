@@ -1,0 +1,19 @@
+RELATÓRIO DE STATUS DE RISCOS
+Projeto: A liberdade de evoluir antes de tudo (PROJ-0043)
+Data: 14/07/2025
+Gerente: Bianca Duarte
+
+Riscos identificados:
+- R01: Dependências externas não cumpridas
+  Probabilidade: 3/5, Impacto: 5/5, Nível: Médio
+  Mitigação: Monitorar mudanças regulatórias
+
+- R02: Mudanças regulatórias
+  Probabilidade: 4/5, Impacto: 5/5, Nível: Alto
+  Mitigação: Implementar redundância de infraestrutura
+
+- R03: Atraso na entrega de componentes críticos
+  Probabilidade: 5/5, Impacto: 5/5, Nível: Alto
+  Mitigação: Implementar plano de contingência
+
+Riscos ocorridos:

@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A certeza de atingir seus objetivos simplesmente (PROJ-0197)
+Data: 14/07/2025
+Gerente: Rhavi Azevedo
+
+Orçamento inicial: R$ 3700865.00
+Custo real atual: R$ 3586401.40
+Desvio orçamentário: -3.09%
+Índice de Desempenho de Custo (CPI): 1.03
+Valor Agregado (EV): R$ 3697164.14
+Estimativa para conclusão: R$ 3589.99
+Estimativa no término (EAC): R$ 3589991.39
+Variação no término (VAC): R$ 110873.61
+
+Detalhamento por categoria:
+- Pessoal: R$ 2079862.71 (58.0%)
+- Equipamentos: R$ 639043.88 (17.8%)
+- Software: R$ 219657.86 (6.1%)
+- Serviços: R$ 423175.29 (11.8%)
+- Outros: R$ 224661.65 (6.3%)

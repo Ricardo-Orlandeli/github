@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A simplicidade de atingir seus objetivos em estado puro (PROJ-0128)
+Data: 14/07/2025
+Gerente: Ana Cecília Castro
+
+Orçamento inicial: R$ 4668779.00
+Custo real atual: R$ 4985415.41
+Desvio orçamentário: 6.78%
+Índice de Desempenho de Custo (CPI): 0.83
+Valor Agregado (EV): R$ 4143844.29
+Estimativa para conclusão: R$ 631543.42
+Estimativa no término (EAC): R$ 5616958.84
+Variação no término (VAC): R$ -948179.84
+
+Detalhamento por categoria:
+- Pessoal: R$ 2510186.59 (50.4%)
+- Equipamentos: R$ 773799.81 (15.5%)
+- Software: R$ 543912.40 (10.9%)
+- Serviços: R$ 812982.95 (16.3%)
+- Outros: R$ 344533.68 (6.9%)

@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A liberdade de ganhar mais rapidamente (PROJ-0011)
+Data: 14/07/2025
+Gerente: Catarina Martins
+
+Orçamento inicial: R$ 4268687.00
+Custo real atual: R$ 4274587.10
+Desvio orçamentário: 0.14%
+Índice de Desempenho de Custo (CPI): 0.71
+Valor Agregado (EV): R$ 3034967.80
+Estimativa para conclusão: R$ 1737626.41
+Estimativa no término (EAC): R$ 6012213.51
+Variação no término (VAC): R$ -1743526.51
+
+Detalhamento por categoria:
+- Pessoal: R$ 2378396.86 (55.6%)
+- Equipamentos: R$ 483276.14 (11.3%)
+- Software: R$ 318393.47 (7.4%)
+- Serviços: R$ 696717.93 (16.3%)
+- Outros: R$ 397802.69 (9.3%)

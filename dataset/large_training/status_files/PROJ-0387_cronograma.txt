@@ -1,0 +1,30 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: O prazer de inovar naturalmente (PROJ-0387)
+Data: 14/07/2025
+Gerente: Matteo Siqueira
+
+Status atual: Atrasado
+Percentual de conclusão: 33.5%
+Data de início: 14/03/2025
+Data de término planejada: 30/01/2026
+Data de término real/prevista: 24/06/2026
+Atraso atual: 0 dias
+Motivo do atraso: Problemas de comunicação
+Índice de Desempenho de Cronograma (SPI): 0.89
+Valor Planejado (PV): R$ 854074.64
+Valor Agregado (EV): R$ 756002.81
+
+Tarefas críticas:
+- Implementação da API REST
+- Integração com sistema de pagamentos
+- Implementação do módulo de análise de dados
+- Implementação do módulo de exportação de dados
+- Desenvolvimento do módulo de autenticação
+- Desenvolvimento do módulo de autenticação
+- Testes de aceitação do usuário
+- Testes de aceitação do usuário
+
+Tarefas atrasadas:
+- Integração com sistema de pagamentos
+- Testes de aceitação do usuário
+- Desenvolvimento do módulo de autenticação

@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O direito de inovar com confiança (PROJ-0960)
+Data: 14/07/2025
+Gerente: Esther Farias
+
+Orçamento inicial: R$ 2936263.00
+Custo real atual: R$ 1753122.18
+Desvio orçamentário: -40.29%
+Índice de Desempenho de Custo (CPI): 0.97
+Valor Agregado (EV): R$ 1700937.53
+Estimativa para conclusão: R$ 1273225.16
+Estimativa no término (EAC): R$ 3026347.34
+Variação no término (VAC): R$ -90084.34
+
+Detalhamento por categoria:
+- Pessoal: R$ 985447.87 (56.2%)
+- Equipamentos: R$ 202348.12 (11.5%)
+- Software: R$ 111403.01 (6.4%)
+- Serviços: R$ 352048.95 (20.1%)
+- Outros: R$ 101874.23 (5.8%)

@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A possibilidade de avançar com toda a tranquilidade (PROJ-0007)
+Data: 14/07/2025
+Gerente: Isabela Cunha
+
+Orçamento inicial: R$ 2528146.00
+Custo real atual: R$ 1468560.79
+Desvio orçamentário: -19.93%
+Índice de Desempenho de Custo (CPI): 0.81
+Valor Agregado (EV): R$ 1191486.83
+Estimativa para conclusão: R$ 1647492.19
+Estimativa no término (EAC): R$ 3116052.98
+Variação no término (VAC): R$ -587906.98
+
+Detalhamento por categoria:
+- Pessoal: R$ 727473.41 (49.5%)
+- Equipamentos: R$ 252000.66 (17.2%)
+- Software: R$ 142257.42 (9.7%)
+- Serviços: R$ 243588.27 (16.6%)
+- Outros: R$ 103241.03 (7.0%)

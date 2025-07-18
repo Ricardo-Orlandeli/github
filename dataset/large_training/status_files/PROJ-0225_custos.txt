@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O prazer de inovar simplesmente (PROJ-0225)
+Data: 14/07/2025
+Gerente: Cecilia Ribeiro
+
+Orçamento inicial: R$ 553006.00
+Custo real atual: R$ 440704.71
+Desvio orçamentário: -20.31%
+Índice de Desempenho de Custo (CPI): 1.23
+Valor Agregado (EV): R$ 543965.83
+Estimativa para conclusão: R$ 7324.07
+Estimativa no término (EAC): R$ 448028.79
+Variação no término (VAC): R$ 104977.21
+
+Detalhamento por categoria:
+- Pessoal: R$ 204176.94 (46.3%)
+- Equipamentos: R$ 74779.79 (17.0%)
+- Software: R$ 55020.66 (12.5%)
+- Serviços: R$ 71063.12 (16.1%)
+- Outros: R$ 35664.20 (8.1%)

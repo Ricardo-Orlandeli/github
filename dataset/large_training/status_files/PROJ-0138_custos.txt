@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A arte de atingir seus objetivos direto da fonte (PROJ-0138)
+Data: 14/07/2025
+Gerente: Maria Júlia Sampaio
+
+Orçamento inicial: R$ 2355495.00
+Custo real atual: R$ 2141123.53
+Desvio orçamentário: -9.10%
+Índice de Desempenho de Custo (CPI): 0.92
+Valor Agregado (EV): R$ 1966707.47
+Estimativa para conclusão: R$ 423266.87
+Estimativa no término (EAC): R$ 2564390.40
+Variação no término (VAC): R$ -208895.40
+
+Detalhamento por categoria:
+- Pessoal: R$ 1073688.94 (50.1%)
+- Equipamentos: R$ 490663.91 (22.9%)
+- Software: R$ 186842.57 (8.7%)
+- Serviços: R$ 253864.65 (11.9%)
+- Outros: R$ 136063.45 (6.4%)

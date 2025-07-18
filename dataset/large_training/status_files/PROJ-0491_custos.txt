@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O direito de avançar mais facilmente (PROJ-0491)
+Data: 14/07/2025
+Gerente: Davi Lucas Barbosa
+
+Orçamento inicial: R$ 3405173.00
+Custo real atual: R$ 2775286.34
+Desvio orçamentário: -18.50%
+Índice de Desempenho de Custo (CPI): 1.23
+Valor Agregado (EV): R$ 3405173.00
+Estimativa para conclusão: R$ 0.00
+Estimativa no término (EAC): R$ 2775286.34
+Variação no término (VAC): R$ 629886.66
+
+Detalhamento por categoria:
+- Pessoal: R$ 1322115.85 (47.6%)
+- Equipamentos: R$ 360705.16 (13.0%)
+- Software: R$ 250592.33 (9.0%)
+- Serviços: R$ 621993.83 (22.4%)
+- Outros: R$ 219879.17 (7.9%)

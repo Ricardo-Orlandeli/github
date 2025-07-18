@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A liberdade de inovar antes de tudo (PROJ-0154)
+Data: 14/07/2025
+Gerente: Dra. Maria Alice Souza
+
+Orçamento inicial: R$ 2293428.00
+Custo real atual: R$ 2343199.04
+Desvio orçamentário: 2.17%
+Índice de Desempenho de Custo (CPI): 0.98
+Valor Agregado (EV): R$ 2291134.57
+Estimativa para conclusão: R$ 2345.54
+Estimativa no término (EAC): R$ 2345544.59
+Variação no término (VAC): R$ -52116.59
+
+Detalhamento por categoria:
+- Pessoal: R$ 1277537.77 (54.5%)
+- Equipamentos: R$ 295590.24 (12.6%)
+- Software: R$ 140518.68 (6.0%)
+- Serviços: R$ 440285.49 (18.8%)
+- Outros: R$ 189266.85 (8.1%)

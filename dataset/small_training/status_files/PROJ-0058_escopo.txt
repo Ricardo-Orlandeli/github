@@ -1,0 +1,30 @@
+RELATÓRIO DE STATUS DE ESCOPO
+Projeto: A possibilidade de mudar naturalmente (PROJ-0058)
+Data: 14/07/2025
+Gerente: Maria Clara Gomes
+
+Escopo original: Sistema para a possibilidade de mudar naturalmente
+Houve mudança de escopo: Sim
+Descrição das mudanças: Adição de novos requisitos de segurança
+Impacto no cronograma: 23 dias
+Impacto no custo: R$ 204519.96
+
+Solicitações de mudança:
+- SCM-01: Mudança no banco de dados
+- SCM-02: Adição de funcionalidade de autenticação biométrica
+- SCM-03: Mudança na arquitetura do sistema
+
+Requisitos atuais:
+- REQ-01: O sistema deve registrar logs de auditoria
+- REQ-02: O sistema deve ter interface responsiva
+- REQ-03: O sistema deve permitir integração com APIs externas
+- REQ-04: O sistema deve ter backup automático diário
+- REQ-05: O sistema deve ter backup automático diário
+- REQ-06: O sistema deve permitir integração com APIs externas
+- REQ-07: O sistema deve permitir integração com APIs externas
+- REQ-08: O sistema deve ter interface responsiva
+- REQ-09: O sistema deve ter documentação completa
+- REQ-10: O sistema deve ter backup automático diário
+- REQ-11: O sistema deve ter interface responsiva
+- REQ-12: O sistema deve implementar criptografia de dados sensíveis
+- REQ-13: O sistema deve permitir integração com APIs externas

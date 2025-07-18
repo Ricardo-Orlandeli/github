@@ -1,0 +1,35 @@
+RELATÓRIO DE STATUS DE RISCOS
+Projeto: O prazer de atingir seus objetivos direto da fonte (PROJ-0736)
+Data: 14/07/2025
+Gerente: Valentina da Cunha
+
+Riscos identificados:
+- R01: Mudanças regulatórias
+  Probabilidade: 4/5, Impacto: 3/5, Nível: Médio
+  Mitigação: Testar compatibilidade em diferentes ambientes
+
+- R02: Falhas de segurança
+  Probabilidade: 5/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Melhorar a documentação de requisitos
+
+- R03: Dependências externas não cumpridas
+  Probabilidade: 2/5, Impacto: 4/5, Nível: Médio
+  Mitigação: Refinar estimativas com base em dados históricos
+
+- R04: Dependências externas não cumpridas
+  Probabilidade: 4/5, Impacto: 5/5, Nível: Alto
+  Mitigação: Monitorar mudanças regulatórias
+
+- R05: Rotatividade de pessoal-chave
+  Probabilidade: 1/5, Impacto: 4/5, Nível: Baixo
+  Mitigação: Realizar testes de aceitação com usuários-chave
+
+- R06: Falhas de infraestrutura
+  Probabilidade: 3/5, Impacto: 4/5, Nível: Médio
+  Mitigação: Testar compatibilidade em diferentes ambientes
+
+- R07: Resistência dos usuários à mudança
+  Probabilidade: 5/5, Impacto: 4/5, Nível: Alto
+  Mitigação: Otimizar código e infraestrutura
+
+Riscos ocorridos:

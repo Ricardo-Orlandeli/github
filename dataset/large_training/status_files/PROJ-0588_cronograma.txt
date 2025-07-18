@@ -1,0 +1,22 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A possibilidade de evoluir sem preocupação (PROJ-0588)
+Data: 14/07/2025
+Gerente: Bruna Ramos
+
+Status atual: Em andamento
+Percentual de conclusão: 88.1%
+Data de início: 18/09/2023
+Data de término planejada: 22/07/2024
+Data de término real/prevista: 17/08/2024
+Atraso atual: 357 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.01
+Valor Planejado (PV): R$ 4863034.00
+Valor Agregado (EV): R$ 4286524.53
+
+Tarefas críticas:
+- Implementação do módulo de análise de dados
+- Implementação do módulo de relatórios
+- Implementação do módulo de análise de dados
+
+Tarefas atrasadas:

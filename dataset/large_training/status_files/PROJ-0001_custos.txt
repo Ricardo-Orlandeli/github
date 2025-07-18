@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A liberdade de ganhar mais facilmente (PROJ-0001)
+Data: 14/07/2025
+Gerente: Clara Cardoso
+
+Orçamento inicial: R$ 111655.00
+Custo real atual: R$ 101790.76
+Desvio orçamentário: 3.97%
+Índice de Desempenho de Custo (CPI): 1.10
+Valor Agregado (EV): R$ 111543.35
+Estimativa para conclusão: R$ 101.89
+Estimativa no término (EAC): R$ 101892.65
+Variação no término (VAC): R$ 9762.35
+
+Detalhamento por categoria:
+- Pessoal: R$ 55816.20 (54.8%)
+- Equipamentos: R$ 12891.73 (12.7%)
+- Software: R$ 7798.04 (7.7%)
+- Serviços: R$ 17868.47 (17.6%)
+- Outros: R$ 7416.32 (7.3%)

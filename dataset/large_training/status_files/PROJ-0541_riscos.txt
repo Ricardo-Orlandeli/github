@@ -1,0 +1,35 @@
+RELATÓRIO DE STATUS DE RISCOS
+Projeto: A certeza de atingir seus objetivos com força total (PROJ-0541)
+Data: 14/07/2025
+Gerente: Sr. Yuri Correia
+
+Riscos identificados:
+- R01: Falhas em testes de aceitação
+  Probabilidade: 1/5, Impacto: 4/5, Nível: Baixo
+  Mitigação: Estabelecer canais de comunicação claros
+
+- R02: Requisitos mal definidos
+  Probabilidade: 4/5, Impacto: 4/5, Nível: Alto
+  Mitigação: Testar compatibilidade em diferentes ambientes
+
+- R03: Rotatividade de pessoal-chave
+  Probabilidade: 4/5, Impacto: 4/5, Nível: Alto
+  Mitigação: Estabelecer canais de comunicação claros
+
+- R04: Problemas de compatibilidade
+  Probabilidade: 4/5, Impacto: 3/5, Nível: Médio
+  Mitigação: Refinar estimativas com base em dados históricos
+
+- R05: Requisitos mal definidos
+  Probabilidade: 2/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Implementar redundância de infraestrutura
+
+Riscos ocorridos:
+- R03 (ocorrido em 21/07/2024)
+  Impacto real: Aumento de 10% nos custos
+  Ações tomadas: Contratação de recursos adicionais
+
+- R04 (ocorrido em 26/11/2024)
+  Impacto real: Atraso de 2 semanas no cronograma
+  Ações tomadas: Revisão do orçamento
+

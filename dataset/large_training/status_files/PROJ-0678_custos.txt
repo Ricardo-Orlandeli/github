@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A arte de ganhar de maneira eficaz (PROJ-0678)
+Data: 14/07/2025
+Gerente: Beatriz Mendonça
+
+Orçamento inicial: R$ 1457317.00
+Custo real atual: R$ 1303037.58
+Desvio orçamentário: -10.59%
+Índice de Desempenho de Custo (CPI): 0.94
+Valor Agregado (EV): R$ 1230525.93
+Estimativa para conclusão: R$ 240155.27
+Estimativa no término (EAC): R$ 1543192.86
+Variação no término (VAC): R$ -85875.86
+
+Detalhamento por categoria:
+- Pessoal: R$ 678572.17 (52.1%)
+- Equipamentos: R$ 219207.36 (16.8%)
+- Software: R$ 77017.30 (5.9%)
+- Serviços: R$ 194425.64 (14.9%)
+- Outros: R$ 133815.11 (10.3%)

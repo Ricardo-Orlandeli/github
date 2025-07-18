@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A segurança de inovar mais facilmente (PROJ-0591)
+Data: 14/07/2025
+Gerente: Luiz Felipe da Mota
+
+Orçamento inicial: R$ 3749189.00
+Custo real atual: R$ 4341518.36
+Desvio orçamentário: 200.86%
+Índice de Desempenho de Custo (CPI): 0.86
+Valor Agregado (EV): R$ 3749189.00
+Estimativa para conclusão: R$ 0.00
+Estimativa no término (EAC): R$ 4341518.36
+Variação no término (VAC): R$ -592329.36
+
+Detalhamento por categoria:
+- Pessoal: R$ 2380842.03 (54.8%)
+- Equipamentos: R$ 528704.32 (12.2%)
+- Software: R$ 478961.09 (11.0%)
+- Serviços: R$ 610125.97 (14.1%)
+- Outros: R$ 342884.95 (7.9%)

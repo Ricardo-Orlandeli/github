@@ -1,0 +1,39 @@
+RELATÓRIO DE STATUS DE RISCOS
+Projeto: A vantagem de concretizar seus projetos direto da fonte (PROJ-0982)
+Data: 14/07/2025
+Gerente: Ana Carolina Mendonça
+
+Riscos identificados:
+- R01: Resistência dos usuários à mudança
+  Probabilidade: 1/5, Impacto: 4/5, Nível: Baixo
+  Mitigação: Testar compatibilidade em diferentes ambientes
+
+- R02: Problemas de integração com sistemas legados
+  Probabilidade: 4/5, Impacto: 5/5, Nível: Alto
+  Mitigação: Gerenciar dependências ativamente
+
+- R03: Problemas de integração com sistemas legados
+  Probabilidade: 3/5, Impacto: 4/5, Nível: Médio
+  Mitigação: Testar compatibilidade em diferentes ambientes
+
+- R04: Mudanças regulatórias
+  Probabilidade: 2/5, Impacto: 3/5, Nível: Baixo
+  Mitigação: Testar compatibilidade em diferentes ambientes
+
+- R05: Resistência dos usuários à mudança
+  Probabilidade: 1/5, Impacto: 2/5, Nível: Baixo
+  Mitigação: Realizar testes de aceitação com usuários-chave
+
+- R06: Rotatividade de pessoal-chave
+  Probabilidade: 3/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Gerenciar dependências ativamente
+
+Riscos ocorridos:
+- R03 (ocorrido em 30/01/2025)
+  Impacto real: Redução de funcionalidades
+  Ações tomadas: Realocação de recursos
+
+- R04 (ocorrido em 16/01/2025)
+  Impacto real: Indisponibilidade temporária
+  Ações tomadas: Ajuste no cronograma
+

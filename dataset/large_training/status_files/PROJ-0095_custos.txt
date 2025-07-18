@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O poder de concretizar seus projetos direto da fonte (PROJ-0095)
+Data: 14/07/2025
+Gerente: Yan Viana
+
+Orçamento inicial: R$ 4086419.00
+Custo real atual: R$ 4139534.10
+Desvio orçamentário: 1.30%
+Índice de Desempenho de Custo (CPI): 0.99
+Valor Agregado (EV): R$ 4082332.58
+Estimativa para conclusão: R$ 4143.68
+Estimativa no término (EAC): R$ 4143677.77
+Variação no término (VAC): R$ -57258.77
+
+Detalhamento por categoria:
+- Pessoal: R$ 2181815.28 (52.7%)
+- Equipamentos: R$ 634319.87 (15.3%)
+- Software: R$ 432479.79 (10.4%)
+- Serviços: R$ 615546.31 (14.9%)
+- Outros: R$ 275372.84 (6.7%)

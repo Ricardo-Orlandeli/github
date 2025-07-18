@@ -1,0 +1,25 @@
+RELATÓRIO DE STATUS DE ESCOPO
+Projeto: A segurança de ganhar de maneira eficaz (PROJ-0059)
+Data: 14/07/2025
+Gerente: Valentim Pastor
+
+Escopo original: Sistema para a segurança de ganhar de maneira eficaz
+Houve mudança de escopo: Sim
+Descrição das mudanças: Expansão do escopo para incluir funcionalidades adicionais
+Impacto no cronograma: 50 dias
+Impacto no custo: R$ 111114.81
+
+Solicitações de mudança:
+- SCM-01: Adição de relatórios gerenciais
+- SCM-02: Adição de relatórios gerenciais
+- SCM-03: Alteração na interface do usuário
+
+Requisitos atuais:
+- REQ-01: O sistema deve ter backup automático diário
+- REQ-02: O sistema deve ser compatível com navegadores modernos
+- REQ-03: O sistema deve ter backup automático diário
+- REQ-04: O sistema deve ter backup automático diário
+- REQ-05: O sistema deve ter alta disponibilidade (99.9%)
+- REQ-06: O sistema deve ser compatível com dispositivos móveis
+- REQ-07: O sistema deve permitir integração com APIs externas
+- REQ-08: O sistema deve ter controle de acesso baseado em perfis

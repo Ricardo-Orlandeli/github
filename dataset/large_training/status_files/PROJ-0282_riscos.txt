@@ -1,0 +1,47 @@
+RELATÓRIO DE STATUS DE RISCOS
+Projeto: O conforto de evoluir simplesmente (PROJ-0282)
+Data: 14/07/2025
+Gerente: Melina da Conceição
+
+Riscos identificados:
+- R01: Problemas de comunicação com stakeholders
+  Probabilidade: 2/5, Impacto: 5/5, Nível: Médio
+  Mitigação: Gerenciar dependências ativamente
+
+- R02: Requisitos mal definidos
+  Probabilidade: 4/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Fortalecer medidas de segurança
+
+- R03: Atraso na entrega de componentes críticos
+  Probabilidade: 2/5, Impacto: 3/5, Nível: Baixo
+  Mitigação: Comunicar benefícios da mudança
+
+- R04: Falhas de segurança
+  Probabilidade: 1/5, Impacto: 4/5, Nível: Baixo
+  Mitigação: Gerenciar dependências ativamente
+
+- R05: Indisponibilidade de recursos especializados
+  Probabilidade: 3/5, Impacto: 2/5, Nível: Baixo
+  Mitigação: Implementar redundância de infraestrutura
+
+- R06: Dependências externas não cumpridas
+  Probabilidade: 2/5, Impacto: 5/5, Nível: Médio
+  Mitigação: Gerenciar dependências ativamente
+
+- R07: Falhas de infraestrutura
+  Probabilidade: 4/5, Impacto: 5/5, Nível: Alto
+  Mitigação: Buscar fornecedores alternativos
+
+- R08: Estimativas imprecisas
+  Probabilidade: 2/5, Impacto: 4/5, Nível: Médio
+  Mitigação: Melhorar a documentação de requisitos
+
+Riscos ocorridos:
+- R07 (ocorrido em 16/07/2024)
+  Impacto real: Problemas de qualidade
+  Ações tomadas: Implementação de controles adicionais
+
+- R06 (ocorrido em 16/10/2024)
+  Impacto real: Aumento de 10% nos custos
+  Ações tomadas: Contratação de recursos adicionais
+

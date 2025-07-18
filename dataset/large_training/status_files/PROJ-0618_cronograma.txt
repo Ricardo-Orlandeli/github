@@ -1,0 +1,25 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: O prazer de atingir seus objetivos antes de tudo (PROJ-0618)
+Data: 14/07/2025
+Gerente: Lorena Porto
+
+Status atual: Concluído
+Percentual de conclusão: 100.0%
+Data de início: 12/05/2025
+Data de término planejada: 09/05/2026
+Data de término real/prevista: 30/04/2026
+Atraso atual: 0 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.01
+Valor Planejado (PV): R$ 728964.65
+Valor Agregado (EV): R$ 4188654.00
+
+Tarefas críticas:
+- Implementação do módulo de relatórios
+- Integração com sistema de pagamentos
+- Implementação do sistema de backup
+- Desenvolvimento do painel administrativo
+- Implementação do módulo de exportação de dados
+- Implementação do sistema de backup
+
+Tarefas atrasadas:

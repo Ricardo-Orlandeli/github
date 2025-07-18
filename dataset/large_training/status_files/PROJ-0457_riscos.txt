@@ -1,0 +1,19 @@
+RELATÓRIO DE STATUS DE RISCOS
+Projeto: O poder de avançar mais rapidamente (PROJ-0457)
+Data: 14/07/2025
+Gerente: Luana Cavalcante
+
+Riscos identificados:
+- R01: Problemas de desempenho
+  Probabilidade: 3/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Comunicar benefícios da mudança
+
+- R02: Problemas de compatibilidade
+  Probabilidade: 5/5, Impacto: 2/5, Nível: Médio
+  Mitigação: Gerenciar dependências ativamente
+
+- R03: Falhas de segurança
+  Probabilidade: 3/5, Impacto: 2/5, Nível: Baixo
+  Mitigação: Contratar pessoal adicional
+
+Riscos ocorridos:

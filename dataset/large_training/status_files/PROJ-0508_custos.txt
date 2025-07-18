@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A vantagem de avançar com força total (PROJ-0508)
+Data: 14/07/2025
+Gerente: Amanda Abreu
+
+Orçamento inicial: R$ 1854500.00
+Custo real atual: R$ 1545594.42
+Desvio orçamentário: -16.66%
+Índice de Desempenho de Custo (CPI): 1.20
+Valor Agregado (EV): R$ 1854500.00
+Estimativa para conclusão: R$ 0.00
+Estimativa no término (EAC): R$ 1545594.42
+Variação no término (VAC): R$ 308905.58
+
+Detalhamento por categoria:
+- Pessoal: R$ 858448.34 (55.5%)
+- Equipamentos: R$ 275295.49 (17.8%)
+- Software: R$ 139910.87 (9.1%)
+- Serviços: R$ 181232.62 (11.7%)
+- Outros: R$ 90707.10 (5.9%)

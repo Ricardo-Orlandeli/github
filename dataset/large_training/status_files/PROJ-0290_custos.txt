@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O direito de concretizar seus projetos mais rapidamente (PROJ-0290)
+Data: 14/07/2025
+Gerente: Ana Julia Cassiano
+
+Orçamento inicial: R$ 4129531.00
+Custo real atual: R$ 2140495.22
+Desvio orçamentário: 19.64%
+Índice de Desempenho de Custo (CPI): 0.86
+Valor Agregado (EV): R$ 1832876.36
+Estimativa para conclusão: R$ 2682111.24
+Estimativa no término (EAC): R$ 4822606.46
+Variação no término (VAC): R$ -693075.46
+
+Detalhamento por categoria:
+- Pessoal: R$ 1117117.27 (52.2%)
+- Equipamentos: R$ 250302.54 (11.7%)
+- Software: R$ 316440.87 (14.8%)
+- Serviços: R$ 259160.82 (12.1%)
+- Outros: R$ 197473.71 (9.2%)

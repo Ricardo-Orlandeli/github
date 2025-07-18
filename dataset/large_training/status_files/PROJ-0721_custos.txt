@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A possibilidade de realizar seus sonhos com confiança (PROJ-0721)
+Data: 14/07/2025
+Gerente: Hadassa Melo
+
+Orçamento inicial: R$ 2979014.00
+Custo real atual: R$ 2745181.28
+Desvio orçamentário: -7.85%
+Índice de Desempenho de Custo (CPI): 0.88
+Valor Agregado (EV): R$ 2417274.37
+Estimativa para conclusão: R$ 637940.46
+Estimativa no término (EAC): R$ 3383121.74
+Variação no término (VAC): R$ -404107.74
+
+Detalhamento por categoria:
+- Pessoal: R$ 1553313.02 (56.6%)
+- Equipamentos: R$ 462157.92 (16.8%)
+- Software: R$ 157654.99 (5.7%)
+- Serviços: R$ 362697.49 (13.2%)
+- Outros: R$ 209357.86 (7.6%)

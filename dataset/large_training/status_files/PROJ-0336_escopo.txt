@@ -1,0 +1,26 @@
+RELATÓRIO DE STATUS DE ESCOPO
+Projeto: A vantagem de mudar mais facilmente (PROJ-0336)
+Data: 14/07/2025
+Gerente: Emanuel Oliveira
+
+Escopo original: Sistema para a vantagem de mudar mais facilmente
+Houve mudança de escopo: Não
+Descrição das mudanças: N/A
+Impacto no cronograma: 0 dias
+Impacto no custo: R$ 0.00
+
+Solicitações de mudança:
+
+Requisitos atuais:
+- REQ-01: O sistema deve registrar logs de auditoria
+- REQ-02: O sistema deve registrar logs de auditoria
+- REQ-03: O sistema deve ter backup automático diário
+- REQ-04: O sistema deve ter alta disponibilidade (99.9%)
+- REQ-05: O sistema deve ser compatível com navegadores modernos
+- REQ-06: O sistema deve ter controle de acesso baseado em perfis
+- REQ-07: O sistema deve processar transações em menos de 2 seconds
+- REQ-08: O sistema deve ter interface responsiva
+- REQ-09: O sistema deve ser compatível com dispositivos móveis
+- REQ-10: O sistema deve permitir integração com APIs externas
+- REQ-11: O sistema deve processar transações em menos de 2 seconds
+- REQ-12: O sistema deve permitir exportação de dados em formato CSV

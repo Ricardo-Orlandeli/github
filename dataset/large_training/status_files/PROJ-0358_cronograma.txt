@@ -1,0 +1,28 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: O poder de atingir seus objetivos mais rapidamente (PROJ-0358)
+Data: 14/07/2025
+Gerente: Dom Gonçalves
+
+Status atual: Atrasado
+Percentual de conclusão: 77.7%
+Data de início: 05/09/2024
+Data de término planejada: 15/11/2024
+Data de término real/prevista: 06/01/2025
+Atraso atual: 241 dias
+Motivo do atraso: Problemas de integração com sistemas legados
+Índice de Desempenho de Cronograma (SPI): 0.78
+Valor Planejado (PV): R$ 4241233.00
+Valor Agregado (EV): R$ 3296095.18
+
+Tarefas críticas:
+- Configuração do ambiente de produção
+- Integração com sistema de pagamentos
+- Migração de dados legados
+- Migração de dados legados
+- Desenvolvimento do painel administrativo
+- Migração de dados legados
+
+Tarefas atrasadas:
+- Integração com sistema de pagamentos
+- Configuração do ambiente de produção
+- Migração de dados legados

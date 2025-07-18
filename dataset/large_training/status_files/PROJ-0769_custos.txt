@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A liberdade de realizar seus sonhos mais rapidamente (PROJ-0769)
+Data: 14/07/2025
+Gerente: Lara Rios
+
+Orçamento inicial: R$ 4463030.00
+Custo real atual: R$ 3415608.22
+Desvio orçamentário: -23.47%
+Índice de Desempenho de Custo (CPI): 0.78
+Valor Agregado (EV): R$ 2656702.97
+Estimativa para conclusão: R$ 2322316.61
+Estimativa no término (EAC): R$ 5737924.83
+Variação no término (VAC): R$ -1274894.83
+
+Detalhamento por categoria:
+- Pessoal: R$ 1928813.24 (56.5%)
+- Equipamentos: R$ 602242.98 (17.6%)
+- Software: R$ 266649.18 (7.8%)
+- Serviços: R$ 408431.80 (12.0%)
+- Outros: R$ 209471.01 (6.1%)

@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O poder de avançar naturalmente (PROJ-0144)
+Data: 14/07/2025
+Gerente: Isadora Cavalcante
+
+Orçamento inicial: R$ 3263436.00
+Custo real atual: R$ 3329534.43
+Desvio orçamentário: 2.03%
+Índice de Desempenho de Custo (CPI): 0.96
+Valor Agregado (EV): R$ 3202918.83
+Estimativa para conclusão: R$ 62909.49
+Estimativa no término (EAC): R$ 3392443.93
+Variação no término (VAC): R$ -129007.93
+
+Detalhamento por categoria:
+- Pessoal: R$ 1833470.72 (55.1%)
+- Equipamentos: R$ 421059.60 (12.6%)
+- Software: R$ 399702.51 (12.0%)
+- Serviços: R$ 485646.12 (14.6%)
+- Outros: R$ 189655.48 (5.7%)

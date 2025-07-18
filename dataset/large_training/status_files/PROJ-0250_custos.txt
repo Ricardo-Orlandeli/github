@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O poder de conseguir com força total (PROJ-0250)
+Data: 14/07/2025
+Gerente: Dom Azevedo
+
+Orçamento inicial: R$ 3103791.00
+Custo real atual: R$ 3863338.42
+Desvio orçamentário: 24.47%
+Índice de Desempenho de Custo (CPI): 0.67
+Valor Agregado (EV): R$ 2595579.15
+Estimativa para conclusão: R$ 756437.87
+Estimativa no término (EAC): R$ 4619776.29
+Variação no término (VAC): R$ -1515985.29
+
+Detalhamento por categoria:
+- Pessoal: R$ 2245850.39 (58.1%)
+- Equipamentos: R$ 560565.60 (14.5%)
+- Software: R$ 200672.22 (5.2%)
+- Serviços: R$ 618850.98 (16.0%)
+- Outros: R$ 237399.23 (6.1%)

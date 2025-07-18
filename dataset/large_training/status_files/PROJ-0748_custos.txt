@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O prazer de ganhar naturalmente (PROJ-0748)
+Data: 14/07/2025
+Gerente: Liam Freitas
+
+Orçamento inicial: R$ 4565054.00
+Custo real atual: R$ 5447559.90
+Desvio orçamentário: 19.33%
+Índice de Desempenho de Custo (CPI): 0.84
+Valor Agregado (EV): R$ 4565054.00
+Estimativa para conclusão: R$ 0.00
+Estimativa no término (EAC): R$ 5447559.90
+Variação no término (VAC): R$ -882505.90
+
+Detalhamento por categoria:
+- Pessoal: R$ 2635072.28 (48.4%)
+- Equipamentos: R$ 1132176.32 (20.8%)
+- Software: R$ 332890.93 (6.1%)
+- Serviços: R$ 791550.01 (14.5%)
+- Outros: R$ 555870.37 (10.2%)

@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O direito de inovar com toda a tranquilidade (PROJ-0112)
+Data: 14/07/2025
+Gerente: Eduardo Pereira
+
+Orçamento inicial: R$ 4089995.00
+Custo real atual: R$ 4326538.19
+Desvio orçamentário: 5.78%
+Índice de Desempenho de Custo (CPI): 0.82
+Valor Agregado (EV): R$ 3545880.04
+Estimativa para conclusão: R$ 663906.88
+Estimativa no término (EAC): R$ 4990445.07
+Variação no término (VAC): R$ -900450.07
+
+Detalhamento por categoria:
+- Pessoal: R$ 2115699.63 (48.9%)
+- Equipamentos: R$ 523293.03 (12.1%)
+- Software: R$ 449405.03 (10.4%)
+- Serviços: R$ 853761.66 (19.7%)
+- Outros: R$ 384378.85 (8.9%)

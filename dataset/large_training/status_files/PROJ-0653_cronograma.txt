@@ -1,0 +1,28 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A segurança de avançar antes de tudo (PROJ-0653)
+Data: 14/07/2025
+Gerente: Lara Fernandes
+
+Status atual: Atrasado
+Percentual de conclusão: 49.2%
+Data de início: 07/10/2024
+Data de término planejada: 05/08/2025
+Data de término real/prevista: 20/11/2025
+Atraso atual: 0 dias
+Motivo do atraso: Problemas de comunicação
+Índice de Desempenho de Cronograma (SPI): 0.53
+Valor Planejado (PV): R$ 2941736.56
+Valor Agregado (EV): R$ 1561849.36
+
+Tarefas críticas:
+- Implementação do módulo de notificações
+- Migração de dados legados
+- Implementação do módulo de análise de dados
+- Implementação do módulo de notificações
+- Implementação da API REST
+- Implementação do módulo de notificações
+- Implementação do sistema de backup
+- Implementação da API REST
+
+Tarefas atrasadas:
+- Implementação do módulo de análise de dados

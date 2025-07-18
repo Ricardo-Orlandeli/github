@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A arte de inovar de maneira eficaz (PROJ-0218)
+Data: 14/07/2025
+Gerente: Isadora Moreira
+
+Orçamento inicial: R$ 3465188.00
+Custo real atual: R$ 3894719.17
+Desvio orçamentário: 12.40%
+Índice de Desempenho de Custo (CPI): 0.89
+Valor Agregado (EV): R$ 3465188.00
+Estimativa para conclusão: R$ 0.00
+Estimativa no término (EAC): R$ 3894719.17
+Variação no término (VAC): R$ -429531.17
+
+Detalhamento por categoria:
+- Pessoal: R$ 1773124.68 (45.5%)
+- Equipamentos: R$ 685821.20 (17.6%)
+- Software: R$ 455997.94 (11.7%)
+- Serviços: R$ 749317.80 (19.2%)
+- Outros: R$ 230457.55 (5.9%)

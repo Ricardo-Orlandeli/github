@@ -1,0 +1,19 @@
+RELATÓRIO DE STATUS DE RISCOS
+Projeto: O conforto de realizar seus sonhos sem preocupação (PROJ-0672)
+Data: 14/07/2025
+Gerente: Henrique Rios
+
+Riscos identificados:
+- R01: Problemas de integração com sistemas legados
+  Probabilidade: 4/5, Impacto: 3/5, Nível: Médio
+  Mitigação: Comunicar benefícios da mudança
+
+- R02: Problemas de integração com sistemas legados
+  Probabilidade: 1/5, Impacto: 5/5, Nível: Baixo
+  Mitigação: Melhorar a documentação de requisitos
+
+- R03: Falhas de segurança
+  Probabilidade: 2/5, Impacto: 4/5, Nível: Médio
+  Mitigação: Realizar testes de integração antecipados
+
+Riscos ocorridos:

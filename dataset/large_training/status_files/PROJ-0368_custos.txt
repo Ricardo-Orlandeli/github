@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O conforto de mudar naturalmente (PROJ-0368)
+Data: 14/07/2025
+Gerente: Theo da Rosa
+
+Orçamento inicial: R$ 3798276.00
+Custo real atual: R$ 396811.51
+Desvio orçamentário: -32.62%
+Índice de Desempenho de Custo (CPI): 1.24
+Valor Agregado (EV): R$ 491935.23
+Estimativa para conclusão: R$ 2667005.70
+Estimativa no término (EAC): R$ 3063817.21
+Variação no término (VAC): R$ 734458.79
+
+Detalhamento por categoria:
+- Pessoal: R$ 199430.66 (50.3%)
+- Equipamentos: R$ 64820.36 (16.3%)
+- Software: R$ 52921.35 (13.3%)
+- Serviços: R$ 48875.46 (12.3%)
+- Outros: R$ 30763.67 (7.8%)

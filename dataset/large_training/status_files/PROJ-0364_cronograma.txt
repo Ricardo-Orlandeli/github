@@ -1,0 +1,26 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: O direito de concretizar seus projetos simplesmente (PROJ-0364)
+Data: 14/07/2025
+Gerente: Hadassa Lima
+
+Status atual: Em andamento
+Percentual de conclusão: 85.8%
+Data de início: 23/05/2024
+Data de término planejada: 27/09/2024
+Data de término real/prevista: 26/10/2024
+Atraso atual: 290 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.14
+Valor Planejado (PV): R$ 3137696.00
+Valor Agregado (EV): R$ 2692252.68
+
+Tarefas críticas:
+- Implementação do sistema de backup
+- Implementação da API REST
+- Desenvolvimento do módulo de autenticação
+- Testes de segurança
+- Implementação do módulo de exportação de dados
+- Testes de segurança
+- Implementação do sistema de backup
+
+Tarefas atrasadas:

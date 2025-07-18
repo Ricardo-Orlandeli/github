@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A arte de realizar seus sonhos mais facilmente (PROJ-0326)
+Data: 14/07/2025
+Gerente: Cauã Peixoto
+
+Orçamento inicial: R$ 3235605.00
+Custo real atual: R$ 2830102.58
+Desvio orçamentário: -12.53%
+Índice de Desempenho de Custo (CPI): 1.08
+Valor Agregado (EV): R$ 3044792.50
+Estimativa para conclusão: R$ 177358.21
+Estimativa no término (EAC): R$ 3007460.79
+Variação no término (VAC): R$ 228144.21
+
+Detalhamento por categoria:
+- Pessoal: R$ 1385186.64 (48.9%)
+- Equipamentos: R$ 563900.03 (19.9%)
+- Software: R$ 194751.27 (6.9%)
+- Serviços: R$ 503678.67 (17.8%)
+- Outros: R$ 182585.97 (6.5%)

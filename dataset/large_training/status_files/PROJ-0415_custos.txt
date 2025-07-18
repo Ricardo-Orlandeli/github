@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A liberdade de inovar com toda a tranquilidade (PROJ-0415)
+Data: 14/07/2025
+Gerente: Antony Campos
+
+Orçamento inicial: R$ 4420559.00
+Custo real atual: R$ 5101782.77
+Desvio orçamentário: 15.41%
+Índice de Desempenho de Custo (CPI): 0.87
+Valor Agregado (EV): R$ 4416138.44
+Estimativa para conclusão: R$ 5106.89
+Estimativa no término (EAC): R$ 5106889.66
+Variação no término (VAC): R$ -686330.66
+
+Detalhamento por categoria:
+- Pessoal: R$ 2449790.37 (48.0%)
+- Equipamentos: R$ 781727.35 (15.3%)
+- Software: R$ 602900.19 (11.8%)
+- Serviços: R$ 967130.61 (19.0%)
+- Outros: R$ 300234.24 (5.9%)

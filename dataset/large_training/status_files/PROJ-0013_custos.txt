@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O prazer de conseguir com força total (PROJ-0013)
+Data: 14/07/2025
+Gerente: Pedro Viana
+
+Orçamento inicial: R$ 3850502.00
+Custo real atual: R$ 1303634.81
+Desvio orçamentário: -66.14%
+Índice de Desempenho de Custo (CPI): 0.67
+Valor Agregado (EV): R$ 869896.65
+Estimativa para conclusão: R$ 4466761.49
+Estimativa no término (EAC): R$ 5770396.30
+Variação no término (VAC): R$ -1919894.30
+
+Detalhamento por categoria:
+- Pessoal: R$ 640092.81 (49.1%)
+- Equipamentos: R$ 198040.60 (15.2%)
+- Software: R$ 183676.75 (14.1%)
+- Serviços: R$ 180046.25 (13.8%)
+- Outros: R$ 101778.39 (7.8%)

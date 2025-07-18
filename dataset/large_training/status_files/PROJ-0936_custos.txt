@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A arte de concretizar seus projetos antes de tudo (PROJ-0936)
+Data: 14/07/2025
+Gerente: Ana Cecília Leão
+
+Orçamento inicial: R$ 2330360.00
+Custo real atual: R$ 2170061.29
+Desvio orçamentário: -6.88%
+Índice de Desempenho de Custo (CPI): 0.68
+Valor Agregado (EV): R$ 1483801.56
+Estimativa para conclusão: R$ 1238092.58
+Estimativa no término (EAC): R$ 3408153.87
+Variação no término (VAC): R$ -1077793.87
+
+Detalhamento por categoria:
+- Pessoal: R$ 964166.90 (44.4%)
+- Equipamentos: R$ 421180.51 (19.4%)
+- Software: R$ 245059.59 (11.3%)
+- Serviços: R$ 407583.95 (18.8%)
+- Outros: R$ 132070.33 (6.1%)

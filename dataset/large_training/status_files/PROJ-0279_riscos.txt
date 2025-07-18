@@ -1,0 +1,51 @@
+RELATÓRIO DE STATUS DE RISCOS
+Projeto: A simplicidade de evoluir direto da fonte (PROJ-0279)
+Data: 14/07/2025
+Gerente: Dra. Bárbara da Mata
+
+Riscos identificados:
+- R01: Requisitos mal definidos
+  Probabilidade: 1/5, Impacto: 3/5, Nível: Baixo
+  Mitigação: Realizar testes de integração antecipados
+
+- R02: Problemas de comunicação com stakeholders
+  Probabilidade: 2/5, Impacto: 4/5, Nível: Médio
+  Mitigação: Implementar plano de contingência
+
+- R03: Atraso na entrega de componentes críticos
+  Probabilidade: 3/5, Impacto: 5/5, Nível: Médio
+  Mitigação: Fortalecer medidas de segurança
+
+- R04: Indisponibilidade de recursos especializados
+  Probabilidade: 4/5, Impacto: 2/5, Nível: Médio
+  Mitigação: Realizar testes de integração antecipados
+
+- R05: Mudanças regulatórias
+  Probabilidade: 3/5, Impacto: 2/5, Nível: Baixo
+  Mitigação: Otimizar código e infraestrutura
+
+- R06: Problemas de compatibilidade
+  Probabilidade: 3/5, Impacto: 3/5, Nível: Médio
+  Mitigação: Realizar testes de integração antecipados
+
+- R07: Requisitos mal definidos
+  Probabilidade: 1/5, Impacto: 3/5, Nível: Baixo
+  Mitigação: Realizar testes de integração antecipados
+
+- R08: Problemas de comunicação com stakeholders
+  Probabilidade: 5/5, Impacto: 4/5, Nível: Alto
+  Mitigação: Realizar testes de integração antecipados
+
+Riscos ocorridos:
+- R04 (ocorrido em 15/05/2025)
+  Impacto real: Insatisfação dos stakeholders
+  Ações tomadas: Implementação de controles adicionais
+
+- R07 (ocorrido em 31/05/2024)
+  Impacto real: Indisponibilidade temporária
+  Ações tomadas: Contratação de recursos adicionais
+
+- R03 (ocorrido em 20/07/2024)
+  Impacto real: Perda de recursos-chave
+  Ações tomadas: Revisão de prioridades
+

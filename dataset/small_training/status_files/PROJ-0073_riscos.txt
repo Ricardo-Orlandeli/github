@@ -1,0 +1,19 @@
+RELATÓRIO DE STATUS DE RISCOS
+Projeto: A segurança de realizar seus sonhos com confiança (PROJ-0073)
+Data: 14/07/2025
+Gerente: Ana Vitória Silveira
+
+Riscos identificados:
+- R01: Problemas de comunicação com stakeholders
+  Probabilidade: 1/5, Impacto: 3/5, Nível: Baixo
+  Mitigação: Refinar estimativas com base em dados históricos
+
+- R02: Atraso na entrega de componentes críticos
+  Probabilidade: 1/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Fortalecer medidas de segurança
+
+- R03: Indisponibilidade de recursos especializados
+  Probabilidade: 1/5, Impacto: 3/5, Nível: Baixo
+  Mitigação: Gerenciar dependências ativamente
+
+Riscos ocorridos:

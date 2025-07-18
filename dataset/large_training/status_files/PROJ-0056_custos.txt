@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A arte de conseguir naturalmente (PROJ-0056)
+Data: 14/07/2025
+Gerente: Thales Santos
+
+Orçamento inicial: R$ 1561483.00
+Custo real atual: R$ 1743813.45
+Desvio orçamentário: 11.68%
+Índice de Desempenho de Custo (CPI): 0.89
+Valor Agregado (EV): R$ 1559921.52
+Estimativa para conclusão: R$ 1745.56
+Estimativa no término (EAC): R$ 1745559.01
+Variação no término (VAC): R$ -184076.01
+
+Detalhamento por categoria:
+- Pessoal: R$ 975557.74 (55.9%)
+- Equipamentos: R$ 307698.90 (17.6%)
+- Software: R$ 111391.84 (6.4%)
+- Serviços: R$ 227463.28 (13.0%)
+- Outros: R$ 121701.69 (7.0%)

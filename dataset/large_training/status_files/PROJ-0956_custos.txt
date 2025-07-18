@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A liberdade de ganhar com força total (PROJ-0956)
+Data: 14/07/2025
+Gerente: Arthur Miguel Cunha
+
+Orçamento inicial: R$ 1061819.00
+Custo real atual: R$ 66709.21
+Desvio orçamentário: -19.83%
+Índice de Desempenho de Custo (CPI): 1.18
+Valor Agregado (EV): R$ 79023.76
+Estimativa para conclusão: R$ 829642.90
+Estimativa no término (EAC): R$ 896352.11
+Variação no término (VAC): R$ 165466.89
+
+Detalhamento por categoria:
+- Pessoal: R$ 33617.04 (50.4%)
+- Equipamentos: R$ 10530.75 (15.8%)
+- Software: R$ 9405.94 (14.1%)
+- Serviços: R$ 8715.73 (13.1%)
+- Outros: R$ 4439.76 (6.7%)

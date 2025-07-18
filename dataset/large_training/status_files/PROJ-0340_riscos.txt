@@ -1,0 +1,51 @@
+RELATÓRIO DE STATUS DE RISCOS
+Projeto: A possibilidade de atingir seus objetivos simplesmente (PROJ-0340)
+Data: 14/07/2025
+Gerente: Srta. Liz Vargas
+
+Riscos identificados:
+- R01: Requisitos mal definidos
+  Probabilidade: 3/5, Impacto: 5/5, Nível: Médio
+  Mitigação: Monitorar mudanças regulatórias
+
+- R02: Problemas de desempenho
+  Probabilidade: 2/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Gerenciar dependências ativamente
+
+- R03: Requisitos mal definidos
+  Probabilidade: 4/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Refinar estimativas com base em dados históricos
+
+- R04: Rotatividade de pessoal-chave
+  Probabilidade: 5/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Realizar testes de aceitação com usuários-chave
+
+- R05: Requisitos mal definidos
+  Probabilidade: 3/5, Impacto: 5/5, Nível: Médio
+  Mitigação: Fortalecer medidas de segurança
+
+- R06: Mudanças regulatórias
+  Probabilidade: 2/5, Impacto: 3/5, Nível: Baixo
+  Mitigação: Fortalecer medidas de segurança
+
+- R07: Rotatividade de pessoal-chave
+  Probabilidade: 4/5, Impacto: 4/5, Nível: Alto
+  Mitigação: Testar compatibilidade em diferentes ambientes
+
+- R08: Problemas de desempenho
+  Probabilidade: 2/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Gerenciar dependências ativamente
+
+- R09: Problemas de comunicação com stakeholders
+  Probabilidade: 3/5, Impacto: 4/5, Nível: Médio
+  Mitigação: Realizar testes de integração antecipados
+
+Riscos ocorridos:
+- R02 (ocorrido em 20/07/2024)
+  Impacto real: Problemas de qualidade
+  Ações tomadas: Revisão de processos
+
+- R09 (ocorrido em 12/11/2024)
+  Impacto real: Insatisfação dos stakeholders
+  Ações tomadas: Implementação do plano de contingência
+

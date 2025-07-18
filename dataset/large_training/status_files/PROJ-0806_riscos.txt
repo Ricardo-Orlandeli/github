@@ -1,0 +1,31 @@
+RELATÓRIO DE STATUS DE RISCOS
+Projeto: A liberdade de mudar mais facilmente (PROJ-0806)
+Data: 14/07/2025
+Gerente: Daniela Farias
+
+Riscos identificados:
+- R01: Falhas de infraestrutura
+  Probabilidade: 5/5, Impacto: 5/5, Nível: Alto
+  Mitigação: Buscar fornecedores alternativos
+
+- R02: Rotatividade de pessoal-chave
+  Probabilidade: 5/5, Impacto: 4/5, Nível: Alto
+  Mitigação: Gerenciar dependências ativamente
+
+- R03: Problemas de integração com sistemas legados
+  Probabilidade: 2/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Gerenciar dependências ativamente
+
+- R04: Problemas de integração com sistemas legados
+  Probabilidade: 4/5, Impacto: 4/5, Nível: Alto
+  Mitigação: Otimizar código e infraestrutura
+
+- R05: Problemas de integração com sistemas legados
+  Probabilidade: 4/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Implementar redundância de infraestrutura
+
+- R06: Requisitos mal definidos
+  Probabilidade: 4/5, Impacto: 5/5, Nível: Alto
+  Mitigação: Otimizar código e infraestrutura
+
+Riscos ocorridos:

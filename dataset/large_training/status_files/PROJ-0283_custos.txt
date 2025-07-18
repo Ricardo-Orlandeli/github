@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O poder de avançar antes de tudo (PROJ-0283)
+Data: 14/07/2025
+Gerente: Srta. Cecília Castro
+
+Orçamento inicial: R$ 2777418.00
+Custo real atual: R$ 2787420.10
+Desvio orçamentário: 0.36%
+Índice de Desempenho de Custo (CPI): 1.00
+Valor Agregado (EV): R$ 2774640.58
+Estimativa para conclusão: R$ 2790.21
+Estimativa no término (EAC): R$ 2790210.31
+Variação no término (VAC): R$ -12792.31
+
+Detalhamento por categoria:
+- Pessoal: R$ 1317243.50 (47.3%)
+- Equipamentos: R$ 516995.60 (18.5%)
+- Software: R$ 285152.39 (10.2%)
+- Serviços: R$ 485568.34 (17.4%)
+- Outros: R$ 182460.28 (6.5%)

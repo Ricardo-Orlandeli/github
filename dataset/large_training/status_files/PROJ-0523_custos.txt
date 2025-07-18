@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A vantagem de inovar em estado puro (PROJ-0523)
+Data: 14/07/2025
+Gerente: Ana Liz Santos
+
+Orçamento inicial: R$ 234190.00
+Custo real atual: R$ 215767.96
+Desvio orçamentário: -7.87%
+Índice de Desempenho de Custo (CPI): 0.94
+Valor Agregado (EV): R$ 202676.18
+Estimativa para conclusão: R$ 33549.44
+Estimativa no término (EAC): R$ 249317.40
+Variação no término (VAC): R$ -15127.40
+
+Detalhamento por categoria:
+- Pessoal: R$ 102830.03 (47.7%)
+- Equipamentos: R$ 35115.35 (16.3%)
+- Software: R$ 35599.05 (16.5%)
+- Serviços: R$ 26619.14 (12.3%)
+- Outros: R$ 15604.39 (7.2%)

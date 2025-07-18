@@ -1,0 +1,22 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A liberdade de inovar mais rapidamente (PROJ-0759)
+Data: 14/07/2025
+Gerente: Sabrina Dias
+
+Status atual: Cancelado
+Percentual de conclusão: 44.6%
+Data de início: 21/11/2024
+Data de término planejada: 05/01/2025
+Data de término real/prevista: 11/12/2024
+Atraso atual: 190 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 0.45
+Valor Planejado (PV): R$ 2562457.00
+Valor Agregado (EV): R$ 1143304.48
+
+Tarefas críticas:
+- Implementação do módulo de análise de dados
+- Implementação do módulo de relatórios
+- Implementação da API REST
+
+Tarefas atrasadas:

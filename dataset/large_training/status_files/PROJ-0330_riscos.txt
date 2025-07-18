@@ -1,0 +1,27 @@
+RELATÓRIO DE STATUS DE RISCOS
+Projeto: O direito de conseguir simplesmente (PROJ-0330)
+Data: 14/07/2025
+Gerente: Eduardo Garcia
+
+Riscos identificados:
+- R01: Problemas de comunicação com stakeholders
+  Probabilidade: 1/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Fortalecer medidas de segurança
+
+- R02: Problemas de desempenho
+  Probabilidade: 4/5, Impacto: 3/5, Nível: Médio
+  Mitigação: Realizar testes de aceitação com usuários-chave
+
+- R03: Problemas de integração com sistemas legados
+  Probabilidade: 3/5, Impacto: 4/5, Nível: Médio
+  Mitigação: Monitorar mudanças regulatórias
+
+- R04: Dependências externas não cumpridas
+  Probabilidade: 3/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Implementar redundância de infraestrutura
+
+- R05: Indisponibilidade de recursos especializados
+  Probabilidade: 3/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Estabelecer canais de comunicação claros
+
+Riscos ocorridos:

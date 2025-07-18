@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A vantagem de conseguir sem preocupação (PROJ-0033)
+Data: 14/07/2025
+Gerente: Davi Moreira
+
+Orçamento inicial: R$ 2494074.00
+Custo real atual: R$ 470212.02
+Desvio orçamentário: 14.69%
+Índice de Desempenho de Custo (CPI): 0.95
+Valor Agregado (EV): R$ 444494.58
+Estimativa para conclusão: R$ 2168163.41
+Estimativa no término (EAC): R$ 2638375.43
+Variação no término (VAC): R$ -144301.43
+
+Detalhamento por categoria:
+- Pessoal: R$ 225737.79 (48.0%)
+- Equipamentos: R$ 85996.59 (18.3%)
+- Software: R$ 39848.06 (8.5%)
+- Serviços: R$ 73260.26 (15.6%)
+- Outros: R$ 45369.32 (9.6%)

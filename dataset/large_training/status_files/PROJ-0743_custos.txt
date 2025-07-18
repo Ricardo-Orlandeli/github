@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O conforto de avançar com força total (PROJ-0743)
+Data: 14/07/2025
+Gerente: Henry Lima
+
+Orçamento inicial: R$ 4783938.00
+Custo real atual: R$ 5285679.01
+Desvio orçamentário: 10.49%
+Índice de Desempenho de Custo (CPI): 0.91
+Valor Agregado (EV): R$ 4783938.00
+Estimativa para conclusão: R$ 0.00
+Estimativa no término (EAC): R$ 5285679.01
+Variação no término (VAC): R$ -501741.01
+
+Detalhamento por categoria:
+- Pessoal: R$ 3288467.14 (62.2%)
+- Equipamentos: R$ 619989.16 (11.7%)
+- Software: R$ 355199.27 (6.7%)
+- Serviços: R$ 705773.77 (13.4%)
+- Outros: R$ 316249.67 (6.0%)

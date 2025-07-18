@@ -1,0 +1,19 @@
+RELATÓRIO DE STATUS DE ESCOPO
+Projeto: A certeza de concretizar seus projetos com força total (PROJ-0746)
+Data: 14/07/2025
+Gerente: Sr. Marcos Vinicius Moraes
+
+Escopo original: Sistema para a certeza de concretizar seus projetos com força total
+Houve mudança de escopo: Não
+Descrição das mudanças: N/A
+Impacto no cronograma: 0 dias
+Impacto no custo: R$ 0.00
+
+Solicitações de mudança:
+
+Requisitos atuais:
+- REQ-01: O sistema deve ter interface responsiva
+- REQ-02: O sistema deve permitir exportação de dados em formato CSV
+- REQ-03: O sistema deve ter documentação completa
+- REQ-04: O sistema deve ser compatível com dispositivos móveis
+- REQ-05: O sistema deve ser escalável para suportar até 10.000 usuários simultâneos

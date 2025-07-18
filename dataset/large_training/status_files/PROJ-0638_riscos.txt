@@ -1,0 +1,27 @@
+RELATÓRIO DE STATUS DE RISCOS
+Projeto: A simplicidade de conseguir direto da fonte (PROJ-0638)
+Data: 14/07/2025
+Gerente: Pedro Lucas Siqueira
+
+Riscos identificados:
+- R01: Mudanças regulatórias
+  Probabilidade: 5/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Otimizar código e infraestrutura
+
+- R02: Falhas em testes de aceitação
+  Probabilidade: 5/5, Impacto: 3/5, Nível: Médio
+  Mitigação: Gerenciar dependências ativamente
+
+- R03: Falhas de infraestrutura
+  Probabilidade: 1/5, Impacto: 4/5, Nível: Baixo
+  Mitigação: Realizar testes de aceitação com usuários-chave
+
+- R04: Atraso na entrega de componentes críticos
+  Probabilidade: 1/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Implementar plano de contingência
+
+- R05: Resistência dos usuários à mudança
+  Probabilidade: 4/5, Impacto: 5/5, Nível: Alto
+  Mitigação: Buscar fornecedores alternativos
+
+Riscos ocorridos:

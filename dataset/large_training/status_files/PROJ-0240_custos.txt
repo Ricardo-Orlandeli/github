@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A liberdade de conseguir mais rapidamente (PROJ-0240)
+Data: 14/07/2025
+Gerente: Maysa Ferreira
+
+Orçamento inicial: R$ 549710.00
+Custo real atual: R$ 596102.99
+Desvio orçamentário: 134.66%
+Índice de Desempenho de Custo (CPI): 0.92
+Valor Agregado (EV): R$ 549710.00
+Estimativa para conclusão: R$ 0.00
+Estimativa no término (EAC): R$ 596102.99
+Variação no término (VAC): R$ -46392.99
+
+Detalhamento por categoria:
+- Pessoal: R$ 308855.92 (51.8%)
+- Equipamentos: R$ 89099.56 (14.9%)
+- Software: R$ 84169.77 (14.1%)
+- Serviços: R$ 82131.06 (13.8%)
+- Outros: R$ 31846.68 (5.3%)

@@ -1,0 +1,24 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: O direito de atingir seus objetivos mais facilmente (PROJ-0497)
+Data: 14/07/2025
+Gerente: Mathias Brito
+
+Status atual: Em andamento
+Percentual de conclusão: 99.9%
+Data de início: 01/09/2023
+Data de término planejada: 19/05/2024
+Data de término real/prevista: 01/06/2024
+Atraso atual: 421 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.00
+Valor Planejado (PV): R$ 417259.00
+Valor Agregado (EV): R$ 416841.74
+
+Tarefas críticas:
+- Configuração da infraestrutura
+- Implementação do sistema de backup
+- Configuração da infraestrutura
+- Configuração do ambiente de produção
+- Implementação do módulo de notificações
+
+Tarefas atrasadas:

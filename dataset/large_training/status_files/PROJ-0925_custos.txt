@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O prazer de realizar seus sonhos simplesmente (PROJ-0925)
+Data: 14/07/2025
+Gerente: Dra. Alexia Silva
+
+Orçamento inicial: R$ 497017.00
+Custo real atual: R$ 435475.33
+Desvio orçamentário: -12.38%
+Índice de Desempenho de Custo (CPI): 1.14
+Valor Agregado (EV): R$ 496519.98
+Estimativa para conclusão: R$ 435.91
+Estimativa no término (EAC): R$ 435911.24
+Variação no término (VAC): R$ 61105.76
+
+Detalhamento por categoria:
+- Pessoal: R$ 237717.83 (54.6%)
+- Equipamentos: R$ 60628.01 (13.9%)
+- Software: R$ 37938.83 (8.7%)
+- Serviços: R$ 64921.65 (14.9%)
+- Outros: R$ 34269.01 (7.9%)

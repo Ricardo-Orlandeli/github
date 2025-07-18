@@ -1,0 +1,43 @@
+RELATÓRIO DE STATUS DE RISCOS
+Projeto: O poder de conseguir com força total (PROJ-0871)
+Data: 14/07/2025
+Gerente: Elisa Duarte
+
+Riscos identificados:
+- R01: Problemas de comunicação com stakeholders
+  Probabilidade: 1/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Refinar estimativas com base em dados históricos
+
+- R02: Falhas de infraestrutura
+  Probabilidade: 3/5, Impacto: 5/5, Nível: Médio
+  Mitigação: Realizar testes de integração antecipados
+
+- R03: Problemas de desempenho
+  Probabilidade: 3/5, Impacto: 4/5, Nível: Médio
+  Mitigação: Testar compatibilidade em diferentes ambientes
+
+- R04: Resistência dos usuários à mudança
+  Probabilidade: 3/5, Impacto: 2/5, Nível: Baixo
+  Mitigação: Refinar estimativas com base em dados históricos
+
+- R05: Requisitos mal definidos
+  Probabilidade: 3/5, Impacto: 4/5, Nível: Médio
+  Mitigação: Gerenciar dependências ativamente
+
+- R06: Atraso na entrega de componentes críticos
+  Probabilidade: 1/5, Impacto: 5/5, Nível: Baixo
+  Mitigação: Otimizar código e infraestrutura
+
+- R07: Problemas de comunicação com stakeholders
+  Probabilidade: 1/5, Impacto: 4/5, Nível: Baixo
+  Mitigação: Realizar testes de integração antecipados
+
+- R08: Falhas em testes de aceitação
+  Probabilidade: 2/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Gerenciar dependências ativamente
+
+- R09: Problemas de desempenho
+  Probabilidade: 2/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Realizar testes de aceitação com usuários-chave
+
+Riscos ocorridos:

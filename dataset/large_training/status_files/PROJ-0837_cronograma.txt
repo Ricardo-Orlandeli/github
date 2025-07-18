@@ -1,0 +1,23 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A certeza de conseguir com confiança (PROJ-0837)
+Data: 14/07/2025
+Gerente: Dr. Cauã Vieira
+
+Status atual: Em andamento
+Percentual de conclusão: 91.1%
+Data de início: 25/12/2024
+Data de término planejada: 22/05/2025
+Data de término real/prevista: 31/05/2025
+Atraso atual: 53 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 0.97
+Valor Planejado (PV): R$ 870543.00
+Valor Agregado (EV): R$ 793154.56
+
+Tarefas críticas:
+- Implementação do sistema de backup
+- Implementação do módulo de relatórios
+- Implementação do sistema de backup
+- Integração com sistema de pagamentos
+
+Tarefas atrasadas:

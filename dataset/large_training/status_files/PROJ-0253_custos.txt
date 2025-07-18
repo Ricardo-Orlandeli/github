@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O poder de concretizar seus projetos de maneira eficaz (PROJ-0253)
+Data: 14/07/2025
+Gerente: Luan Fernandes
+
+Orçamento inicial: R$ 892778.00
+Custo real atual: R$ 134697.17
+Desvio orçamentário: -9.87%
+Índice de Desempenho de Custo (CPI): 1.08
+Valor Agregado (EV): R$ 145228.11
+Estimativa para conclusão: R$ 693342.77
+Estimativa no término (EAC): R$ 828039.95
+Variação no término (VAC): R$ 64738.05
+
+Detalhamento por categoria:
+- Pessoal: R$ 66832.73 (49.6%)
+- Equipamentos: R$ 13894.75 (10.3%)
+- Software: R$ 17062.46 (12.7%)
+- Serviços: R$ 24432.53 (18.1%)
+- Outros: R$ 12474.71 (9.3%)

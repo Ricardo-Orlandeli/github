@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A vantagem de concretizar seus projetos direto da fonte (PROJ-0982)
+Data: 14/07/2025
+Gerente: Ana Carolina Mendonça
+
+Orçamento inicial: R$ 4826561.00
+Custo real atual: R$ 5284891.22
+Desvio orçamentário: 15.02%
+Índice de Desempenho de Custo (CPI): 0.91
+Valor Agregado (EV): R$ 4826561.00
+Estimativa para conclusão: R$ 0.00
+Estimativa no término (EAC): R$ 5284891.22
+Variação no término (VAC): R$ -458330.22
+
+Detalhamento por categoria:
+- Pessoal: R$ 2746507.95 (52.0%)
+- Equipamentos: R$ 766083.84 (14.5%)
+- Software: R$ 415375.93 (7.9%)
+- Serviços: R$ 959047.24 (18.1%)
+- Outros: R$ 397876.27 (7.5%)

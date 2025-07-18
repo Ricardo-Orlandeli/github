@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O poder de evoluir mais rapidamente (PROJ-0609)
+Data: 14/07/2025
+Gerente: Pedro Henrique Abreu
+
+Orçamento inicial: R$ 3620252.00
+Custo real atual: R$ 3025697.55
+Desvio orçamentário: -13.49%
+Índice de Desempenho de Custo (CPI): 0.98
+Valor Agregado (EV): R$ 2957309.49
+Estimativa para conclusão: R$ 678273.12
+Estimativa no término (EAC): R$ 3703970.67
+Variação no término (VAC): R$ -83718.67
+
+Detalhamento por categoria:
+- Pessoal: R$ 1640122.13 (54.2%)
+- Equipamentos: R$ 424075.83 (14.0%)
+- Software: R$ 352045.21 (11.6%)
+- Serviços: R$ 365483.85 (12.1%)
+- Outros: R$ 243970.54 (8.1%)

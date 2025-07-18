@@ -1,0 +1,26 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A arte de ganhar sem preocupação (PROJ-0698)
+Data: 14/07/2025
+Gerente: Vitor Sá
+
+Status atual: Em andamento
+Percentual de conclusão: 99.9%
+Data de início: 02/05/2024
+Data de término planejada: 13/09/2024
+Data de término real/prevista: 25/09/2024
+Atraso atual: 304 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.04
+Valor Planejado (PV): R$ 1189738.00
+Valor Agregado (EV): R$ 1188548.26
+
+Tarefas críticas:
+- Implementação do módulo de relatórios
+- Desenvolvimento da interface do usuário
+- Migração de dados legados
+- Desenvolvimento da interface do usuário
+- Testes de aceitação do usuário
+- Desenvolvimento do módulo de autenticação
+- Configuração do ambiente de produção
+
+Tarefas atrasadas:

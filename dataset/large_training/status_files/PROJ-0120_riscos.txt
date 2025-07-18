@@ -1,0 +1,55 @@
+RELATÓRIO DE STATUS DE RISCOS
+Projeto: O direito de inovar com força total (PROJ-0120)
+Data: 14/07/2025
+Gerente: Ravi Lucca Andrade
+
+Riscos identificados:
+- R01: Estimativas imprecisas
+  Probabilidade: 4/5, Impacto: 5/5, Nível: Alto
+  Mitigação: Refinar estimativas com base em dados históricos
+
+- R02: Problemas de desempenho
+  Probabilidade: 5/5, Impacto: 4/5, Nível: Alto
+  Mitigação: Comunicar benefícios da mudança
+
+- R03: Estimativas imprecisas
+  Probabilidade: 1/5, Impacto: 4/5, Nível: Baixo
+  Mitigação: Estabelecer canais de comunicação claros
+
+- R04: Indisponibilidade de recursos especializados
+  Probabilidade: 1/5, Impacto: 5/5, Nível: Baixo
+  Mitigação: Buscar fornecedores alternativos
+
+- R05: Estimativas imprecisas
+  Probabilidade: 4/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Refinar estimativas com base em dados históricos
+
+- R06: Problemas de compatibilidade
+  Probabilidade: 4/5, Impacto: 3/5, Nível: Médio
+  Mitigação: Implementar redundância de infraestrutura
+
+- R07: Resistência dos usuários à mudança
+  Probabilidade: 1/5, Impacto: 3/5, Nível: Baixo
+  Mitigação: Fortalecer medidas de segurança
+
+- R08: Resistência dos usuários à mudança
+  Probabilidade: 5/5, Impacto: 4/5, Nível: Alto
+  Mitigação: Comunicar benefícios da mudança
+
+- R09: Falhas de segurança
+  Probabilidade: 1/5, Impacto: 3/5, Nível: Baixo
+  Mitigação: Testar compatibilidade em diferentes ambientes
+
+Riscos ocorridos:
+- R05 (ocorrido em 25/03/2025)
+  Impacto real: Insatisfação dos stakeholders
+  Ações tomadas: Realocação de recursos
+
+- R08 (ocorrido em 06/03/2025)
+  Impacto real: Problemas de qualidade
+  Ações tomadas: Contratação de recursos adicionais
+
+- R07 (ocorrido em 02/05/2025)
+  Impacto real: Atraso de 2 semanas no cronograma
+  Ações tomadas: Realocação de recursos
+

@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A certeza de mudar mais rapidamente (PROJ-0479)
+Data: 14/07/2025
+Gerente: Evelyn Marques
+
+Orçamento inicial: R$ 1783058.00
+Custo real atual: R$ 1193953.35
+Desvio orçamentário: -33.04%
+Índice de Desempenho de Custo (CPI): 1.22
+Valor Agregado (EV): R$ 1450792.35
+Estimativa para conclusão: R$ 273443.47
+Estimativa no término (EAC): R$ 1467396.82
+Variação no término (VAC): R$ 315661.18
+
+Detalhamento por categoria:
+- Pessoal: R$ 601087.97 (50.3%)
+- Equipamentos: R$ 153167.76 (12.8%)
+- Software: R$ 169546.81 (14.2%)
+- Serviços: R$ 170572.59 (14.3%)
+- Outros: R$ 99578.22 (8.3%)

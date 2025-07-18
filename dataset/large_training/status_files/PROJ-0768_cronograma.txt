@@ -1,0 +1,27 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: O prazer de atingir seus objetivos antes de tudo (PROJ-0768)
+Data: 14/07/2025
+Gerente: Sofia Cassiano
+
+Status atual: Concluído
+Percentual de conclusão: 100.0%
+Data de início: 04/09/2024
+Data de término planejada: 29/01/2025
+Data de término real/prevista: 24/01/2025
+Atraso atual: 166 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.05
+Valor Planejado (PV): R$ 4607228.00
+Valor Agregado (EV): R$ 4607228.00
+
+Tarefas críticas:
+- Implementação do sistema de backup
+- Configuração do ambiente de produção
+- Implementação do módulo de relatórios
+- Implementação do sistema de backup
+- Desenvolvimento do módulo de autenticação
+- Implementação do módulo de notificações
+- Desenvolvimento da interface do usuário
+- Integração com sistema de pagamentos
+
+Tarefas atrasadas:

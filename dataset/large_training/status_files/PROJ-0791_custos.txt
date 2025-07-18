@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O direito de realizar seus sonhos mais rapidamente (PROJ-0791)
+Data: 14/07/2025
+Gerente: Yasmin da Cruz
+
+Orçamento inicial: R$ 1628809.00
+Custo real atual: R$ 1886126.88
+Desvio orçamentário: 15.80%
+Índice de Desempenho de Custo (CPI): 0.86
+Valor Agregado (EV): R$ 1627180.19
+Estimativa para conclusão: R$ 1888.01
+Estimativa no término (EAC): R$ 1888014.89
+Variação no término (VAC): R$ -259205.89
+
+Detalhamento por categoria:
+- Pessoal: R$ 964140.70 (51.1%)
+- Equipamentos: R$ 303175.70 (16.1%)
+- Software: R$ 130256.64 (6.9%)
+- Serviços: R$ 286179.94 (15.2%)
+- Outros: R$ 202373.90 (10.7%)

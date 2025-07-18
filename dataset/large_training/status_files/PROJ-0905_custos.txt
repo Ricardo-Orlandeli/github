@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A possibilidade de mudar com toda a tranquilidade (PROJ-0905)
+Data: 14/07/2025
+Gerente: Ian Marques
+
+Orçamento inicial: R$ 1285389.00
+Custo real atual: R$ 1204213.95
+Desvio orçamentário: -6.32%
+Índice de Desempenho de Custo (CPI): 1.07
+Valor Agregado (EV): R$ 1285389.00
+Estimativa para conclusão: R$ 0.00
+Estimativa no término (EAC): R$ 1204213.95
+Variação no término (VAC): R$ 81175.05
+
+Detalhamento por categoria:
+- Pessoal: R$ 566297.60 (47.0%)
+- Equipamentos: R$ 162821.00 (13.5%)
+- Software: R$ 140973.99 (11.7%)
+- Serviços: R$ 254207.67 (21.1%)
+- Outros: R$ 79913.69 (6.6%)

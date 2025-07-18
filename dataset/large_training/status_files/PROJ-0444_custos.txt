@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O conforto de atingir seus objetivos com força total (PROJ-0444)
+Data: 14/07/2025
+Gerente: Sra. Aurora Costa
+
+Orçamento inicial: R$ 4543662.00
+Custo real atual: R$ 4406030.53
+Desvio orçamentário: -3.03%
+Índice de Desempenho de Custo (CPI): 0.92
+Valor Agregado (EV): R$ 4049417.49
+Estimativa para conclusão: R$ 537770.28
+Estimativa no término (EAC): R$ 4943800.82
+Variação no término (VAC): R$ -400138.82
+
+Detalhamento por categoria:
+- Pessoal: R$ 2014778.48 (45.7%)
+- Equipamentos: R$ 712969.94 (16.2%)
+- Software: R$ 674075.05 (15.3%)
+- Serviços: R$ 520034.98 (11.8%)
+- Outros: R$ 484172.10 (11.0%)

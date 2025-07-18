@@ -1,0 +1,19 @@
+RELATÓRIO DE STATUS DE RISCOS
+Projeto: A arte de ganhar com confiança (PROJ-0133)
+Data: 14/07/2025
+Gerente: André Pastor
+
+Riscos identificados:
+- R01: Problemas de compatibilidade
+  Probabilidade: 2/5, Impacto: 3/5, Nível: Baixo
+  Mitigação: Comunicar benefícios da mudança
+
+- R02: Estimativas imprecisas
+  Probabilidade: 2/5, Impacto: 3/5, Nível: Baixo
+  Mitigação: Otimizar código e infraestrutura
+
+- R03: Problemas de comunicação com stakeholders
+  Probabilidade: 5/5, Impacto: 5/5, Nível: Alto
+  Mitigação: Implementar redundância de infraestrutura
+
+Riscos ocorridos:

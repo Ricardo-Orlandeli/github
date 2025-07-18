@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A certeza de inovar mais rapidamente (PROJ-0458)
+Data: 14/07/2025
+Gerente: Davi Lucas Costa
+
+Orçamento inicial: R$ 202378.00
+Custo real atual: R$ 72211.96
+Desvio orçamentário: 27.68%
+Índice de Desempenho de Custo (CPI): 0.86
+Valor Agregado (EV): R$ 62112.44
+Estimativa para conclusão: R$ 163072.83
+Estimativa no término (EAC): R$ 235284.79
+Variação no término (VAC): R$ -32906.79
+
+Detalhamento por categoria:
+- Pessoal: R$ 39306.80 (54.4%)
+- Equipamentos: R$ 9002.01 (12.5%)
+- Software: R$ 8257.58 (11.4%)
+- Serviços: R$ 8384.20 (11.6%)
+- Outros: R$ 7261.37 (10.1%)

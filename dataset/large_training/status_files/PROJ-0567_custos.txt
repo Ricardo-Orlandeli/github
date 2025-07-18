@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A arte de atingir seus objetivos mais facilmente (PROJ-0567)
+Data: 14/07/2025
+Gerente: Thales Araújo
+
+Orçamento inicial: R$ 1589126.00
+Custo real atual: R$ 1682471.04
+Desvio orçamentário: 5.87%
+Índice de Desempenho de Custo (CPI): 0.72
+Valor Agregado (EV): R$ 1208125.22
+Estimativa para conclusão: R$ 530592.99
+Estimativa no término (EAC): R$ 2213064.03
+Variação no término (VAC): R$ -623938.03
+
+Detalhamento por categoria:
+- Pessoal: R$ 789763.98 (46.9%)
+- Equipamentos: R$ 307086.56 (18.3%)
+- Software: R$ 175955.87 (10.5%)
+- Serviços: R$ 309987.41 (18.4%)
+- Outros: R$ 99677.22 (5.9%)

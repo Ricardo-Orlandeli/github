@@ -1,0 +1,24 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A liberdade de atingir seus objetivos mais rapidamente (PROJ-0399)
+Data: 14/07/2025
+Gerente: Luigi Lopes
+
+Status atual: Atrasado
+Percentual de conclusão: 75.1%
+Data de início: 30/07/2023
+Data de término planejada: 13/05/2024
+Data de término real/prevista: 08/06/2024
+Atraso atual: 427 dias
+Motivo do atraso: Atraso na entrega de componentes por fornecedores
+Índice de Desempenho de Cronograma (SPI): 0.75
+Valor Planejado (PV): R$ 2013592.00
+Valor Agregado (EV): R$ 1511446.73
+
+Tarefas críticas:
+- Implementação do módulo de exportação de dados
+- Implementação do sistema de backup
+- Implementação do módulo de notificações
+
+Tarefas atrasadas:
+- Implementação do módulo de exportação de dados
+- Implementação do módulo de notificações

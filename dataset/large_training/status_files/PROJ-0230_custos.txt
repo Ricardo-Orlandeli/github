@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A possibilidade de inovar direto da fonte (PROJ-0230)
+Data: 14/07/2025
+Gerente: Srta. Maria Luiza Monteiro
+
+Orçamento inicial: R$ 842643.00
+Custo real atual: R$ 723869.32
+Desvio orçamentário: -14.10%
+Índice de Desempenho de Custo (CPI): 0.98
+Valor Agregado (EV): R$ 710737.19
+Estimativa para conclusão: R$ 134343.01
+Estimativa no término (EAC): R$ 858212.33
+Variação no término (VAC): R$ -15569.33
+
+Detalhamento por categoria:
+- Pessoal: R$ 395883.91 (54.7%)
+- Equipamentos: R$ 104280.19 (14.4%)
+- Software: R$ 56425.12 (7.8%)
+- Serviços: R$ 107416.49 (14.8%)
+- Outros: R$ 59863.61 (8.3%)

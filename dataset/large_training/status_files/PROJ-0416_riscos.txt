@@ -1,0 +1,19 @@
+RELATÓRIO DE STATUS DE RISCOS
+Projeto: A liberdade de evoluir naturalmente (PROJ-0416)
+Data: 14/07/2025
+Gerente: Maria Eduarda Jesus
+
+Riscos identificados:
+- R01: Falhas de infraestrutura
+  Probabilidade: 5/5, Impacto: 3/5, Nível: Médio
+  Mitigação: Realizar testes de aceitação com usuários-chave
+
+- R02: Dependências externas não cumpridas
+  Probabilidade: 4/5, Impacto: 3/5, Nível: Médio
+  Mitigação: Monitorar mudanças regulatórias
+
+- R03: Problemas de desempenho
+  Probabilidade: 1/5, Impacto: 3/5, Nível: Baixo
+  Mitigação: Monitorar mudanças regulatórias
+
+Riscos ocorridos:

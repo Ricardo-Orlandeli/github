@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A simplicidade de realizar seus sonhos direto da fonte (PROJ-0436)
+Data: 14/07/2025
+Gerente: Fernando Costela
+
+Orçamento inicial: R$ 1927797.00
+Custo real atual: R$ 2132906.98
+Desvio orçamentário: 10.64%
+Índice de Desempenho de Custo (CPI): 0.90
+Valor Agregado (EV): R$ 1927797.00
+Estimativa para conclusão: R$ 0.00
+Estimativa no término (EAC): R$ 2132906.98
+Variação no término (VAC): R$ -205109.98
+
+Detalhamento por categoria:
+- Pessoal: R$ 1037223.13 (48.6%)
+- Equipamentos: R$ 313843.90 (14.7%)
+- Software: R$ 247356.44 (11.6%)
+- Serviços: R$ 376034.83 (17.6%)
+- Outros: R$ 158448.67 (7.4%)

@@ -1,0 +1,24 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: O direito de conseguir naturalmente (PROJ-0503)
+Data: 14/07/2025
+Gerente: Francisco Câmara
+
+Status atual: Em andamento
+Percentual de conclusão: 76.2%
+Data de início: 24/12/2024
+Data de término planejada: 16/08/2025
+Data de término real/prevista: 01/09/2025
+Atraso atual: 0 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.12
+Valor Planejado (PV): R$ 597975.01
+Valor Agregado (EV): R$ 529954.66
+
+Tarefas críticas:
+- Testes de aceitação do usuário
+- Testes de aceitação do usuário
+- Desenvolvimento do painel administrativo
+- Implementação do módulo de notificações
+- Implementação do sistema de backup
+
+Tarefas atrasadas:

@@ -1,0 +1,26 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: O conforto de inovar direto da fonte (PROJ-0701)
+Data: 14/07/2025
+Gerente: Dr. Anthony Vieira
+
+Status atual: Cancelado
+Percentual de conclusão: 50.5%
+Data de início: 03/04/2025
+Data de término planejada: 24/12/2025
+Data de término real/prevista: 14/08/2025
+Atraso atual: 0 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.31
+Valor Planejado (PV): R$ 1781145.55
+Valor Agregado (EV): R$ 2337115.12
+
+Tarefas críticas:
+- Migração de dados legados
+- Testes de segurança
+- Implementação do módulo de notificações
+- Desenvolvimento da interface do usuário
+- Implementação do módulo de análise de dados
+- Configuração do ambiente de produção
+- Testes de segurança
+
+Tarefas atrasadas:

@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A simplicidade de mudar direto da fonte (PROJ-0869)
+Data: 14/07/2025
+Gerente: Ravi Ramos
+
+Orçamento inicial: R$ 3639829.00
+Custo real atual: R$ 2927772.98
+Desvio orçamentário: -19.56%
+Índice de Desempenho de Custo (CPI): 1.24
+Valor Agregado (EV): R$ 3636189.17
+Estimativa para conclusão: R$ 2930.70
+Estimativa no término (EAC): R$ 2930703.68
+Variação no término (VAC): R$ 709125.32
+
+Detalhamento por categoria:
+- Pessoal: R$ 1510957.50 (51.6%)
+- Equipamentos: R$ 390254.71 (13.3%)
+- Software: R$ 396830.06 (13.6%)
+- Serviços: R$ 455425.90 (15.6%)
+- Outros: R$ 174304.81 (6.0%)

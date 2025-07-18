@@ -1,0 +1,28 @@
+RELATÓRIO DE STATUS DE ESCOPO
+Projeto: A segurança de concretizar seus projetos naturalmente (PROJ-0046)
+Data: 14/07/2025
+Gerente: Cauê Lopes
+
+Escopo original: Sistema para a segurança de concretizar seus projetos naturalmente
+Houve mudança de escopo: Não
+Descrição das mudanças: N/A
+Impacto no cronograma: 0 dias
+Impacto no custo: R$ 0.00
+
+Solicitações de mudança:
+
+Requisitos atuais:
+- REQ-01: O sistema deve processar transações em menos de 2 seconds
+- REQ-02: O sistema deve implementar criptografia de dados sensíveis
+- REQ-03: O sistema deve ter backup automático diário
+- REQ-04: O sistema deve ter backup automático diário
+- REQ-05: O sistema deve implementar criptografia de dados sensíveis
+- REQ-06: O sistema deve implementar criptografia de dados sensíveis
+- REQ-07: O sistema deve ter backup automático diário
+- REQ-08: O sistema deve permitir exportação de dados em formato CSV
+- REQ-09: O sistema deve ter documentação completa
+- REQ-10: O sistema deve ter interface responsiva
+- REQ-11: O sistema deve ter alta disponibilidade (99.9%)
+- REQ-12: O sistema deve permitir exportação de dados em formato CSV
+- REQ-13: O sistema deve ter interface responsiva
+- REQ-14: O sistema deve ter documentação completa

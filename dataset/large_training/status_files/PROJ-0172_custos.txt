@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A possibilidade de realizar seus sonhos direto da fonte (PROJ-0172)
+Data: 14/07/2025
+Gerente: João Gabriel Souza
+
+Orçamento inicial: R$ 2987294.00
+Custo real atual: R$ 1467498.30
+Desvio orçamentário: -50.88%
+Índice de Desempenho de Custo (CPI): 0.68
+Valor Agregado (EV): R$ 1000846.36
+Estimativa para conclusão: R$ 2912643.38
+Estimativa no término (EAC): R$ 4380141.69
+Variação no término (VAC): R$ -1392847.69
+
+Detalhamento por categoria:
+- Pessoal: R$ 775456.61 (52.8%)
+- Equipamentos: R$ 191169.58 (13.0%)
+- Software: R$ 197246.04 (13.4%)
+- Serviços: R$ 179274.00 (12.2%)
+- Outros: R$ 124352.06 (8.5%)

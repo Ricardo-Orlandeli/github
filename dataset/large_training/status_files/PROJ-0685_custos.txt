@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O poder de evoluir com força total (PROJ-0685)
+Data: 14/07/2025
+Gerente: Maria Isis Freitas
+
+Orçamento inicial: R$ 1217164.00
+Custo real atual: R$ 1108912.09
+Desvio orçamentário: -8.89%
+Índice de Desempenho de Custo (CPI): 1.10
+Valor Agregado (EV): R$ 1217164.00
+Estimativa para conclusão: R$ 0.00
+Estimativa no término (EAC): R$ 1108912.09
+Variação no término (VAC): R$ 108251.91
+
+Detalhamento por categoria:
+- Pessoal: R$ 536099.97 (48.3%)
+- Equipamentos: R$ 188049.29 (17.0%)
+- Software: R$ 80454.48 (7.3%)
+- Serviços: R$ 208732.58 (18.8%)
+- Outros: R$ 95575.77 (8.6%)

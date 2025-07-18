@@ -1,0 +1,25 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A certeza de conseguir antes de tudo (PROJ-0892)
+Data: 14/07/2025
+Gerente: Maria Flor Pimenta
+
+Status atual: Concluído
+Percentual de conclusão: 100.0%
+Data de início: 29/10/2023
+Data de término planejada: 08/07/2024
+Data de término real/prevista: 22/06/2024
+Atraso atual: 371 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.03
+Valor Planejado (PV): R$ 61987.00
+Valor Agregado (EV): R$ 61987.00
+
+Tarefas críticas:
+- Implementação da API REST
+- Testes de segurança
+- Configuração do ambiente de produção
+- Testes de aceitação do usuário
+- Desenvolvimento do painel administrativo
+- Implementação do módulo de relatórios
+
+Tarefas atrasadas:

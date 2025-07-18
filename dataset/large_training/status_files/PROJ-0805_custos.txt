@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A vantagem de concretizar seus projetos simplesmente (PROJ-0805)
+Data: 14/07/2025
+Gerente: Théo Pinto
+
+Orçamento inicial: R$ 4989234.00
+Custo real atual: R$ 5833026.02
+Desvio orçamentário: 16.91%
+Índice de Desempenho de Custo (CPI): 0.85
+Valor Agregado (EV): R$ 4984244.77
+Estimativa para conclusão: R$ 5838.86
+Estimativa no término (EAC): R$ 5838864.88
+Variação no término (VAC): R$ -849630.88
+
+Detalhamento por categoria:
+- Pessoal: R$ 2721087.12 (46.6%)
+- Equipamentos: R$ 1012050.08 (17.4%)
+- Software: R$ 480233.52 (8.2%)
+- Serviços: R$ 985115.04 (16.9%)
+- Outros: R$ 634540.25 (10.9%)

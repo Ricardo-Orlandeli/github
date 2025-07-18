@@ -1,0 +1,24 @@
+RELATÓRIO DE STATUS DE ESCOPO
+Projeto: A possibilidade de atingir seus objetivos com confiança (PROJ-0331)
+Data: 14/07/2025
+Gerente: Luiza das Neves
+
+Escopo original: Sistema para a possibilidade de atingir seus objetivos com confiança
+Houve mudança de escopo: Sim
+Descrição das mudanças: Alteração nas especificações técnicas
+Impacto no cronograma: 60 dias
+Impacto no custo: R$ 57623.81
+
+Solicitações de mudança:
+- SCM-01: Mudança na arquitetura do sistema
+- SCM-02: Alteração nos requisitos de desempenho
+
+Requisitos atuais:
+- REQ-01: O sistema deve ser escalável para suportar até 10.000 usuários simultâneos
+- REQ-02: O sistema deve ser escalável para suportar até 10.000 usuários simultâneos
+- REQ-03: O sistema deve implementar criptografia de dados sensíveis
+- REQ-04: O sistema deve ter controle de acesso baseado em perfis
+- REQ-05: O sistema deve ser compatível com dispositivos móveis
+- REQ-06: O sistema deve ter backup automático diário
+- REQ-07: O sistema deve passar por testes de segurança
+- REQ-08: O sistema deve permitir integração com APIs externas

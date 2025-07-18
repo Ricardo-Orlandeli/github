@@ -1,0 +1,23 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A vantagem de evoluir em estado puro (PROJ-0269)
+Data: 14/07/2025
+Gerente: Laura Rocha
+
+Status atual: Em andamento
+Percentual de conclusão: 80.6%
+Data de início: 21/07/2023
+Data de término planejada: 21/09/2023
+Data de término real/prevista: 22/09/2023
+Atraso atual: 662 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 0.98
+Valor Planejado (PV): R$ 2331887.00
+Valor Agregado (EV): R$ 1878568.30
+
+Tarefas críticas:
+- Implementação da API REST
+- Desenvolvimento da interface do usuário
+- Implementação do sistema de backup
+- Implementação do módulo de exportação de dados
+
+Tarefas atrasadas:

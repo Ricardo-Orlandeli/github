@@ -1,0 +1,29 @@
+RELATÓRIO DE STATUS DE ESCOPO
+Projeto: A segurança de evoluir sem preocupação (PROJ-0242)
+Data: 14/07/2025
+Gerente: Antônio Vieira
+
+Escopo original: Sistema para a segurança de evoluir sem preocupação
+Houve mudança de escopo: Sim
+Descrição das mudanças: Redução do escopo devido a restrições orçamentárias
+Impacto no cronograma: 14 dias
+Impacto no custo: R$ 114758.80
+
+Solicitações de mudança:
+- SCM-01: Adição de funcionalidade de autenticação biométrica
+
+Requisitos atuais:
+- REQ-01: O sistema deve permitir exportação de dados em formato CSV
+- REQ-02: O sistema deve implementar criptografia de dados sensíveis
+- REQ-03: O sistema deve ter documentação completa
+- REQ-04: O sistema deve processar transações em menos de 2 seconds
+- REQ-05: O sistema deve permitir exportação de dados em formato CSV
+- REQ-06: O sistema deve ter documentação completa
+- REQ-07: O sistema deve ter backup automático diário
+- REQ-08: O sistema deve permitir exportação de dados em formato CSV
+- REQ-09: O sistema deve implementar criptografia de dados sensíveis
+- REQ-10: O sistema deve ter interface responsiva
+- REQ-11: O sistema deve implementar criptografia de dados sensíveis
+- REQ-12: O sistema deve ser compatível com navegadores modernos
+- REQ-13: O sistema deve implementar criptografia de dados sensíveis
+- REQ-14: O sistema deve ter backup automático diário

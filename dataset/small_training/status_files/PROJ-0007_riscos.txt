@@ -1,0 +1,51 @@
+RELATÓRIO DE STATUS DE RISCOS
+Projeto: A liberdade de realizar seus sonhos antes de tudo (PROJ-0007)
+Data: 14/07/2025
+Gerente: Yago Andrade
+
+Riscos identificados:
+- R01: Problemas de desempenho
+  Probabilidade: 1/5, Impacto: 2/5, Nível: Baixo
+  Mitigação: Melhorar a documentação de requisitos
+
+- R02: Falhas em testes de aceitação
+  Probabilidade: 2/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Refinar estimativas com base em dados históricos
+
+- R03: Problemas de compatibilidade
+  Probabilidade: 3/5, Impacto: 3/5, Nível: Médio
+  Mitigação: Gerenciar dependências ativamente
+
+- R04: Requisitos mal definidos
+  Probabilidade: 4/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Buscar fornecedores alternativos
+
+- R05: Indisponibilidade de recursos especializados
+  Probabilidade: 5/5, Impacto: 4/5, Nível: Alto
+  Mitigação: Implementar redundância de infraestrutura
+
+- R06: Atraso na entrega de componentes críticos
+  Probabilidade: 4/5, Impacto: 5/5, Nível: Alto
+  Mitigação: Testar compatibilidade em diferentes ambientes
+
+- R07: Falhas de infraestrutura
+  Probabilidade: 1/5, Impacto: 2/5, Nível: Baixo
+  Mitigação: Implementar redundância de infraestrutura
+
+- R08: Dependências externas não cumpridas
+  Probabilidade: 3/5, Impacto: 2/5, Nível: Baixo
+  Mitigação: Contratar pessoal adicional
+
+- R09: Estimativas imprecisas
+  Probabilidade: 4/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Implementar redundância de infraestrutura
+
+- R10: Mudanças regulatórias
+  Probabilidade: 1/5, Impacto: 4/5, Nível: Baixo
+  Mitigação: Gerenciar dependências ativamente
+
+Riscos ocorridos:
+- R07 (ocorrido em 09/07/2025)
+  Impacto real: Falhas de segurança
+  Ações tomadas: Implementação de controles adicionais
+

@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O prazer de ganhar sem preocupação (PROJ-0738)
+Data: 14/07/2025
+Gerente: Olívia Vieira
+
+Orçamento inicial: R$ 1256335.00
+Custo real atual: R$ 1537890.49
+Desvio orçamentário: 22.41%
+Índice de Desempenho de Custo (CPI): 0.72
+Valor Agregado (EV): R$ 1113664.87
+Estimativa para conclusão: R$ 197017.12
+Estimativa no término (EAC): R$ 1734907.60
+Variação no término (VAC): R$ -478572.60
+
+Detalhamento por categoria:
+- Pessoal: R$ 674035.69 (43.8%)
+- Equipamentos: R$ 325137.90 (21.1%)
+- Software: R$ 189883.38 (12.3%)
+- Serviços: R$ 204476.80 (13.3%)
+- Outros: R$ 144356.72 (9.4%)

@@ -1,0 +1,35 @@
+RELATÓRIO DE STATUS DE RISCOS
+Projeto: A vantagem de conseguir mais facilmente (PROJ-0473)
+Data: 14/07/2025
+Gerente: Sr. Ravi Lucca da Costa
+
+Riscos identificados:
+- R01: Indisponibilidade de recursos especializados
+  Probabilidade: 3/5, Impacto: 5/5, Nível: Médio
+  Mitigação: Estabelecer canais de comunicação claros
+
+- R02: Resistência dos usuários à mudança
+  Probabilidade: 4/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Contratar pessoal adicional
+
+- R03: Rotatividade de pessoal-chave
+  Probabilidade: 2/5, Impacto: 3/5, Nível: Baixo
+  Mitigação: Implementar plano de contingência
+
+- R04: Atraso na entrega de componentes críticos
+  Probabilidade: 2/5, Impacto: 5/5, Nível: Médio
+  Mitigação: Otimizar código e infraestrutura
+
+- R05: Problemas de compatibilidade
+  Probabilidade: 1/5, Impacto: 4/5, Nível: Baixo
+  Mitigação: Contratar pessoal adicional
+
+- R06: Problemas de integração com sistemas legados
+  Probabilidade: 5/5, Impacto: 3/5, Nível: Médio
+  Mitigação: Otimizar código e infraestrutura
+
+- R07: Problemas de desempenho
+  Probabilidade: 1/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Realizar testes de aceitação com usuários-chave
+
+Riscos ocorridos:

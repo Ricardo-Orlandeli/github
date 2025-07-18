@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A segurança de ganhar antes de tudo (PROJ-0870)
+Data: 14/07/2025
+Gerente: Bella Porto
+
+Orçamento inicial: R$ 1897114.00
+Custo real atual: R$ 1823824.50
+Desvio orçamentário: -3.86%
+Índice de Desempenho de Custo (CPI): 1.04
+Valor Agregado (EV): R$ 1897114.00
+Estimativa para conclusão: R$ 0.00
+Estimativa no término (EAC): R$ 1823824.50
+Variação no término (VAC): R$ 73289.50
+
+Detalhamento por categoria:
+- Pessoal: R$ 943282.18 (51.7%)
+- Equipamentos: R$ 329168.26 (18.0%)
+- Software: R$ 175168.75 (9.6%)
+- Serviços: R$ 256658.93 (14.1%)
+- Outros: R$ 119546.39 (6.6%)

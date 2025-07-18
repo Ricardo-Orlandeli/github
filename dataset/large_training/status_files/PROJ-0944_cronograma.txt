@@ -1,0 +1,24 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: O direito de realizar seus sonhos com força total (PROJ-0944)
+Data: 14/07/2025
+Gerente: Maria das Neves
+
+Status atual: Concluído
+Percentual de conclusão: 100.0%
+Data de início: 18/04/2025
+Data de término planejada: 14/06/2025
+Data de término real/prevista: 18/06/2025
+Atraso atual: 30 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 0.98
+Valor Planejado (PV): R$ 356178.00
+Valor Agregado (EV): R$ 356178.00
+
+Tarefas críticas:
+- Implementação do módulo de notificações
+- Desenvolvimento do painel administrativo
+- Implementação da API REST
+- Desenvolvimento do painel administrativo
+- Desenvolvimento do módulo de autenticação
+
+Tarefas atrasadas:

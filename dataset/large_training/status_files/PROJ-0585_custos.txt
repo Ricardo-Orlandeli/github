@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A certeza de atingir seus objetivos com força total (PROJ-0585)
+Data: 14/07/2025
+Gerente: Olívia da Luz
+
+Orçamento inicial: R$ 3322894.00
+Custo real atual: R$ 3450550.51
+Desvio orçamentário: 3.84%
+Índice de Desempenho de Custo (CPI): 0.96
+Valor Agregado (EV): R$ 3319571.11
+Estimativa para conclusão: R$ 3454.00
+Estimativa no término (EAC): R$ 3454004.51
+Variação no término (VAC): R$ -131110.51
+
+Detalhamento por categoria:
+- Pessoal: R$ 1729457.86 (50.1%)
+- Equipamentos: R$ 547588.41 (15.9%)
+- Software: R$ 409195.92 (11.9%)
+- Serviços: R$ 446814.18 (12.9%)
+- Outros: R$ 317494.14 (9.2%)

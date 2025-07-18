@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A segurança de realizar seus sonhos antes de tudo (PROJ-0557)
+Data: 14/07/2025
+Gerente: Benjamin Fonseca
+
+Orçamento inicial: R$ 1821988.00
+Custo real atual: R$ 1700900.40
+Desvio orçamentário: -6.65%
+Índice de Desempenho de Custo (CPI): 1.07
+Valor Agregado (EV): R$ 1820166.01
+Estimativa para conclusão: R$ 1702.60
+Estimativa no término (EAC): R$ 1702603.01
+Variação no término (VAC): R$ 119384.99
+
+Detalhamento por categoria:
+- Pessoal: R$ 871286.56 (51.2%)
+- Equipamentos: R$ 310939.69 (18.3%)
+- Software: R$ 98366.09 (5.8%)
+- Serviços: R$ 259505.38 (15.3%)
+- Outros: R$ 160802.68 (9.5%)

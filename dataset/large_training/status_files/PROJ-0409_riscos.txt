@@ -1,0 +1,43 @@
+RELATÓRIO DE STATUS DE RISCOS
+Projeto: O conforto de atingir seus objetivos antes de tudo (PROJ-0409)
+Data: 14/07/2025
+Gerente: Luiz Otávio Cassiano
+
+Riscos identificados:
+- R01: Resistência dos usuários à mudança
+  Probabilidade: 4/5, Impacto: 5/5, Nível: Alto
+  Mitigação: Refinar estimativas com base em dados históricos
+
+- R02: Indisponibilidade de recursos especializados
+  Probabilidade: 1/5, Impacto: 5/5, Nível: Baixo
+  Mitigação: Gerenciar dependências ativamente
+
+- R03: Problemas de desempenho
+  Probabilidade: 5/5, Impacto: 4/5, Nível: Alto
+  Mitigação: Buscar fornecedores alternativos
+
+- R04: Problemas de comunicação com stakeholders
+  Probabilidade: 2/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Otimizar código e infraestrutura
+
+- R05: Resistência dos usuários à mudança
+  Probabilidade: 2/5, Impacto: 3/5, Nível: Baixo
+  Mitigação: Realizar testes de aceitação com usuários-chave
+
+- R06: Dependências externas não cumpridas
+  Probabilidade: 5/5, Impacto: 4/5, Nível: Alto
+  Mitigação: Fortalecer medidas de segurança
+
+- R07: Rotatividade de pessoal-chave
+  Probabilidade: 5/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Implementar plano de contingência
+
+- R08: Falhas de infraestrutura
+  Probabilidade: 3/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Contratar pessoal adicional
+
+Riscos ocorridos:
+- R08 (ocorrido em 18/08/2023)
+  Impacto real: Insatisfação dos stakeholders
+  Ações tomadas: Realocação de recursos
+

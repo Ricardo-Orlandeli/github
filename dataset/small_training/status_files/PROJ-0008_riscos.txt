@@ -1,0 +1,31 @@
+RELATÓRIO DE STATUS DE RISCOS
+Projeto: O conforto de avançar com toda a tranquilidade (PROJ-0008)
+Data: 14/07/2025
+Gerente: Danilo da Luz
+
+Riscos identificados:
+- R01: Rotatividade de pessoal-chave
+  Probabilidade: 3/5, Impacto: 4/5, Nível: Médio
+  Mitigação: Contratar pessoal adicional
+
+- R02: Mudanças regulatórias
+  Probabilidade: 2/5, Impacto: 5/5, Nível: Médio
+  Mitigação: Otimizar código e infraestrutura
+
+- R03: Falhas de infraestrutura
+  Probabilidade: 4/5, Impacto: 3/5, Nível: Médio
+  Mitigação: Gerenciar dependências ativamente
+
+Riscos ocorridos:
+- R01 (ocorrido em 13/07/2025)
+  Impacto real: Indisponibilidade temporária
+  Ações tomadas: Revisão do orçamento
+
+- R03 (ocorrido em 13/07/2025)
+  Impacto real: Perda de dados
+  Ações tomadas: Implementação de controles adicionais
+
+- R02 (ocorrido em 12/07/2025)
+  Impacto real: Indisponibilidade temporária
+  Ações tomadas: Revisão de processos
+

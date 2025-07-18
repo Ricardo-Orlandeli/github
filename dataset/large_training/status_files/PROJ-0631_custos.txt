@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O poder de inovar direto da fonte (PROJ-0631)
+Data: 14/07/2025
+Gerente: Antony Cavalcante
+
+Orçamento inicial: R$ 3954828.00
+Custo real atual: R$ 3827086.19
+Desvio orçamentário: -3.23%
+Índice de Desempenho de Custo (CPI): 0.85
+Valor Agregado (EV): R$ 3239108.56
+Estimativa para conclusão: R$ 845640.07
+Estimativa no término (EAC): R$ 4672726.26
+Variação no término (VAC): R$ -717898.26
+
+Detalhamento por categoria:
+- Pessoal: R$ 1781462.94 (46.5%)
+- Equipamentos: R$ 676478.93 (17.7%)
+- Software: R$ 582429.41 (15.2%)
+- Serviços: R$ 472086.39 (12.3%)
+- Outros: R$ 314628.53 (8.2%)

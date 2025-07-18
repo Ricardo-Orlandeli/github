@@ -1,0 +1,28 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A arte de concretizar seus projetos antes de tudo (PROJ-0936)
+Data: 14/07/2025
+Gerente: Ana Cecília Leão
+
+Status atual: Atrasado
+Percentual de conclusão: 63.7%
+Data de início: 05/08/2024
+Data de término planejada: 28/09/2024
+Data de término real/prevista: 23/11/2024
+Atraso atual: 289 dias
+Motivo do atraso: Estimativas imprecisas
+Índice de Desempenho de Cronograma (SPI): 0.64
+Valor Planejado (PV): R$ 2330360.00
+Valor Agregado (EV): R$ 1483801.56
+
+Tarefas críticas:
+- Implementação do sistema de backup
+- Implementação do módulo de relatórios
+- Implementação do módulo de notificações
+- Implementação do módulo de relatórios
+- Implementação do módulo de relatórios
+- Migração de dados legados
+- Desenvolvimento do painel administrativo
+- Desenvolvimento do módulo de autenticação
+
+Tarefas atrasadas:
+- Implementação do módulo de notificações

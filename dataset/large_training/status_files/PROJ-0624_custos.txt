@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A vantagem de ganhar de maneira eficaz (PROJ-0624)
+Data: 14/07/2025
+Gerente: Alice Aparecida
+
+Orçamento inicial: R$ 2055305.00
+Custo real atual: R$ 1893513.52
+Desvio orçamentário: -7.87%
+Índice de Desempenho de Custo (CPI): 0.89
+Valor Agregado (EV): R$ 1688482.54
+Estimativa para conclusão: R$ 411365.39
+Estimativa no término (EAC): R$ 2304878.91
+Variação no término (VAC): R$ -249573.91
+
+Detalhamento por categoria:
+- Pessoal: R$ 860562.18 (45.4%)
+- Equipamentos: R$ 252396.92 (13.3%)
+- Software: R$ 262069.17 (13.8%)
+- Serviços: R$ 326389.96 (17.2%)
+- Outros: R$ 192095.29 (10.1%)

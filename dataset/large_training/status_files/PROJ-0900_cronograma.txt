@@ -1,0 +1,25 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: O prazer de evoluir sem preocupação (PROJ-0900)
+Data: 14/07/2025
+Gerente: Sophie Sales
+
+Status atual: Em andamento
+Percentual de conclusão: 99.9%
+Data de início: 17/04/2024
+Data de término planejada: 17/09/2024
+Data de término real/prevista: 13/10/2024
+Atraso atual: 300 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.05
+Valor Planejado (PV): R$ 935839.00
+Valor Agregado (EV): R$ 934903.16
+
+Tarefas críticas:
+- Implementação do sistema de backup
+- Desenvolvimento da interface do usuário
+- Implementação do módulo de notificações
+- Desenvolvimento do módulo de autenticação
+- Desenvolvimento do módulo de autenticação
+- Configuração do ambiente de produção
+
+Tarefas atrasadas:

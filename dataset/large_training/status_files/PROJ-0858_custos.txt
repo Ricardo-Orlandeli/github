@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A possibilidade de evoluir com confiança (PROJ-0858)
+Data: 14/07/2025
+Gerente: Letícia Rios
+
+Orçamento inicial: R$ 3604278.00
+Custo real atual: R$ 2986552.60
+Desvio orçamentário: -17.14%
+Índice de Desempenho de Custo (CPI): 0.95
+Valor Agregado (EV): R$ 2849097.92
+Estimativa para conclusão: R$ 791613.73
+Estimativa no término (EAC): R$ 3778166.34
+Variação no término (VAC): R$ -173888.34
+
+Detalhamento por categoria:
+- Pessoal: R$ 1254834.22 (42.0%)
+- Equipamentos: R$ 604339.34 (20.2%)
+- Software: R$ 398762.77 (13.4%)
+- Serviços: R$ 514011.86 (17.2%)
+- Outros: R$ 214604.42 (7.2%)

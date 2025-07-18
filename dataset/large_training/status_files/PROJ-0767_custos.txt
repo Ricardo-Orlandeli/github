@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O direito de concretizar seus projetos com força total (PROJ-0767)
+Data: 14/07/2025
+Gerente: Lorenzo Costela
+
+Orçamento inicial: R$ 4870479.00
+Custo real atual: R$ 5754334.14
+Desvio orçamentário: 18.15%
+Índice de Desempenho de Custo (CPI): 0.85
+Valor Agregado (EV): R$ 4870479.00
+Estimativa para conclusão: R$ 0.00
+Estimativa no término (EAC): R$ 5754334.14
+Variação no término (VAC): R$ -883855.14
+
+Detalhamento por categoria:
+- Pessoal: R$ 2909810.26 (50.6%)
+- Equipamentos: R$ 918253.29 (16.0%)
+- Software: R$ 603172.39 (10.5%)
+- Serviços: R$ 922642.37 (16.0%)
+- Outros: R$ 400455.84 (7.0%)

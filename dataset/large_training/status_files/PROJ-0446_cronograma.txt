@@ -1,0 +1,25 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A liberdade de realizar seus sonhos com confiança (PROJ-0446)
+Data: 14/07/2025
+Gerente: Mirella Aragão
+
+Status atual: Cancelado
+Percentual de conclusão: 89.2%
+Data de início: 14/09/2024
+Data de término planejada: 12/11/2024
+Data de término real/prevista: 05/11/2024
+Atraso atual: 244 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 0.89
+Valor Planejado (PV): R$ 3673793.00
+Valor Agregado (EV): R$ 3276218.86
+
+Tarefas críticas:
+- Implementação da API REST
+- Configuração do ambiente de produção
+- Implementação do módulo de análise de dados
+- Desenvolvimento da interface do usuário
+- Configuração da infraestrutura
+- Migração de dados legados
+
+Tarefas atrasadas:

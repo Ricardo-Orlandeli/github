@@ -1,0 +1,27 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A vantagem de avançar mais facilmente (PROJ-0066)
+Data: 14/07/2025
+Gerente: Dra. Aylla Gonçalves
+
+Status atual: Em andamento
+Percentual de conclusão: 91.3%
+Data de início: 03/12/2023
+Data de término planejada: 19/11/2024
+Data de término real/prevista: 22/11/2024
+Atraso atual: 237 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 0.97
+Valor Planejado (PV): R$ 1823027.00
+Valor Agregado (EV): R$ 1665075.22
+
+Tarefas críticas:
+- Implementação do módulo de relatórios
+- Testes de segurança
+- Implementação do módulo de relatórios
+- Configuração da infraestrutura
+- Configuração da infraestrutura
+- Implementação do módulo de exportação de dados
+- Migração de dados legados
+- Testes de aceitação do usuário
+
+Tarefas atrasadas:

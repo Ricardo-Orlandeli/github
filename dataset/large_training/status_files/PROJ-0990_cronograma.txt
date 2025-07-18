@@ -1,0 +1,24 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A possibilidade de mudar com força total (PROJ-0990)
+Data: 14/07/2025
+Gerente: Ana Mendonça
+
+Status atual: Em andamento
+Percentual de conclusão: 6.1%
+Data de início: 04/07/2025
+Data de término planejada: 11/01/2026
+Data de término real/prevista: 09/01/2026
+Atraso atual: 0 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.07
+Valor Planejado (PV): R$ 123215.55
+Valor Agregado (EV): R$ 142540.92
+
+Tarefas críticas:
+- Configuração do ambiente de produção
+- Migração de dados legados
+- Implementação do módulo de exportação de dados
+- Implementação do módulo de análise de dados
+- Desenvolvimento do módulo de autenticação
+
+Tarefas atrasadas:

@@ -1,0 +1,26 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: O poder de concretizar seus projetos direto da fonte (PROJ-0435)
+Data: 14/07/2025
+Gerente: Zoe Pimenta
+
+Status atual: Em andamento
+Percentual de conclusão: 99.9%
+Data de início: 27/06/2024
+Data de término planejada: 23/08/2024
+Data de término real/prevista: 24/08/2024
+Atraso atual: 325 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.08
+Valor Planejado (PV): R$ 4123231.00
+Valor Agregado (EV): R$ 4119107.77
+
+Tarefas críticas:
+- Implementação do módulo de análise de dados
+- Implementação do módulo de exportação de dados
+- Testes de segurança
+- Integração com sistema de pagamentos
+- Configuração da infraestrutura
+- Implementação do módulo de notificações
+- Desenvolvimento da interface do usuário
+
+Tarefas atrasadas:

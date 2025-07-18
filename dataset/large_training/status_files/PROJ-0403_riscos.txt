@@ -1,0 +1,31 @@
+RELATÓRIO DE STATUS DE RISCOS
+Projeto: O conforto de conseguir de maneira eficaz (PROJ-0403)
+Data: 14/07/2025
+Gerente: João Vitor Monteiro
+
+Riscos identificados:
+- R01: Dependências externas não cumpridas
+  Probabilidade: 3/5, Impacto: 2/5, Nível: Baixo
+  Mitigação: Melhorar a documentação de requisitos
+
+- R02: Indisponibilidade de recursos especializados
+  Probabilidade: 3/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Realizar testes de integração antecipados
+
+- R03: Requisitos mal definidos
+  Probabilidade: 3/5, Impacto: 4/5, Nível: Médio
+  Mitigação: Fortalecer medidas de segurança
+
+Riscos ocorridos:
+- R03 (ocorrido em 16/03/2025)
+  Impacto real: Problemas de qualidade
+  Ações tomadas: Realocação de recursos
+
+- R02 (ocorrido em 06/04/2025)
+  Impacto real: Retrabalho significativo
+  Ações tomadas: Ajuste no cronograma
+
+- R01 (ocorrido em 29/03/2025)
+  Impacto real: Redução de funcionalidades
+  Ações tomadas: Comunicação intensificada com stakeholders
+

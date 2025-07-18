@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O poder de ganhar mais facilmente (PROJ-0037)
+Data: 14/07/2025
+Gerente: Luara Leão
+
+Orçamento inicial: R$ 2670456.00
+Custo real atual: R$ 2613543.26
+Desvio orçamentário: -2.13%
+Índice de Desempenho de Custo (CPI): 1.02
+Valor Agregado (EV): R$ 2667785.54
+Estimativa para conclusão: R$ 2616.16
+Estimativa no término (EAC): R$ 2616159.42
+Variação no término (VAC): R$ 54296.58
+
+Detalhamento por categoria:
+- Pessoal: R$ 1408815.67 (53.9%)
+- Equipamentos: R$ 419868.76 (16.1%)
+- Software: R$ 314443.63 (12.0%)
+- Serviços: R$ 319293.30 (12.2%)
+- Outros: R$ 151121.89 (5.8%)

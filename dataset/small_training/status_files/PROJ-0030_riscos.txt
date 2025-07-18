@@ -1,0 +1,35 @@
+RELATÓRIO DE STATUS DE RISCOS
+Projeto: A arte de atingir seus objetivos com toda a tranquilidade (PROJ-0030)
+Data: 14/07/2025
+Gerente: Sra. Ana Carolina da Rocha
+
+Riscos identificados:
+- R01: Resistência dos usuários à mudança
+  Probabilidade: 3/5, Impacto: 5/5, Nível: Médio
+  Mitigação: Testar compatibilidade em diferentes ambientes
+
+- R02: Falhas de infraestrutura
+  Probabilidade: 2/5, Impacto: 4/5, Nível: Médio
+  Mitigação: Otimizar código e infraestrutura
+
+- R03: Falhas de infraestrutura
+  Probabilidade: 3/5, Impacto: 5/5, Nível: Médio
+  Mitigação: Estabelecer canais de comunicação claros
+
+- R04: Falhas de segurança
+  Probabilidade: 1/5, Impacto: 5/5, Nível: Baixo
+  Mitigação: Otimizar código e infraestrutura
+
+- R05: Problemas de desempenho
+  Probabilidade: 2/5, Impacto: 5/5, Nível: Médio
+  Mitigação: Buscar fornecedores alternativos
+
+- R06: Estimativas imprecisas
+  Probabilidade: 3/5, Impacto: 4/5, Nível: Médio
+  Mitigação: Realizar testes de aceitação com usuários-chave
+
+- R07: Resistência dos usuários à mudança
+  Probabilidade: 5/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Estabelecer canais de comunicação claros
+
+Riscos ocorridos:

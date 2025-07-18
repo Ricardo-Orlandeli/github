@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A certeza de realizar seus sonhos em estado puro (PROJ-0549)
+Data: 14/07/2025
+Gerente: Gael Henrique Rodrigues
+
+Orçamento inicial: R$ 2793882.00
+Custo real atual: R$ 2389135.99
+Desvio orçamentário: -14.49%
+Índice de Desempenho de Custo (CPI): 0.94
+Valor Agregado (EV): R$ 2244332.56
+Estimativa para conclusão: R$ 585006.14
+Estimativa no término (EAC): R$ 2974142.13
+Variação no término (VAC): R$ -180260.13
+
+Detalhamento por categoria:
+- Pessoal: R$ 1201227.33 (50.3%)
+- Equipamentos: R$ 434323.54 (18.2%)
+- Software: R$ 164547.93 (6.9%)
+- Serviços: R$ 341117.77 (14.3%)
+- Outros: R$ 247919.42 (10.4%)

@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A possibilidade de mudar simplesmente (PROJ-0176)
+Data: 14/07/2025
+Gerente: Esther Sampaio
+
+Orçamento inicial: R$ 2501020.00
+Custo real atual: R$ 2378812.01
+Desvio orçamentário: -4.89%
+Índice de Desempenho de Custo (CPI): 0.88
+Valor Agregado (EV): R$ 2102058.62
+Estimativa para conclusão: R$ 451487.94
+Estimativa no término (EAC): R$ 2830299.95
+Variação no término (VAC): R$ -329279.95
+
+Detalhamento por categoria:
+- Pessoal: R$ 1154869.78 (48.5%)
+- Equipamentos: R$ 418920.83 (17.6%)
+- Software: R$ 280448.68 (11.8%)
+- Serviços: R$ 320699.98 (13.5%)
+- Outros: R$ 203872.73 (8.6%)

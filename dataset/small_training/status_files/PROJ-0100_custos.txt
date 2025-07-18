@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A simplicidade de atingir seus objetivos com toda a tranquilidade (PROJ-0100)
+Data: 14/07/2025
+Gerente: Caleb Oliveira
+
+Orçamento inicial: R$ 4489549.00
+Custo real atual: R$ 5189774.85
+Desvio orçamentário: 15.60%
+Índice de Desempenho de Custo (CPI): 0.86
+Valor Agregado (EV): R$ 4473279.73
+Estimativa para conclusão: R$ 18875.15
+Estimativa no término (EAC): R$ 5208650.01
+Variação no término (VAC): R$ -719101.01
+
+Detalhamento por categoria:
+- Pessoal: R$ 2983423.48 (57.5%)
+- Equipamentos: R$ 583448.04 (11.2%)
+- Software: R$ 486464.78 (9.4%)
+- Serviços: R$ 652491.27 (12.6%)
+- Outros: R$ 483947.28 (9.3%)

@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A vantagem de mudar mais facilmente (PROJ-0336)
+Data: 14/07/2025
+Gerente: Emanuel Oliveira
+
+Orçamento inicial: R$ 4877817.00
+Custo real atual: R$ 5414032.29
+Desvio orçamentário: 10.99%
+Índice de Desempenho de Custo (CPI): 0.85
+Valor Agregado (EV): R$ 4592339.62
+Estimativa para conclusão: R$ 336556.93
+Estimativa no término (EAC): R$ 5750589.22
+Variação no término (VAC): R$ -872772.22
+
+Detalhamento por categoria:
+- Pessoal: R$ 2814490.76 (52.0%)
+- Equipamentos: R$ 928019.76 (17.1%)
+- Software: R$ 360381.32 (6.7%)
+- Serviços: R$ 964121.21 (17.8%)
+- Outros: R$ 347019.24 (6.4%)

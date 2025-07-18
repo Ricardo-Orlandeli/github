@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O poder de avançar com toda a tranquilidade (PROJ-0932)
+Data: 14/07/2025
+Gerente: Matheus Farias
+
+Orçamento inicial: R$ 4857872.00
+Custo real atual: R$ 5476210.40
+Desvio orçamentário: 12.73%
+Índice de Desempenho de Custo (CPI): 0.89
+Valor Agregado (EV): R$ 4853014.13
+Estimativa para conclusão: R$ 5481.69
+Estimativa no término (EAC): R$ 5481692.10
+Variação no término (VAC): R$ -623820.10
+
+Detalhamento por categoria:
+- Pessoal: R$ 2770536.29 (50.6%)
+- Equipamentos: R$ 743292.76 (13.6%)
+- Software: R$ 750492.14 (13.7%)
+- Serviços: R$ 724229.52 (13.2%)
+- Outros: R$ 487659.68 (8.9%)

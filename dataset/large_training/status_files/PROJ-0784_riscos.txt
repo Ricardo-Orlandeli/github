@@ -1,0 +1,27 @@
+RELATÓRIO DE STATUS DE RISCOS
+Projeto: O prazer de conseguir mais facilmente (PROJ-0784)
+Data: 14/07/2025
+Gerente: Sr. Lucas Gabriel Duarte
+
+Riscos identificados:
+- R01: Dependências externas não cumpridas
+  Probabilidade: 1/5, Impacto: 4/5, Nível: Baixo
+  Mitigação: Fortalecer medidas de segurança
+
+- R02: Requisitos mal definidos
+  Probabilidade: 1/5, Impacto: 2/5, Nível: Baixo
+  Mitigação: Estabelecer canais de comunicação claros
+
+- R03: Falhas de segurança
+  Probabilidade: 2/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Implementar redundância de infraestrutura
+
+- R04: Problemas de compatibilidade
+  Probabilidade: 2/5, Impacto: 3/5, Nível: Baixo
+  Mitigação: Realizar testes de aceitação com usuários-chave
+
+- R05: Rotatividade de pessoal-chave
+  Probabilidade: 4/5, Impacto: 5/5, Nível: Alto
+  Mitigação: Fortalecer medidas de segurança
+
+Riscos ocorridos:

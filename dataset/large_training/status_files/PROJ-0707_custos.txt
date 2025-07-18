@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A certeza de inovar sem preocupação (PROJ-0707)
+Data: 14/07/2025
+Gerente: Léo Macedo
+
+Orçamento inicial: R$ 2410468.00
+Custo real atual: R$ 2712982.17
+Desvio orçamentário: 12.55%
+Índice de Desempenho de Custo (CPI): 0.89
+Valor Agregado (EV): R$ 2408057.53
+Estimativa para conclusão: R$ 2715.70
+Estimativa no término (EAC): R$ 2715697.87
+Variação no término (VAC): R$ -305229.87
+
+Detalhamento por categoria:
+- Pessoal: R$ 1435691.75 (52.9%)
+- Equipamentos: R$ 362052.86 (13.3%)
+- Software: R$ 174781.61 (6.4%)
+- Serviços: R$ 544719.21 (20.1%)
+- Outros: R$ 195736.74 (7.2%)

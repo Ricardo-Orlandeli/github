@@ -1,0 +1,22 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A arte de concretizar seus projetos naturalmente (PROJ-1000)
+Data: 14/07/2025
+Gerente: Sra. Valentina Carvalho
+
+Status atual: Concluído
+Percentual de conclusão: 100.0%
+Data de início: 09/08/2023
+Data de término planejada: 31/01/2024
+Data de término real/prevista: 24/01/2024
+Atraso atual: 530 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 0.97
+Valor Planejado (PV): R$ 3472624.00
+Valor Agregado (EV): R$ 3472624.00
+
+Tarefas críticas:
+- Desenvolvimento do painel administrativo
+- Implementação do módulo de relatórios
+- Implementação da API REST
+
+Tarefas atrasadas:

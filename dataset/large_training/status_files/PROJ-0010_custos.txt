@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O direito de avançar com toda a tranquilidade (PROJ-0010)
+Data: 14/07/2025
+Gerente: Marcelo Viana
+
+Orçamento inicial: R$ 4536304.00
+Custo real atual: R$ 4497637.19
+Desvio orçamentário: -0.85%
+Índice de Desempenho de Custo (CPI): 1.01
+Valor Agregado (EV): R$ 4536304.00
+Estimativa para conclusão: R$ 0.00
+Estimativa no término (EAC): R$ 4497637.19
+Variação no término (VAC): R$ 38666.81
+
+Detalhamento por categoria:
+- Pessoal: R$ 2330969.25 (51.8%)
+- Equipamentos: R$ 456078.79 (10.1%)
+- Software: R$ 599448.44 (13.3%)
+- Serviços: R$ 793945.69 (17.7%)
+- Outros: R$ 317195.02 (7.1%)

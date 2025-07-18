@@ -1,0 +1,27 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A segurança de ganhar mais rapidamente (PROJ-0495)
+Data: 14/07/2025
+Gerente: Heloisa Cavalcante
+
+Status atual: Atrasado
+Percentual de conclusão: 50.7%
+Data de início: 14/08/2024
+Data de término planejada: 06/10/2024
+Data de término real/prevista: 17/12/2024
+Atraso atual: 281 dias
+Motivo do atraso: Problemas técnicos inesperados
+Índice de Desempenho de Cronograma (SPI): 0.51
+Valor Planejado (PV): R$ 880307.00
+Valor Agregado (EV): R$ 445928.37
+
+Tarefas críticas:
+- Desenvolvimento do painel administrativo
+- Implementação do sistema de backup
+- Configuração do ambiente de produção
+- Configuração do ambiente de produção
+- Implementação do módulo de notificações
+- Desenvolvimento do painel administrativo
+
+Tarefas atrasadas:
+- Implementação do sistema de backup
+- Desenvolvimento do painel administrativo

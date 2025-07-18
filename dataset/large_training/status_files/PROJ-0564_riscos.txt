@@ -1,0 +1,23 @@
+RELATÓRIO DE STATUS DE RISCOS
+Projeto: O conforto de mudar em estado puro (PROJ-0564)
+Data: 14/07/2025
+Gerente: Luiz Henrique Cunha
+
+Riscos identificados:
+- R01: Mudanças regulatórias
+  Probabilidade: 3/5, Impacto: 3/5, Nível: Médio
+  Mitigação: Contratar pessoal adicional
+
+- R02: Resistência dos usuários à mudança
+  Probabilidade: 2/5, Impacto: 3/5, Nível: Baixo
+  Mitigação: Comunicar benefícios da mudança
+
+- R03: Problemas de desempenho
+  Probabilidade: 4/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Buscar fornecedores alternativos
+
+- R04: Mudanças regulatórias
+  Probabilidade: 4/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Implementar redundância de infraestrutura
+
+Riscos ocorridos:

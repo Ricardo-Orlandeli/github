@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A certeza de evoluir com confiança (PROJ-0528)
+Data: 14/07/2025
+Gerente: Gael Henrique Garcia
+
+Orçamento inicial: R$ 3585504.00
+Custo real atual: R$ 2737821.10
+Desvio orçamentário: 28.60%
+Índice de Desempenho de Custo (CPI): 0.93
+Valor Agregado (EV): R$ 2546599.67
+Estimativa para conclusão: R$ 1116914.54
+Estimativa no término (EAC): R$ 3854735.64
+Variação no término (VAC): R$ -269231.64
+
+Detalhamento por categoria:
+- Pessoal: R$ 1527441.33 (55.8%)
+- Equipamentos: R$ 362013.47 (13.2%)
+- Software: R$ 167493.90 (6.1%)
+- Serviços: R$ 449269.60 (16.4%)
+- Outros: R$ 231602.80 (8.5%)

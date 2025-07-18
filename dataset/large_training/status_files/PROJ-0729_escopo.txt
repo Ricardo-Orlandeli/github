@@ -1,0 +1,27 @@
+RELATÓRIO DE STATUS DE ESCOPO
+Projeto: A certeza de inovar mais facilmente (PROJ-0729)
+Data: 14/07/2025
+Gerente: Matheus Macedo
+
+Escopo original: Sistema para a certeza de inovar mais facilmente
+Houve mudança de escopo: Sim
+Descrição das mudanças: Mudança na plataforma de implementação
+Impacto no cronograma: 51 dias
+Impacto no custo: R$ 240398.34
+
+Solicitações de mudança:
+- SCM-01: Alteração nos requisitos de desempenho
+- SCM-02: Adição de funcionalidade de autenticação biométrica
+- SCM-03: Mudança no banco de dados
+- SCM-04: Mudança na arquitetura do sistema
+- SCM-05: Alteração na interface do usuário
+
+Requisitos atuais:
+- REQ-01: O sistema deve ser escalável para suportar até 10.000 usuários simultâneos
+- REQ-02: O sistema deve registrar logs de auditoria
+- REQ-03: O sistema deve ter documentação completa
+- REQ-04: O sistema deve permitir autenticação de usuários
+- REQ-05: O sistema deve ter backup automático diário
+- REQ-06: O sistema deve permitir integração com APIs externas
+- REQ-07: O sistema deve ter controle de acesso baseado em perfis
+- REQ-08: O sistema deve permitir exportação de dados em formato CSV

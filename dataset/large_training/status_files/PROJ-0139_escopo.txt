@@ -1,0 +1,24 @@
+RELATÓRIO DE STATUS DE ESCOPO
+Projeto: A liberdade de avançar mais facilmente (PROJ-0139)
+Data: 14/07/2025
+Gerente: Clarice da Paz
+
+Escopo original: Sistema para a liberdade de avançar mais facilmente
+Houve mudança de escopo: Sim
+Descrição das mudanças: Redução do escopo devido a restrições orçamentárias
+Impacto no cronograma: 47 dias
+Impacto no custo: R$ 239035.15
+
+Solicitações de mudança:
+- SCM-01: Adição de relatórios gerenciais
+
+Requisitos atuais:
+- REQ-01: O sistema deve registrar logs de auditoria
+- REQ-02: O sistema deve ser compatível com navegadores modernos
+- REQ-03: O sistema deve ter backup automático diário
+- REQ-04: O sistema deve ser compatível com navegadores modernos
+- REQ-05: O sistema deve ter controle de acesso baseado em perfis
+- REQ-06: O sistema deve permitir autenticação de usuários
+- REQ-07: O sistema deve registrar logs de auditoria
+- REQ-08: O sistema deve permitir autenticação de usuários
+- REQ-09: O sistema deve permitir exportação de dados em formato CSV

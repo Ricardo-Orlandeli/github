@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A arte de avançar simplesmente (PROJ-0778)
+Data: 14/07/2025
+Gerente: Luana Gomes
+
+Orçamento inicial: R$ 321920.00
+Custo real atual: R$ 293648.28
+Desvio orçamentário: -8.78%
+Índice de Desempenho de Custo (CPI): 1.10
+Valor Agregado (EV): R$ 321598.08
+Estimativa para conclusão: R$ 293.94
+Estimativa no término (EAC): R$ 293942.23
+Variação no término (VAC): R$ 27977.77
+
+Detalhamento por categoria:
+- Pessoal: R$ 170234.98 (58.0%)
+- Equipamentos: R$ 54723.27 (18.6%)
+- Software: R$ 16286.71 (5.5%)
+- Serviços: R$ 33744.21 (11.5%)
+- Outros: R$ 18659.10 (6.4%)

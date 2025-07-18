@@ -1,0 +1,23 @@
+RELATÓRIO DE STATUS DE RISCOS
+Projeto: A arte de ganhar mais facilmente (PROJ-0081)
+Data: 14/07/2025
+Gerente: Cecília Campos
+
+Riscos identificados:
+- R01: Dependências externas não cumpridas
+  Probabilidade: 3/5, Impacto: 4/5, Nível: Médio
+  Mitigação: Realizar testes de integração antecipados
+
+- R02: Falhas de segurança
+  Probabilidade: 3/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Realizar testes de aceitação com usuários-chave
+
+- R03: Problemas de compatibilidade
+  Probabilidade: 4/5, Impacto: 2/5, Nível: Médio
+  Mitigação: Estabelecer canais de comunicação claros
+
+Riscos ocorridos:
+- R01 (ocorrido em 28/04/2025)
+  Impacto real: Insatisfação dos stakeholders
+  Ações tomadas: Implementação de soluções alternativas
+

@@ -1,0 +1,27 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A possibilidade de concretizar seus projetos sem preocupação (PROJ-0823)
+Data: 14/07/2025
+Gerente: Maria Laura Ferreira
+
+Status atual: Em andamento
+Percentual de conclusão: 25.7%
+Data de início: 20/06/2025
+Data de término planejada: 03/10/2025
+Data de término real/prevista: 23/10/2025
+Atraso atual: 0 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.07
+Valor Planejado (PV): R$ 293118.40
+Valor Agregado (EV): R$ 329682.36
+
+Tarefas críticas:
+- Implementação do módulo de relatórios
+- Desenvolvimento da interface do usuário
+- Testes de aceitação do usuário
+- Migração de dados legados
+- Implementação do módulo de análise de dados
+- Migração de dados legados
+- Integração com sistema de pagamentos
+- Implementação da API REST
+
+Tarefas atrasadas:

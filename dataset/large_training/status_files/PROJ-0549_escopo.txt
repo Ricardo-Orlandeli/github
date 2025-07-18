@@ -1,0 +1,30 @@
+RELATÓRIO DE STATUS DE ESCOPO
+Projeto: A certeza de realizar seus sonhos em estado puro (PROJ-0549)
+Data: 14/07/2025
+Gerente: Gael Henrique Rodrigues
+
+Escopo original: Sistema para a certeza de realizar seus sonhos em estado puro
+Houve mudança de escopo: Sim
+Descrição das mudanças: Mudança na plataforma de implementação
+Impacto no cronograma: 14 dias
+Impacto no custo: R$ 463523.15
+
+Solicitações de mudança:
+- SCM-01: Mudança na arquitetura do sistema
+- SCM-02: Alteração nos requisitos de desempenho
+- SCM-03: Adição de relatórios gerenciais
+- SCM-04: Adição de funcionalidade de autenticação biométrica
+- SCM-05: Adição de funcionalidade de autenticação biométrica
+
+Requisitos atuais:
+- REQ-01: O sistema deve registrar logs de auditoria
+- REQ-02: O sistema deve permitir integração com APIs externas
+- REQ-03: O sistema deve implementar criptografia de dados sensíveis
+- REQ-04: O sistema deve permitir integração com APIs externas
+- REQ-05: O sistema deve registrar logs de auditoria
+- REQ-06: O sistema deve permitir autenticação de usuários
+- REQ-07: O sistema deve processar transações em menos de 2 seconds
+- REQ-08: O sistema deve passar por testes de segurança
+- REQ-09: O sistema deve ter documentação completa
+- REQ-10: O sistema deve permitir integração com APIs externas
+- REQ-11: O sistema deve implementar criptografia de dados sensíveis

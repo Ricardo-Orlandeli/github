@@ -1,0 +1,25 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A certeza de evoluir com confiança (PROJ-0094)
+Data: 14/07/2025
+Gerente: Alexandre Moreira
+
+Status atual: Concluído
+Percentual de conclusão: 100.0%
+Data de início: 05/03/2024
+Data de término planejada: 01/09/2024
+Data de término real/prevista: 22/08/2024
+Atraso atual: 316 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.02
+Valor Planejado (PV): R$ 739640.00
+Valor Agregado (EV): R$ 739640.00
+
+Tarefas críticas:
+- Integração com sistema de pagamentos
+- Implementação do módulo de relatórios
+- Testes de segurança
+- Desenvolvimento da interface do usuário
+- Migração de dados legados
+- Migração de dados legados
+
+Tarefas atrasadas:

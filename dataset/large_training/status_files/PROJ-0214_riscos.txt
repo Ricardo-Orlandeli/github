@@ -1,0 +1,35 @@
+RELATÓRIO DE STATUS DE RISCOS
+Projeto: A possibilidade de mudar mais facilmente (PROJ-0214)
+Data: 14/07/2025
+Gerente: Bianca Barros
+
+Riscos identificados:
+- R01: Atraso na entrega de componentes críticos
+  Probabilidade: 3/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Fortalecer medidas de segurança
+
+- R02: Problemas de desempenho
+  Probabilidade: 5/5, Impacto: 3/5, Nível: Médio
+  Mitigação: Contratar pessoal adicional
+
+- R03: Atraso na entrega de componentes críticos
+  Probabilidade: 4/5, Impacto: 2/5, Nível: Médio
+  Mitigação: Estabelecer canais de comunicação claros
+
+- R04: Estimativas imprecisas
+  Probabilidade: 3/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Gerenciar dependências ativamente
+
+- R05: Problemas de integração com sistemas legados
+  Probabilidade: 3/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Realizar testes de integração antecipados
+
+Riscos ocorridos:
+- R04 (ocorrido em 16/02/2025)
+  Impacto real: Atraso de 2 semanas no cronograma
+  Ações tomadas: Contratação de recursos adicionais
+
+- R03 (ocorrido em 15/01/2025)
+  Impacto real: Perda de dados
+  Ações tomadas: Realocação de recursos
+

@@ -1,0 +1,27 @@
+RELATÓRIO DE STATUS DE RISCOS
+Projeto: A segurança de evoluir com força total (PROJ-0068)
+Data: 14/07/2025
+Gerente: Aurora Correia
+
+Riscos identificados:
+- R01: Falhas em testes de aceitação
+  Probabilidade: 3/5, Impacto: 3/5, Nível: Médio
+  Mitigação: Monitorar mudanças regulatórias
+
+- R02: Resistência dos usuários à mudança
+  Probabilidade: 2/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Gerenciar dependências ativamente
+
+- R03: Rotatividade de pessoal-chave
+  Probabilidade: 3/5, Impacto: 5/5, Nível: Médio
+  Mitigação: Implementar plano de contingência
+
+- R04: Resistência dos usuários à mudança
+  Probabilidade: 1/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Fortalecer medidas de segurança
+
+- R05: Problemas de comunicação com stakeholders
+  Probabilidade: 1/5, Impacto: 5/5, Nível: Baixo
+  Mitigação: Melhorar a documentação de requisitos
+
+Riscos ocorridos:

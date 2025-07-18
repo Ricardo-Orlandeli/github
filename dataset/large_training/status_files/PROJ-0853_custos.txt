@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A arte de ganhar antes de tudo (PROJ-0853)
+Data: 14/07/2025
+Gerente: Luan Jesus
+
+Orçamento inicial: R$ 2321876.00
+Custo real atual: R$ 1693424.89
+Desvio orçamentário: -24.94%
+Índice de Desempenho de Custo (CPI): 0.93
+Valor Agregado (EV): R$ 1580893.98
+Estimativa para conclusão: R$ 793726.46
+Estimativa no término (EAC): R$ 2487151.35
+Variação no término (VAC): R$ -165275.35
+
+Detalhamento por categoria:
+- Pessoal: R$ 805221.31 (47.5%)
+- Equipamentos: R$ 282351.19 (16.7%)
+- Software: R$ 162323.11 (9.6%)
+- Serviços: R$ 302183.39 (17.8%)
+- Outros: R$ 141345.89 (8.3%)

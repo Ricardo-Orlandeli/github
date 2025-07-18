@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O direito de atingir seus objetivos com força total (PROJ-0277)
+Data: 14/07/2025
+Gerente: Maria Helena da Luz
+
+Orçamento inicial: R$ 4408866.00
+Custo real atual: R$ 4391161.20
+Desvio orçamentário: -0.40%
+Índice de Desempenho de Custo (CPI): 0.85
+Valor Agregado (EV): R$ 3741053.87
+Estimativa para conclusão: R$ 783862.20
+Estimativa no término (EAC): R$ 5175023.40
+Variação no término (VAC): R$ -766157.40
+
+Detalhamento por categoria:
+- Pessoal: R$ 2374702.87 (54.1%)
+- Equipamentos: R$ 703793.76 (16.0%)
+- Software: R$ 554176.83 (12.6%)
+- Serviços: R$ 479708.39 (10.9%)
+- Outros: R$ 278779.35 (6.3%)

@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A possibilidade de ganhar de maneira eficaz (PROJ-0726)
+Data: 14/07/2025
+Gerente: Vitor Hugo Abreu
+
+Orçamento inicial: R$ 4246310.00
+Custo real atual: R$ 4618227.18
+Desvio orçamentário: 8.76%
+Índice de Desempenho de Custo (CPI): 0.92
+Valor Agregado (EV): R$ 4246310.00
+Estimativa para conclusão: R$ 0.00
+Estimativa no término (EAC): R$ 4618227.18
+Variação no término (VAC): R$ -371917.18
+
+Detalhamento por categoria:
+- Pessoal: R$ 2565401.24 (55.5%)
+- Equipamentos: R$ 556548.47 (12.1%)
+- Software: R$ 408809.91 (8.9%)
+- Serviços: R$ 601487.07 (13.0%)
+- Outros: R$ 485980.50 (10.5%)

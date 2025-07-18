@@ -1,0 +1,30 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A vantagem de concretizar seus projetos antes de tudo (PROJ-0510)
+Data: 14/07/2025
+Gerente: Noah Barros
+
+Status atual: Atrasado
+Percentual de conclusão: 5.2%
+Data de início: 21/06/2025
+Data de término planejada: 21/05/2026
+Data de término real/prevista: 27/09/2026
+Atraso atual: 0 dias
+Motivo do atraso: Falhas em testes de aceitação
+Índice de Desempenho de Cronograma (SPI): 0.76
+Valor Planejado (PV): R$ 248766.49
+Valor Agregado (EV): R$ 188084.64
+
+Tarefas críticas:
+- Implementação do módulo de análise de dados
+- Desenvolvimento do módulo de autenticação
+- Configuração da infraestrutura
+- Implementação do módulo de análise de dados
+- Desenvolvimento da interface do usuário
+- Implementação do módulo de relatórios
+- Migração de dados legados
+- Configuração da infraestrutura
+
+Tarefas atrasadas:
+- Implementação do módulo de relatórios
+- Configuração da infraestrutura
+- Implementação do módulo de análise de dados

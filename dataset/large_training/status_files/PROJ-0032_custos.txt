@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O direito de ganhar mais facilmente (PROJ-0032)
+Data: 14/07/2025
+Gerente: Isabella Montenegro
+
+Orçamento inicial: R$ 747578.00
+Custo real atual: R$ 651028.74
+Desvio orçamentário: -12.91%
+Índice de Desempenho de Custo (CPI): 1.15
+Valor Agregado (EV): R$ 747578.00
+Estimativa para conclusão: R$ 0.00
+Estimativa no término (EAC): R$ 651028.74
+Variação no término (VAC): R$ 96549.26
+
+Detalhamento por categoria:
+- Pessoal: R$ 320957.63 (49.3%)
+- Equipamentos: R$ 87473.71 (13.4%)
+- Software: R$ 72255.96 (11.1%)
+- Serviços: R$ 101228.82 (15.5%)
+- Outros: R$ 69112.62 (10.6%)

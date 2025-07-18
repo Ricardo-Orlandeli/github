@@ -1,0 +1,22 @@
+RELATÓRIO DE STATUS DE ESCOPO
+Projeto: A liberdade de avançar sem preocupação (PROJ-0063)
+Data: 14/07/2025
+Gerente: Erick Mendonça
+
+Escopo original: Sistema para a liberdade de avançar sem preocupação
+Houve mudança de escopo: Sim
+Descrição das mudanças: Adição de novos requisitos de segurança
+Impacto no cronograma: 41 dias
+Impacto no custo: R$ 500938.40
+
+Solicitações de mudança:
+- SCM-01: Alteração nos requisitos de desempenho
+- SCM-02: Adição de funcionalidade de autenticação biométrica
+- SCM-03: Adição de relatórios gerenciais
+
+Requisitos atuais:
+- REQ-01: O sistema deve registrar logs de auditoria
+- REQ-02: O sistema deve ter controle de acesso baseado em perfis
+- REQ-03: O sistema deve permitir exportação de dados em formato CSV
+- REQ-04: O sistema deve passar por testes de segurança
+- REQ-05: O sistema deve permitir integração com APIs externas

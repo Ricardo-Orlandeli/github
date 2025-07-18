@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O poder de evoluir em estado puro (PROJ-0266)
+Data: 14/07/2025
+Gerente: Maria Luiza Câmara
+
+Orçamento inicial: R$ 3037481.00
+Custo real atual: R$ 2559478.30
+Desvio orçamentário: -15.74%
+Índice de Desempenho de Custo (CPI): 0.95
+Valor Agregado (EV): R$ 2428399.06
+Estimativa para conclusão: R$ 641958.74
+Estimativa no término (EAC): R$ 3201437.04
+Variação no término (VAC): R$ -163956.04
+
+Detalhamento por categoria:
+- Pessoal: R$ 1456922.04 (56.9%)
+- Equipamentos: R$ 353072.62 (13.8%)
+- Software: R$ 174165.32 (6.8%)
+- Serviços: R$ 380487.66 (14.9%)
+- Outros: R$ 194830.65 (7.6%)

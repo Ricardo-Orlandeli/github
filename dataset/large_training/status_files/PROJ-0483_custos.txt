@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A simplicidade de concretizar seus projetos simplesmente (PROJ-0483)
+Data: 14/07/2025
+Gerente: Eloah Vargas
+
+Orçamento inicial: R$ 4894693.00
+Custo real atual: R$ 1873647.38
+Desvio orçamentário: 1.36%
+Índice de Desempenho de Custo (CPI): 0.79
+Valor Agregado (EV): R$ 1481372.32
+Estimativa para conclusão: R$ 4317185.69
+Estimativa no término (EAC): R$ 6190833.07
+Variação no término (VAC): R$ -1296140.07
+
+Detalhamento por categoria:
+- Pessoal: R$ 931004.20 (49.7%)
+- Equipamentos: R$ 302780.54 (16.2%)
+- Software: R$ 125107.80 (6.7%)
+- Serviços: R$ 296895.47 (15.8%)
+- Outros: R$ 217859.38 (11.6%)

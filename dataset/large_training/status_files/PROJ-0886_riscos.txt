@@ -1,0 +1,47 @@
+RELATÓRIO DE STATUS DE RISCOS
+Projeto: A vantagem de concretizar seus projetos com confiança (PROJ-0886)
+Data: 14/07/2025
+Gerente: Dra. Maria Clara Pinto
+
+Riscos identificados:
+- R01: Falhas de infraestrutura
+  Probabilidade: 3/5, Impacto: 4/5, Nível: Médio
+  Mitigação: Fortalecer medidas de segurança
+
+- R02: Falhas em testes de aceitação
+  Probabilidade: 5/5, Impacto: 5/5, Nível: Alto
+  Mitigação: Implementar plano de contingência
+
+- R03: Falhas de infraestrutura
+  Probabilidade: 2/5, Impacto: 2/5, Nível: Baixo
+  Mitigação: Comunicar benefícios da mudança
+
+- R04: Problemas de integração com sistemas legados
+  Probabilidade: 4/5, Impacto: 3/5, Nível: Médio
+  Mitigação: Realizar testes de aceitação com usuários-chave
+
+- R05: Requisitos mal definidos
+  Probabilidade: 2/5, Impacto: 2/5, Nível: Baixo
+  Mitigação: Contratar pessoal adicional
+
+- R06: Indisponibilidade de recursos especializados
+  Probabilidade: 5/5, Impacto: 3/5, Nível: Médio
+  Mitigação: Refinar estimativas com base em dados históricos
+
+- R07: Problemas de integração com sistemas legados
+  Probabilidade: 5/5, Impacto: 4/5, Nível: Alto
+  Mitigação: Testar compatibilidade em diferentes ambientes
+
+- R08: Falhas de segurança
+  Probabilidade: 3/5, Impacto: 3/5, Nível: Médio
+  Mitigação: Estabelecer canais de comunicação claros
+
+Riscos ocorridos:
+- R04 (ocorrido em 09/02/2025)
+  Impacto real: Indisponibilidade temporária
+  Ações tomadas: Implementação de soluções alternativas
+
+- R08 (ocorrido em 02/12/2024)
+  Impacto real: Aumento de 10% nos custos
+  Ações tomadas: Revisão de prioridades
+

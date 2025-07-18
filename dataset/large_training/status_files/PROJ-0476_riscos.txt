@@ -1,0 +1,19 @@
+RELATÓRIO DE STATUS DE RISCOS
+Projeto: O prazer de concretizar seus projetos mais rapidamente (PROJ-0476)
+Data: 14/07/2025
+Gerente: Dr. Luan Nascimento
+
+Riscos identificados:
+- R01: Problemas de comunicação com stakeholders
+  Probabilidade: 2/5, Impacto: 2/5, Nível: Baixo
+  Mitigação: Melhorar a documentação de requisitos
+
+- R02: Problemas de desempenho
+  Probabilidade: 4/5, Impacto: 5/5, Nível: Alto
+  Mitigação: Contratar pessoal adicional
+
+- R03: Falhas de infraestrutura
+  Probabilidade: 4/5, Impacto: 4/5, Nível: Alto
+  Mitigação: Implementar plano de contingência
+
+Riscos ocorridos:

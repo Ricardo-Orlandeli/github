@@ -1,0 +1,35 @@
+RELATÓRIO DE STATUS DE RISCOS
+Projeto: A possibilidade de mudar mais rapidamente (PROJ-0661)
+Data: 14/07/2025
+Gerente: Dr. Benício Correia
+
+Riscos identificados:
+- R01: Falhas em testes de aceitação
+  Probabilidade: 4/5, Impacto: 5/5, Nível: Alto
+  Mitigação: Refinar estimativas com base em dados históricos
+
+- R02: Dependências externas não cumpridas
+  Probabilidade: 1/5, Impacto: 2/5, Nível: Baixo
+  Mitigação: Comunicar benefícios da mudança
+
+- R03: Falhas em testes de aceitação
+  Probabilidade: 5/5, Impacto: 5/5, Nível: Alto
+  Mitigação: Realizar testes de aceitação com usuários-chave
+
+- R04: Falhas em testes de aceitação
+  Probabilidade: 4/5, Impacto: 5/5, Nível: Alto
+  Mitigação: Implementar redundância de infraestrutura
+
+- R05: Indisponibilidade de recursos especializados
+  Probabilidade: 4/5, Impacto: 4/5, Nível: Alto
+  Mitigação: Refinar estimativas com base em dados históricos
+
+- R06: Problemas de desempenho
+  Probabilidade: 1/5, Impacto: 3/5, Nível: Baixo
+  Mitigação: Estabelecer canais de comunicação claros
+
+Riscos ocorridos:
+- R05 (ocorrido em 28/03/2024)
+  Impacto real: Insatisfação dos stakeholders
+  Ações tomadas: Implementação de soluções alternativas
+

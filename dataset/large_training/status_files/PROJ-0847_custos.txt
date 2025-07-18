@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O poder de realizar seus sonhos em estado puro (PROJ-0847)
+Data: 14/07/2025
+Gerente: Alexia Peixoto
+
+Orçamento inicial: R$ 4289649.00
+Custo real atual: R$ 1460576.96
+Desvio orçamentário: 21.21%
+Índice de Desempenho de Custo (CPI): 0.97
+Valor Agregado (EV): R$ 1422233.12
+Estimativa para conclusão: R$ 2944722.30
+Estimativa no término (EAC): R$ 4405299.27
+Variação no término (VAC): R$ -115650.27
+
+Detalhamento por categoria:
+- Pessoal: R$ 786825.30 (53.9%)
+- Equipamentos: R$ 177348.53 (12.1%)
+- Software: R$ 87007.36 (6.0%)
+- Serviços: R$ 280971.54 (19.2%)
+- Outros: R$ 128424.25 (8.8%)

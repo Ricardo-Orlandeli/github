@@ -1,0 +1,25 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A simplicidade de atingir seus objetivos com força total (PROJ-0762)
+Data: 14/07/2025
+Gerente: Léo Alves
+
+Status atual: Atrasado
+Percentual de conclusão: 77.8%
+Data de início: 26/07/2024
+Data de término planejada: 07/04/2025
+Data de término real/prevista: 17/05/2025
+Atraso atual: 98 dias
+Motivo do atraso: Dependências externas não cumpridas
+Índice de Desempenho de Cronograma (SPI): 0.78
+Valor Planejado (PV): R$ 2068682.00
+Valor Agregado (EV): R$ 1609210.12
+
+Tarefas críticas:
+- Testes de segurança
+- Testes de segurança
+- Testes de aceitação do usuário
+- Integração com sistema de pagamentos
+- Configuração do ambiente de produção
+
+Tarefas atrasadas:
+- Configuração do ambiente de produção

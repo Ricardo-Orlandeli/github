@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A segurança de realizar seus sonhos mais facilmente (PROJ-0213)
+Data: 14/07/2025
+Gerente: Heloísa Oliveira
+
+Orçamento inicial: R$ 2843867.00
+Custo real atual: R$ 3131490.88
+Desvio orçamentário: 10.11%
+Índice de Desempenho de Custo (CPI): 0.91
+Valor Agregado (EV): R$ 2841023.13
+Estimativa para conclusão: R$ 3134.63
+Estimativa no término (EAC): R$ 3134625.51
+Variação no término (VAC): R$ -290758.51
+
+Detalhamento por categoria:
+- Pessoal: R$ 1630143.09 (52.1%)
+- Equipamentos: R$ 364097.53 (11.6%)
+- Software: R$ 380535.84 (12.2%)
+- Serviços: R$ 567845.84 (18.1%)
+- Outros: R$ 188868.58 (6.0%)

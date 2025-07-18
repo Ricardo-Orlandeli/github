@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O poder de atingir seus objetivos naturalmente (PROJ-0048)
+Data: 14/07/2025
+Gerente: Henry Gabriel Mendonça
+
+Orçamento inicial: R$ 4311900.00
+Custo real atual: R$ 3863435.14
+Desvio orçamentário: -10.40%
+Índice de Desempenho de Custo (CPI): 1.12
+Valor Agregado (EV): R$ 4311900.00
+Estimativa para conclusão: R$ 0.00
+Estimativa no término (EAC): R$ 3863435.14
+Variação no término (VAC): R$ 448464.86
+
+Detalhamento por categoria:
+- Pessoal: R$ 1876206.89 (48.6%)
+- Equipamentos: R$ 708372.66 (18.3%)
+- Software: R$ 398886.63 (10.3%)
+- Serviços: R$ 542878.75 (14.1%)
+- Outros: R$ 337090.22 (8.7%)

@@ -1,0 +1,24 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A segurança de realizar seus sonhos em estado puro (PROJ-0608)
+Data: 14/07/2025
+Gerente: Valentim Fernandes
+
+Status atual: Concluído
+Percentual de conclusão: 100.0%
+Data de início: 09/02/2025
+Data de término planejada: 09/07/2025
+Data de término real/prevista: 02/07/2025
+Atraso atual: 5 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.04
+Valor Planejado (PV): R$ 3964311.00
+Valor Agregado (EV): R$ 3964311.00
+
+Tarefas críticas:
+- Implementação do módulo de relatórios
+- Migração de dados legados
+- Desenvolvimento do painel administrativo
+- Implementação do sistema de backup
+- Integração com sistema de pagamentos
+
+Tarefas atrasadas:

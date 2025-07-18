@@ -1,0 +1,23 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A simplicidade de concretizar seus projetos antes de tudo (PROJ-0055)
+Data: 14/07/2025
+Gerente: Giovanna Pimenta
+
+Status atual: Em andamento
+Percentual de conclusão: 18.8%
+Data de início: 26/05/2025
+Data de término planejada: 23/03/2026
+Data de término real/prevista: 26/03/2026
+Atraso atual: 0 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.10
+Valor Planejado (PV): R$ 261745.95
+Valor Agregado (EV): R$ 302438.79
+
+Tarefas críticas:
+- Testes de aceitação do usuário
+- Configuração do ambiente de produção
+- Implementação do sistema de backup
+- Implementação do módulo de relatórios
+
+Tarefas atrasadas:

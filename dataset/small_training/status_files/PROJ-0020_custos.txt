@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A vantagem de mudar simplesmente (PROJ-0020)
+Data: 14/07/2025
+Gerente: Arthur Miguel da Rosa
+
+Orçamento inicial: R$ 2057738.00
+Custo real atual: R$ 1609330.57
+Desvio orçamentário: -21.79%
+Índice de Desempenho de Custo (CPI): 0.89
+Valor Agregado (EV): R$ 1436208.71
+Estimativa para conclusão: R$ 696448.98
+Estimativa no término (EAC): R$ 2305779.54
+Variação no término (VAC): R$ -248041.54
+
+Detalhamento por categoria:
+- Pessoal: R$ 900575.64 (56.0%)
+- Equipamentos: R$ 182808.42 (11.4%)
+- Software: R$ 237037.99 (14.7%)
+- Serviços: R$ 172747.24 (10.7%)
+- Outros: R$ 116161.26 (7.2%)

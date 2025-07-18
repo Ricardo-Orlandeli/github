@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A simplicidade de avançar de maneira eficaz (PROJ-0268)
+Data: 14/07/2025
+Gerente: Davi Luiz Cirino
+
+Orçamento inicial: R$ 3576331.00
+Custo real atual: R$ 653856.24
+Desvio orçamentário: -18.21%
+Índice de Desempenho de Custo (CPI): 1.12
+Valor Agregado (EV): R$ 730868.38
+Estimativa para conclusão: R$ 2545634.13
+Estimativa no término (EAC): R$ 3199490.37
+Variação no término (VAC): R$ 376840.63
+
+Detalhamento por categoria:
+- Pessoal: R$ 372935.75 (57.0%)
+- Equipamentos: R$ 69776.85 (10.7%)
+- Software: R$ 56578.84 (8.7%)
+- Serviços: R$ 105081.83 (16.1%)
+- Outros: R$ 49482.98 (7.6%)

@@ -1,0 +1,22 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: O direito de ganhar simplesmente (PROJ-0833)
+Data: 14/07/2025
+Gerente: Igor Sales
+
+Status atual: Em andamento
+Percentual de conclusão: 99.9%
+Data de início: 31/07/2023
+Data de término planejada: 01/03/2024
+Data de término real/prevista: 01/03/2024
+Atraso atual: 500 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.08
+Valor Planejado (PV): R$ 2631513.00
+Valor Agregado (EV): R$ 2628881.49
+
+Tarefas críticas:
+- Integração com sistema de pagamentos
+- Desenvolvimento da interface do usuário
+- Implementação do módulo de exportação de dados
+
+Tarefas atrasadas:

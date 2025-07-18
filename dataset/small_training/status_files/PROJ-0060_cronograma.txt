@@ -1,0 +1,26 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: O conforto de avançar antes de tudo (PROJ-0060)
+Data: 14/07/2025
+Gerente: Liz Santos
+
+Status atual: Em andamento
+Percentual de conclusão: 99.9%
+Data de início: 13/11/2023
+Data de término planejada: 20/12/2023
+Data de término real/prevista: 09/12/2023
+Atraso atual: 572 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.11
+Valor Planejado (PV): R$ 1661886.00
+Valor Agregado (EV): R$ 1660224.11
+
+Tarefas críticas:
+- Testes de aceitação do usuário
+- Desenvolvimento do painel administrativo
+- Desenvolvimento da interface do usuário
+- Implementação do sistema de backup
+- Implementação do módulo de relatórios
+- Configuração do ambiente de produção
+- Implementação do sistema de backup
+
+Tarefas atrasadas:

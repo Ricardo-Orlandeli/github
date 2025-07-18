@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A possibilidade de ganhar direto da fonte (PROJ-0622)
+Data: 14/07/2025
+Gerente: Aurora da Paz
+
+Orçamento inicial: R$ 2753471.00
+Custo real atual: R$ 2721954.64
+Desvio orçamentário: -1.14%
+Índice de Desempenho de Custo (CPI): 1.01
+Valor Agregado (EV): R$ 2753471.00
+Estimativa para conclusão: R$ 0.00
+Estimativa no término (EAC): R$ 2721954.64
+Variação no término (VAC): R$ 31516.36
+
+Detalhamento por categoria:
+- Pessoal: R$ 1380691.45 (50.7%)
+- Equipamentos: R$ 422077.77 (15.5%)
+- Software: R$ 336408.69 (12.4%)
+- Serviços: R$ 335426.65 (12.3%)
+- Outros: R$ 247350.08 (9.1%)

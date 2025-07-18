@@ -1,0 +1,43 @@
+RELATÓRIO DE STATUS DE RISCOS
+Projeto: A vantagem de avançar com força total (PROJ-0508)
+Data: 14/07/2025
+Gerente: Amanda Abreu
+
+Riscos identificados:
+- R01: Atraso na entrega de componentes críticos
+  Probabilidade: 1/5, Impacto: 2/5, Nível: Baixo
+  Mitigação: Melhorar a documentação de requisitos
+
+- R02: Falhas em testes de aceitação
+  Probabilidade: 4/5, Impacto: 4/5, Nível: Alto
+  Mitigação: Contratar pessoal adicional
+
+- R03: Dependências externas não cumpridas
+  Probabilidade: 2/5, Impacto: 2/5, Nível: Baixo
+  Mitigação: Realizar testes de aceitação com usuários-chave
+
+- R04: Resistência dos usuários à mudança
+  Probabilidade: 5/5, Impacto: 4/5, Nível: Alto
+  Mitigação: Testar compatibilidade em diferentes ambientes
+
+- R05: Problemas de integração com sistemas legados
+  Probabilidade: 3/5, Impacto: 2/5, Nível: Baixo
+  Mitigação: Comunicar benefícios da mudança
+
+- R06: Dependências externas não cumpridas
+  Probabilidade: 2/5, Impacto: 4/5, Nível: Médio
+  Mitigação: Gerenciar dependências ativamente
+
+Riscos ocorridos:
+- R06 (ocorrido em 18/08/2024)
+  Impacto real: Indisponibilidade temporária
+  Ações tomadas: Revisão de prioridades
+
+- R04 (ocorrido em 20/06/2025)
+  Impacto real: Retrabalho significativo
+  Ações tomadas: Revisão do orçamento
+
+- R02 (ocorrido em 27/10/2023)
+  Impacto real: Perda de recursos-chave
+  Ações tomadas: Revisão de prioridades
+

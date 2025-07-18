@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O direito de conseguir de maneira eficaz (PROJ-0083)
+Data: 14/07/2025
+Gerente: Yago Nogueira
+
+Orçamento inicial: R$ 3262388.00
+Custo real atual: R$ 3361115.31
+Desvio orçamentário: 3.03%
+Índice de Desempenho de Custo (CPI): 0.97
+Valor Agregado (EV): R$ 3262388.00
+Estimativa para conclusão: R$ 0.00
+Estimativa no término (EAC): R$ 3361115.31
+Variação no término (VAC): R$ -98727.31
+
+Detalhamento por categoria:
+- Pessoal: R$ 1594131.15 (47.4%)
+- Equipamentos: R$ 601800.91 (17.9%)
+- Software: R$ 378605.32 (11.3%)
+- Serviços: R$ 494464.19 (14.7%)
+- Outros: R$ 292113.75 (8.7%)

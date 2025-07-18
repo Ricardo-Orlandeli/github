@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A simplicidade de concretizar seus projetos simplesmente (PROJ-0952)
+Data: 14/07/2025
+Gerente: Agatha da Luz
+
+Orçamento inicial: R$ 3995324.00
+Custo real atual: R$ 3927620.59
+Desvio orçamentário: -1.69%
+Índice de Desempenho de Custo (CPI): 0.71
+Valor Agregado (EV): R$ 2804702.67
+Estimativa para conclusão: R$ 1667310.01
+Estimativa no término (EAC): R$ 5594930.60
+Variação no término (VAC): R$ -1599606.60
+
+Detalhamento por categoria:
+- Pessoal: R$ 1792524.56 (45.6%)
+- Equipamentos: R$ 565432.28 (14.4%)
+- Software: R$ 639232.80 (16.3%)
+- Serviços: R$ 646218.08 (16.5%)
+- Outros: R$ 284212.86 (7.2%)

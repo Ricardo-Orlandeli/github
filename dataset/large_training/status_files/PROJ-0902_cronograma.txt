@@ -1,0 +1,29 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: O conforto de evoluir mais rapidamente (PROJ-0902)
+Data: 14/07/2025
+Gerente: Isaque Monteiro
+
+Status atual: Atrasado
+Percentual de conclusão: 51.2%
+Data de início: 14/03/2025
+Data de término planejada: 28/09/2025
+Data de término real/prevista: 24/10/2025
+Atraso atual: 0 dias
+Motivo do atraso: Problemas de integração com sistemas legados
+Índice de Desempenho de Cronograma (SPI): 0.83
+Valor Planejado (PV): R$ 2284815.38
+Valor Agregado (EV): R$ 1898145.72
+
+Tarefas críticas:
+- Implementação do módulo de relatórios
+- Desenvolvimento do painel administrativo
+- Desenvolvimento do painel administrativo
+- Implementação do módulo de exportação de dados
+- Desenvolvimento da interface do usuário
+- Configuração da infraestrutura
+- Desenvolvimento do painel administrativo
+
+Tarefas atrasadas:
+- Desenvolvimento do painel administrativo
+- Implementação do módulo de relatórios
+- Desenvolvimento do painel administrativo

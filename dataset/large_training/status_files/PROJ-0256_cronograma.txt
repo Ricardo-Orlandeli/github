@@ -1,0 +1,23 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A segurança de conseguir direto da fonte (PROJ-0256)
+Data: 14/07/2025
+Gerente: Srta. Eloah Aragão
+
+Status atual: Concluído
+Percentual de conclusão: 100.0%
+Data de início: 05/11/2023
+Data de término planejada: 08/06/2024
+Data de término real/prevista: 27/06/2024
+Atraso atual: 401 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.08
+Valor Planejado (PV): R$ 2589540.00
+Valor Agregado (EV): R$ 2589540.00
+
+Tarefas críticas:
+- Implementação do sistema de backup
+- Configuração da infraestrutura
+- Implementação do sistema de backup
+- Implementação do módulo de notificações
+
+Tarefas atrasadas:

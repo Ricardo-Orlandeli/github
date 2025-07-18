@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A liberdade de realizar seus sonhos com toda a tranquilidade (PROJ-0674)
+Data: 14/07/2025
+Gerente: Luara Lima
+
+Orçamento inicial: R$ 1217859.00
+Custo real atual: R$ 1111758.83
+Desvio orçamentário: -8.71%
+Índice de Desempenho de Custo (CPI): 0.95
+Valor Agregado (EV): R$ 1059012.79
+Estimativa para conclusão: R$ 166757.84
+Estimativa no término (EAC): R$ 1278516.67
+Variação no término (VAC): R$ -60657.67
+
+Detalhamento por categoria:
+- Pessoal: R$ 505305.67 (45.5%)
+- Equipamentos: R$ 139097.97 (12.5%)
+- Software: R$ 158029.96 (14.2%)
+- Serviços: R$ 203060.13 (18.3%)
+- Outros: R$ 106265.10 (9.6%)

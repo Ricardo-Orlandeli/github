@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A simplicidade de atingir seus objetivos sem preocupação (PROJ-0526)
+Data: 14/07/2025
+Gerente: Ana Luiza da Mota
+
+Orçamento inicial: R$ 4206213.00
+Custo real atual: R$ 4081972.06
+Desvio orçamentário: -2.95%
+Índice de Desempenho de Custo (CPI): 0.80
+Valor Agregado (EV): R$ 3259033.83
+Estimativa para conclusão: R$ 1186351.26
+Estimativa no término (EAC): R$ 5268323.32
+Variação no término (VAC): R$ -1062110.32
+
+Detalhamento por categoria:
+- Pessoal: R$ 2044862.39 (50.1%)
+- Equipamentos: R$ 581470.56 (14.2%)
+- Software: R$ 462771.89 (11.3%)
+- Serviços: R$ 691036.92 (16.9%)
+- Outros: R$ 301830.30 (7.4%)

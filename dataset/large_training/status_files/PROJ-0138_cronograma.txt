@@ -1,0 +1,25 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A arte de atingir seus objetivos direto da fonte (PROJ-0138)
+Data: 14/07/2025
+Gerente: Maria Júlia Sampaio
+
+Status atual: Em andamento
+Percentual de conclusão: 83.5%
+Data de início: 13/07/2024
+Data de término planejada: 03/04/2025
+Data de término real/prevista: 19/03/2025
+Atraso atual: 102 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 0.97
+Valor Planejado (PV): R$ 2355495.00
+Valor Agregado (EV): R$ 1966707.47
+
+Tarefas críticas:
+- Testes de segurança
+- Desenvolvimento do módulo de autenticação
+- Configuração da infraestrutura
+- Desenvolvimento do módulo de autenticação
+- Configuração da infraestrutura
+- Implementação do módulo de notificações
+
+Tarefas atrasadas:

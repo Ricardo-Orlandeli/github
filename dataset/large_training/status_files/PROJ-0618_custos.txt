@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O prazer de atingir seus objetivos antes de tudo (PROJ-0618)
+Data: 14/07/2025
+Gerente: Lorena Porto
+
+Orçamento inicial: R$ 4188654.00
+Custo real atual: R$ 4825849.47
+Desvio orçamentário: 562.01%
+Índice de Desempenho de Custo (CPI): 0.87
+Valor Agregado (EV): R$ 4188654.00
+Estimativa para conclusão: R$ 0.00
+Estimativa no término (EAC): R$ 4825849.47
+Variação no término (VAC): R$ -637195.47
+
+Detalhamento por categoria:
+- Pessoal: R$ 2540393.69 (52.6%)
+- Equipamentos: R$ 718546.43 (14.9%)
+- Software: R$ 418708.02 (8.7%)
+- Serviços: R$ 867493.94 (18.0%)
+- Outros: R$ 280707.39 (5.8%)

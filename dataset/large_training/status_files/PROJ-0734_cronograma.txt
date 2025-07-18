@@ -1,0 +1,27 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A segurança de ganhar simplesmente (PROJ-0734)
+Data: 14/07/2025
+Gerente: Sara Albuquerque
+
+Status atual: Em andamento
+Percentual de conclusão: 83.5%
+Data de início: 26/06/2024
+Data de término planejada: 25/10/2024
+Data de término real/prevista: 12/11/2024
+Atraso atual: 262 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 0.96
+Valor Planejado (PV): R$ 4983634.00
+Valor Agregado (EV): R$ 4160834.26
+
+Tarefas críticas:
+- Implementação do módulo de análise de dados
+- Implementação do módulo de relatórios
+- Desenvolvimento do módulo de autenticação
+- Implementação do módulo de exportação de dados
+- Desenvolvimento do painel administrativo
+- Implementação do módulo de exportação de dados
+- Configuração do ambiente de produção
+- Testes de aceitação do usuário
+
+Tarefas atrasadas:

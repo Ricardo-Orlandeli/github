@@ -1,0 +1,27 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A liberdade de mudar em estado puro (PROJ-0038)
+Data: 14/07/2025
+Gerente: João Pedro Silva
+
+Status atual: Em andamento
+Percentual de conclusão: 99.9%
+Data de início: 24/02/2024
+Data de término planejada: 05/10/2024
+Data de término real/prevista: 26/10/2024
+Atraso atual: 282 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.11
+Valor Planejado (PV): R$ 1483487.00
+Valor Agregado (EV): R$ 1482003.51
+
+Tarefas críticas:
+- Configuração da infraestrutura
+- Implementação do módulo de exportação de dados
+- Configuração do ambiente de produção
+- Implementação do módulo de notificações
+- Implementação do módulo de exportação de dados
+- Implementação da API REST
+- Configuração da infraestrutura
+- Implementação do sistema de backup
+
+Tarefas atrasadas:

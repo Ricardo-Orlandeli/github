@@ -1,0 +1,22 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A certeza de evoluir antes de tudo (PROJ-0168)
+Data: 14/07/2025
+Gerente: Sra. Maria Laura da Paz
+
+Status atual: Em andamento
+Percentual de conclusão: 99.9%
+Data de início: 20/11/2023
+Data de término planejada: 11/03/2024
+Data de término real/prevista: 29/03/2024
+Atraso atual: 490 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.02
+Valor Planejado (PV): R$ 1566129.00
+Valor Agregado (EV): R$ 1564562.87
+
+Tarefas críticas:
+- Implementação da API REST
+- Testes de aceitação do usuário
+- Implementação do módulo de exportação de dados
+
+Tarefas atrasadas:

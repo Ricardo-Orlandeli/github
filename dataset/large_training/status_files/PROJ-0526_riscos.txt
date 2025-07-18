@@ -1,0 +1,43 @@
+RELATÓRIO DE STATUS DE RISCOS
+Projeto: A simplicidade de atingir seus objetivos sem preocupação (PROJ-0526)
+Data: 14/07/2025
+Gerente: Ana Luiza da Mota
+
+Riscos identificados:
+- R01: Indisponibilidade de recursos especializados
+  Probabilidade: 3/5, Impacto: 2/5, Nível: Baixo
+  Mitigação: Comunicar benefícios da mudança
+
+- R02: Problemas de compatibilidade
+  Probabilidade: 2/5, Impacto: 5/5, Nível: Médio
+  Mitigação: Buscar fornecedores alternativos
+
+- R03: Resistência dos usuários à mudança
+  Probabilidade: 2/5, Impacto: 3/5, Nível: Baixo
+  Mitigação: Implementar plano de contingência
+
+- R04: Problemas de comunicação com stakeholders
+  Probabilidade: 1/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Melhorar a documentação de requisitos
+
+- R05: Problemas de integração com sistemas legados
+  Probabilidade: 5/5, Impacto: 4/5, Nível: Alto
+  Mitigação: Contratar pessoal adicional
+
+- R06: Estimativas imprecisas
+  Probabilidade: 5/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Refinar estimativas com base em dados históricos
+
+Riscos ocorridos:
+- R05 (ocorrido em 15/10/2024)
+  Impacto real: Insatisfação dos stakeholders
+  Ações tomadas: Contratação de recursos adicionais
+
+- R01 (ocorrido em 28/12/2024)
+  Impacto real: Problemas de qualidade
+  Ações tomadas: Revisão do orçamento
+
+- R04 (ocorrido em 03/02/2025)
+  Impacto real: Indisponibilidade temporária
+  Ações tomadas: Revisão do orçamento
+

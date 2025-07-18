@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A possibilidade de evoluir mais rapidamente (PROJ-0271)
+Data: 14/07/2025
+Gerente: Srta. Hellena Vieira
+
+Orçamento inicial: R$ 4840471.00
+Custo real atual: R$ 4016302.98
+Desvio orçamentário: -17.03%
+Índice de Desempenho de Custo (CPI): 0.99
+Valor Agregado (EV): R$ 3975059.50
+Estimativa para conclusão: R$ 874390.64
+Estimativa no término (EAC): R$ 4890693.62
+Variação no término (VAC): R$ -50222.62
+
+Detalhamento por categoria:
+- Pessoal: R$ 2043362.66 (50.9%)
+- Equipamentos: R$ 701078.81 (17.5%)
+- Software: R$ 436741.52 (10.9%)
+- Serviços: R$ 620050.36 (15.4%)
+- Outros: R$ 215069.63 (5.4%)

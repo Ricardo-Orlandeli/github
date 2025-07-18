@@ -1,0 +1,21 @@
+RELATÓRIO DE STATUS DE ESCOPO
+Projeto: A possibilidade de realizar seus sonhos com confiança (PROJ-0721)
+Data: 14/07/2025
+Gerente: Hadassa Melo
+
+Escopo original: Sistema para a possibilidade de realizar seus sonhos com confiança
+Houve mudança de escopo: Não
+Descrição das mudanças: N/A
+Impacto no cronograma: 0 dias
+Impacto no custo: R$ 0.00
+
+Solicitações de mudança:
+
+Requisitos atuais:
+- REQ-01: O sistema deve ser compatível com navegadores modernos
+- REQ-02: O sistema deve ser compatível com navegadores modernos
+- REQ-03: O sistema deve ser escalável para suportar até 10.000 usuários simultâneos
+- REQ-04: O sistema deve ter backup automático diário
+- REQ-05: O sistema deve ter documentação completa
+- REQ-06: O sistema deve implementar criptografia de dados sensíveis
+- REQ-07: O sistema deve ter backup automático diário

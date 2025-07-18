@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O poder de conseguir naturalmente (PROJ-0466)
+Data: 14/07/2025
+Gerente: Caroline Jesus
+
+Orçamento inicial: R$ 4381398.00
+Custo real atual: R$ 4588602.80
+Desvio orçamentário: 4.73%
+Índice de Desempenho de Custo (CPI): 0.95
+Valor Agregado (EV): R$ 4381398.00
+Estimativa para conclusão: R$ 0.00
+Estimativa no término (EAC): R$ 4588602.80
+Variação no término (VAC): R$ -207204.80
+
+Detalhamento por categoria:
+- Pessoal: R$ 2723034.52 (59.3%)
+- Equipamentos: R$ 502563.21 (11.0%)
+- Software: R$ 319801.40 (7.0%)
+- Serviços: R$ 661499.46 (14.4%)
+- Outros: R$ 381704.22 (8.3%)

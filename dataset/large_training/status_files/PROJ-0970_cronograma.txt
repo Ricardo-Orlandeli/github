@@ -1,0 +1,23 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A possibilidade de avançar mais facilmente (PROJ-0970)
+Data: 14/07/2025
+Gerente: Sr. Luiz Miguel Vieira
+
+Status atual: Em andamento
+Percentual de conclusão: 79.3%
+Data de início: 22/01/2025
+Data de término planejada: 19/09/2025
+Data de término real/prevista: 07/10/2025
+Atraso atual: 0 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.01
+Valor Planejado (PV): R$ 1795555.47
+Valor Agregado (EV): R$ 1975965.64
+
+Tarefas críticas:
+- Implementação do módulo de análise de dados
+- Configuração da infraestrutura
+- Implementação do módulo de análise de dados
+- Implementação do sistema de backup
+
+Tarefas atrasadas:

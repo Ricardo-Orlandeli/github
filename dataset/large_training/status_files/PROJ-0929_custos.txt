@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O poder de atingir seus objetivos antes de tudo (PROJ-0929)
+Data: 14/07/2025
+Gerente: Emanuelly Caldeira
+
+Orçamento inicial: R$ 1530598.00
+Custo real atual: R$ 1444306.36
+Desvio orçamentário: -5.64%
+Índice de Desempenho de Custo (CPI): 0.94
+Valor Agregado (EV): R$ 1352914.74
+Estimativa para conclusão: R$ 189686.05
+Estimativa no término (EAC): R$ 1633992.41
+Variação no término (VAC): R$ -103394.41
+
+Detalhamento por categoria:
+- Pessoal: R$ 739897.76 (51.2%)
+- Equipamentos: R$ 227725.61 (15.8%)
+- Software: R$ 124763.73 (8.6%)
+- Serviços: R$ 249890.32 (17.3%)
+- Outros: R$ 102028.93 (7.1%)

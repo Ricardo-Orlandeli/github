@@ -1,0 +1,35 @@
+RELATÓRIO DE STATUS DE RISCOS
+Projeto: A certeza de inovar mais facilmente (PROJ-0729)
+Data: 14/07/2025
+Gerente: Matheus Macedo
+
+Riscos identificados:
+- R01: Dependências externas não cumpridas
+  Probabilidade: 1/5, Impacto: 2/5, Nível: Baixo
+  Mitigação: Realizar testes de integração antecipados
+
+- R02: Falhas de infraestrutura
+  Probabilidade: 4/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Contratar pessoal adicional
+
+- R03: Problemas de desempenho
+  Probabilidade: 1/5, Impacto: 2/5, Nível: Baixo
+  Mitigação: Testar compatibilidade em diferentes ambientes
+
+- R04: Problemas de integração com sistemas legados
+  Probabilidade: 4/5, Impacto: 5/5, Nível: Alto
+  Mitigação: Comunicar benefícios da mudança
+
+- R05: Dependências externas não cumpridas
+  Probabilidade: 1/5, Impacto: 4/5, Nível: Baixo
+  Mitigação: Contratar pessoal adicional
+
+- R06: Rotatividade de pessoal-chave
+  Probabilidade: 5/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Gerenciar dependências ativamente
+
+- R07: Problemas de comunicação com stakeholders
+  Probabilidade: 3/5, Impacto: 3/5, Nível: Médio
+  Mitigação: Monitorar mudanças regulatórias
+
+Riscos ocorridos:

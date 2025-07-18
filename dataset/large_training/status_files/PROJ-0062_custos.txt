@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O poder de conseguir sem preocupação (PROJ-0062)
+Data: 14/07/2025
+Gerente: Maitê Lima
+
+Orçamento inicial: R$ 3250129.00
+Custo real atual: R$ 3228928.15
+Desvio orçamentário: -0.65%
+Índice de Desempenho de Custo (CPI): 0.76
+Valor Agregado (EV): R$ 2444375.31
+Estimativa para conclusão: R$ 1064370.42
+Estimativa no término (EAC): R$ 4293298.57
+Variação no término (VAC): R$ -1043169.57
+
+Detalhamento por categoria:
+- Pessoal: R$ 1586808.39 (49.1%)
+- Equipamentos: R$ 517349.69 (16.0%)
+- Software: R$ 449159.17 (13.9%)
+- Serviços: R$ 504647.21 (15.6%)
+- Outros: R$ 170963.70 (5.3%)

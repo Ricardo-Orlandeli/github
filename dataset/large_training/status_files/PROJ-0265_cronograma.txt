@@ -1,0 +1,27 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: O conforto de ganhar em estado puro (PROJ-0265)
+Data: 14/07/2025
+Gerente: Mathias Nogueira
+
+Status atual: Em andamento
+Percentual de conclusão: 83.6%
+Data de início: 03/06/2024
+Data de término planejada: 04/07/2024
+Data de término real/prevista: 02/07/2024
+Atraso atual: 375 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.04
+Valor Planejado (PV): R$ 3410643.00
+Valor Agregado (EV): R$ 2851430.92
+
+Tarefas críticas:
+- Configuração da infraestrutura
+- Configuração da infraestrutura
+- Desenvolvimento do módulo de autenticação
+- Integração com sistema de pagamentos
+- Implementação do módulo de exportação de dados
+- Testes de segurança
+- Implementação do módulo de exportação de dados
+- Integração com sistema de pagamentos
+
+Tarefas atrasadas:

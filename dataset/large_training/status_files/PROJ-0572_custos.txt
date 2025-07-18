@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A simplicidade de evoluir mais facilmente (PROJ-0572)
+Data: 14/07/2025
+Gerente: Agatha Aragão
+
+Orçamento inicial: R$ 4711779.00
+Custo real atual: R$ 4272523.83
+Desvio orçamentário: 3.89%
+Índice de Desempenho de Custo (CPI): 1.10
+Valor Agregado (EV): R$ 4711779.00
+Estimativa para conclusão: R$ 0.00
+Estimativa no término (EAC): R$ 4272523.83
+Variação no término (VAC): R$ 439255.17
+
+Detalhamento por categoria:
+- Pessoal: R$ 2445031.09 (57.2%)
+- Equipamentos: R$ 429387.07 (10.0%)
+- Software: R$ 447451.36 (10.5%)
+- Serviços: R$ 617246.77 (14.4%)
+- Outros: R$ 333407.55 (7.8%)

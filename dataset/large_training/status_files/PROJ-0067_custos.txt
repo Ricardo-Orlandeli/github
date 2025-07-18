@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A segurança de conseguir de maneira eficaz (PROJ-0067)
+Data: 14/07/2025
+Gerente: Vitor Sousa
+
+Orçamento inicial: R$ 4537213.00
+Custo real atual: R$ 3881223.95
+Desvio orçamentário: -14.46%
+Índice de Desempenho de Custo (CPI): 1.17
+Valor Agregado (EV): R$ 4532675.79
+Estimativa para conclusão: R$ 3885.11
+Estimativa no término (EAC): R$ 3885109.06
+Variação no término (VAC): R$ 652103.94
+
+Detalhamento por categoria:
+- Pessoal: R$ 2272124.98 (58.5%)
+- Equipamentos: R$ 432129.70 (11.1%)
+- Software: R$ 251201.94 (6.5%)
+- Serviços: R$ 714261.53 (18.4%)
+- Outros: R$ 211505.79 (5.4%)

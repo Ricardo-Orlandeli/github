@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A vantagem de mudar mais facilmente (PROJ-0381)
+Data: 14/07/2025
+Gerente: Maria Flor da Luz
+
+Orçamento inicial: R$ 1159793.00
+Custo real atual: R$ 966349.64
+Desvio orçamentário: 48.64%
+Índice de Desempenho de Custo (CPI): 1.20
+Valor Agregado (EV): R$ 1159793.00
+Estimativa para conclusão: R$ 0.00
+Estimativa no término (EAC): R$ 966349.64
+Variação no término (VAC): R$ 193443.36
+
+Detalhamento por categoria:
+- Pessoal: R$ 412558.83 (42.7%)
+- Equipamentos: R$ 168377.12 (17.4%)
+- Software: R$ 138696.42 (14.4%)
+- Serviços: R$ 171243.85 (17.7%)
+- Outros: R$ 75473.41 (7.8%)

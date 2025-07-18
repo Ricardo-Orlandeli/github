@@ -1,0 +1,31 @@
+RELATÓRIO DE STATUS DE RISCOS
+Projeto: A simplicidade de inovar naturalmente (PROJ-0359)
+Data: 14/07/2025
+Gerente: Dr. Yuri Fernandes
+
+Riscos identificados:
+- R01: Rotatividade de pessoal-chave
+  Probabilidade: 1/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Contratar pessoal adicional
+
+- R02: Atraso na entrega de componentes críticos
+  Probabilidade: 5/5, Impacto: 5/5, Nível: Alto
+  Mitigação: Testar compatibilidade em diferentes ambientes
+
+- R03: Falhas de infraestrutura
+  Probabilidade: 5/5, Impacto: 2/5, Nível: Médio
+  Mitigação: Gerenciar dependências ativamente
+
+- R04: Falhas em testes de aceitação
+  Probabilidade: 1/5, Impacto: 5/5, Nível: Baixo
+  Mitigação: Testar compatibilidade em diferentes ambientes
+
+- R05: Problemas de comunicação com stakeholders
+  Probabilidade: 5/5, Impacto: 2/5, Nível: Médio
+  Mitigação: Realizar testes de integração antecipados
+
+Riscos ocorridos:
+- R03 (ocorrido em 26/06/2025)
+  Impacto real: Falhas de segurança
+  Ações tomadas: Contratação de recursos adicionais
+

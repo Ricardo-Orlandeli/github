@@ -1,0 +1,21 @@
+RELATÓRIO DE STATUS DE ESCOPO
+Projeto: A segurança de mudar direto da fonte (PROJ-0087)
+Data: 14/07/2025
+Gerente: Noah Novaes
+
+Escopo original: Sistema para a segurança de mudar direto da fonte
+Houve mudança de escopo: Não
+Descrição das mudanças: N/A
+Impacto no cronograma: 0 dias
+Impacto no custo: R$ 0.00
+
+Solicitações de mudança:
+
+Requisitos atuais:
+- REQ-01: O sistema deve permitir integração com APIs externas
+- REQ-02: O sistema deve implementar criptografia de dados sensíveis
+- REQ-03: O sistema deve permitir autenticação de usuários
+- REQ-04: O sistema deve ter controle de acesso baseado em perfis
+- REQ-05: O sistema deve passar por testes de segurança
+- REQ-06: O sistema deve ter interface responsiva
+- REQ-07: O sistema deve ter documentação completa

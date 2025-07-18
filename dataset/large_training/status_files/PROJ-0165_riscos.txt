@@ -1,0 +1,55 @@
+RELATÓRIO DE STATUS DE RISCOS
+Projeto: A possibilidade de mudar com toda a tranquilidade (PROJ-0165)
+Data: 14/07/2025
+Gerente: Eduardo Peixoto
+
+Riscos identificados:
+- R01: Estimativas imprecisas
+  Probabilidade: 3/5, Impacto: 5/5, Nível: Médio
+  Mitigação: Contratar pessoal adicional
+
+- R02: Requisitos mal definidos
+  Probabilidade: 3/5, Impacto: 2/5, Nível: Baixo
+  Mitigação: Implementar plano de contingência
+
+- R03: Indisponibilidade de recursos especializados
+  Probabilidade: 1/5, Impacto: 4/5, Nível: Baixo
+  Mitigação: Refinar estimativas com base em dados históricos
+
+- R04: Indisponibilidade de recursos especializados
+  Probabilidade: 1/5, Impacto: 3/5, Nível: Baixo
+  Mitigação: Implementar redundância de infraestrutura
+
+- R05: Problemas de integração com sistemas legados
+  Probabilidade: 1/5, Impacto: 5/5, Nível: Baixo
+  Mitigação: Melhorar a documentação de requisitos
+
+- R06: Problemas de comunicação com stakeholders
+  Probabilidade: 3/5, Impacto: 4/5, Nível: Médio
+  Mitigação: Testar compatibilidade em diferentes ambientes
+
+- R07: Atraso na entrega de componentes críticos
+  Probabilidade: 2/5, Impacto: 2/5, Nível: Baixo
+  Mitigação: Buscar fornecedores alternativos
+
+- R08: Mudanças regulatórias
+  Probabilidade: 4/5, Impacto: 5/5, Nível: Alto
+  Mitigação: Fortalecer medidas de segurança
+
+- R09: Rotatividade de pessoal-chave
+  Probabilidade: 3/5, Impacto: 2/5, Nível: Baixo
+  Mitigação: Implementar plano de contingência
+
+- R10: Mudanças regulatórias
+  Probabilidade: 5/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Fortalecer medidas de segurança
+
+Riscos ocorridos:
+- R08 (ocorrido em 11/12/2024)
+  Impacto real: Perda de recursos-chave
+  Ações tomadas: Revisão de prioridades
+
+- R10 (ocorrido em 21/05/2025)
+  Impacto real: Problemas de qualidade
+  Ações tomadas: Revisão de processos
+

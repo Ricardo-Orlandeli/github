@@ -1,0 +1,22 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A simplicidade de evoluir mais rapidamente (PROJ-0355)
+Data: 14/07/2025
+Gerente: Ísis Andrade
+
+Status atual: Em andamento
+Percentual de conclusão: 7.7%
+Data de início: 23/06/2025
+Data de término planejada: 02/05/2026
+Data de término real/prevista: 19/05/2026
+Atraso atual: 0 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.03
+Valor Planejado (PV): R$ 259193.67
+Valor Agregado (EV): R$ 296265.56
+
+Tarefas críticas:
+- Integração com sistema de pagamentos
+- Desenvolvimento do módulo de autenticação
+- Implementação do sistema de backup
+
+Tarefas atrasadas:

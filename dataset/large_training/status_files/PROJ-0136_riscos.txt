@@ -1,0 +1,27 @@
+RELATÓRIO DE STATUS DE RISCOS
+Projeto: O poder de concretizar seus projetos simplesmente (PROJ-0136)
+Data: 14/07/2025
+Gerente: Sra. Manuella Ramos
+
+Riscos identificados:
+- R01: Dependências externas não cumpridas
+  Probabilidade: 1/5, Impacto: 4/5, Nível: Baixo
+  Mitigação: Buscar fornecedores alternativos
+
+- R02: Problemas de comunicação com stakeholders
+  Probabilidade: 5/5, Impacto: 3/5, Nível: Médio
+  Mitigação: Buscar fornecedores alternativos
+
+- R03: Problemas de compatibilidade
+  Probabilidade: 5/5, Impacto: 3/5, Nível: Médio
+  Mitigação: Estabelecer canais de comunicação claros
+
+- R04: Rotatividade de pessoal-chave
+  Probabilidade: 3/5, Impacto: 2/5, Nível: Baixo
+  Mitigação: Testar compatibilidade em diferentes ambientes
+
+Riscos ocorridos:
+- R04 (ocorrido em 12/12/2024)
+  Impacto real: Aumento de 10% nos custos
+  Ações tomadas: Implementação do plano de contingência
+

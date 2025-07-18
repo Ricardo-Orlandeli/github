@@ -1,0 +1,26 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A vantagem de concretizar seus projetos com confiança (PROJ-0732)
+Data: 14/07/2025
+Gerente: Esther Vargas
+
+Status atual: Em andamento
+Percentual de conclusão: 66.8%
+Data de início: 08/12/2024
+Data de término planejada: 18/09/2025
+Data de término real/prevista: 12/09/2025
+Atraso atual: 0 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 0.97
+Valor Planejado (PV): R$ 3350342.21
+Valor Agregado (EV): R$ 2915720.96
+
+Tarefas críticas:
+- Integração com sistema de pagamentos
+- Desenvolvimento do painel administrativo
+- Migração de dados legados
+- Configuração do ambiente de produção
+- Desenvolvimento do painel administrativo
+- Desenvolvimento da interface do usuário
+- Integração com sistema de pagamentos
+
+Tarefas atrasadas:

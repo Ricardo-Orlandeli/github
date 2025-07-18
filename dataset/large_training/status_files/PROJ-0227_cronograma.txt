@@ -1,0 +1,26 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A simplicidade de mudar simplesmente (PROJ-0227)
+Data: 14/07/2025
+Gerente: Cecília Aragão
+
+Status atual: Em andamento
+Percentual de conclusão: 99.9%
+Data de início: 28/05/2024
+Data de término planejada: 20/11/2024
+Data de término real/prevista: 17/11/2024
+Atraso atual: 236 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.01
+Valor Planejado (PV): R$ 1144570.00
+Valor Agregado (EV): R$ 1143425.43
+
+Tarefas críticas:
+- Implementação do módulo de notificações
+- Configuração do ambiente de produção
+- Implementação do módulo de análise de dados
+- Migração de dados legados
+- Implementação do sistema de backup
+- Implementação da API REST
+- Implementação do módulo de notificações
+
+Tarefas atrasadas:

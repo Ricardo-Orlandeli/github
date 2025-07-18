@@ -1,0 +1,47 @@
+RELATÓRIO DE STATUS DE RISCOS
+Projeto: A arte de ganhar com força total (PROJ-0758)
+Data: 14/07/2025
+Gerente: Nicolas da Mata
+
+Riscos identificados:
+- R01: Falhas em testes de aceitação
+  Probabilidade: 1/5, Impacto: 5/5, Nível: Baixo
+  Mitigação: Realizar testes de aceitação com usuários-chave
+
+- R02: Atraso na entrega de componentes críticos
+  Probabilidade: 5/5, Impacto: 5/5, Nível: Alto
+  Mitigação: Buscar fornecedores alternativos
+
+- R03: Falhas de segurança
+  Probabilidade: 2/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Estabelecer canais de comunicação claros
+
+- R04: Atraso na entrega de componentes críticos
+  Probabilidade: 2/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Fortalecer medidas de segurança
+
+- R05: Problemas de compatibilidade
+  Probabilidade: 1/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Implementar redundância de infraestrutura
+
+- R06: Problemas de compatibilidade
+  Probabilidade: 3/5, Impacto: 4/5, Nível: Médio
+  Mitigação: Buscar fornecedores alternativos
+
+- R07: Problemas de desempenho
+  Probabilidade: 5/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Buscar fornecedores alternativos
+
+- R08: Falhas em testes de aceitação
+  Probabilidade: 2/5, Impacto: 4/5, Nível: Médio
+  Mitigação: Fortalecer medidas de segurança
+
+- R09: Problemas de comunicação com stakeholders
+  Probabilidade: 5/5, Impacto: 4/5, Nível: Alto
+  Mitigação: Otimizar código e infraestrutura
+
+- R10: Problemas de comunicação com stakeholders
+  Probabilidade: 1/5, Impacto: 2/5, Nível: Baixo
+  Mitigação: Implementar redundância de infraestrutura
+
+Riscos ocorridos:

@@ -1,0 +1,39 @@
+RELATÓRIO DE STATUS DE RISCOS
+Projeto: O conforto de concretizar seus projetos simplesmente (PROJ-0275)
+Data: 14/07/2025
+Gerente: Dra. Kamilly Azevedo
+
+Riscos identificados:
+- R01: Falhas de segurança
+  Probabilidade: 5/5, Impacto: 5/5, Nível: Alto
+  Mitigação: Fortalecer medidas de segurança
+
+- R02: Problemas de compatibilidade
+  Probabilidade: 1/5, Impacto: 2/5, Nível: Baixo
+  Mitigação: Refinar estimativas com base em dados históricos
+
+- R03: Indisponibilidade de recursos especializados
+  Probabilidade: 5/5, Impacto: 5/5, Nível: Alto
+  Mitigação: Implementar redundância de infraestrutura
+
+- R04: Problemas de desempenho
+  Probabilidade: 1/5, Impacto: 4/5, Nível: Baixo
+  Mitigação: Testar compatibilidade em diferentes ambientes
+
+- R05: Problemas de integração com sistemas legados
+  Probabilidade: 5/5, Impacto: 2/5, Nível: Médio
+  Mitigação: Implementar plano de contingência
+
+- R06: Rotatividade de pessoal-chave
+  Probabilidade: 2/5, Impacto: 5/5, Nível: Médio
+  Mitigação: Buscar fornecedores alternativos
+
+- R07: Indisponibilidade de recursos especializados
+  Probabilidade: 4/5, Impacto: 5/5, Nível: Alto
+  Mitigação: Testar compatibilidade em diferentes ambientes
+
+Riscos ocorridos:
+- R02 (ocorrido em 12/09/2024)
+  Impacto real: Problemas de qualidade
+  Ações tomadas: Implementação de controles adicionais
+

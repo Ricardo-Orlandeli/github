@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O direito de mudar simplesmente (PROJ-0772)
+Data: 14/07/2025
+Gerente: Eloah Lima
+
+Orçamento inicial: R$ 828187.00
+Custo real atual: R$ 686695.26
+Desvio orçamentário: -17.08%
+Índice de Desempenho de Custo (CPI): 1.21
+Valor Agregado (EV): R$ 828187.00
+Estimativa para conclusão: R$ 0.00
+Estimativa no término (EAC): R$ 686695.26
+Variação no término (VAC): R$ 141491.74
+
+Detalhamento por categoria:
+- Pessoal: R$ 376038.05 (54.8%)
+- Equipamentos: R$ 100678.86 (14.7%)
+- Software: R$ 84917.25 (12.4%)
+- Serviços: R$ 70960.35 (10.3%)
+- Outros: R$ 54100.75 (7.9%)

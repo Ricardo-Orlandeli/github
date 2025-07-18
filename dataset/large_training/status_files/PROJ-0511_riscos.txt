@@ -1,0 +1,51 @@
+RELATÓRIO DE STATUS DE RISCOS
+Projeto: A arte de concretizar seus projetos mais rapidamente (PROJ-0511)
+Data: 14/07/2025
+Gerente: Olívia da Mata
+
+Riscos identificados:
+- R01: Indisponibilidade de recursos especializados
+  Probabilidade: 2/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Testar compatibilidade em diferentes ambientes
+
+- R02: Falhas de infraestrutura
+  Probabilidade: 4/5, Impacto: 5/5, Nível: Alto
+  Mitigação: Realizar testes de integração antecipados
+
+- R03: Mudanças regulatórias
+  Probabilidade: 2/5, Impacto: 5/5, Nível: Médio
+  Mitigação: Realizar testes de integração antecipados
+
+- R04: Falhas em testes de aceitação
+  Probabilidade: 2/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Realizar testes de aceitação com usuários-chave
+
+- R05: Problemas de desempenho
+  Probabilidade: 4/5, Impacto: 2/5, Nível: Médio
+  Mitigação: Gerenciar dependências ativamente
+
+- R06: Falhas de infraestrutura
+  Probabilidade: 3/5, Impacto: 5/5, Nível: Médio
+  Mitigação: Estabelecer canais de comunicação claros
+
+- R07: Indisponibilidade de recursos especializados
+  Probabilidade: 2/5, Impacto: 2/5, Nível: Baixo
+  Mitigação: Gerenciar dependências ativamente
+
+- R08: Resistência dos usuários à mudança
+  Probabilidade: 3/5, Impacto: 4/5, Nível: Médio
+  Mitigação: Contratar pessoal adicional
+
+- R09: Requisitos mal definidos
+  Probabilidade: 4/5, Impacto: 3/5, Nível: Médio
+  Mitigação: Implementar redundância de infraestrutura
+
+Riscos ocorridos:
+- R02 (ocorrido em 03/07/2025)
+  Impacto real: Indisponibilidade temporária
+  Ações tomadas: Contratação de recursos adicionais
+
+- R07 (ocorrido em 15/06/2025)
+  Impacto real: Perda de recursos-chave
+  Ações tomadas: Comunicação intensificada com stakeholders
+

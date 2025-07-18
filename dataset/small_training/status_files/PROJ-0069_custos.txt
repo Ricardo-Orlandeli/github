@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A liberdade de realizar seus sonhos direto da fonte (PROJ-0069)
+Data: 14/07/2025
+Gerente: Henry Ramos
+
+Orçamento inicial: R$ 1218946.00
+Custo real atual: R$ 768650.26
+Desvio orçamentário: 4.10%
+Índice de Desempenho de Custo (CPI): 0.88
+Valor Agregado (EV): R$ 677761.77
+Estimativa para conclusão: R$ 613757.54
+Estimativa no término (EAC): R$ 1382407.80
+Variação no término (VAC): R$ -163461.80
+
+Detalhamento por categoria:
+- Pessoal: R$ 446501.49 (58.1%)
+- Equipamentos: R$ 108229.10 (14.1%)
+- Software: R$ 54129.70 (7.0%)
+- Serviços: R$ 93264.46 (12.1%)
+- Outros: R$ 66525.51 (8.7%)

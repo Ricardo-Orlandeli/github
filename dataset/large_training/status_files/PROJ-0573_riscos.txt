@@ -1,0 +1,19 @@
+RELATÓRIO DE STATUS DE RISCOS
+Projeto: A possibilidade de mudar de maneira eficaz (PROJ-0573)
+Data: 14/07/2025
+Gerente: Sarah Melo
+
+Riscos identificados:
+- R01: Resistência dos usuários à mudança
+  Probabilidade: 5/5, Impacto: 3/5, Nível: Médio
+  Mitigação: Implementar plano de contingência
+
+- R02: Problemas de desempenho
+  Probabilidade: 3/5, Impacto: 2/5, Nível: Baixo
+  Mitigação: Refinar estimativas com base em dados históricos
+
+- R03: Problemas de desempenho
+  Probabilidade: 4/5, Impacto: 2/5, Nível: Médio
+  Mitigação: Testar compatibilidade em diferentes ambientes
+
+Riscos ocorridos:

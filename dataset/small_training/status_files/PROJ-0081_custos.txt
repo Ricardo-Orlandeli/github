@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A arte de ganhar mais facilmente (PROJ-0081)
+Data: 14/07/2025
+Gerente: Cecília Campos
+
+Orçamento inicial: R$ 4107894.00
+Custo real atual: R$ 4466535.46
+Desvio orçamentário: 8.73%
+Índice de Desempenho de Custo (CPI): 0.77
+Valor Agregado (EV): R$ 3434397.92
+Estimativa para conclusão: R$ 875901.45
+Estimativa no término (EAC): R$ 5342436.90
+Variação no término (VAC): R$ -1234542.90
+
+Detalhamento por categoria:
+- Pessoal: R$ 2577891.21 (57.7%)
+- Equipamentos: R$ 493549.39 (11.0%)
+- Software: R$ 368340.28 (8.2%)
+- Serviços: R$ 582834.54 (13.0%)
+- Outros: R$ 443920.03 (9.9%)

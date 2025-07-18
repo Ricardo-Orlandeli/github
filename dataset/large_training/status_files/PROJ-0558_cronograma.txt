@@ -1,0 +1,27 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A certeza de conseguir antes de tudo (PROJ-0558)
+Data: 14/07/2025
+Gerente: Olívia Costa
+
+Status atual: Atrasado
+Percentual de conclusão: 51.7%
+Data de início: 18/12/2024
+Data de término planejada: 22/02/2025
+Data de término real/prevista: 01/07/2025
+Atraso atual: 142 dias
+Motivo do atraso: Dependências externas não cumpridas
+Índice de Desempenho de Cronograma (SPI): 0.52
+Valor Planejado (PV): R$ 3961983.00
+Valor Agregado (EV): R$ 2046871.76
+
+Tarefas críticas:
+- Testes de segurança
+- Implementação do módulo de análise de dados
+- Implementação do módulo de exportação de dados
+- Testes de aceitação do usuário
+- Implementação do módulo de notificações
+- Testes de aceitação do usuário
+- Testes de aceitação do usuário
+
+Tarefas atrasadas:
+- Testes de aceitação do usuário

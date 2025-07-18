@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A certeza de inovar mais facilmente (PROJ-0947)
+Data: 14/07/2025
+Gerente: Ana Julia Mendes
+
+Orçamento inicial: R$ 1239697.00
+Custo real atual: R$ 1192713.56
+Desvio orçamentário: -3.79%
+Índice de Desempenho de Custo (CPI): 1.04
+Valor Agregado (EV): R$ 1239697.00
+Estimativa para conclusão: R$ 0.00
+Estimativa no término (EAC): R$ 1192713.56
+Variação no término (VAC): R$ 46983.44
+
+Detalhamento por categoria:
+- Pessoal: R$ 558945.97 (46.9%)
+- Equipamentos: R$ 199444.55 (16.7%)
+- Software: R$ 134587.23 (11.3%)
+- Serviços: R$ 193402.65 (16.2%)
+- Outros: R$ 106333.15 (8.9%)

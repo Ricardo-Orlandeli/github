@@ -1,0 +1,39 @@
+RELATÓRIO DE STATUS DE RISCOS
+Projeto: A simplicidade de mudar sem preocupação (PROJ-0994)
+Data: 14/07/2025
+Gerente: Dr. Vinicius Aragão
+
+Riscos identificados:
+- R01: Falhas de infraestrutura
+  Probabilidade: 1/5, Impacto: 4/5, Nível: Baixo
+  Mitigação: Estabelecer canais de comunicação claros
+
+- R02: Requisitos mal definidos
+  Probabilidade: 3/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Monitorar mudanças regulatórias
+
+- R03: Indisponibilidade de recursos especializados
+  Probabilidade: 1/5, Impacto: 4/5, Nível: Baixo
+  Mitigação: Monitorar mudanças regulatórias
+
+- R04: Resistência dos usuários à mudança
+  Probabilidade: 3/5, Impacto: 4/5, Nível: Médio
+  Mitigação: Estabelecer canais de comunicação claros
+
+- R05: Problemas de comunicação com stakeholders
+  Probabilidade: 3/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Comunicar benefícios da mudança
+
+- R06: Falhas em testes de aceitação
+  Probabilidade: 1/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Refinar estimativas com base em dados históricos
+
+- R07: Requisitos mal definidos
+  Probabilidade: 2/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Refinar estimativas com base em dados históricos
+
+Riscos ocorridos:
+- R05 (ocorrido em 08/04/2025)
+  Impacto real: Falhas de segurança
+  Ações tomadas: Realocação de recursos
+

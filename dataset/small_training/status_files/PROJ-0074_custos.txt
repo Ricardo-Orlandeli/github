@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O prazer de atingir seus objetivos naturalmente (PROJ-0074)
+Data: 14/07/2025
+Gerente: Dra. Heloisa Rios
+
+Orçamento inicial: R$ 2052923.00
+Custo real atual: R$ 2079308.58
+Desvio orçamentário: 1.29%
+Índice de Desempenho de Custo (CPI): 0.99
+Valor Agregado (EV): R$ 2052923.00
+Estimativa para conclusão: R$ 0.00
+Estimativa no término (EAC): R$ 2079308.58
+Variação no término (VAC): R$ -26385.58
+
+Detalhamento por categoria:
+- Pessoal: R$ 1155757.17 (55.6%)
+- Equipamentos: R$ 340703.41 (16.4%)
+- Software: R$ 181338.19 (8.7%)
+- Serviços: R$ 279233.53 (13.4%)
+- Outros: R$ 122276.29 (5.9%)

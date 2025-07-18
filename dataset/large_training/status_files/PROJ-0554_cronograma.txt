@@ -1,0 +1,25 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A arte de mudar antes de tudo (PROJ-0554)
+Data: 14/07/2025
+Gerente: Arthur Gomes
+
+Status atual: Concluído
+Percentual de conclusão: 100.0%
+Data de início: 01/12/2023
+Data de término planejada: 02/08/2024
+Data de término real/prevista: 30/08/2024
+Atraso atual: 346 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 0.98
+Valor Planejado (PV): R$ 4424839.00
+Valor Agregado (EV): R$ 4424839.00
+
+Tarefas críticas:
+- Desenvolvimento do painel administrativo
+- Desenvolvimento do painel administrativo
+- Desenvolvimento da interface do usuário
+- Testes de segurança
+- Configuração do ambiente de produção
+- Implementação do módulo de análise de dados
+
+Tarefas atrasadas:

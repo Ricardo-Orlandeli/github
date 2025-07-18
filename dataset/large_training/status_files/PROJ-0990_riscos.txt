@@ -1,0 +1,59 @@
+RELATÓRIO DE STATUS DE RISCOS
+Projeto: A possibilidade de mudar com força total (PROJ-0990)
+Data: 14/07/2025
+Gerente: Ana Mendonça
+
+Riscos identificados:
+- R01: Mudanças regulatórias
+  Probabilidade: 1/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Otimizar código e infraestrutura
+
+- R02: Mudanças regulatórias
+  Probabilidade: 3/5, Impacto: 3/5, Nível: Médio
+  Mitigação: Realizar testes de integração antecipados
+
+- R03: Estimativas imprecisas
+  Probabilidade: 1/5, Impacto: 5/5, Nível: Baixo
+  Mitigação: Implementar redundância de infraestrutura
+
+- R04: Falhas de segurança
+  Probabilidade: 1/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Realizar testes de aceitação com usuários-chave
+
+- R05: Falhas em testes de aceitação
+  Probabilidade: 4/5, Impacto: 2/5, Nível: Médio
+  Mitigação: Realizar testes de aceitação com usuários-chave
+
+- R06: Resistência dos usuários à mudança
+  Probabilidade: 5/5, Impacto: 5/5, Nível: Alto
+  Mitigação: Estabelecer canais de comunicação claros
+
+- R07: Falhas de infraestrutura
+  Probabilidade: 1/5, Impacto: 3/5, Nível: Baixo
+  Mitigação: Buscar fornecedores alternativos
+
+- R08: Requisitos mal definidos
+  Probabilidade: 4/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Otimizar código e infraestrutura
+
+- R09: Requisitos mal definidos
+  Probabilidade: 1/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Realizar testes de aceitação com usuários-chave
+
+- R10: Falhas em testes de aceitação
+  Probabilidade: 1/5, Impacto: 3/5, Nível: Baixo
+  Mitigação: Testar compatibilidade em diferentes ambientes
+
+Riscos ocorridos:
+- R06 (ocorrido em 05/07/2025)
+  Impacto real: Perda de recursos-chave
+  Ações tomadas: Revisão do orçamento
+
+- R09 (ocorrido em 13/07/2025)
+  Impacto real: Perda de recursos-chave
+  Ações tomadas: Comunicação intensificada com stakeholders
+
+- R01 (ocorrido em 06/07/2025)
+  Impacto real: Retrabalho significativo
+  Ações tomadas: Revisão de prioridades
+

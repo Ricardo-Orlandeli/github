@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A certeza de avançar com força total (PROJ-0447)
+Data: 14/07/2025
+Gerente: Luísa Lopes
+
+Orçamento inicial: R$ 446575.00
+Custo real atual: R$ 292947.82
+Desvio orçamentário: -34.40%
+Índice de Desempenho de Custo (CPI): 0.84
+Valor Agregado (EV): R$ 245600.97
+Estimativa para conclusão: R$ 239717.71
+Estimativa no término (EAC): R$ 532665.53
+Variação no término (VAC): R$ -86090.53
+
+Detalhamento por categoria:
+- Pessoal: R$ 158290.54 (54.0%)
+- Equipamentos: R$ 32003.90 (10.9%)
+- Software: R$ 30106.05 (10.3%)
+- Serviços: R$ 45520.59 (15.5%)
+- Outros: R$ 27026.74 (9.2%)

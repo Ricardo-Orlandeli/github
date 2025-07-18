@@ -1,0 +1,27 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: O direito de avançar com confiança (PROJ-0338)
+Data: 14/07/2025
+Gerente: Amanda Ferreira
+
+Status atual: Concluído
+Percentual de conclusão: 100.0%
+Data de início: 19/07/2023
+Data de término planejada: 08/02/2024
+Data de término real/prevista: 03/02/2024
+Atraso atual: 522 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.02
+Valor Planejado (PV): R$ 784140.00
+Valor Agregado (EV): R$ 784140.00
+
+Tarefas críticas:
+- Testes de segurança
+- Desenvolvimento do painel administrativo
+- Desenvolvimento da interface do usuário
+- Desenvolvimento do painel administrativo
+- Testes de aceitação do usuário
+- Desenvolvimento do painel administrativo
+- Testes de aceitação do usuário
+- Implementação do módulo de notificações
+
+Tarefas atrasadas:

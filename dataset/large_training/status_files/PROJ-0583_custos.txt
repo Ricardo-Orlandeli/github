@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A segurança de inovar em estado puro (PROJ-0583)
+Data: 14/07/2025
+Gerente: Hellena Barros
+
+Orçamento inicial: R$ 1622955.00
+Custo real atual: R$ 1675276.11
+Desvio orçamentário: 3.22%
+Índice de Desempenho de Custo (CPI): 0.97
+Valor Agregado (EV): R$ 1621332.05
+Estimativa para conclusão: R$ 1676.95
+Estimativa no término (EAC): R$ 1676953.06
+Variação no término (VAC): R$ -53998.06
+
+Detalhamento por categoria:
+- Pessoal: R$ 862563.03 (51.5%)
+- Equipamentos: R$ 320343.52 (19.1%)
+- Software: R$ 110446.28 (6.6%)
+- Serviços: R$ 259346.06 (15.5%)
+- Outros: R$ 122577.21 (7.3%)

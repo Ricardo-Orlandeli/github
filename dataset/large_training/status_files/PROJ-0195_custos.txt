@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A possibilidade de concretizar seus projetos mais facilmente (PROJ-0195)
+Data: 14/07/2025
+Gerente: Isaac Almeida
+
+Orçamento inicial: R$ 1646460.00
+Custo real atual: R$ 1105800.01
+Desvio orçamentário: -32.84%
+Índice de Desempenho de Custo (CPI): 0.90
+Valor Agregado (EV): R$ 991586.23
+Estimativa para conclusão: R$ 730304.04
+Estimativa no término (EAC): R$ 1836104.04
+Variação no término (VAC): R$ -189644.04
+
+Detalhamento por categoria:
+- Pessoal: R$ 585841.22 (53.0%)
+- Equipamentos: R$ 126570.33 (11.4%)
+- Software: R$ 113567.33 (10.3%)
+- Serviços: R$ 208443.86 (18.9%)
+- Outros: R$ 71377.26 (6.5%)

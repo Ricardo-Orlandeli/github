@@ -1,0 +1,25 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A vantagem de avançar com confiança (PROJ-0835)
+Data: 14/07/2025
+Gerente: Clara Mendonça
+
+Status atual: Cancelado
+Percentual de conclusão: 32.8%
+Data de início: 04/08/2023
+Data de término planejada: 23/12/2023
+Data de término real/prevista: 19/09/2023
+Atraso atual: 569 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 0.33
+Valor Planejado (PV): R$ 4348345.00
+Valor Agregado (EV): R$ 1425922.84
+
+Tarefas críticas:
+- Testes de segurança
+- Integração com sistema de pagamentos
+- Migração de dados legados
+- Testes de segurança
+- Implementação do módulo de exportação de dados
+- Configuração da infraestrutura
+
+Tarefas atrasadas:

@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A possibilidade de atingir seus objetivos simplesmente (PROJ-0340)
+Data: 14/07/2025
+Gerente: Srta. Liz Vargas
+
+Orçamento inicial: R$ 1740571.00
+Custo real atual: R$ 1255952.04
+Desvio orçamentário: -27.84%
+Índice de Desempenho de Custo (CPI): 0.74
+Valor Agregado (EV): R$ 932955.51
+Estimativa para conclusão: R$ 1087218.33
+Estimativa no término (EAC): R$ 2343170.36
+Variação no término (VAC): R$ -602599.36
+
+Detalhamento por categoria:
+- Pessoal: R$ 640718.09 (51.0%)
+- Equipamentos: R$ 213658.76 (17.0%)
+- Software: R$ 152457.22 (12.1%)
+- Serviços: R$ 153525.68 (12.2%)
+- Outros: R$ 95592.30 (7.6%)

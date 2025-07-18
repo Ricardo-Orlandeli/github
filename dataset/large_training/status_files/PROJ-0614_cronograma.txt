@@ -1,0 +1,27 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: O poder de ganhar sem preocupação (PROJ-0614)
+Data: 14/07/2025
+Gerente: Erick Barros
+
+Status atual: Em andamento
+Percentual de conclusão: 99.9%
+Data de início: 14/01/2025
+Data de término planejada: 12/07/2025
+Data de término real/prevista: 11/08/2025
+Atraso atual: 2 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 0.97
+Valor Planejado (PV): R$ 1619172.00
+Valor Agregado (EV): R$ 1617552.83
+
+Tarefas críticas:
+- Implementação do módulo de análise de dados
+- Desenvolvimento da interface do usuário
+- Implementação do módulo de notificações
+- Implementação da API REST
+- Desenvolvimento da interface do usuário
+- Implementação do módulo de análise de dados
+- Testes de segurança
+- Implementação do módulo de análise de dados
+
+Tarefas atrasadas:

@@ -1,0 +1,28 @@
+RELATÓRIO DE STATUS DE ESCOPO
+Projeto: A simplicidade de avançar mais facilmente (PROJ-0264)
+Data: 14/07/2025
+Gerente: Sra. Maria Clara da Mata
+
+Escopo original: Sistema para a simplicidade de avançar mais facilmente
+Houve mudança de escopo: Sim
+Descrição das mudanças: Adição de novos requisitos de segurança
+Impacto no cronograma: 34 dias
+Impacto no custo: R$ 277442.91
+
+Solicitações de mudança:
+- SCM-01: Adição de funcionalidade de autenticação biométrica
+- SCM-02: Mudança no banco de dados
+
+Requisitos atuais:
+- REQ-01: O sistema deve permitir autenticação de usuários
+- REQ-02: O sistema deve registrar logs de auditoria
+- REQ-03: O sistema deve ter backup automático diário
+- REQ-04: O sistema deve processar transações em menos de 2 seconds
+- REQ-05: O sistema deve ter controle de acesso baseado em perfis
+- REQ-06: O sistema deve implementar criptografia de dados sensíveis
+- REQ-07: O sistema deve permitir integração com APIs externas
+- REQ-08: O sistema deve passar por testes de segurança
+- REQ-09: O sistema deve ter backup automático diário
+- REQ-10: O sistema deve registrar logs de auditoria
+- REQ-11: O sistema deve permitir autenticação de usuários
+- REQ-12: O sistema deve ter controle de acesso baseado em perfis

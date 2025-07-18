@@ -1,0 +1,25 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: O direito de concretizar seus projetos mais facilmente (PROJ-0873)
+Data: 14/07/2025
+Gerente: Enzo Gabriel Andrade
+
+Status atual: Em andamento
+Percentual de conclusão: 99.9%
+Data de início: 04/08/2023
+Data de término planejada: 02/07/2024
+Data de término real/prevista: 21/06/2024
+Atraso atual: 377 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.08
+Valor Planejado (PV): R$ 3304737.00
+Valor Agregado (EV): R$ 3301432.26
+
+Tarefas críticas:
+- Implementação da API REST
+- Migração de dados legados
+- Implementação do sistema de backup
+- Implementação do módulo de análise de dados
+- Testes de aceitação do usuário
+- Testes de segurança
+
+Tarefas atrasadas:

@@ -1,0 +1,22 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: O conforto de avançar antes de tudo (PROJ-0235)
+Data: 14/07/2025
+Gerente: Dr. Enrico Carvalho
+
+Status atual: Concluído
+Percentual de conclusão: 100.0%
+Data de início: 19/09/2024
+Data de término planejada: 09/03/2025
+Data de término real/prevista: 07/03/2025
+Atraso atual: 127 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 0.96
+Valor Planejado (PV): R$ 2413283.00
+Valor Agregado (EV): R$ 2413283.00
+
+Tarefas críticas:
+- Implementação da API REST
+- Implementação do sistema de backup
+- Migração de dados legados
+
+Tarefas atrasadas:

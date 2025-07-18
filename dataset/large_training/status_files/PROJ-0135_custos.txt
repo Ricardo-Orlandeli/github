@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O conforto de realizar seus sonhos com força total (PROJ-0135)
+Data: 14/07/2025
+Gerente: Enzo Gabriel Viana
+
+Orçamento inicial: R$ 260978.00
+Custo real atual: R$ 291150.36
+Desvio orçamentário: 22.49%
+Índice de Desempenho de Custo (CPI): 0.90
+Valor Agregado (EV): R$ 260717.02
+Estimativa para conclusão: R$ 291.44
+Estimativa no término (EAC): R$ 291441.80
+Variação no término (VAC): R$ -30463.80
+
+Detalhamento por categoria:
+- Pessoal: R$ 137806.94 (47.3%)
+- Equipamentos: R$ 48040.55 (16.5%)
+- Software: R$ 29919.86 (10.3%)
+- Serviços: R$ 52218.84 (17.9%)
+- Outros: R$ 23164.16 (8.0%)

@@ -1,0 +1,31 @@
+RELATÓRIO DE STATUS DE ESCOPO
+Projeto: A simplicidade de evoluir direto da fonte (PROJ-0687)
+Data: 14/07/2025
+Gerente: Henry Gabriel Pimenta
+
+Escopo original: Sistema para a simplicidade de evoluir direto da fonte
+Houve mudança de escopo: Sim
+Descrição das mudanças: Alteração nas especificações técnicas
+Impacto no cronograma: 60 dias
+Impacto no custo: R$ 65164.61
+
+Solicitações de mudança:
+- SCM-01: Implementação de módulo de exportação de dados
+- SCM-02: Mudança na arquitetura do sistema
+
+Requisitos atuais:
+- REQ-01: O sistema deve permitir autenticação de usuários
+- REQ-02: O sistema deve permitir integração com APIs externas
+- REQ-03: O sistema deve ter interface responsiva
+- REQ-04: O sistema deve permitir integração com APIs externas
+- REQ-05: O sistema deve permitir exportação de dados em formato CSV
+- REQ-06: O sistema deve ser compatível com navegadores modernos
+- REQ-07: O sistema deve permitir autenticação de usuários
+- REQ-08: O sistema deve permitir autenticação de usuários
+- REQ-09: O sistema deve permitir exportação de dados em formato CSV
+- REQ-10: O sistema deve ter backup automático diário
+- REQ-11: O sistema deve implementar criptografia de dados sensíveis
+- REQ-12: O sistema deve ser compatível com dispositivos móveis
+- REQ-13: O sistema deve ser compatível com dispositivos móveis
+- REQ-14: O sistema deve ter interface responsiva
+- REQ-15: O sistema deve ser compatível com navegadores modernos

@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O prazer de conseguir sem preocupação (PROJ-0679)
+Data: 14/07/2025
+Gerente: Matteo Azevedo
+
+Orçamento inicial: R$ 2420404.00
+Custo real atual: R$ 1677428.23
+Desvio orçamentário: -30.70%
+Índice de Desempenho de Custo (CPI): 1.16
+Valor Agregado (EV): R$ 1937524.17
+Estimativa para conclusão: R$ 418057.37
+Estimativa no término (EAC): R$ 2095485.60
+Variação no término (VAC): R$ 324918.40
+
+Detalhamento por categoria:
+- Pessoal: R$ 942834.85 (56.2%)
+- Equipamentos: R$ 330820.96 (19.7%)
+- Software: R$ 106997.62 (6.4%)
+- Serviços: R$ 197042.18 (11.7%)
+- Outros: R$ 99732.62 (5.9%)

@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O conforto de realizar seus sonhos com confiança (PROJ-0106)
+Data: 14/07/2025
+Gerente: Dante Novaes
+
+Orçamento inicial: R$ 1101604.00
+Custo real atual: R$ 1088781.47
+Desvio orçamentário: -1.16%
+Índice de Desempenho de Custo (CPI): 1.01
+Valor Agregado (EV): R$ 1101604.00
+Estimativa para conclusão: R$ 0.00
+Estimativa no término (EAC): R$ 1088781.47
+Variação no término (VAC): R$ 12822.53
+
+Detalhamento por categoria:
+- Pessoal: R$ 594711.73 (54.6%)
+- Equipamentos: R$ 163337.79 (15.0%)
+- Software: R$ 122617.00 (11.3%)
+- Serviços: R$ 157426.83 (14.5%)
+- Outros: R$ 50688.12 (4.7%)

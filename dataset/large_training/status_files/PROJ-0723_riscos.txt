@@ -1,0 +1,31 @@
+RELATÓRIO DE STATUS DE RISCOS
+Projeto: O conforto de mudar em estado puro (PROJ-0723)
+Data: 14/07/2025
+Gerente: Leonardo Silveira
+
+Riscos identificados:
+- R01: Indisponibilidade de recursos especializados
+  Probabilidade: 4/5, Impacto: 5/5, Nível: Alto
+  Mitigação: Refinar estimativas com base em dados históricos
+
+- R02: Problemas de comunicação com stakeholders
+  Probabilidade: 3/5, Impacto: 3/5, Nível: Médio
+  Mitigação: Contratar pessoal adicional
+
+- R03: Dependências externas não cumpridas
+  Probabilidade: 2/5, Impacto: 5/5, Nível: Médio
+  Mitigação: Estabelecer canais de comunicação claros
+
+- R04: Mudanças regulatórias
+  Probabilidade: 4/5, Impacto: 4/5, Nível: Alto
+  Mitigação: Fortalecer medidas de segurança
+
+- R05: Atraso na entrega de componentes críticos
+  Probabilidade: 5/5, Impacto: 2/5, Nível: Médio
+  Mitigação: Realizar testes de integração antecipados
+
+- R06: Requisitos mal definidos
+  Probabilidade: 4/5, Impacto: 3/5, Nível: Médio
+  Mitigação: Testar compatibilidade em diferentes ambientes
+
+Riscos ocorridos:

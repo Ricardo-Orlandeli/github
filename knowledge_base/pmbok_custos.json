@@ -1,0 +1,52 @@
+[
+  {
+    "id": "custos_001",
+    "title": "Gerenciamento dos Custos - Visão Geral",
+    "content": "O gerenciamento dos custos do projeto inclui os processos envolvidos em planejamento, estimativas, orçamentos, financiamentos, gerenciamento e controle dos custos, de modo que o projeto possa ser terminado dentro do orçamento aprovado. Os processos de gerenciamento dos custos são: Planejar o gerenciamento dos custos, Estimar os custos, Determinar o orçamento e Controlar os custos."
+  },
+  {
+    "id": "custos_002",
+    "title": "Tipos de Custos",
+    "content": "Os custos do projeto podem ser classificados como: Custos diretos - diretamente atribuíveis às atividades do projeto (mão de obra, materiais, equipamentos). Custos indiretos - não diretamente atribuíveis, mas necessários para o projeto (overhead, administração). Custos fixos - permanecem constantes independentemente do volume de trabalho. Custos variáveis - variam de acordo com o volume de trabalho. Custos de qualidade - custos relacionados à prevenção, avaliação e falhas."
+  },
+  {
+    "id": "custos_003",
+    "title": "Técnicas de Estimativa de Custos",
+    "content": "As técnicas de estimativa de custos incluem: Estimativa análoga - usa custos de projetos anteriores similares. Estimativa paramétrica - usa relações estatísticas entre dados históricos e variáveis. Estimativa bottom-up - estima custos de componentes individuais e os agrega. Estimativa de três pontos - usa estimativas otimista, mais provável e pessimista. Análise de reservas - adiciona reservas para contingências e gerenciamento."
+  },
+  {
+    "id": "custos_004",
+    "title": "Determinação do Orçamento",
+    "content": "O processo de determinação do orçamento envolve: Agregar os custos estimados das atividades individuais ou pacotes de trabalho. Adicionar reservas para contingências para riscos conhecidos. Adicionar reservas de gerenciamento para mudanças não planejadas. Estabelecer a linha de base dos custos - versão aprovada do orçamento do projeto no tempo. Determinar requisitos de financiamento - total e periódicos."
+  },
+  {
+    "id": "custos_005",
+    "title": "Análise de Valor Agregado (EVA) para Custos",
+    "content": "A análise de valor agregado (EVA) integra escopo, cronograma e custos. Métricas importantes incluem: Valor Planejado (PV) - orçamento autorizado para o trabalho planejado. Valor Agregado (EV) - medida do trabalho realizado expressa em termos do orçamento. Custo Real (AC) - custo real incorrido para o trabalho realizado. Índice de Desempenho de Custo (CPI) - medida de eficiência de custos expressa como a razão entre o valor agregado e o custo real. CPI = EV/AC."
+  },
+  {
+    "id": "custos_006",
+    "title": "Interpretação do CPI",
+    "content": "O Índice de Desempenho de Custo (CPI) é interpretado da seguinte forma: CPI > 1,0: O trabalho está sendo realizado a um custo menor que o planejado (abaixo do orçamento). CPI = 1,0: O trabalho está sendo realizado exatamente ao custo planejado (dentro do orçamento). CPI < 1,0: O trabalho está sendo realizado a um custo maior que o planejado (acima do orçamento). Um CPI < 0,8 é geralmente considerado crítico e requer ações corretivas imediatas."
+  },
+  {
+    "id": "custos_007",
+    "title": "Previsões de Custos",
+    "content": "As previsões de custos incluem: Estimativa para Terminar (ETC) - custo esperado para terminar todo o trabalho restante. Estimativa no Término (EAC) - custo total esperado para concluir todo o trabalho. Variação no Término (VAC) - diferença entre o orçamento no término e a estimativa no término. Fórmulas comuns: EAC = AC + ETC (para variações atípicas) ou EAC = BAC/CPI (para variações típicas). VAC = BAC - EAC."
+  },
+  {
+    "id": "custos_008",
+    "title": "Ações Corretivas para Desvios de Custos",
+    "content": "Quando o projeto está acima do orçamento (CPI < 1,0), as seguintes ações corretivas podem ser consideradas: Revisar as categorias de custo com maior desvio. Implementar medidas de economia sem impactar a qualidade. Renegociar contratos com fornecedores. Revisar o escopo para identificar possíveis reduções. Otimizar a alocação de recursos. Revisar processos para identificar ineficiências. Implementar controles mais rigorosos para aprovação de despesas futuras."
+  },
+  {
+    "id": "custos_009",
+    "title": "Controle de Custos",
+    "content": "O processo de controle de custos envolve: Monitorar o status do projeto para atualizar os custos. Gerenciar mudanças na linha de base de custos. Assegurar que os gastos não excedam os recursos autorizados. Monitorar o desempenho de custos para detectar variações. Registrar mudanças apropriadas na linha de base de custos. Informar as partes interessadas sobre mudanças aprovadas. Agir para manter os excessos de custos dentro de limites aceitáveis."
+  },
+  {
+    "id": "custos_010",
+    "title": "Melhores Práticas para Gerenciamento de Custos",
+    "content": "Melhores práticas para gerenciamento eficaz de custos incluem: Desenvolver estimativas realistas com a participação da equipe. Incluir reservas adequadas para riscos conhecidos. Manter o orçamento atualizado com os custos reais. Comunicar regularmente o status dos custos aos stakeholders. Analisar tendências de desempenho para identificar problemas potenciais antecipadamente. Implementar ações corretivas rapidamente quando desvios são identificados. Documentar lições aprendidas para projetos futuros."
+  }
+]

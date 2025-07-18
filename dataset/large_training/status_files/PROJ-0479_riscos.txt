@@ -1,0 +1,39 @@
+RELATÓRIO DE STATUS DE RISCOS
+Projeto: A certeza de mudar mais rapidamente (PROJ-0479)
+Data: 14/07/2025
+Gerente: Evelyn Marques
+
+Riscos identificados:
+- R01: Atraso na entrega de componentes críticos
+  Probabilidade: 4/5, Impacto: 4/5, Nível: Alto
+  Mitigação: Buscar fornecedores alternativos
+
+- R02: Falhas em testes de aceitação
+  Probabilidade: 1/5, Impacto: 3/5, Nível: Baixo
+  Mitigação: Buscar fornecedores alternativos
+
+- R03: Falhas em testes de aceitação
+  Probabilidade: 5/5, Impacto: 5/5, Nível: Alto
+  Mitigação: Buscar fornecedores alternativos
+
+- R04: Mudanças regulatórias
+  Probabilidade: 2/5, Impacto: 5/5, Nível: Médio
+  Mitigação: Melhorar a documentação de requisitos
+
+- R05: Resistência dos usuários à mudança
+  Probabilidade: 5/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Comunicar benefícios da mudança
+
+- R06: Falhas de segurança
+  Probabilidade: 1/5, Impacto: 5/5, Nível: Baixo
+  Mitigação: Implementar plano de contingência
+
+- R07: Resistência dos usuários à mudança
+  Probabilidade: 3/5, Impacto: 3/5, Nível: Médio
+  Mitigação: Melhorar a documentação de requisitos
+
+- R08: Dependências externas não cumpridas
+  Probabilidade: 3/5, Impacto: 4/5, Nível: Médio
+  Mitigação: Buscar fornecedores alternativos
+
+Riscos ocorridos:

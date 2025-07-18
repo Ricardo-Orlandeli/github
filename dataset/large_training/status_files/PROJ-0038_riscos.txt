@@ -1,0 +1,19 @@
+RELATÓRIO DE STATUS DE RISCOS
+Projeto: O direito de atingir seus objetivos antes de tudo (PROJ-0038)
+Data: 14/07/2025
+Gerente: Ana Laura Mendonça
+
+Riscos identificados:
+- R01: Problemas de desempenho
+  Probabilidade: 1/5, Impacto: 2/5, Nível: Baixo
+  Mitigação: Comunicar benefícios da mudança
+
+- R02: Falhas de segurança
+  Probabilidade: 4/5, Impacto: 4/5, Nível: Alto
+  Mitigação: Fortalecer medidas de segurança
+
+- R03: Falhas em testes de aceitação
+  Probabilidade: 5/5, Impacto: 4/5, Nível: Alto
+  Mitigação: Otimizar código e infraestrutura
+
+Riscos ocorridos:

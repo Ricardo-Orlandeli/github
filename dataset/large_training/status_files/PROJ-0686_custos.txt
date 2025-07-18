@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A certeza de evoluir mais facilmente (PROJ-0686)
+Data: 14/07/2025
+Gerente: Sr. Davi Luiz Souza
+
+Orçamento inicial: R$ 3960068.00
+Custo real atual: R$ 4431463.20
+Desvio orçamentário: 11.90%
+Índice de Desempenho de Custo (CPI): 0.89
+Valor Agregado (EV): R$ 3956107.93
+Estimativa para conclusão: R$ 4435.90
+Estimativa no término (EAC): R$ 4435899.10
+Variação no término (VAC): R$ -475831.10
+
+Detalhamento por categoria:
+- Pessoal: R$ 2539570.76 (57.3%)
+- Equipamentos: R$ 763856.25 (17.2%)
+- Software: R$ 262990.57 (5.9%)
+- Serviços: R$ 521604.00 (11.8%)
+- Outros: R$ 343441.63 (7.8%)

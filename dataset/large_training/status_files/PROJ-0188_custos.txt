@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O prazer de realizar seus sonhos direto da fonte (PROJ-0188)
+Data: 14/07/2025
+Gerente: Mariana Azevedo
+
+Orçamento inicial: R$ 3523617.00
+Custo real atual: R$ 3841689.59
+Desvio orçamentário: 9.03%
+Índice de Desempenho de Custo (CPI): 0.92
+Valor Agregado (EV): R$ 3520093.38
+Estimativa para conclusão: R$ 3845.54
+Estimativa no término (EAC): R$ 3845535.12
+Variação no término (VAC): R$ -321918.12
+
+Detalhamento por categoria:
+- Pessoal: R$ 1649129.12 (42.9%)
+- Equipamentos: R$ 661279.30 (17.2%)
+- Software: R$ 424218.62 (11.0%)
+- Serviços: R$ 744398.34 (19.4%)
+- Outros: R$ 362664.22 (9.4%)

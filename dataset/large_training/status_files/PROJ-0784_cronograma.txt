@@ -1,0 +1,25 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: O prazer de conseguir mais facilmente (PROJ-0784)
+Data: 14/07/2025
+Gerente: Sr. Lucas Gabriel Duarte
+
+Status atual: Atrasado
+Percentual de conclusão: 65.5%
+Data de início: 25/11/2023
+Data de término planejada: 12/01/2024
+Data de término real/prevista: 25/06/2024
+Atraso atual: 549 dias
+Motivo do atraso: Atraso na entrega de componentes por fornecedores
+Índice de Desempenho de Cronograma (SPI): 0.66
+Valor Planejado (PV): R$ 2615250.00
+Valor Agregado (EV): R$ 1713583.79
+
+Tarefas críticas:
+- Implementação do módulo de exportação de dados
+- Implementação do módulo de exportação de dados
+- Desenvolvimento da interface do usuário
+- Implementação do módulo de notificações
+
+Tarefas atrasadas:
+- Implementação do módulo de exportação de dados
+- Implementação do módulo de notificações

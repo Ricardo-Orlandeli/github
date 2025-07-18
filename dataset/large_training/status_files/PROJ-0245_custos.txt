@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A arte de conseguir mais rapidamente (PROJ-0245)
+Data: 14/07/2025
+Gerente: Nicolas Machado
+
+Orçamento inicial: R$ 120406.00
+Custo real atual: R$ 116882.50
+Desvio orçamentário: -2.93%
+Índice de Desempenho de Custo (CPI): 0.88
+Valor Agregado (EV): R$ 102330.01
+Estimativa para conclusão: R$ 20646.60
+Estimativa no término (EAC): R$ 137529.10
+Variação no término (VAC): R$ -17123.10
+
+Detalhamento por categoria:
+- Pessoal: R$ 55778.64 (47.7%)
+- Equipamentos: R$ 15811.42 (13.5%)
+- Software: R$ 16600.12 (14.2%)
+- Serviços: R$ 20385.66 (17.4%)
+- Outros: R$ 8306.66 (7.1%)

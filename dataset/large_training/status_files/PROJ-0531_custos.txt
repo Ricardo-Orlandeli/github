@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A segurança de realizar seus sonhos com força total (PROJ-0531)
+Data: 14/07/2025
+Gerente: Alice Martins
+
+Orçamento inicial: R$ 4906389.00
+Custo real atual: R$ 4333212.55
+Desvio orçamentário: -11.68%
+Índice de Desempenho de Custo (CPI): 1.13
+Valor Agregado (EV): R$ 4906389.00
+Estimativa para conclusão: R$ 0.00
+Estimativa no término (EAC): R$ 4333212.55
+Variação no término (VAC): R$ 573176.45
+
+Detalhamento por categoria:
+- Pessoal: R$ 2228333.20 (51.4%)
+- Equipamentos: R$ 760414.54 (17.5%)
+- Software: R$ 271066.75 (6.3%)
+- Serviços: R$ 804001.54 (18.6%)
+- Outros: R$ 269396.52 (6.2%)

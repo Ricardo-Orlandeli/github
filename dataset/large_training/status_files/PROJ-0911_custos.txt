@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A possibilidade de avançar antes de tudo (PROJ-0911)
+Data: 14/07/2025
+Gerente: Nina Pimenta
+
+Orçamento inicial: R$ 4230557.00
+Custo real atual: R$ 3333199.33
+Desvio orçamentário: -21.21%
+Índice de Desempenho de Custo (CPI): 0.69
+Valor Agregado (EV): R$ 2291116.78
+Estimativa para conclusão: R$ 2821567.59
+Estimativa no término (EAC): R$ 6154766.92
+Variação no término (VAC): R$ -1924209.92
+
+Detalhamento por categoria:
+- Pessoal: R$ 1628293.76 (48.9%)
+- Equipamentos: R$ 452314.13 (13.6%)
+- Software: R$ 524947.40 (15.7%)
+- Serviços: R$ 468131.39 (14.0%)
+- Outros: R$ 259512.64 (7.8%)

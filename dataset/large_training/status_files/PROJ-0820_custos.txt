@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A vantagem de concretizar seus projetos naturalmente (PROJ-0820)
+Data: 14/07/2025
+Gerente: Ísis Alves
+
+Orçamento inicial: R$ 284262.00
+Custo real atual: R$ 331933.57
+Desvio orçamentário: 16.77%
+Índice de Desempenho de Custo (CPI): 0.86
+Valor Agregado (EV): R$ 284262.00
+Estimativa para conclusão: R$ 0.00
+Estimativa no término (EAC): R$ 331933.57
+Variação no término (VAC): R$ -47671.57
+
+Detalhamento por categoria:
+- Pessoal: R$ 156313.95 (47.1%)
+- Equipamentos: R$ 59854.81 (18.0%)
+- Software: R$ 29959.04 (9.0%)
+- Serviços: R$ 59815.50 (18.0%)
+- Outros: R$ 25990.28 (7.8%)

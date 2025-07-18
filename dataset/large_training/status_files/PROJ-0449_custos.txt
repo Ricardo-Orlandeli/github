@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A vantagem de atingir seus objetivos antes de tudo (PROJ-0449)
+Data: 14/07/2025
+Gerente: Mariana Mendonça
+
+Orçamento inicial: R$ 3814889.00
+Custo real atual: R$ 3044307.75
+Desvio orçamentário: -20.20%
+Índice de Desempenho de Custo (CPI): 1.20
+Valor Agregado (EV): R$ 3654769.69
+Estimativa para conclusão: R$ 133374.33
+Estimativa no término (EAC): R$ 3177682.08
+Variação no término (VAC): R$ 637206.92
+
+Detalhamento por categoria:
+- Pessoal: R$ 1680416.52 (55.2%)
+- Equipamentos: R$ 459292.00 (15.1%)
+- Software: R$ 391530.92 (12.9%)
+- Serviços: R$ 336499.74 (11.1%)
+- Outros: R$ 176568.57 (5.8%)

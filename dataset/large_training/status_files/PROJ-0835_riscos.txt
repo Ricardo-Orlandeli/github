@@ -1,0 +1,35 @@
+RELATÓRIO DE STATUS DE RISCOS
+Projeto: A vantagem de avançar com confiança (PROJ-0835)
+Data: 14/07/2025
+Gerente: Clara Mendonça
+
+Riscos identificados:
+- R01: Problemas de comunicação com stakeholders
+  Probabilidade: 4/5, Impacto: 2/5, Nível: Médio
+  Mitigação: Realizar testes de aceitação com usuários-chave
+
+- R02: Mudanças regulatórias
+  Probabilidade: 1/5, Impacto: 4/5, Nível: Baixo
+  Mitigação: Refinar estimativas com base em dados históricos
+
+- R03: Problemas de desempenho
+  Probabilidade: 1/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Monitorar mudanças regulatórias
+
+- R04: Falhas em testes de aceitação
+  Probabilidade: 2/5, Impacto: 5/5, Nível: Médio
+  Mitigação: Comunicar benefícios da mudança
+
+- R05: Problemas de integração com sistemas legados
+  Probabilidade: 5/5, Impacto: 2/5, Nível: Médio
+  Mitigação: Gerenciar dependências ativamente
+
+- R06: Falhas de segurança
+  Probabilidade: 2/5, Impacto: 4/5, Nível: Médio
+  Mitigação: Implementar redundância de infraestrutura
+
+- R07: Problemas de compatibilidade
+  Probabilidade: 1/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Realizar testes de integração antecipados
+
+Riscos ocorridos:

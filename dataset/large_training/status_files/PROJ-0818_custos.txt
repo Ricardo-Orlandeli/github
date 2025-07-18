@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A arte de realizar seus sonhos com toda a tranquilidade (PROJ-0818)
+Data: 14/07/2025
+Gerente: Isabela Costa
+
+Orçamento inicial: R$ 3671738.00
+Custo real atual: R$ 3545251.65
+Desvio orçamentário: -3.44%
+Índice de Desempenho de Custo (CPI): 0.89
+Valor Agregado (EV): R$ 3164635.28
+Estimativa para conclusão: R$ 568092.87
+Estimativa no término (EAC): R$ 4113344.52
+Variação no término (VAC): R$ -441606.52
+
+Detalhamento por categoria:
+- Pessoal: R$ 1945525.42 (54.9%)
+- Equipamentos: R$ 409897.77 (11.6%)
+- Software: R$ 370597.39 (10.5%)
+- Serviços: R$ 625158.71 (17.6%)
+- Outros: R$ 194072.36 (5.5%)

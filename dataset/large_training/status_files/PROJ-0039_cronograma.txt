@@ -1,0 +1,25 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A vantagem de mudar de maneira eficaz (PROJ-0039)
+Data: 14/07/2025
+Gerente: Beatriz Castro
+
+Status atual: Cancelado
+Percentual de conclusão: 61.4%
+Data de início: 21/01/2025
+Data de término planejada: 11/06/2025
+Data de término real/prevista: 17/04/2025
+Atraso atual: 33 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 0.61
+Valor Planejado (PV): R$ 4522626.00
+Valor Agregado (EV): R$ 2777056.06
+
+Tarefas críticas:
+- Desenvolvimento da interface do usuário
+- Implementação da API REST
+- Implementação do módulo de relatórios
+- Configuração da infraestrutura
+- Implementação do sistema de backup
+- Implementação da API REST
+
+Tarefas atrasadas:

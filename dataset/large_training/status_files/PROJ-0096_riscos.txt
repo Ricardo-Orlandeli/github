@@ -1,0 +1,47 @@
+RELATÓRIO DE STATUS DE RISCOS
+Projeto: A simplicidade de conseguir simplesmente (PROJ-0096)
+Data: 14/07/2025
+Gerente: Dr. Ravi Lucca Ramos
+
+Riscos identificados:
+- R01: Indisponibilidade de recursos especializados
+  Probabilidade: 2/5, Impacto: 3/5, Nível: Baixo
+  Mitigação: Estabelecer canais de comunicação claros
+
+- R02: Estimativas imprecisas
+  Probabilidade: 3/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Comunicar benefícios da mudança
+
+- R03: Problemas de compatibilidade
+  Probabilidade: 2/5, Impacto: 5/5, Nível: Médio
+  Mitigação: Contratar pessoal adicional
+
+- R04: Problemas de compatibilidade
+  Probabilidade: 2/5, Impacto: 4/5, Nível: Médio
+  Mitigação: Melhorar a documentação de requisitos
+
+- R05: Indisponibilidade de recursos especializados
+  Probabilidade: 5/5, Impacto: 3/5, Nível: Médio
+  Mitigação: Monitorar mudanças regulatórias
+
+- R06: Falhas de segurança
+  Probabilidade: 1/5, Impacto: 4/5, Nível: Baixo
+  Mitigação: Implementar redundância de infraestrutura
+
+- R07: Problemas de comunicação com stakeholders
+  Probabilidade: 1/5, Impacto: 5/5, Nível: Baixo
+  Mitigação: Gerenciar dependências ativamente
+
+- R08: Problemas de desempenho
+  Probabilidade: 1/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Contratar pessoal adicional
+
+- R09: Dependências externas não cumpridas
+  Probabilidade: 4/5, Impacto: 4/5, Nível: Alto
+  Mitigação: Testar compatibilidade em diferentes ambientes
+
+Riscos ocorridos:
+- R05 (ocorrido em 23/08/2024)
+  Impacto real: Atraso de 2 semanas no cronograma
+  Ações tomadas: Revisão de processos
+

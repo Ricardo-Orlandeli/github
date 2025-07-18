@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O poder de inovar antes de tudo (PROJ-0017)
+Data: 14/07/2025
+Gerente: Ana Beatriz Fernandes
+
+Orçamento inicial: R$ 3223377.00
+Custo real atual: R$ 2506570.17
+Desvio orçamentário: -22.24%
+Índice de Desempenho de Custo (CPI): 1.21
+Valor Agregado (EV): R$ 3023163.29
+Estimativa para conclusão: R$ 166001.53
+Estimativa no término (EAC): R$ 2672571.70
+Variação no término (VAC): R$ 550805.30
+
+Detalhamento por categoria:
+- Pessoal: R$ 1128291.97 (45.0%)
+- Equipamentos: R$ 414914.19 (16.6%)
+- Software: R$ 259250.85 (10.3%)
+- Serviços: R$ 468133.97 (18.7%)
+- Outros: R$ 235979.19 (9.4%)

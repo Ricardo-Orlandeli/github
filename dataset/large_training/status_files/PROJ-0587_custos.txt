@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A vantagem de evoluir mais facilmente (PROJ-0587)
+Data: 14/07/2025
+Gerente: Cauê Mendonça
+
+Orçamento inicial: R$ 4751159.00
+Custo real atual: R$ 4557643.79
+Desvio orçamentário: -4.07%
+Índice de Desempenho de Custo (CPI): 1.04
+Valor Agregado (EV): R$ 4746407.84
+Estimativa para conclusão: R$ 4562.21
+Estimativa no término (EAC): R$ 4562206.00
+Variação no término (VAC): R$ 188953.00
+
+Detalhamento por categoria:
+- Pessoal: R$ 2152347.16 (47.2%)
+- Equipamentos: R$ 523959.23 (11.5%)
+- Software: R$ 713944.51 (15.7%)
+- Serviços: R$ 778834.96 (17.1%)
+- Outros: R$ 388557.92 (8.5%)

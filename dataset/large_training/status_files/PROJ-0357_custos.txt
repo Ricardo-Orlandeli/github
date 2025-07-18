@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A liberdade de concretizar seus projetos em estado puro (PROJ-0357)
+Data: 14/07/2025
+Gerente: Matteo Rios
+
+Orçamento inicial: R$ 1886615.00
+Custo real atual: R$ 1662978.41
+Desvio orçamentário: -11.85%
+Índice de Desempenho de Custo (CPI): 1.11
+Valor Agregado (EV): R$ 1841813.50
+Estimativa para conclusão: R$ 40451.40
+Estimativa no término (EAC): R$ 1703429.81
+Variação no término (VAC): R$ 183185.19
+
+Detalhamento por categoria:
+- Pessoal: R$ 848759.03 (51.0%)
+- Equipamentos: R$ 312604.83 (18.8%)
+- Software: R$ 107241.82 (6.4%)
+- Serviços: R$ 304033.19 (18.3%)
+- Outros: R$ 90339.55 (5.4%)

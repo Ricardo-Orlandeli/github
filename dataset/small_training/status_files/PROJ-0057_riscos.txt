@@ -1,0 +1,19 @@
+RELATÓRIO DE STATUS DE RISCOS
+Projeto: A segurança de conseguir simplesmente (PROJ-0057)
+Data: 14/07/2025
+Gerente: Bruna Marques
+
+Riscos identificados:
+- R01: Falhas em testes de aceitação
+  Probabilidade: 2/5, Impacto: 2/5, Nível: Baixo
+  Mitigação: Testar compatibilidade em diferentes ambientes
+
+- R02: Falhas em testes de aceitação
+  Probabilidade: 2/5, Impacto: 2/5, Nível: Baixo
+  Mitigação: Gerenciar dependências ativamente
+
+- R03: Problemas de integração com sistemas legados
+  Probabilidade: 3/5, Impacto: 4/5, Nível: Médio
+  Mitigação: Otimizar código e infraestrutura
+
+Riscos ocorridos:

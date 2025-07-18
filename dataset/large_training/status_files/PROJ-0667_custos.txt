@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O poder de concretizar seus projetos mais rapidamente (PROJ-0667)
+Data: 14/07/2025
+Gerente: Allana Porto
+
+Orçamento inicial: R$ 1240591.00
+Custo real atual: R$ 1052566.68
+Desvio orçamentário: -15.16%
+Índice de Desempenho de Custo (CPI): 1.18
+Valor Agregado (EV): R$ 1240591.00
+Estimativa para conclusão: R$ 0.00
+Estimativa no término (EAC): R$ 1052566.68
+Variação no término (VAC): R$ 188024.32
+
+Detalhamento por categoria:
+- Pessoal: R$ 548208.27 (52.1%)
+- Equipamentos: R$ 191429.85 (18.2%)
+- Software: R$ 96461.25 (9.2%)
+- Serviços: R$ 151524.55 (14.4%)
+- Outros: R$ 64942.75 (6.2%)

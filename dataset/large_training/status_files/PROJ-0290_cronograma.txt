@@ -1,0 +1,23 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: O direito de concretizar seus projetos mais rapidamente (PROJ-0290)
+Data: 14/07/2025
+Gerente: Ana Julia Cassiano
+
+Status atual: Em andamento
+Percentual de conclusão: 44.4%
+Data de início: 18/02/2025
+Data de término planejada: 21/01/2026
+Data de término real/prevista: 18/01/2026
+Atraso atual: 0 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 0.88
+Valor Planejado (PV): R$ 1789054.97
+Valor Agregado (EV): R$ 1832876.36
+
+Tarefas críticas:
+- Implementação do módulo de relatórios
+- Desenvolvimento do módulo de autenticação
+- Implementação do módulo de relatórios
+- Implementação do sistema de backup
+
+Tarefas atrasadas:

@@ -1,0 +1,23 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: O direito de atingir seus objetivos naturalmente (PROJ-0658)
+Data: 14/07/2025
+Gerente: Hellena Casa Grande
+
+Status atual: Em andamento
+Percentual de conclusão: 99.9%
+Data de início: 04/09/2023
+Data de término planejada: 29/11/2023
+Data de término real/prevista: 24/11/2023
+Atraso atual: 593 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 0.97
+Valor Planejado (PV): R$ 2848518.00
+Valor Agregado (EV): R$ 2845669.48
+
+Tarefas críticas:
+- Implementação do módulo de notificações
+- Integração com sistema de pagamentos
+- Integração com sistema de pagamentos
+- Integração com sistema de pagamentos
+
+Tarefas atrasadas:

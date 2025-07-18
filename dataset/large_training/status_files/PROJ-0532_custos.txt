@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A arte de avançar mais facilmente (PROJ-0532)
+Data: 14/07/2025
+Gerente: Alexandre Mendonça
+
+Orçamento inicial: R$ 3482588.00
+Custo real atual: R$ 3145299.87
+Desvio orçamentário: -9.68%
+Índice de Desempenho de Custo (CPI): 0.97
+Valor Agregado (EV): R$ 3059085.61
+Estimativa para conclusão: R$ 435437.97
+Estimativa no término (EAC): R$ 3580737.84
+Variação no término (VAC): R$ -98149.84
+
+Detalhamento por categoria:
+- Pessoal: R$ 1595253.54 (50.7%)
+- Equipamentos: R$ 508877.73 (16.2%)
+- Software: R$ 322399.40 (10.3%)
+- Serviços: R$ 545023.75 (17.3%)
+- Outros: R$ 173745.46 (5.5%)

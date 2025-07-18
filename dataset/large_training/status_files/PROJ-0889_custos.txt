@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A liberdade de realizar seus sonhos em estado puro (PROJ-0889)
+Data: 14/07/2025
+Gerente: Maria Alice Aparecida
+
+Orçamento inicial: R$ 2584334.00
+Custo real atual: R$ 1985767.41
+Desvio orçamentário: -23.16%
+Índice de Desempenho de Custo (CPI): 0.68
+Valor Agregado (EV): R$ 1343876.22
+Estimativa para conclusão: R$ 1832952.02
+Estimativa no término (EAC): R$ 3818719.43
+Variação no término (VAC): R$ -1234385.43
+
+Detalhamento por categoria:
+- Pessoal: R$ 1095169.92 (55.2%)
+- Equipamentos: R$ 226186.90 (11.4%)
+- Software: R$ 213679.01 (10.8%)
+- Serviços: R$ 316934.77 (16.0%)
+- Outros: R$ 133796.81 (6.7%)

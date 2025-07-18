@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A liberdade de inovar mais facilmente (PROJ-0848)
+Data: 14/07/2025
+Gerente: Isis Pinto
+
+Orçamento inicial: R$ 4560337.00
+Custo real atual: R$ 1190744.21
+Desvio orçamentário: -21.42%
+Índice de Desempenho de Custo (CPI): 1.06
+Valor Agregado (EV): R$ 1261168.32
+Estimativa para conclusão: R$ 3114941.87
+Estimativa no término (EAC): R$ 4305686.08
+Variação no término (VAC): R$ 254650.92
+
+Detalhamento por categoria:
+- Pessoal: R$ 530409.42 (44.5%)
+- Equipamentos: R$ 222551.89 (18.7%)
+- Software: R$ 87367.79 (7.3%)
+- Serviços: R$ 231661.54 (19.5%)
+- Outros: R$ 118753.57 (10.0%)

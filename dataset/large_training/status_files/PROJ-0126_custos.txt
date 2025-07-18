@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O direito de atingir seus objetivos direto da fonte (PROJ-0126)
+Data: 14/07/2025
+Gerente: Caio Moreira
+
+Orçamento inicial: R$ 4352273.00
+Custo real atual: R$ 3300190.14
+Desvio orçamentário: -24.17%
+Índice de Desempenho de Custo (CPI): 1.11
+Valor Agregado (EV): R$ 3661895.63
+Estimativa para conclusão: R$ 622185.02
+Estimativa no término (EAC): R$ 3922375.16
+Variação no término (VAC): R$ 429897.84
+
+Detalhamento por categoria:
+- Pessoal: R$ 1579700.20 (47.9%)
+- Equipamentos: R$ 499943.41 (15.1%)
+- Software: R$ 390724.70 (11.8%)
+- Serviços: R$ 554109.47 (16.8%)
+- Outros: R$ 275712.36 (8.4%)

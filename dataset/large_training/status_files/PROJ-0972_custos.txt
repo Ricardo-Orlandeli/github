@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A simplicidade de inovar antes de tudo (PROJ-0972)
+Data: 14/07/2025
+Gerente: Ana Cirino
+
+Orçamento inicial: R$ 2863956.00
+Custo real atual: R$ 2618510.06
+Desvio orçamentário: 34.52%
+Índice de Desempenho de Custo (CPI): 1.09
+Valor Agregado (EV): R$ 2863956.00
+Estimativa para conclusão: R$ 0.00
+Estimativa no término (EAC): R$ 2618510.06
+Variação no término (VAC): R$ 245445.94
+
+Detalhamento por categoria:
+- Pessoal: R$ 1411064.50 (53.9%)
+- Equipamentos: R$ 367600.32 (14.0%)
+- Software: R$ 158490.34 (6.1%)
+- Serviços: R$ 495436.74 (18.9%)
+- Outros: R$ 185918.15 (7.1%)

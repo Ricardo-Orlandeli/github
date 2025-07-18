@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A possibilidade de evoluir sem preocupação (PROJ-0186)
+Data: 14/07/2025
+Gerente: Ana Cecília Rocha
+
+Orçamento inicial: R$ 1127866.00
+Custo real atual: R$ 1071273.54
+Desvio orçamentário: -3.15%
+Índice de Desempenho de Custo (CPI): 1.05
+Valor Agregado (EV): R$ 1121458.05
+Estimativa para conclusão: R$ 6121.19
+Estimativa no término (EAC): R$ 1077394.73
+Variação no término (VAC): R$ 50471.27
+
+Detalhamento por categoria:
+- Pessoal: R$ 534807.33 (49.9%)
+- Equipamentos: R$ 112215.08 (10.5%)
+- Software: R$ 156217.35 (14.6%)
+- Serviços: R$ 161922.66 (15.1%)
+- Outros: R$ 106111.10 (9.9%)

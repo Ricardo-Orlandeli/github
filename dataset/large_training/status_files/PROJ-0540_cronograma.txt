@@ -1,0 +1,27 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A liberdade de ganhar naturalmente (PROJ-0540)
+Data: 14/07/2025
+Gerente: Antônio Peixoto
+
+Status atual: Atrasado
+Percentual de conclusão: 41.9%
+Data de início: 22/03/2025
+Data de término planejada: 27/09/2025
+Data de término real/prevista: 15/01/2026
+Atraso atual: 0 dias
+Motivo do atraso: Falhas em testes de aceitação
+Índice de Desempenho de Cronograma (SPI): 0.69
+Valor Planejado (PV): R$ 2783874.57
+Valor Agregado (EV): R$ 1932551.66
+
+Tarefas críticas:
+- Implementação do módulo de exportação de dados
+- Implementação do módulo de relatórios
+- Desenvolvimento do painel administrativo
+- Implementação do módulo de notificações
+- Implementação do módulo de relatórios
+- Implementação do módulo de notificações
+
+Tarefas atrasadas:
+- Implementação do módulo de notificações
+- Implementação do módulo de relatórios

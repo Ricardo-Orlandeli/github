@@ -1,0 +1,23 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A arte de concretizar seus projetos com força total (PROJ-0522)
+Data: 14/07/2025
+Gerente: Dr. Juan Santos
+
+Status atual: Em andamento
+Percentual de conclusão: 83.9%
+Data de início: 02/03/2024
+Data de término planejada: 04/04/2024
+Data de término real/prevista: 21/03/2024
+Atraso atual: 466 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.12
+Valor Planejado (PV): R$ 2756559.00
+Valor Agregado (EV): R$ 2312701.64
+
+Tarefas críticas:
+- Testes de segurança
+- Testes de aceitação do usuário
+- Integração com sistema de pagamentos
+- Implementação do módulo de relatórios
+
+Tarefas atrasadas:

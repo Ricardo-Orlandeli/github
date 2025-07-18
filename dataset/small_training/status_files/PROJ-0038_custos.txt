@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A liberdade de mudar em estado puro (PROJ-0038)
+Data: 14/07/2025
+Gerente: João Pedro Silva
+
+Orçamento inicial: R$ 1483487.00
+Custo real atual: R$ 1702113.88
+Desvio orçamentário: 14.74%
+Índice de Desempenho de Custo (CPI): 0.87
+Valor Agregado (EV): R$ 1482003.51
+Estimativa para conclusão: R$ 1703.82
+Estimativa no término (EAC): R$ 1703817.70
+Variação no término (VAC): R$ -220330.70
+
+Detalhamento por categoria:
+- Pessoal: R$ 871734.49 (51.2%)
+- Equipamentos: R$ 230743.86 (13.6%)
+- Software: R$ 255852.05 (15.0%)
+- Serviços: R$ 211935.94 (12.5%)
+- Outros: R$ 131847.54 (7.7%)

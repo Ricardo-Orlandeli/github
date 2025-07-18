@@ -1,0 +1,24 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: O conforto de inovar com força total (PROJ-0879)
+Data: 14/07/2025
+Gerente: Amanda Pastor
+
+Status atual: Em andamento
+Percentual de conclusão: 68.5%
+Data de início: 11/12/2024
+Data de término planejada: 28/11/2025
+Data de término real/prevista: 24/11/2025
+Atraso atual: 0 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 0.90
+Valor Planejado (PV): R$ 884799.52
+Valor Agregado (EV): R$ 991966.20
+
+Tarefas críticas:
+- Configuração da infraestrutura
+- Desenvolvimento da interface do usuário
+- Desenvolvimento do módulo de autenticação
+- Migração de dados legados
+- Implementação do sistema de backup
+
+Tarefas atrasadas:

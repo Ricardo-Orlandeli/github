@@ -1,0 +1,22 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A segurança de conseguir mais rapidamente (PROJ-0073)
+Data: 14/07/2025
+Gerente: Sra. Lorena Abreu
+
+Status atual: Em andamento
+Percentual de conclusão: 99.9%
+Data de início: 23/12/2023
+Data de término planejada: 13/05/2024
+Data de término real/prevista: 02/05/2024
+Atraso atual: 427 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 0.91
+Valor Planejado (PV): R$ 4985715.00
+Valor Agregado (EV): R$ 4980729.29
+
+Tarefas críticas:
+- Testes de segurança
+- Migração de dados legados
+- Testes de aceitação do usuário
+
+Tarefas atrasadas:

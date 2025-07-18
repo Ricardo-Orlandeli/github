@@ -1,0 +1,31 @@
+RELATÓRIO DE STATUS DE RISCOS
+Projeto: A vantagem de evoluir com força total (PROJ-0505)
+Data: 14/07/2025
+Gerente: Melina Freitas
+
+Riscos identificados:
+- R01: Problemas de comunicação com stakeholders
+  Probabilidade: 1/5, Impacto: 4/5, Nível: Baixo
+  Mitigação: Gerenciar dependências ativamente
+
+- R02: Mudanças regulatórias
+  Probabilidade: 3/5, Impacto: 5/5, Nível: Médio
+  Mitigação: Buscar fornecedores alternativos
+
+- R03: Falhas em testes de aceitação
+  Probabilidade: 4/5, Impacto: 5/5, Nível: Alto
+  Mitigação: Realizar testes de aceitação com usuários-chave
+
+- R04: Requisitos mal definidos
+  Probabilidade: 4/5, Impacto: 4/5, Nível: Alto
+  Mitigação: Comunicar benefícios da mudança
+
+- R05: Estimativas imprecisas
+  Probabilidade: 1/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Refinar estimativas com base em dados históricos
+
+- R06: Falhas em testes de aceitação
+  Probabilidade: 1/5, Impacto: 2/5, Nível: Baixo
+  Mitigação: Realizar testes de integração antecipados
+
+Riscos ocorridos:

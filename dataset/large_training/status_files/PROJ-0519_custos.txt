@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A segurança de atingir seus objetivos mais facilmente (PROJ-0519)
+Data: 14/07/2025
+Gerente: Leonardo Santos
+
+Orçamento inicial: R$ 2297762.00
+Custo real atual: R$ 189302.29
+Desvio orçamentário: -15.42%
+Índice de Desempenho de Custo (CPI): 1.06
+Valor Agregado (EV): R$ 201251.01
+Estimativa para conclusão: R$ 1972036.56
+Estimativa no término (EAC): R$ 2161338.85
+Variação no término (VAC): R$ 136423.15
+
+Detalhamento por categoria:
+- Pessoal: R$ 84482.61 (44.6%)
+- Equipamentos: R$ 31803.41 (16.8%)
+- Software: R$ 20785.52 (11.0%)
+- Serviços: R$ 40341.71 (21.3%)
+- Outros: R$ 11889.04 (6.3%)

@@ -1,0 +1,26 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A possibilidade de atingir seus objetivos em estado puro (PROJ-0317)
+Data: 14/07/2025
+Gerente: Olívia Cirino
+
+Status atual: Atrasado
+Percentual de conclusão: 58.6%
+Data de início: 09/02/2025
+Data de término planejada: 14/06/2025
+Data de término real/prevista: 23/07/2025
+Atraso atual: 30 dias
+Motivo do atraso: Problemas de integração com sistemas legados
+Índice de Desempenho de Cronograma (SPI): 0.59
+Valor Planejado (PV): R$ 4303127.00
+Valor Agregado (EV): R$ 2519571.90
+
+Tarefas críticas:
+- Desenvolvimento da interface do usuário
+- Implementação do módulo de análise de dados
+- Desenvolvimento do módulo de autenticação
+- Implementação do módulo de relatórios
+- Integração com sistema de pagamentos
+- Implementação do módulo de notificações
+
+Tarefas atrasadas:
+- Implementação do módulo de relatórios

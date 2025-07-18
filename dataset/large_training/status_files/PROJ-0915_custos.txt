@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A liberdade de ganhar com toda a tranquilidade (PROJ-0915)
+Data: 14/07/2025
+Gerente: Jade Vargas
+
+Orçamento inicial: R$ 3253919.00
+Custo real atual: R$ 3783954.10
+Desvio orçamentário: 16.29%
+Índice de Desempenho de Custo (CPI): 0.86
+Valor Agregado (EV): R$ 3250665.08
+Estimativa para conclusão: R$ 3787.74
+Estimativa no término (EAC): R$ 3787741.84
+Variação no término (VAC): R$ -533822.84
+
+Detalhamento por categoria:
+- Pessoal: R$ 1748840.19 (46.2%)
+- Equipamentos: R$ 646441.76 (17.1%)
+- Software: R$ 375848.87 (9.9%)
+- Serviços: R$ 697910.88 (18.4%)
+- Outros: R$ 314912.39 (8.3%)

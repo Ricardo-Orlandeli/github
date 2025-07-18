@@ -1,0 +1,27 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A possibilidade de conseguir antes de tudo (PROJ-0049)
+Data: 14/07/2025
+Gerente: Dr. Lucas Gabriel Lopes
+
+Status atual: Em andamento
+Percentual de conclusão: 99.9%
+Data de início: 04/05/2024
+Data de término planejada: 28/10/2024
+Data de término real/prevista: 07/11/2024
+Atraso atual: 259 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.04
+Valor Planejado (PV): R$ 2544103.00
+Valor Agregado (EV): R$ 2541558.90
+
+Tarefas críticas:
+- Implementação do sistema de backup
+- Desenvolvimento do módulo de autenticação
+- Desenvolvimento do painel administrativo
+- Implementação do módulo de exportação de dados
+- Implementação do sistema de backup
+- Implementação do módulo de análise de dados
+- Migração de dados legados
+- Testes de segurança
+
+Tarefas atrasadas:

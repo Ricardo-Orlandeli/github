@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O conforto de concretizar seus projetos mais facilmente (PROJ-0517)
+Data: 14/07/2025
+Gerente: Stephany Santos
+
+Orçamento inicial: R$ 2961542.00
+Custo real atual: R$ 393850.21
+Desvio orçamentário: 19.69%
+Índice de Desempenho de Custo (CPI): 1.00
+Valor Agregado (EV): R$ 393926.99
+Estimativa para conclusão: R$ 2567114.56
+Estimativa no término (EAC): R$ 2960964.77
+Variação no término (VAC): R$ 577.23
+
+Detalhamento por categoria:
+- Pessoal: R$ 190755.55 (48.4%)
+- Equipamentos: R$ 73016.79 (18.5%)
+- Software: R$ 48038.74 (12.2%)
+- Serviços: R$ 50450.21 (12.8%)
+- Outros: R$ 31588.92 (8.0%)

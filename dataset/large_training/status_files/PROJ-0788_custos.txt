@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A simplicidade de realizar seus sonhos simplesmente (PROJ-0788)
+Data: 14/07/2025
+Gerente: Benício Caldeira
+
+Orçamento inicial: R$ 4384112.00
+Custo real atual: R$ 3770401.12
+Desvio orçamentário: -14.00%
+Índice de Desempenho de Custo (CPI): 1.16
+Valor Agregado (EV): R$ 4369789.93
+Estimativa para conclusão: R$ 12357.57
+Estimativa no término (EAC): R$ 3782758.68
+Variação no término (VAC): R$ 601353.32
+
+Detalhamento por categoria:
+- Pessoal: R$ 2115322.89 (56.1%)
+- Equipamentos: R$ 628544.24 (16.7%)
+- Software: R$ 239149.56 (6.3%)
+- Serviços: R$ 541001.59 (14.3%)
+- Outros: R$ 246382.84 (6.5%)

@@ -1,0 +1,24 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A certeza de inovar sem preocupação (PROJ-0707)
+Data: 14/07/2025
+Gerente: Léo Macedo
+
+Status atual: Em andamento
+Percentual de conclusão: 99.9%
+Data de início: 08/05/2024
+Data de término planejada: 03/07/2024
+Data de término real/prevista: 17/07/2024
+Atraso atual: 376 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 0.88
+Valor Planejado (PV): R$ 2410468.00
+Valor Agregado (EV): R$ 2408057.53
+
+Tarefas críticas:
+- Migração de dados legados
+- Implementação do módulo de notificações
+- Desenvolvimento do painel administrativo
+- Desenvolvimento do painel administrativo
+- Configuração do ambiente de produção
+
+Tarefas atrasadas:

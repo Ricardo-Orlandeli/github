@@ -1,0 +1,26 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A liberdade de conseguir com confiança (PROJ-0215)
+Data: 14/07/2025
+Gerente: Thomas Pereira
+
+Status atual: Concluído
+Percentual de conclusão: 100.0%
+Data de início: 16/01/2024
+Data de término planejada: 04/11/2024
+Data de término real/prevista: 17/10/2024
+Atraso atual: 252 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.05
+Valor Planejado (PV): R$ 2430470.00
+Valor Agregado (EV): R$ 2430470.00
+
+Tarefas críticas:
+- Implementação do módulo de relatórios
+- Implementação do sistema de backup
+- Testes de aceitação do usuário
+- Desenvolvimento da interface do usuário
+- Implementação do módulo de análise de dados
+- Implementação do módulo de análise de dados
+- Implementação da API REST
+
+Tarefas atrasadas:

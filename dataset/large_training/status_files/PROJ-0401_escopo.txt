@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE ESCOPO
+Projeto: O prazer de conseguir com toda a tranquilidade (PROJ-0401)
+Data: 14/07/2025
+Gerente: Srta. Isabelly Sampaio
+
+Escopo original: Sistema para o prazer de conseguir com toda a tranquilidade
+Houve mudança de escopo: Não
+Descrição das mudanças: N/A
+Impacto no cronograma: 0 dias
+Impacto no custo: R$ 0.00
+
+Solicitações de mudança:
+
+Requisitos atuais:
+- REQ-01: O sistema deve ser compatível com navegadores modernos
+- REQ-02: O sistema deve passar por testes de segurança
+- REQ-03: O sistema deve ter documentação completa
+- REQ-04: O sistema deve registrar logs de auditoria
+- REQ-05: O sistema deve implementar criptografia de dados sensíveis
+- REQ-06: O sistema deve ser compatível com dispositivos móveis

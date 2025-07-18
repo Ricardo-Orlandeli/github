@@ -1,0 +1,22 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: O poder de concretizar seus projetos simplesmente (PROJ-0088)
+Data: 14/07/2025
+Gerente: Laura Correia
+
+Status atual: Em andamento
+Percentual de conclusão: 5.2%
+Data de início: 05/07/2025
+Data de término planejada: 29/12/2025
+Data de término real/prevista: 28/01/2026
+Atraso atual: 0 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.13
+Valor Planejado (PV): R$ 160724.95
+Valor Agregado (EV): R$ 164809.90
+
+Tarefas críticas:
+- Implementação do sistema de backup
+- Implementação do módulo de relatórios
+- Configuração da infraestrutura
+
+Tarefas atrasadas:

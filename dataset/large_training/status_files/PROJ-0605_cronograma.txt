@@ -1,0 +1,24 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: O conforto de evoluir em estado puro (PROJ-0605)
+Data: 14/07/2025
+Gerente: Sra. Maitê das Neves
+
+Status atual: Em andamento
+Percentual de conclusão: 89.1%
+Data de início: 30/05/2024
+Data de término planejada: 29/09/2024
+Data de término real/prevista: 24/09/2024
+Atraso atual: 288 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 0.99
+Valor Planejado (PV): R$ 2203590.00
+Valor Agregado (EV): R$ 1962389.20
+
+Tarefas críticas:
+- Desenvolvimento da interface do usuário
+- Desenvolvimento do módulo de autenticação
+- Implementação da API REST
+- Desenvolvimento da interface do usuário
+- Implementação do sistema de backup
+
+Tarefas atrasadas:

@@ -1,0 +1,27 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: O conforto de mudar sem preocupação (PROJ-0627)
+Data: 14/07/2025
+Gerente: Dra. Stephany Sampaio
+
+Status atual: Concluído
+Percentual de conclusão: 100.0%
+Data de início: 08/05/2024
+Data de término planejada: 23/06/2024
+Data de término real/prevista: 02/07/2024
+Atraso atual: 386 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 0.96
+Valor Planejado (PV): R$ 4944259.00
+Valor Agregado (EV): R$ 4944259.00
+
+Tarefas críticas:
+- Implementação do sistema de backup
+- Testes de aceitação do usuário
+- Configuração do ambiente de produção
+- Implementação do módulo de relatórios
+- Implementação do módulo de relatórios
+- Implementação da API REST
+- Configuração do ambiente de produção
+- Implementação do sistema de backup
+
+Tarefas atrasadas:

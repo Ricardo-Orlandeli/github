@@ -1,0 +1,35 @@
+RELATÓRIO DE STATUS DE RISCOS
+Projeto: A segurança de mudar simplesmente (PROJ-0485)
+Data: 14/07/2025
+Gerente: Emanuel Dias
+
+Riscos identificados:
+- R01: Requisitos mal definidos
+  Probabilidade: 1/5, Impacto: 3/5, Nível: Baixo
+  Mitigação: Realizar testes de aceitação com usuários-chave
+
+- R02: Resistência dos usuários à mudança
+  Probabilidade: 2/5, Impacto: 3/5, Nível: Baixo
+  Mitigação: Testar compatibilidade em diferentes ambientes
+
+- R03: Dependências externas não cumpridas
+  Probabilidade: 3/5, Impacto: 4/5, Nível: Médio
+  Mitigação: Otimizar código e infraestrutura
+
+- R04: Problemas de desempenho
+  Probabilidade: 3/5, Impacto: 3/5, Nível: Médio
+  Mitigação: Fortalecer medidas de segurança
+
+- R05: Problemas de comunicação com stakeholders
+  Probabilidade: 2/5, Impacto: 5/5, Nível: Médio
+  Mitigação: Comunicar benefícios da mudança
+
+Riscos ocorridos:
+- R02 (ocorrido em 01/03/2025)
+  Impacto real: Indisponibilidade temporária
+  Ações tomadas: Realocação de recursos
+
+- R01 (ocorrido em 10/05/2025)
+  Impacto real: Perda de recursos-chave
+  Ações tomadas: Realocação de recursos
+

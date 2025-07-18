@@ -1,0 +1,25 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A possibilidade de evoluir antes de tudo (PROJ-0371)
+Data: 14/07/2025
+Gerente: João Felipe Rios
+
+Status atual: Em andamento
+Percentual de conclusão: 99.9%
+Data de início: 05/09/2023
+Data de término planejada: 30/08/2024
+Data de término real/prevista: 20/08/2024
+Atraso atual: 318 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.15
+Valor Planejado (PV): R$ 1141432.00
+Valor Agregado (EV): R$ 1140290.57
+
+Tarefas críticas:
+- Integração com sistema de pagamentos
+- Testes de aceitação do usuário
+- Implementação da API REST
+- Configuração da infraestrutura
+- Integração com sistema de pagamentos
+- Implementação da API REST
+
+Tarefas atrasadas:

@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A possibilidade de atingir seus objetivos mais facilmente (PROJ-0354)
+Data: 14/07/2025
+Gerente: André Azevedo
+
+Orçamento inicial: R$ 1203177.00
+Custo real atual: R$ 1349934.44
+Desvio orçamentário: 12.20%
+Índice de Desempenho de Custo (CPI): 0.89
+Valor Agregado (EV): R$ 1201973.82
+Estimativa para conclusão: R$ 1351.29
+Estimativa no término (EAC): R$ 1351285.73
+Variação no término (VAC): R$ -148108.73
+
+Detalhamento por categoria:
+- Pessoal: R$ 712959.05 (52.8%)
+- Equipamentos: R$ 236383.43 (17.5%)
+- Software: R$ 97864.80 (7.2%)
+- Serviços: R$ 213332.88 (15.8%)
+- Outros: R$ 89394.28 (6.6%)

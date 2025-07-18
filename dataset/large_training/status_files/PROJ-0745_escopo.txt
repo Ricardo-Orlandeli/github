@@ -1,0 +1,33 @@
+RELATÓRIO DE STATUS DE ESCOPO
+Projeto: O poder de conseguir mais facilmente (PROJ-0745)
+Data: 14/07/2025
+Gerente: Helena Leão
+
+Escopo original: Sistema para o poder de conseguir mais facilmente
+Houve mudança de escopo: Sim
+Descrição das mudanças: Redução do escopo devido a restrições orçamentárias
+Impacto no cronograma: 58 dias
+Impacto no custo: R$ 13172.25
+
+Solicitações de mudança:
+- SCM-01: Implementação de módulo de exportação de dados
+- SCM-02: Implementação de módulo de exportação de dados
+- SCM-03: Alteração na interface do usuário
+- SCM-04: Implementação de módulo de exportação de dados
+- SCM-05: Adição de funcionalidade de autenticação biométrica
+
+Requisitos atuais:
+- REQ-01: O sistema deve processar transações em menos de 2 seconds
+- REQ-02: O sistema deve permitir exportação de dados em formato CSV
+- REQ-03: O sistema deve passar por testes de segurança
+- REQ-04: O sistema deve ter documentação completa
+- REQ-05: O sistema deve processar transações em menos de 2 seconds
+- REQ-06: O sistema deve ter documentação completa
+- REQ-07: O sistema deve ter controle de acesso baseado em perfis
+- REQ-08: O sistema deve ser compatível com navegadores modernos
+- REQ-09: O sistema deve permitir autenticação de usuários
+- REQ-10: O sistema deve ter controle de acesso baseado em perfis
+- REQ-11: O sistema deve processar transações em menos de 2 seconds
+- REQ-12: O sistema deve ter documentação completa
+- REQ-13: O sistema deve permitir exportação de dados em formato CSV
+- REQ-14: O sistema deve ser compatível com dispositivos móveis

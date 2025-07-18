@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A vantagem de conseguir de maneira eficaz (PROJ-0182)
+Data: 14/07/2025
+Gerente: José Miguel Farias
+
+Orçamento inicial: R$ 2749550.00
+Custo real atual: R$ 1728758.13
+Desvio orçamentário: -6.82%
+Índice de Desempenho de Custo (CPI): 1.07
+Valor Agregado (EV): R$ 1846810.07
+Estimativa para conclusão: R$ 845034.91
+Estimativa no término (EAC): R$ 2573793.04
+Variação no término (VAC): R$ 175756.96
+
+Detalhamento por categoria:
+- Pessoal: R$ 903374.74 (52.3%)
+- Equipamentos: R$ 306889.57 (17.8%)
+- Software: R$ 94920.72 (5.5%)
+- Serviços: R$ 297188.27 (17.2%)
+- Outros: R$ 126384.83 (7.3%)

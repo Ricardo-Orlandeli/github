@@ -1,0 +1,27 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A certeza de concretizar seus projetos com toda a tranquilidade (PROJ-0441)
+Data: 14/07/2025
+Gerente: Maria Luísa Moraes
+
+Status atual: Atrasado
+Percentual de conclusão: 69.2%
+Data de início: 26/02/2025
+Data de término planejada: 08/07/2025
+Data de término real/prevista: 24/12/2025
+Atraso atual: 6 dias
+Motivo do atraso: Recursos insuficientes
+Índice de Desempenho de Cronograma (SPI): 0.69
+Valor Planejado (PV): R$ 4054285.00
+Valor Agregado (EV): R$ 2806111.48
+
+Tarefas críticas:
+- Testes de aceitação do usuário
+- Implementação do sistema de backup
+- Implementação do módulo de notificações
+- Implementação do sistema de backup
+- Testes de segurança
+- Configuração do ambiente de produção
+
+Tarefas atrasadas:
+- Implementação do sistema de backup
+- Configuração do ambiente de produção

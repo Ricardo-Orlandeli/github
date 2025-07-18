@@ -1,0 +1,24 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: O direito de atingir seus objetivos com toda a tranquilidade (PROJ-0467)
+Data: 14/07/2025
+Gerente: Srta. Maria Flor Nunes
+
+Status atual: Concluído
+Percentual de conclusão: 100.0%
+Data de início: 06/04/2025
+Data de término planejada: 26/01/2026
+Data de término real/prevista: 03/01/2026
+Atraso atual: 0 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.09
+Valor Planejado (PV): R$ 1016579.32
+Valor Agregado (EV): R$ 3029201.00
+
+Tarefas críticas:
+- Integração com sistema de pagamentos
+- Implementação da API REST
+- Implementação do módulo de análise de dados
+- Implementação do módulo de relatórios
+- Integração com sistema de pagamentos
+
+Tarefas atrasadas:

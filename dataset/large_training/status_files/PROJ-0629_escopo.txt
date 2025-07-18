@@ -1,0 +1,25 @@
+RELATÓRIO DE STATUS DE ESCOPO
+Projeto: A liberdade de avançar mais facilmente (PROJ-0629)
+Data: 14/07/2025
+Gerente: Dr. Anthony Gabriel Abreu
+
+Escopo original: Sistema para a liberdade de avançar mais facilmente
+Houve mudança de escopo: Sim
+Descrição das mudanças: Mudança na plataforma de implementação
+Impacto no cronograma: 38 dias
+Impacto no custo: R$ 306816.81
+
+Solicitações de mudança:
+- SCM-01: Mudança no banco de dados
+- SCM-02: Mudança na arquitetura do sistema
+
+Requisitos atuais:
+- REQ-01: O sistema deve permitir integração com APIs externas
+- REQ-02: O sistema deve processar transações em menos de 2 seconds
+- REQ-03: O sistema deve ser compatível com navegadores modernos
+- REQ-04: O sistema deve ser compatível com navegadores modernos
+- REQ-05: O sistema deve permitir autenticação de usuários
+- REQ-06: O sistema deve ter backup automático diário
+- REQ-07: O sistema deve permitir autenticação de usuários
+- REQ-08: O sistema deve ter backup automático diário
+- REQ-09: O sistema deve permitir exportação de dados em formato CSV

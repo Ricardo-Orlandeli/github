@@ -1,0 +1,24 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A segurança de avançar com confiança (PROJ-0980)
+Data: 14/07/2025
+Gerente: Luiz Felipe Marques
+
+Status atual: Concluído
+Percentual de conclusão: 100.0%
+Data de início: 26/08/2024
+Data de término planejada: 01/04/2025
+Data de término real/prevista: 26/04/2025
+Atraso atual: 104 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 0.95
+Valor Planejado (PV): R$ 3878441.00
+Valor Agregado (EV): R$ 3878441.00
+
+Tarefas críticas:
+- Implementação da API REST
+- Desenvolvimento do módulo de autenticação
+- Testes de aceitação do usuário
+- Desenvolvimento da interface do usuário
+- Configuração do ambiente de produção
+
+Tarefas atrasadas:

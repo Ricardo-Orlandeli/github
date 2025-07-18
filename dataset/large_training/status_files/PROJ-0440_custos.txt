@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O prazer de realizar seus sonhos direto da fonte (PROJ-0440)
+Data: 14/07/2025
+Gerente: Arthur Gabriel Vieira
+
+Orçamento inicial: R$ 464636.00
+Custo real atual: R$ 99897.40
+Desvio orçamentário: -1.10%
+Índice de Desempenho de Custo (CPI): 1.05
+Valor Agregado (EV): R$ 104938.43
+Estimativa para conclusão: R$ 342418.39
+Estimativa no término (EAC): R$ 442315.79
+Variação no término (VAC): R$ 22320.21
+
+Detalhamento por categoria:
+- Pessoal: R$ 51960.70 (52.0%)
+- Equipamentos: R$ 12577.49 (12.6%)
+- Software: R$ 14436.80 (14.5%)
+- Serviços: R$ 10610.07 (10.6%)
+- Outros: R$ 10312.34 (10.3%)

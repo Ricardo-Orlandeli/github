@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A segurança de ganhar com força total (PROJ-0859)
+Data: 14/07/2025
+Gerente: Sofia Correia
+
+Orçamento inicial: R$ 2696045.00
+Custo real atual: R$ 2422411.83
+Desvio orçamentário: -10.15%
+Índice de Desempenho de Custo (CPI): 1.11
+Valor Agregado (EV): R$ 2693348.96
+Estimativa para conclusão: R$ 2424.84
+Estimativa no término (EAC): R$ 2424836.67
+Variação no término (VAC): R$ 271208.33
+
+Detalhamento por categoria:
+- Pessoal: R$ 1155146.73 (47.7%)
+- Equipamentos: R$ 347231.56 (14.3%)
+- Software: R$ 340650.37 (14.1%)
+- Serviços: R$ 394849.70 (16.3%)
+- Outros: R$ 184533.47 (7.6%)

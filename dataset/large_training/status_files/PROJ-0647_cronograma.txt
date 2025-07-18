@@ -1,0 +1,22 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: O prazer de inovar naturalmente (PROJ-0647)
+Data: 14/07/2025
+Gerente: Eloá Ferreira
+
+Status atual: Em andamento
+Percentual de conclusão: 99.9%
+Data de início: 24/03/2024
+Data de término planejada: 13/10/2024
+Data de término real/prevista: 10/11/2024
+Atraso atual: 274 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.06
+Valor Planejado (PV): R$ 390871.00
+Valor Agregado (EV): R$ 390480.13
+
+Tarefas críticas:
+- Configuração do ambiente de produção
+- Testes de aceitação do usuário
+- Implementação do sistema de backup
+
+Tarefas atrasadas:

@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O conforto de ganhar simplesmente (PROJ-0683)
+Data: 14/07/2025
+Gerente: Luiz Felipe Nunes
+
+Orçamento inicial: R$ 1719228.00
+Custo real atual: R$ 1582096.95
+Desvio orçamentário: -7.98%
+Índice de Desempenho de Custo (CPI): 1.09
+Valor Agregado (EV): R$ 1719228.00
+Estimativa para conclusão: R$ 0.00
+Estimativa no término (EAC): R$ 1582096.95
+Variação no término (VAC): R$ 137131.05
+
+Detalhamento por categoria:
+- Pessoal: R$ 758439.48 (47.9%)
+- Equipamentos: R$ 298084.08 (18.8%)
+- Software: R$ 255309.43 (16.1%)
+- Serviços: R$ 177117.78 (11.2%)
+- Outros: R$ 93146.18 (5.9%)

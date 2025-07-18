@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O poder de avançar sem preocupação (PROJ-0229)
+Data: 14/07/2025
+Gerente: Pedro da Mota
+
+Orçamento inicial: R$ 2766271.00
+Custo real atual: R$ 2886888.07
+Desvio orçamentário: 287.32%
+Índice de Desempenho de Custo (CPI): 0.96
+Valor Agregado (EV): R$ 2766271.00
+Estimativa para conclusão: R$ 0.00
+Estimativa no término (EAC): R$ 2886888.07
+Variação no término (VAC): R$ -120617.07
+
+Detalhamento por categoria:
+- Pessoal: R$ 1419677.17 (49.2%)
+- Equipamentos: R$ 588173.23 (20.4%)
+- Software: R$ 241952.08 (8.4%)
+- Serviços: R$ 411075.64 (14.2%)
+- Outros: R$ 226009.96 (7.8%)

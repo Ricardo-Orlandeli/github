@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A certeza de mudar naturalmente (PROJ-0308)
+Data: 14/07/2025
+Gerente: Maria Luísa Ribeiro
+
+Orçamento inicial: R$ 1300950.00
+Custo real atual: R$ 1448581.24
+Desvio orçamentário: 11.35%
+Índice de Desempenho de Custo (CPI): 0.90
+Valor Agregado (EV): R$ 1300950.00
+Estimativa para conclusão: R$ 0.00
+Estimativa no término (EAC): R$ 1448581.24
+Variação no término (VAC): R$ -147631.24
+
+Detalhamento por categoria:
+- Pessoal: R$ 775069.45 (53.5%)
+- Equipamentos: R$ 246825.98 (17.0%)
+- Software: R$ 146823.13 (10.1%)
+- Serviços: R$ 206291.02 (14.2%)
+- Outros: R$ 73571.67 (5.1%)

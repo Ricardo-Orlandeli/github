@@ -1,0 +1,43 @@
+RELATÓRIO DE STATUS DE RISCOS
+Projeto: A vantagem de concretizar seus projetos com toda a tranquilidade (PROJ-0018)
+Data: 14/07/2025
+Gerente: Juan Fogaça
+
+Riscos identificados:
+- R01: Problemas de desempenho
+  Probabilidade: 4/5, Impacto: 5/5, Nível: Alto
+  Mitigação: Otimizar código e infraestrutura
+
+- R02: Problemas de integração com sistemas legados
+  Probabilidade: 1/5, Impacto: 2/5, Nível: Baixo
+  Mitigação: Fortalecer medidas de segurança
+
+- R03: Rotatividade de pessoal-chave
+  Probabilidade: 1/5, Impacto: 5/5, Nível: Baixo
+  Mitigação: Refinar estimativas com base em dados históricos
+
+- R04: Indisponibilidade de recursos especializados
+  Probabilidade: 5/5, Impacto: 2/5, Nível: Médio
+  Mitigação: Buscar fornecedores alternativos
+
+- R05: Rotatividade de pessoal-chave
+  Probabilidade: 2/5, Impacto: 4/5, Nível: Médio
+  Mitigação: Fortalecer medidas de segurança
+
+- R06: Falhas de infraestrutura
+  Probabilidade: 4/5, Impacto: 5/5, Nível: Alto
+  Mitigação: Buscar fornecedores alternativos
+
+Riscos ocorridos:
+- R05 (ocorrido em 07/06/2025)
+  Impacto real: Redução de funcionalidades
+  Ações tomadas: Implementação de soluções alternativas
+
+- R03 (ocorrido em 15/05/2025)
+  Impacto real: Redução de funcionalidades
+  Ações tomadas: Revisão do orçamento
+
+- R04 (ocorrido em 24/03/2025)
+  Impacto real: Problemas de qualidade
+  Ações tomadas: Implementação do plano de contingência
+

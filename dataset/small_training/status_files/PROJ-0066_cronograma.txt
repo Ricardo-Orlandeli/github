@@ -1,0 +1,26 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A possibilidade de ganhar com toda a tranquilidade (PROJ-0066)
+Data: 14/07/2025
+Gerente: Ana Liz Gomes
+
+Status atual: Em andamento
+Percentual de conclusão: 99.9%
+Data de início: 06/01/2024
+Data de término planejada: 10/04/2024
+Data de término real/prevista: 19/04/2024
+Atraso atual: 460 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.14
+Valor Planejado (PV): R$ 3404403.00
+Valor Agregado (EV): R$ 3400998.60
+
+Tarefas críticas:
+- Implementação da API REST
+- Implementação do módulo de exportação de dados
+- Implementação da API REST
+- Configuração da infraestrutura
+- Implementação do módulo de análise de dados
+- Desenvolvimento do painel administrativo
+- Integração com sistema de pagamentos
+
+Tarefas atrasadas:

@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O prazer de avançar com confiança (PROJ-0006)
+Data: 14/07/2025
+Gerente: Letícia Marques
+
+Orçamento inicial: R$ 2544378.00
+Custo real atual: R$ 2475545.73
+Desvio orçamentário: -2.71%
+Índice de Desempenho de Custo (CPI): 0.87
+Valor Agregado (EV): R$ 2147624.66
+Estimativa para conclusão: R$ 457333.66
+Estimativa no término (EAC): R$ 2932879.39
+Variação no término (VAC): R$ -388501.39
+
+Detalhamento por categoria:
+- Pessoal: R$ 1219264.32 (49.3%)
+- Equipamentos: R$ 374388.61 (15.1%)
+- Software: R$ 288435.88 (11.7%)
+- Serviços: R$ 452995.52 (18.3%)
+- Outros: R$ 140461.40 (5.7%)

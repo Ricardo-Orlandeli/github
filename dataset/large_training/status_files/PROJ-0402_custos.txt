@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A segurança de evoluir mais facilmente (PROJ-0402)
+Data: 14/07/2025
+Gerente: Cecilia Dias
+
+Orçamento inicial: R$ 2099551.00
+Custo real atual: R$ 2516583.83
+Desvio orçamentário: 19.86%
+Índice de Desempenho de Custo (CPI): 0.73
+Valor Agregado (EV): R$ 1842416.28
+Estimativa para conclusão: R$ 351224.15
+Estimativa no término (EAC): R$ 2867807.98
+Variação no término (VAC): R$ -768256.98
+
+Detalhamento por categoria:
+- Pessoal: R$ 1386656.68 (55.1%)
+- Equipamentos: R$ 338775.16 (13.5%)
+- Software: R$ 189839.61 (7.5%)
+- Serviços: R$ 394016.62 (15.7%)
+- Outros: R$ 207295.76 (8.2%)

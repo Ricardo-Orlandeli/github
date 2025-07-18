@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A segurança de concretizar seus projetos com toda a tranquilidade (PROJ-0619)
+Data: 14/07/2025
+Gerente: Helena Pires
+
+Orçamento inicial: R$ 2286875.00
+Custo real atual: R$ 2817486.22
+Desvio orçamentário: 23.20%
+Índice de Desempenho de Custo (CPI): 0.72
+Valor Agregado (EV): R$ 2031044.27
+Estimativa para conclusão: R$ 354891.11
+Estimativa no término (EAC): R$ 3172377.33
+Variação no término (VAC): R$ -885502.33
+
+Detalhamento por categoria:
+- Pessoal: R$ 1387854.28 (49.3%)
+- Equipamentos: R$ 433972.03 (15.4%)
+- Software: R$ 298235.26 (10.6%)
+- Serviços: R$ 481426.99 (17.1%)
+- Outros: R$ 215997.64 (7.7%)

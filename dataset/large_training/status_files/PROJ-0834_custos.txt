@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A simplicidade de ganhar com força total (PROJ-0834)
+Data: 14/07/2025
+Gerente: João Guilherme Abreu
+
+Orçamento inicial: R$ 1176892.00
+Custo real atual: R$ 968219.95
+Desvio orçamentário: -17.73%
+Índice de Desempenho de Custo (CPI): 1.15
+Valor Agregado (EV): R$ 1116351.22
+Estimativa para conclusão: R$ 52507.48
+Estimativa no término (EAC): R$ 1020727.44
+Variação no término (VAC): R$ 156164.56
+
+Detalhamento por categoria:
+- Pessoal: R$ 483080.62 (49.9%)
+- Equipamentos: R$ 162458.16 (16.8%)
+- Software: R$ 120823.39 (12.5%)
+- Serviços: R$ 147489.49 (15.2%)
+- Outros: R$ 54368.29 (5.6%)

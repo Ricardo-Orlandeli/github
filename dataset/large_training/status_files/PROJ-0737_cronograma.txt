@@ -1,0 +1,25 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A simplicidade de conseguir com confiança (PROJ-0737)
+Data: 14/07/2025
+Gerente: Maria Pimenta
+
+Status atual: Atrasado
+Percentual de conclusão: 64.9%
+Data de início: 04/10/2024
+Data de término planejada: 24/02/2025
+Data de término real/prevista: 25/05/2025
+Atraso atual: 140 dias
+Motivo do atraso: Recursos insuficientes
+Índice de Desempenho de Cronograma (SPI): 0.65
+Valor Planejado (PV): R$ 1464803.00
+Valor Agregado (EV): R$ 950094.82
+
+Tarefas críticas:
+- Migração de dados legados
+- Desenvolvimento do módulo de autenticação
+- Integração com sistema de pagamentos
+- Desenvolvimento do módulo de autenticação
+- Testes de segurança
+
+Tarefas atrasadas:
+- Migração de dados legados

@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A possibilidade de evoluir sem preocupação (PROJ-0005)
+Data: 14/07/2025
+Gerente: Gael Câmara
+
+Orçamento inicial: R$ 1720926.00
+Custo real atual: R$ 1411842.90
+Desvio orçamentário: -17.96%
+Índice de Desempenho de Custo (CPI): 1.22
+Valor Agregado (EV): R$ 1720926.00
+Estimativa para conclusão: R$ 0.00
+Estimativa no término (EAC): R$ 1411842.90
+Variação no término (VAC): R$ 309083.10
+
+Detalhamento por categoria:
+- Pessoal: R$ 803249.71 (56.9%)
+- Equipamentos: R$ 214877.93 (15.2%)
+- Software: R$ 131513.62 (9.3%)
+- Serviços: R$ 186808.86 (13.2%)
+- Outros: R$ 75392.79 (5.3%)

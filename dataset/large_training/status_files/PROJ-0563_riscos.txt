@@ -1,0 +1,31 @@
+RELATÓRIO DE STATUS DE RISCOS
+Projeto: A simplicidade de evoluir de maneira eficaz (PROJ-0563)
+Data: 14/07/2025
+Gerente: Maria Julia da Cunha
+
+Riscos identificados:
+- R01: Falhas de infraestrutura
+  Probabilidade: 3/5, Impacto: 5/5, Nível: Médio
+  Mitigação: Implementar redundância de infraestrutura
+
+- R02: Problemas de comunicação com stakeholders
+  Probabilidade: 5/5, Impacto: 2/5, Nível: Médio
+  Mitigação: Implementar redundância de infraestrutura
+
+- R03: Atraso na entrega de componentes críticos
+  Probabilidade: 4/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Implementar redundância de infraestrutura
+
+- R04: Resistência dos usuários à mudança
+  Probabilidade: 4/5, Impacto: 5/5, Nível: Alto
+  Mitigação: Refinar estimativas com base em dados históricos
+
+- R05: Problemas de compatibilidade
+  Probabilidade: 2/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Monitorar mudanças regulatórias
+
+- R06: Mudanças regulatórias
+  Probabilidade: 5/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Fortalecer medidas de segurança
+
+Riscos ocorridos:

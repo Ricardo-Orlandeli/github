@@ -1,0 +1,19 @@
+RELATÓRIO DE STATUS DE ESCOPO
+Projeto: A certeza de inovar simplesmente (PROJ-0051)
+Data: 14/07/2025
+Gerente: Sra. Maria Sophia Barros
+
+Escopo original: Sistema para a certeza de inovar simplesmente
+Houve mudança de escopo: Não
+Descrição das mudanças: N/A
+Impacto no cronograma: 0 dias
+Impacto no custo: R$ 0.00
+
+Solicitações de mudança:
+
+Requisitos atuais:
+- REQ-01: O sistema deve permitir autenticação de usuários
+- REQ-02: O sistema deve permitir autenticação de usuários
+- REQ-03: O sistema deve ser compatível com dispositivos móveis
+- REQ-04: O sistema deve registrar logs de auditoria
+- REQ-05: O sistema deve passar por testes de segurança

@@ -1,0 +1,47 @@
+RELATÓRIO DE STATUS DE RISCOS
+Projeto: O prazer de evoluir naturalmente (PROJ-0262)
+Data: 14/07/2025
+Gerente: Maria Luiza Castro
+
+Riscos identificados:
+- R01: Problemas de compatibilidade
+  Probabilidade: 3/5, Impacto: 2/5, Nível: Baixo
+  Mitigação: Refinar estimativas com base em dados históricos
+
+- R02: Resistência dos usuários à mudança
+  Probabilidade: 4/5, Impacto: 2/5, Nível: Médio
+  Mitigação: Fortalecer medidas de segurança
+
+- R03: Dependências externas não cumpridas
+  Probabilidade: 4/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Gerenciar dependências ativamente
+
+- R04: Estimativas imprecisas
+  Probabilidade: 5/5, Impacto: 3/5, Nível: Médio
+  Mitigação: Estabelecer canais de comunicação claros
+
+- R05: Rotatividade de pessoal-chave
+  Probabilidade: 3/5, Impacto: 5/5, Nível: Médio
+  Mitigação: Melhorar a documentação de requisitos
+
+- R06: Requisitos mal definidos
+  Probabilidade: 4/5, Impacto: 2/5, Nível: Médio
+  Mitigação: Implementar plano de contingência
+
+- R07: Mudanças regulatórias
+  Probabilidade: 2/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Testar compatibilidade em diferentes ambientes
+
+- R08: Mudanças regulatórias
+  Probabilidade: 1/5, Impacto: 5/5, Nível: Baixo
+  Mitigação: Realizar testes de integração antecipados
+
+- R09: Requisitos mal definidos
+  Probabilidade: 4/5, Impacto: 2/5, Nível: Médio
+  Mitigação: Realizar testes de aceitação com usuários-chave
+
+- R10: Requisitos mal definidos
+  Probabilidade: 2/5, Impacto: 3/5, Nível: Baixo
+  Mitigação: Contratar pessoal adicional
+
+Riscos ocorridos:

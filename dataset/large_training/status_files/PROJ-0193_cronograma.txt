@@ -1,0 +1,25 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A segurança de atingir seus objetivos com força total (PROJ-0193)
+Data: 14/07/2025
+Gerente: Pedro Henrique Pacheco
+
+Status atual: Concluído
+Percentual de conclusão: 100.0%
+Data de início: 16/12/2024
+Data de término planejada: 21/11/2025
+Data de término real/prevista: 09/11/2025
+Atraso atual: 0 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.09
+Valor Planejado (PV): R$ 921588.09
+Valor Agregado (EV): R$ 1492095.00
+
+Tarefas críticas:
+- Implementação da API REST
+- Migração de dados legados
+- Implementação da API REST
+- Implementação do sistema de backup
+- Implementação do módulo de análise de dados
+- Desenvolvimento do módulo de autenticação
+
+Tarefas atrasadas:

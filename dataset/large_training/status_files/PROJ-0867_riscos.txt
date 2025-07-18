@@ -1,0 +1,19 @@
+RELATÓRIO DE STATUS DE RISCOS
+Projeto: A arte de conseguir direto da fonte (PROJ-0867)
+Data: 14/07/2025
+Gerente: Cecilia Sousa
+
+Riscos identificados:
+- R01: Rotatividade de pessoal-chave
+  Probabilidade: 2/5, Impacto: 2/5, Nível: Baixo
+  Mitigação: Implementar redundância de infraestrutura
+
+- R02: Falhas de infraestrutura
+  Probabilidade: 1/5, Impacto: 4/5, Nível: Baixo
+  Mitigação: Testar compatibilidade em diferentes ambientes
+
+- R03: Atraso na entrega de componentes críticos
+  Probabilidade: 5/5, Impacto: 5/5, Nível: Alto
+  Mitigação: Implementar plano de contingência
+
+Riscos ocorridos:

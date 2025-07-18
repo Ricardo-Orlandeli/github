@@ -1,0 +1,55 @@
+RELATÓRIO DE STATUS DE RISCOS
+Projeto: A certeza de mudar direto da fonte (PROJ-0692)
+Data: 14/07/2025
+Gerente: Eduardo Ferreira
+
+Riscos identificados:
+- R01: Requisitos mal definidos
+  Probabilidade: 2/5, Impacto: 4/5, Nível: Médio
+  Mitigação: Buscar fornecedores alternativos
+
+- R02: Problemas de desempenho
+  Probabilidade: 3/5, Impacto: 3/5, Nível: Médio
+  Mitigação: Realizar testes de aceitação com usuários-chave
+
+- R03: Estimativas imprecisas
+  Probabilidade: 1/5, Impacto: 4/5, Nível: Baixo
+  Mitigação: Implementar plano de contingência
+
+- R04: Dependências externas não cumpridas
+  Probabilidade: 5/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Implementar redundância de infraestrutura
+
+- R05: Falhas em testes de aceitação
+  Probabilidade: 4/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Implementar plano de contingência
+
+- R06: Requisitos mal definidos
+  Probabilidade: 5/5, Impacto: 3/5, Nível: Médio
+  Mitigação: Estabelecer canais de comunicação claros
+
+- R07: Problemas de compatibilidade
+  Probabilidade: 4/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Fortalecer medidas de segurança
+
+- R08: Falhas em testes de aceitação
+  Probabilidade: 3/5, Impacto: 4/5, Nível: Médio
+  Mitigação: Buscar fornecedores alternativos
+
+- R09: Estimativas imprecisas
+  Probabilidade: 5/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Implementar redundância de infraestrutura
+
+- R10: Problemas de comunicação com stakeholders
+  Probabilidade: 5/5, Impacto: 3/5, Nível: Médio
+  Mitigação: Comunicar benefícios da mudança
+
+Riscos ocorridos:
+- R02 (ocorrido em 31/01/2025)
+  Impacto real: Problemas de qualidade
+  Ações tomadas: Revisão do orçamento
+
+- R08 (ocorrido em 11/06/2024)
+  Impacto real: Falhas de segurança
+  Ações tomadas: Comunicação intensificada com stakeholders
+

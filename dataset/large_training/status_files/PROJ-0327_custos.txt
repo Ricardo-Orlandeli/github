@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O conforto de inovar direto da fonte (PROJ-0327)
+Data: 14/07/2025
+Gerente: Antônio Melo
+
+Orçamento inicial: R$ 4164619.00
+Custo real atual: R$ 3116522.19
+Desvio orçamentário: -25.17%
+Índice de Desempenho de Custo (CPI): 1.19
+Valor Agregado (EV): R$ 3711256.80
+Estimativa para conclusão: R$ 380710.21
+Estimativa no término (EAC): R$ 3497232.40
+Variação no término (VAC): R$ 667386.60
+
+Detalhamento por categoria:
+- Pessoal: R$ 1524492.32 (48.9%)
+- Equipamentos: R$ 354868.76 (11.4%)
+- Software: R$ 478829.35 (15.4%)
+- Serviços: R$ 511374.83 (16.4%)
+- Outros: R$ 246956.93 (7.9%)

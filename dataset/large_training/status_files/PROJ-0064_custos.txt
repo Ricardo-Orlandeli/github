@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A possibilidade de concretizar seus projetos com toda a tranquilidade (PROJ-0064)
+Data: 14/07/2025
+Gerente: Milena Porto
+
+Orçamento inicial: R$ 3840742.00
+Custo real atual: R$ 3890723.80
+Desvio orçamentário: 1.30%
+Índice de Desempenho de Custo (CPI): 0.89
+Valor Agregado (EV): R$ 3472909.58
+Estimativa para conclusão: R$ 412085.12
+Estimativa no término (EAC): R$ 4302808.91
+Variação no término (VAC): R$ -462066.91
+
+Detalhamento por categoria:
+- Pessoal: R$ 2006986.76 (51.6%)
+- Equipamentos: R$ 679648.24 (17.5%)
+- Software: R$ 261705.46 (6.7%)
+- Serviços: R$ 593156.27 (15.2%)
+- Outros: R$ 349227.08 (9.0%)

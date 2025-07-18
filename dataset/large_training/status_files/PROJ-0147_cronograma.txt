@@ -1,0 +1,24 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A possibilidade de conseguir antes de tudo (PROJ-0147)
+Data: 14/07/2025
+Gerente: Dr. Raul Nunes
+
+Status atual: Atrasado
+Percentual de conclusão: 60.4%
+Data de início: 13/12/2023
+Data de término planejada: 17/09/2024
+Data de término real/prevista: 15/11/2024
+Atraso atual: 300 dias
+Motivo do atraso: Problemas de comunicação
+Índice de Desempenho de Cronograma (SPI): 0.60
+Valor Planejado (PV): R$ 4025724.00
+Valor Agregado (EV): R$ 2432249.93
+
+Tarefas críticas:
+- Implementação do módulo de análise de dados
+- Implementação da API REST
+- Desenvolvimento do painel administrativo
+
+Tarefas atrasadas:
+- Desenvolvimento do painel administrativo
+- Implementação do módulo de análise de dados

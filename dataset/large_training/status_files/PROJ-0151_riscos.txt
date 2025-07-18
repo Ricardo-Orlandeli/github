@@ -1,0 +1,27 @@
+RELATÓRIO DE STATUS DE RISCOS
+Projeto: A segurança de realizar seus sonhos antes de tudo (PROJ-0151)
+Data: 14/07/2025
+Gerente: Srta. Lunna Vasconcelos
+
+Riscos identificados:
+- R01: Falhas de infraestrutura
+  Probabilidade: 4/5, Impacto: 5/5, Nível: Alto
+  Mitigação: Otimizar código e infraestrutura
+
+- R02: Problemas de integração com sistemas legados
+  Probabilidade: 3/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Implementar redundância de infraestrutura
+
+- R03: Problemas de comunicação com stakeholders
+  Probabilidade: 1/5, Impacto: 3/5, Nível: Baixo
+  Mitigação: Realizar testes de aceitação com usuários-chave
+
+Riscos ocorridos:
+- R01 (ocorrido em 11/08/2024)
+  Impacto real: Perda de recursos-chave
+  Ações tomadas: Revisão de prioridades
+
+- R02 (ocorrido em 07/11/2023)
+  Impacto real: Perda de dados
+  Ações tomadas: Comunicação intensificada com stakeholders
+

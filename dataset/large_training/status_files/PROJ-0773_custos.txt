@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A segurança de mudar com toda a tranquilidade (PROJ-0773)
+Data: 14/07/2025
+Gerente: Anthony Gabriel Leão
+
+Orçamento inicial: R$ 3016631.00
+Custo real atual: R$ 3385338.57
+Desvio orçamentário: 12.22%
+Índice de Desempenho de Custo (CPI): 0.89
+Valor Agregado (EV): R$ 3013614.37
+Estimativa para conclusão: R$ 3388.73
+Estimativa no término (EAC): R$ 3388727.29
+Variação no término (VAC): R$ -372096.29
+
+Detalhamento por categoria:
+- Pessoal: R$ 1782572.46 (52.7%)
+- Equipamentos: R$ 439699.83 (13.0%)
+- Software: R$ 309386.54 (9.1%)
+- Serviços: R$ 622003.32 (18.4%)
+- Outros: R$ 231676.42 (6.8%)

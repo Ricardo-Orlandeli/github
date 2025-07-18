@@ -1,0 +1,23 @@
+RELATÓRIO DE STATUS DE ESCOPO
+Projeto: A segurança de avançar antes de tudo (PROJ-0653)
+Data: 14/07/2025
+Gerente: Lara Fernandes
+
+Escopo original: Sistema para a segurança de avançar antes de tudo
+Houve mudança de escopo: Não
+Descrição das mudanças: N/A
+Impacto no cronograma: 0 dias
+Impacto no custo: R$ 0.00
+
+Solicitações de mudança:
+
+Requisitos atuais:
+- REQ-01: O sistema deve processar transações em menos de 2 seconds
+- REQ-02: O sistema deve ter backup automático diário
+- REQ-03: O sistema deve ter documentação completa
+- REQ-04: O sistema deve permitir autenticação de usuários
+- REQ-05: O sistema deve ser compatível com dispositivos móveis
+- REQ-06: O sistema deve ter documentação completa
+- REQ-07: O sistema deve ser compatível com dispositivos móveis
+- REQ-08: O sistema deve ter interface responsiva
+- REQ-09: O sistema deve ser compatível com navegadores modernos

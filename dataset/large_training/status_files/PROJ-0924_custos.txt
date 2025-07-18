@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O prazer de realizar seus sonhos de maneira eficaz (PROJ-0924)
+Data: 14/07/2025
+Gerente: Sra. Laís Cassiano
+
+Orçamento inicial: R$ 2369133.00
+Custo real atual: R$ 2613400.21
+Desvio orçamentário: 10.31%
+Índice de Desempenho de Custo (CPI): 0.86
+Valor Agregado (EV): R$ 2249763.95
+Estimativa para conclusão: R$ 138663.04
+Estimativa no término (EAC): R$ 2752063.25
+Variação no término (VAC): R$ -382930.25
+
+Detalhamento por categoria:
+- Pessoal: R$ 1344361.48 (51.4%)
+- Equipamentos: R$ 460584.78 (17.6%)
+- Software: R$ 339076.57 (13.0%)
+- Serviços: R$ 306327.02 (11.7%)
+- Outros: R$ 163050.36 (6.2%)

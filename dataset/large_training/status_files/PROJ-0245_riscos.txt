@@ -1,0 +1,47 @@
+RELATÓRIO DE STATUS DE RISCOS
+Projeto: A arte de conseguir mais rapidamente (PROJ-0245)
+Data: 14/07/2025
+Gerente: Nicolas Machado
+
+Riscos identificados:
+- R01: Problemas de comunicação com stakeholders
+  Probabilidade: 1/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Melhorar a documentação de requisitos
+
+- R02: Problemas de integração com sistemas legados
+  Probabilidade: 1/5, Impacto: 5/5, Nível: Baixo
+  Mitigação: Implementar redundância de infraestrutura
+
+- R03: Indisponibilidade de recursos especializados
+  Probabilidade: 2/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Monitorar mudanças regulatórias
+
+- R04: Rotatividade de pessoal-chave
+  Probabilidade: 5/5, Impacto: 3/5, Nível: Médio
+  Mitigação: Realizar testes de aceitação com usuários-chave
+
+- R05: Rotatividade de pessoal-chave
+  Probabilidade: 4/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Contratar pessoal adicional
+
+- R06: Problemas de integração com sistemas legados
+  Probabilidade: 3/5, Impacto: 5/5, Nível: Médio
+  Mitigação: Monitorar mudanças regulatórias
+
+- R07: Problemas de compatibilidade
+  Probabilidade: 3/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Otimizar código e infraestrutura
+
+- R08: Problemas de comunicação com stakeholders
+  Probabilidade: 3/5, Impacto: 2/5, Nível: Baixo
+  Mitigação: Implementar redundância de infraestrutura
+
+- R09: Mudanças regulatórias
+  Probabilidade: 4/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Contratar pessoal adicional
+
+- R10: Dependências externas não cumpridas
+  Probabilidade: 4/5, Impacto: 4/5, Nível: Alto
+  Mitigação: Testar compatibilidade em diferentes ambientes
+
+Riscos ocorridos:

@@ -1,0 +1,47 @@
+RELATÓRIO DE STATUS DE RISCOS
+Projeto: A arte de concretizar seus projetos direto da fonte (PROJ-0437)
+Data: 14/07/2025
+Gerente: Isabelly Teixeira
+
+Riscos identificados:
+- R01: Rotatividade de pessoal-chave
+  Probabilidade: 4/5, Impacto: 3/5, Nível: Médio
+  Mitigação: Realizar testes de aceitação com usuários-chave
+
+- R02: Dependências externas não cumpridas
+  Probabilidade: 2/5, Impacto: 4/5, Nível: Médio
+  Mitigação: Realizar testes de aceitação com usuários-chave
+
+- R03: Mudanças regulatórias
+  Probabilidade: 3/5, Impacto: 2/5, Nível: Baixo
+  Mitigação: Testar compatibilidade em diferentes ambientes
+
+- R04: Problemas de integração com sistemas legados
+  Probabilidade: 1/5, Impacto: 2/5, Nível: Baixo
+  Mitigação: Implementar redundância de infraestrutura
+
+- R05: Dependências externas não cumpridas
+  Probabilidade: 4/5, Impacto: 3/5, Nível: Médio
+  Mitigação: Buscar fornecedores alternativos
+
+- R06: Falhas de segurança
+  Probabilidade: 4/5, Impacto: 3/5, Nível: Médio
+  Mitigação: Contratar pessoal adicional
+
+- R07: Problemas de integração com sistemas legados
+  Probabilidade: 3/5, Impacto: 5/5, Nível: Médio
+  Mitigação: Implementar plano de contingência
+
+- R08: Dependências externas não cumpridas
+  Probabilidade: 1/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Melhorar a documentação de requisitos
+
+- R09: Atraso na entrega de componentes críticos
+  Probabilidade: 3/5, Impacto: 5/5, Nível: Médio
+  Mitigação: Realizar testes de integração antecipados
+
+- R10: Falhas de segurança
+  Probabilidade: 5/5, Impacto: 2/5, Nível: Médio
+  Mitigação: Implementar plano de contingência
+
+Riscos ocorridos:

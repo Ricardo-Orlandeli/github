@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O conforto de inovar sem preocupação (PROJ-0904)
+Data: 14/07/2025
+Gerente: Matheus Duarte
+
+Orçamento inicial: R$ 4273024.00
+Custo real atual: R$ 3952184.58
+Desvio orçamentário: -7.51%
+Índice de Desempenho de Custo (CPI): 1.08
+Valor Agregado (EV): R$ 4268750.98
+Estimativa para conclusão: R$ 3956.14
+Estimativa no término (EAC): R$ 3956140.72
+Variação no término (VAC): R$ 316883.28
+
+Detalhamento por categoria:
+- Pessoal: R$ 1908316.60 (48.3%)
+- Equipamentos: R$ 642940.08 (16.3%)
+- Software: R$ 495614.28 (12.5%)
+- Serviços: R$ 632645.57 (16.0%)
+- Outros: R$ 272668.05 (6.9%)

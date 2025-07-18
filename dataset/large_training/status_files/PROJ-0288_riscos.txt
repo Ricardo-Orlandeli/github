@@ -1,0 +1,27 @@
+RELATÓRIO DE STATUS DE RISCOS
+Projeto: A vantagem de atingir seus objetivos com toda a tranquilidade (PROJ-0288)
+Data: 14/07/2025
+Gerente: Henry Gabriel Oliveira
+
+Riscos identificados:
+- R01: Resistência dos usuários à mudança
+  Probabilidade: 3/5, Impacto: 4/5, Nível: Médio
+  Mitigação: Otimizar código e infraestrutura
+
+- R02: Requisitos mal definidos
+  Probabilidade: 2/5, Impacto: 3/5, Nível: Baixo
+  Mitigação: Realizar testes de aceitação com usuários-chave
+
+- R03: Problemas de desempenho
+  Probabilidade: 2/5, Impacto: 2/5, Nível: Baixo
+  Mitigação: Implementar redundância de infraestrutura
+
+- R04: Problemas de comunicação com stakeholders
+  Probabilidade: 2/5, Impacto: 4/5, Nível: Médio
+  Mitigação: Realizar testes de integração antecipados
+
+- R05: Resistência dos usuários à mudança
+  Probabilidade: 2/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Implementar redundância de infraestrutura
+
+Riscos ocorridos:

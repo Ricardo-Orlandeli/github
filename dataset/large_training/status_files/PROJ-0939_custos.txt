@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O poder de avançar simplesmente (PROJ-0939)
+Data: 14/07/2025
+Gerente: Gustavo Henrique da Rocha
+
+Orçamento inicial: R$ 2961396.00
+Custo real atual: R$ 2567831.63
+Desvio orçamentário: -13.29%
+Índice de Desempenho de Custo (CPI): 1.15
+Valor Agregado (EV): R$ 2961396.00
+Estimativa para conclusão: R$ 0.00
+Estimativa no término (EAC): R$ 2567831.63
+Variação no término (VAC): R$ 393564.37
+
+Detalhamento por categoria:
+- Pessoal: R$ 1253650.50 (48.8%)
+- Equipamentos: R$ 463302.03 (18.0%)
+- Software: R$ 299425.43 (11.7%)
+- Serviços: R$ 367908.85 (14.3%)
+- Outros: R$ 183544.82 (7.1%)

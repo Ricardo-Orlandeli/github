@@ -1,0 +1,31 @@
+RELATÓRIO DE STATUS DE RISCOS
+Projeto: O poder de atingir seus objetivos mais rapidamente (PROJ-0358)
+Data: 14/07/2025
+Gerente: Dom Gonçalves
+
+Riscos identificados:
+- R01: Dependências externas não cumpridas
+  Probabilidade: 2/5, Impacto: 5/5, Nível: Médio
+  Mitigação: Comunicar benefícios da mudança
+
+- R02: Problemas de integração com sistemas legados
+  Probabilidade: 4/5, Impacto: 3/5, Nível: Médio
+  Mitigação: Otimizar código e infraestrutura
+
+- R03: Falhas de segurança
+  Probabilidade: 4/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Buscar fornecedores alternativos
+
+- R04: Resistência dos usuários à mudança
+  Probabilidade: 1/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Contratar pessoal adicional
+
+- R05: Resistência dos usuários à mudança
+  Probabilidade: 5/5, Impacto: 4/5, Nível: Alto
+  Mitigação: Buscar fornecedores alternativos
+
+- R06: Requisitos mal definidos
+  Probabilidade: 1/5, Impacto: 2/5, Nível: Baixo
+  Mitigação: Realizar testes de aceitação com usuários-chave
+
+Riscos ocorridos:

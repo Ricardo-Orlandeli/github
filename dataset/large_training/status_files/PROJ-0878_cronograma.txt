@@ -1,0 +1,26 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A liberdade de atingir seus objetivos mais rapidamente (PROJ-0878)
+Data: 14/07/2025
+Gerente: Henry Machado
+
+Status atual: Atrasado
+Percentual de conclusão: 62.8%
+Data de início: 10/08/2023
+Data de término planejada: 03/08/2024
+Data de término real/prevista: 14/09/2024
+Atraso atual: 345 dias
+Motivo do atraso: Estimativas imprecisas
+Índice de Desempenho de Cronograma (SPI): 0.63
+Valor Planejado (PV): R$ 3641755.00
+Valor Agregado (EV): R$ 2285903.72
+
+Tarefas críticas:
+- Implementação do módulo de análise de dados
+- Implementação da API REST
+- Desenvolvimento da interface do usuário
+- Desenvolvimento do painel administrativo
+- Implementação da API REST
+- Configuração da infraestrutura
+
+Tarefas atrasadas:
+- Desenvolvimento do painel administrativo

@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O prazer de atingir seus objetivos antes de tudo (PROJ-0768)
+Data: 14/07/2025
+Gerente: Sofia Cassiano
+
+Orçamento inicial: R$ 4607228.00
+Custo real atual: R$ 4026640.22
+Desvio orçamentário: -12.60%
+Índice de Desempenho de Custo (CPI): 1.14
+Valor Agregado (EV): R$ 4607228.00
+Estimativa para conclusão: R$ 0.00
+Estimativa no término (EAC): R$ 4026640.22
+Variação no término (VAC): R$ 580587.78
+
+Detalhamento por categoria:
+- Pessoal: R$ 2021477.90 (50.2%)
+- Equipamentos: R$ 535067.16 (13.3%)
+- Software: R$ 541810.84 (13.5%)
+- Serviços: R$ 695354.48 (17.3%)
+- Outros: R$ 232929.84 (5.8%)

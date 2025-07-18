@@ -1,0 +1,25 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A segurança de inovar naturalmente (PROJ-0201)
+Data: 14/07/2025
+Gerente: Sr. Isaque Martins
+
+Status atual: Concluído
+Percentual de conclusão: 100.0%
+Data de início: 12/12/2024
+Data de término planejada: 16/07/2025
+Data de término real/prevista: 30/06/2025
+Atraso atual: 0 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.09
+Valor Planejado (PV): R$ 4493694.85
+Valor Agregado (EV): R$ 4535692.00
+
+Tarefas críticas:
+- Testes de segurança
+- Testes de aceitação do usuário
+- Configuração do ambiente de produção
+- Configuração do ambiente de produção
+- Implementação do módulo de análise de dados
+- Migração de dados legados
+
+Tarefas atrasadas:

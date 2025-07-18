@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A vantagem de concretizar seus projetos direto da fonte (PROJ-0226)
+Data: 14/07/2025
+Gerente: Murilo Nogueira
+
+Orçamento inicial: R$ 3647955.00
+Custo real atual: R$ 4671929.37
+Desvio orçamentário: 162.14%
+Índice de Desempenho de Custo (CPI): 0.69
+Valor Agregado (EV): R$ 3207796.12
+Estimativa para conclusão: R$ 641060.44
+Estimativa no término (EAC): R$ 5312989.81
+Variação no término (VAC): R$ -1665034.81
+
+Detalhamento por categoria:
+- Pessoal: R$ 2111179.32 (45.2%)
+- Equipamentos: R$ 661425.15 (14.2%)
+- Software: R$ 710163.28 (15.2%)
+- Serviços: R$ 735891.52 (15.8%)
+- Outros: R$ 453270.10 (9.7%)

@@ -1,0 +1,19 @@
+RELATÓRIO DE STATUS DE RISCOS
+Projeto: A liberdade de conseguir naturalmente (PROJ-0071)
+Data: 14/07/2025
+Gerente: Sra. Alice Duarte
+
+Riscos identificados:
+- R01: Rotatividade de pessoal-chave
+  Probabilidade: 5/5, Impacto: 4/5, Nível: Alto
+  Mitigação: Realizar testes de aceitação com usuários-chave
+
+- R02: Rotatividade de pessoal-chave
+  Probabilidade: 5/5, Impacto: 5/5, Nível: Alto
+  Mitigação: Implementar redundância de infraestrutura
+
+- R03: Problemas de compatibilidade
+  Probabilidade: 4/5, Impacto: 5/5, Nível: Alto
+  Mitigação: Refinar estimativas com base em dados históricos
+
+Riscos ocorridos:

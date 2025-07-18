@@ -1,0 +1,23 @@
+RELATÓRIO DE STATUS DE RISCOS
+Projeto: O poder de evoluir com força total (PROJ-0178)
+Data: 14/07/2025
+Gerente: Lucca Pires
+
+Riscos identificados:
+- R01: Indisponibilidade de recursos especializados
+  Probabilidade: 4/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Gerenciar dependências ativamente
+
+- R02: Falhas de infraestrutura
+  Probabilidade: 3/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Melhorar a documentação de requisitos
+
+- R03: Problemas de comunicação com stakeholders
+  Probabilidade: 2/5, Impacto: 4/5, Nível: Médio
+  Mitigação: Contratar pessoal adicional
+
+Riscos ocorridos:
+- R01 (ocorrido em 01/06/2025)
+  Impacto real: Perda de dados
+  Ações tomadas: Ajuste no cronograma
+

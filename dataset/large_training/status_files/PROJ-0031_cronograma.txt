@@ -1,0 +1,26 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A vantagem de ganhar antes de tudo (PROJ-0031)
+Data: 14/07/2025
+Gerente: Stephany Teixeira
+
+Status atual: Em andamento
+Percentual de conclusão: 11.3%
+Data de início: 04/06/2025
+Data de término planejada: 03/06/2026
+Data de término real/prevista: 07/06/2026
+Atraso atual: 0 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 0.95
+Valor Planejado (PV): R$ 470260.22
+Valor Agregado (EV): R$ 484180.39
+
+Tarefas críticas:
+- Implementação da API REST
+- Implementação do módulo de exportação de dados
+- Migração de dados legados
+- Implementação da API REST
+- Configuração do ambiente de produção
+- Implementação do módulo de exportação de dados
+- Implementação do módulo de exportação de dados
+
+Tarefas atrasadas:

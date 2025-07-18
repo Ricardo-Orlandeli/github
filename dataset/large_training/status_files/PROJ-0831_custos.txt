@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A arte de ganhar em estado puro (PROJ-0831)
+Data: 14/07/2025
+Gerente: Antony Abreu
+
+Orçamento inicial: R$ 4881000.00
+Custo real atual: R$ 3894767.68
+Desvio orçamentário: -20.21%
+Índice de Desempenho de Custo (CPI): 0.88
+Valor Agregado (EV): R$ 3417372.96
+Estimativa para conclusão: R$ 1668090.48
+Estimativa no término (EAC): R$ 5562858.16
+Variação no término (VAC): R$ -681858.16
+
+Detalhamento por categoria:
+- Pessoal: R$ 2058328.07 (52.8%)
+- Equipamentos: R$ 520179.00 (13.4%)
+- Software: R$ 534965.49 (13.7%)
+- Serviços: R$ 459093.07 (11.8%)
+- Outros: R$ 322202.06 (8.3%)

@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A liberdade de avançar sem preocupação (PROJ-0063)
+Data: 14/07/2025
+Gerente: Erick Mendonça
+
+Orçamento inicial: R$ 4763558.00
+Custo real atual: R$ 4643444.41
+Desvio orçamentário: -2.52%
+Índice de Desempenho de Custo (CPI): 1.03
+Valor Agregado (EV): R$ 4763558.00
+Estimativa para conclusão: R$ 0.00
+Estimativa no término (EAC): R$ 4643444.41
+Variação no término (VAC): R$ 120113.59
+
+Detalhamento por categoria:
+- Pessoal: R$ 2451821.46 (52.8%)
+- Equipamentos: R$ 700556.06 (15.1%)
+- Software: R$ 331770.35 (7.1%)
+- Serviços: R$ 727288.02 (15.7%)
+- Outros: R$ 432008.52 (9.3%)

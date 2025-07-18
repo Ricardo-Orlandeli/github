@@ -1,0 +1,47 @@
+RELATÓRIO DE STATUS DE RISCOS
+Projeto: O conforto de atingir seus objetivos mais rapidamente (PROJ-0255)
+Data: 14/07/2025
+Gerente: Mariana Castro
+
+Riscos identificados:
+- R01: Atraso na entrega de componentes críticos
+  Probabilidade: 1/5, Impacto: 2/5, Nível: Baixo
+  Mitigação: Contratar pessoal adicional
+
+- R02: Problemas de desempenho
+  Probabilidade: 4/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Implementar redundância de infraestrutura
+
+- R03: Estimativas imprecisas
+  Probabilidade: 3/5, Impacto: 3/5, Nível: Médio
+  Mitigação: Testar compatibilidade em diferentes ambientes
+
+- R04: Indisponibilidade de recursos especializados
+  Probabilidade: 1/5, Impacto: 2/5, Nível: Baixo
+  Mitigação: Implementar redundância de infraestrutura
+
+- R05: Requisitos mal definidos
+  Probabilidade: 5/5, Impacto: 2/5, Nível: Médio
+  Mitigação: Fortalecer medidas de segurança
+
+- R06: Falhas de infraestrutura
+  Probabilidade: 1/5, Impacto: 4/5, Nível: Baixo
+  Mitigação: Realizar testes de aceitação com usuários-chave
+
+- R07: Falhas de segurança
+  Probabilidade: 2/5, Impacto: 2/5, Nível: Baixo
+  Mitigação: Gerenciar dependências ativamente
+
+Riscos ocorridos:
+- R05 (ocorrido em 22/05/2025)
+  Impacto real: Problemas de qualidade
+  Ações tomadas: Revisão de prioridades
+
+- R06 (ocorrido em 23/03/2025)
+  Impacto real: Retrabalho significativo
+  Ações tomadas: Revisão de prioridades
+
+- R02 (ocorrido em 05/06/2025)
+  Impacto real: Retrabalho significativo
+  Ações tomadas: Implementação de controles adicionais
+

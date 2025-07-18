@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A arte de atingir seus objetivos com confiança (PROJ-0008)
+Data: 14/07/2025
+Gerente: Davi Sales
+
+Orçamento inicial: R$ 1291278.00
+Custo real atual: R$ 1486449.72
+Desvio orçamentário: 15.11%
+Índice de Desempenho de Custo (CPI): 0.87
+Valor Agregado (EV): R$ 1289986.72
+Estimativa para conclusão: R$ 1487.94
+Estimativa no término (EAC): R$ 1487937.65
+Variação no término (VAC): R$ -196659.65
+
+Detalhamento por categoria:
+- Pessoal: R$ 774881.73 (52.1%)
+- Equipamentos: R$ 256862.73 (17.3%)
+- Software: R$ 159685.62 (10.7%)
+- Serviços: R$ 200822.82 (13.5%)
+- Outros: R$ 94196.82 (6.3%)

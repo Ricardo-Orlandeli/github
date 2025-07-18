@@ -1,0 +1,27 @@
+RELATÓRIO DE STATUS DE RISCOS
+Projeto: O poder de concretizar seus projetos sem preocupação (PROJ-0463)
+Data: 14/07/2025
+Gerente: Sr. Apollo Castro
+
+Riscos identificados:
+- R01: Requisitos mal definidos
+  Probabilidade: 4/5, Impacto: 5/5, Nível: Alto
+  Mitigação: Otimizar código e infraestrutura
+
+- R02: Resistência dos usuários à mudança
+  Probabilidade: 1/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Estabelecer canais de comunicação claros
+
+- R03: Requisitos mal definidos
+  Probabilidade: 3/5, Impacto: 3/5, Nível: Médio
+  Mitigação: Realizar testes de aceitação com usuários-chave
+
+- R04: Falhas de infraestrutura
+  Probabilidade: 4/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Realizar testes de aceitação com usuários-chave
+
+- R05: Resistência dos usuários à mudança
+  Probabilidade: 4/5, Impacto: 5/5, Nível: Alto
+  Mitigação: Melhorar a documentação de requisitos
+
+Riscos ocorridos:

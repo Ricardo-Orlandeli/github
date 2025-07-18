@@ -1,0 +1,27 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A simplicidade de inovar naturalmente (PROJ-0359)
+Data: 14/07/2025
+Gerente: Dr. Yuri Fernandes
+
+Status atual: Atrasado
+Percentual de conclusão: 54.3%
+Data de início: 26/09/2023
+Data de término planejada: 15/12/2023
+Data de término real/prevista: 25/01/2024
+Atraso atual: 577 dias
+Motivo do atraso: Mudanças de requisitos não planejadas
+Índice de Desempenho de Cronograma (SPI): 0.54
+Valor Planejado (PV): R$ 1956552.00
+Valor Agregado (EV): R$ 1062713.78
+
+Tarefas críticas:
+- Testes de segurança
+- Implementação da API REST
+- Migração de dados legados
+- Desenvolvimento da interface do usuário
+- Configuração da infraestrutura
+
+Tarefas atrasadas:
+- Implementação da API REST
+- Configuração da infraestrutura
+- Desenvolvimento da interface do usuário

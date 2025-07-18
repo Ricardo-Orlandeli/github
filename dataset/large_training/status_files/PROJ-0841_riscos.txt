@@ -1,0 +1,31 @@
+RELATÓRIO DE STATUS DE RISCOS
+Projeto: A vantagem de inovar com força total (PROJ-0841)
+Data: 14/07/2025
+Gerente: Ravy Brito
+
+Riscos identificados:
+- R01: Problemas de comunicação com stakeholders
+  Probabilidade: 5/5, Impacto: 4/5, Nível: Alto
+  Mitigação: Refinar estimativas com base em dados históricos
+
+- R02: Indisponibilidade de recursos especializados
+  Probabilidade: 3/5, Impacto: 4/5, Nível: Médio
+  Mitigação: Implementar plano de contingência
+
+- R03: Problemas de compatibilidade
+  Probabilidade: 5/5, Impacto: 4/5, Nível: Alto
+  Mitigação: Contratar pessoal adicional
+
+Riscos ocorridos:
+- R03 (ocorrido em 28/05/2025)
+  Impacto real: Indisponibilidade temporária
+  Ações tomadas: Revisão de processos
+
+- R01 (ocorrido em 07/02/2025)
+  Impacto real: Redução de funcionalidades
+  Ações tomadas: Revisão de processos
+
+- R02 (ocorrido em 13/08/2024)
+  Impacto real: Redução de funcionalidades
+  Ações tomadas: Contratação de recursos adicionais
+

@@ -1,0 +1,19 @@
+RELATÓRIO DE STATUS DE RISCOS
+Projeto: O conforto de avançar antes de tudo (PROJ-0060)
+Data: 14/07/2025
+Gerente: Liz Santos
+
+Riscos identificados:
+- R01: Falhas em testes de aceitação
+  Probabilidade: 4/5, Impacto: 2/5, Nível: Médio
+  Mitigação: Realizar testes de integração antecipados
+
+- R02: Falhas de infraestrutura
+  Probabilidade: 1/5, Impacto: 3/5, Nível: Baixo
+  Mitigação: Testar compatibilidade em diferentes ambientes
+
+- R03: Rotatividade de pessoal-chave
+  Probabilidade: 3/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Estabelecer canais de comunicação claros
+
+Riscos ocorridos:

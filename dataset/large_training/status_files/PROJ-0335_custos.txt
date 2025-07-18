@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O conforto de concretizar seus projetos mais facilmente (PROJ-0335)
+Data: 14/07/2025
+Gerente: Francisco Jesus
+
+Orçamento inicial: R$ 3353904.00
+Custo real atual: R$ 3152487.05
+Desvio orçamentário: -6.01%
+Índice de Desempenho de Custo (CPI): 1.06
+Valor Agregado (EV): R$ 3353904.00
+Estimativa para conclusão: R$ 0.00
+Estimativa no término (EAC): R$ 3152487.05
+Variação no término (VAC): R$ 201416.95
+
+Detalhamento por categoria:
+- Pessoal: R$ 1665266.93 (52.8%)
+- Equipamentos: R$ 520758.57 (16.5%)
+- Software: R$ 186291.29 (5.9%)
+- Serviços: R$ 537014.27 (17.0%)
+- Outros: R$ 243155.99 (7.7%)

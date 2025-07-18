@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A segurança de realizar seus sonhos antes de tudo (PROJ-0151)
+Data: 14/07/2025
+Gerente: Srta. Lunna Vasconcelos
+
+Orçamento inicial: R$ 1398358.00
+Custo real atual: R$ 1274035.58
+Desvio orçamentário: -8.89%
+Índice de Desempenho de Custo (CPI): 1.10
+Valor Agregado (EV): R$ 1398358.00
+Estimativa para conclusão: R$ 0.00
+Estimativa no término (EAC): R$ 1274035.58
+Variação no término (VAC): R$ 124322.42
+
+Detalhamento por categoria:
+- Pessoal: R$ 596139.73 (46.8%)
+- Equipamentos: R$ 199008.97 (15.6%)
+- Software: R$ 158904.82 (12.5%)
+- Serviços: R$ 192845.20 (15.1%)
+- Outros: R$ 127136.86 (10.0%)

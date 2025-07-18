@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A arte de inovar com toda a tranquilidade (PROJ-0496)
+Data: 14/07/2025
+Gerente: Bruna Pinto
+
+Orçamento inicial: R$ 3644301.00
+Custo real atual: R$ 3262758.59
+Desvio orçamentário: -10.47%
+Índice de Desempenho de Custo (CPI): 1.02
+Valor Agregado (EV): R$ 3326447.40
+Estimativa para conclusão: R$ 311767.91
+Estimativa no término (EAC): R$ 3574526.50
+Variação no término (VAC): R$ 69774.50
+
+Detalhamento por categoria:
+- Pessoal: R$ 1672416.97 (51.3%)
+- Equipamentos: R$ 565218.58 (17.3%)
+- Software: R$ 339653.21 (10.4%)
+- Serviços: R$ 410763.87 (12.6%)
+- Outros: R$ 274705.96 (8.4%)

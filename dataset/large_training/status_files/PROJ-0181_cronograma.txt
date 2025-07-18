@@ -1,0 +1,26 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A possibilidade de atingir seus objetivos mais facilmente (PROJ-0181)
+Data: 14/07/2025
+Gerente: Maria Vitória Ramos
+
+Status atual: Concluído
+Percentual de conclusão: 100.0%
+Data de início: 31/08/2023
+Data de término planejada: 19/07/2024
+Data de término real/prevista: 16/07/2024
+Atraso atual: 360 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.09
+Valor Planejado (PV): R$ 3611389.00
+Valor Agregado (EV): R$ 3611389.00
+
+Tarefas críticas:
+- Configuração do ambiente de produção
+- Desenvolvimento da interface do usuário
+- Implementação do módulo de análise de dados
+- Desenvolvimento da interface do usuário
+- Testes de aceitação do usuário
+- Desenvolvimento do módulo de autenticação
+- Desenvolvimento da interface do usuário
+
+Tarefas atrasadas:

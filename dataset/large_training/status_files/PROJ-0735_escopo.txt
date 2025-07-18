@@ -1,0 +1,24 @@
+RELATÓRIO DE STATUS DE ESCOPO
+Projeto: A arte de mudar sem preocupação (PROJ-0735)
+Data: 14/07/2025
+Gerente: Rael Castro
+
+Escopo original: Sistema para a arte de mudar sem preocupação
+Houve mudança de escopo: Não
+Descrição das mudanças: N/A
+Impacto no cronograma: 0 dias
+Impacto no custo: R$ 0.00
+
+Solicitações de mudança:
+
+Requisitos atuais:
+- REQ-01: O sistema deve permitir exportação de dados em formato CSV
+- REQ-02: O sistema deve processar transações em menos de 2 seconds
+- REQ-03: O sistema deve registrar logs de auditoria
+- REQ-04: O sistema deve implementar criptografia de dados sensíveis
+- REQ-05: O sistema deve permitir autenticação de usuários
+- REQ-06: O sistema deve registrar logs de auditoria
+- REQ-07: O sistema deve permitir integração com APIs externas
+- REQ-08: O sistema deve ter backup automático diário
+- REQ-09: O sistema deve registrar logs de auditoria
+- REQ-10: O sistema deve ser compatível com dispositivos móveis

@@ -1,0 +1,24 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A segurança de inovar antes de tudo (PROJ-0202)
+Data: 14/07/2025
+Gerente: Nicole Ribeiro
+
+Status atual: Em andamento
+Percentual de conclusão: 91.4%
+Data de início: 05/12/2023
+Data de término planejada: 31/08/2024
+Data de término real/prevista: 14/09/2024
+Atraso atual: 317 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.14
+Valor Planejado (PV): R$ 94583.00
+Valor Agregado (EV): R$ 86434.79
+
+Tarefas críticas:
+- Testes de aceitação do usuário
+- Integração com sistema de pagamentos
+- Implementação do módulo de relatórios
+- Implementação do módulo de análise de dados
+- Implementação da API REST
+
+Tarefas atrasadas:

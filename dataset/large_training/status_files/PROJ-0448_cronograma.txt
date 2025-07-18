@@ -1,0 +1,27 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: O poder de realizar seus sonhos com confiança (PROJ-0448)
+Data: 14/07/2025
+Gerente: José Pedro Marques
+
+Status atual: Em andamento
+Percentual de conclusão: 60.0%
+Data de início: 16/01/2025
+Data de término planejada: 20/09/2025
+Data de término real/prevista: 23/09/2025
+Atraso atual: 0 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 0.85
+Valor Planejado (PV): R$ 1771628.22
+Valor Agregado (EV): R$ 1467898.30
+
+Tarefas críticas:
+- Implementação do módulo de notificações
+- Testes de aceitação do usuário
+- Configuração da infraestrutura
+- Desenvolvimento da interface do usuário
+- Implementação do módulo de exportação de dados
+- Migração de dados legados
+- Testes de aceitação do usuário
+- Integração com sistema de pagamentos
+
+Tarefas atrasadas:

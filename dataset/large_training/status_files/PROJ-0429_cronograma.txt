@@ -1,0 +1,27 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A possibilidade de avançar direto da fonte (PROJ-0429)
+Data: 14/07/2025
+Gerente: Eloá Camargo
+
+Status atual: Concluído
+Percentual de conclusão: 100.0%
+Data de início: 22/03/2025
+Data de término planejada: 12/06/2025
+Data de término real/prevista: 30/06/2025
+Atraso atual: 32 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.07
+Valor Planejado (PV): R$ 3042524.00
+Valor Agregado (EV): R$ 3042524.00
+
+Tarefas críticas:
+- Configuração da infraestrutura
+- Implementação do módulo de relatórios
+- Desenvolvimento do painel administrativo
+- Implementação do sistema de backup
+- Desenvolvimento do módulo de autenticação
+- Implementação do módulo de análise de dados
+- Configuração da infraestrutura
+- Migração de dados legados
+
+Tarefas atrasadas:

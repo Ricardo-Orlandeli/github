@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O direito de realizar seus sonhos naturalmente (PROJ-0394)
+Data: 14/07/2025
+Gerente: Danilo da Cruz
+
+Orçamento inicial: R$ 1410842.00
+Custo real atual: R$ 1259680.37
+Desvio orçamentário: -10.71%
+Índice de Desempenho de Custo (CPI): 0.68
+Valor Agregado (EV): R$ 861375.43
+Estimativa para conclusão: R$ 803543.06
+Estimativa no término (EAC): R$ 2063223.43
+Variação no término (VAC): R$ -652381.43
+
+Detalhamento por categoria:
+- Pessoal: R$ 609702.14 (48.4%)
+- Equipamentos: R$ 204709.76 (16.3%)
+- Software: R$ 115942.46 (9.2%)
+- Serviços: R$ 208275.23 (16.5%)
+- Outros: R$ 121050.77 (9.6%)

@@ -1,0 +1,27 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A liberdade de ganhar mais rapidamente (PROJ-0560)
+Data: 14/07/2025
+Gerente: Nicolas Fonseca
+
+Status atual: Em andamento
+Percentual de conclusão: 24.2%
+Data de início: 27/05/2025
+Data de término planejada: 04/12/2025
+Data de término real/prevista: 31/12/2025
+Atraso atual: 0 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.08
+Valor Planejado (PV): R$ 108456.88
+Valor Agregado (EV): R$ 104453.61
+
+Tarefas críticas:
+- Integração com sistema de pagamentos
+- Desenvolvimento da interface do usuário
+- Integração com sistema de pagamentos
+- Implementação do módulo de relatórios
+- Migração de dados legados
+- Desenvolvimento da interface do usuário
+- Implementação da API REST
+- Implementação do módulo de relatórios
+
+Tarefas atrasadas:

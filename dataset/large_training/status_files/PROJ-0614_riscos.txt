@@ -1,0 +1,23 @@
+RELATÓRIO DE STATUS DE RISCOS
+Projeto: O poder de ganhar sem preocupação (PROJ-0614)
+Data: 14/07/2025
+Gerente: Erick Barros
+
+Riscos identificados:
+- R01: Requisitos mal definidos
+  Probabilidade: 2/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Implementar redundância de infraestrutura
+
+- R02: Falhas de infraestrutura
+  Probabilidade: 1/5, Impacto: 4/5, Nível: Baixo
+  Mitigação: Fortalecer medidas de segurança
+
+- R03: Dependências externas não cumpridas
+  Probabilidade: 4/5, Impacto: 3/5, Nível: Médio
+  Mitigação: Contratar pessoal adicional
+
+Riscos ocorridos:
+- R03 (ocorrido em 11/07/2025)
+  Impacto real: Insatisfação dos stakeholders
+  Ações tomadas: Implementação de soluções alternativas
+

@@ -1,0 +1,24 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: O conforto de ganhar sem preocupação (PROJ-0966)
+Data: 14/07/2025
+Gerente: Bárbara Pereira
+
+Status atual: Em andamento
+Percentual de conclusão: 23.3%
+Data de início: 12/05/2025
+Data de término planejada: 15/03/2026
+Data de término real/prevista: 07/03/2026
+Atraso atual: 0 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.11
+Valor Planejado (PV): R$ 135211.75
+Valor Agregado (EV): R$ 153685.32
+
+Tarefas críticas:
+- Integração com sistema de pagamentos
+- Testes de segurança
+- Desenvolvimento do módulo de autenticação
+- Implementação da API REST
+- Implementação da API REST
+
+Tarefas atrasadas:

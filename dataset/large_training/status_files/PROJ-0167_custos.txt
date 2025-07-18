@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O conforto de realizar seus sonhos antes de tudo (PROJ-0167)
+Data: 14/07/2025
+Gerente: Liam Barbosa
+
+Orçamento inicial: R$ 4229037.00
+Custo real atual: R$ 4138323.72
+Desvio orçamentário: -2.15%
+Índice de Desempenho de Custo (CPI): 1.02
+Valor Agregado (EV): R$ 4224807.96
+Estimativa para conclusão: R$ 4142.47
+Estimativa no término (EAC): R$ 4142466.18
+Variação no término (VAC): R$ 86570.82
+
+Detalhamento por categoria:
+- Pessoal: R$ 1961051.91 (47.4%)
+- Equipamentos: R$ 703546.54 (17.0%)
+- Software: R$ 553608.97 (13.4%)
+- Serviços: R$ 700279.27 (16.9%)
+- Outros: R$ 219837.03 (5.3%)

@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O prazer de inovar antes de tudo (PROJ-0782)
+Data: 14/07/2025
+Gerente: Eduarda Ribeiro
+
+Orçamento inicial: R$ 793771.00
+Custo real atual: R$ 259017.61
+Desvio orçamentário: -2.11%
+Índice de Desempenho de Custo (CPI): 0.95
+Valor Agregado (EV): R$ 246895.89
+Estimativa para conclusão: R$ 573724.77
+Estimativa no término (EAC): R$ 832742.39
+Variação no término (VAC): R$ -38971.39
+
+Detalhamento por categoria:
+- Pessoal: R$ 142151.41 (54.9%)
+- Equipamentos: R$ 34752.89 (13.4%)
+- Software: R$ 17178.04 (6.6%)
+- Serviços: R$ 49637.98 (19.2%)
+- Outros: R$ 15297.29 (5.9%)

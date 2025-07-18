@@ -1,0 +1,47 @@
+RELATÓRIO DE STATUS DE RISCOS
+Projeto: O poder de mudar simplesmente (PROJ-0098)
+Data: 14/07/2025
+Gerente: Ísis Vasconcelos
+
+Riscos identificados:
+- R01: Problemas de comunicação com stakeholders
+  Probabilidade: 4/5, Impacto: 3/5, Nível: Médio
+  Mitigação: Contratar pessoal adicional
+
+- R02: Falhas em testes de aceitação
+  Probabilidade: 5/5, Impacto: 4/5, Nível: Alto
+  Mitigação: Comunicar benefícios da mudança
+
+- R03: Problemas de integração com sistemas legados
+  Probabilidade: 5/5, Impacto: 4/5, Nível: Alto
+  Mitigação: Estabelecer canais de comunicação claros
+
+- R04: Problemas de compatibilidade
+  Probabilidade: 1/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Realizar testes de integração antecipados
+
+- R05: Requisitos mal definidos
+  Probabilidade: 3/5, Impacto: 5/5, Nível: Médio
+  Mitigação: Monitorar mudanças regulatórias
+
+- R06: Problemas de desempenho
+  Probabilidade: 1/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Refinar estimativas com base em dados históricos
+
+- R07: Rotatividade de pessoal-chave
+  Probabilidade: 2/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Refinar estimativas com base em dados históricos
+
+- R08: Falhas em testes de aceitação
+  Probabilidade: 3/5, Impacto: 5/5, Nível: Médio
+  Mitigação: Implementar redundância de infraestrutura
+
+Riscos ocorridos:
+- R05 (ocorrido em 01/03/2025)
+  Impacto real: Perda de recursos-chave
+  Ações tomadas: Implementação de controles adicionais
+
+- R02 (ocorrido em 31/12/2023)
+  Impacto real: Perda de dados
+  Ações tomadas: Comunicação intensificada com stakeholders
+

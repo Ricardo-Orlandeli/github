@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A simplicidade de ganhar com toda a tranquilidade (PROJ-0471)
+Data: 14/07/2025
+Gerente: Rael Abreu
+
+Orçamento inicial: R$ 2429595.00
+Custo real atual: R$ 2084343.86
+Desvio orçamentário: -14.21%
+Índice de Desempenho de Custo (CPI): 1.04
+Valor Agregado (EV): R$ 2169075.26
+Estimativa para conclusão: R$ 250342.96
+Estimativa no término (EAC): R$ 2334686.82
+Variação no término (VAC): R$ 94908.18
+
+Detalhamento por categoria:
+- Pessoal: R$ 1139874.25 (54.7%)
+- Equipamentos: R$ 314391.36 (15.1%)
+- Software: R$ 113420.60 (5.4%)
+- Serviços: R$ 362115.25 (17.4%)
+- Outros: R$ 154542.40 (7.4%)

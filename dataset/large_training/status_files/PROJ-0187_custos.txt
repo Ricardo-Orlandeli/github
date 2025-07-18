@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O poder de concretizar seus projetos de maneira eficaz (PROJ-0187)
+Data: 14/07/2025
+Gerente: Dra. Maria Julia Nascimento
+
+Orçamento inicial: R$ 2971619.00
+Custo real atual: R$ 3353850.80
+Desvio orçamentário: 12.86%
+Índice de Desempenho de Custo (CPI): 0.89
+Valor Agregado (EV): R$ 2968647.38
+Estimativa para conclusão: R$ 3357.21
+Estimativa no término (EAC): R$ 3357208.01
+Variação no término (VAC): R$ -385589.01
+
+Detalhamento por categoria:
+- Pessoal: R$ 1950814.28 (58.2%)
+- Equipamentos: R$ 409247.57 (12.2%)
+- Software: R$ 385917.53 (11.5%)
+- Serviços: R$ 404538.55 (12.1%)
+- Outros: R$ 203332.88 (6.1%)

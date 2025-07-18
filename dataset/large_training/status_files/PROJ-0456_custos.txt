@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A certeza de mudar de maneira eficaz (PROJ-0456)
+Data: 14/07/2025
+Gerente: Srta. Maria Isis Marques
+
+Orçamento inicial: R$ 3289178.00
+Custo real atual: R$ 2991934.84
+Desvio orçamentário: -9.04%
+Índice de Desempenho de Custo (CPI): 1.10
+Valor Agregado (EV): R$ 3285888.82
+Estimativa para conclusão: R$ 2994.93
+Estimativa no término (EAC): R$ 2994929.77
+Variação no término (VAC): R$ 294248.23
+
+Detalhamento por categoria:
+- Pessoal: R$ 1583623.85 (52.9%)
+- Equipamentos: R$ 505250.96 (16.9%)
+- Software: R$ 230000.43 (7.7%)
+- Serviços: R$ 422651.15 (14.1%)
+- Outros: R$ 250408.44 (8.4%)

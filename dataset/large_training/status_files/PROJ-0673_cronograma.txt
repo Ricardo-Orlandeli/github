@@ -1,0 +1,28 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A certeza de avançar com confiança (PROJ-0673)
+Data: 14/07/2025
+Gerente: João Vitor Santos
+
+Status atual: Atrasado
+Percentual de conclusão: 16.0%
+Data de início: 27/05/2025
+Data de término planejada: 26/10/2025
+Data de término real/prevista: 28/12/2025
+Atraso atual: 0 dias
+Motivo do atraso: Atraso na entrega de componentes por fornecedores
+Índice de Desempenho de Cronograma (SPI): 0.51
+Valor Planejado (PV): R$ 43486.42
+Valor Agregado (EV): R$ 22029.69
+
+Tarefas críticas:
+- Testes de aceitação do usuário
+- Configuração do ambiente de produção
+- Desenvolvimento da interface do usuário
+- Integração com sistema de pagamentos
+- Implementação do módulo de relatórios
+- Testes de segurança
+
+Tarefas atrasadas:
+- Testes de segurança
+- Configuração do ambiente de produção
+- Implementação do módulo de relatórios

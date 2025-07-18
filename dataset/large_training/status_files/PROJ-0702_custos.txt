@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O conforto de concretizar seus projetos em estado puro (PROJ-0702)
+Data: 14/07/2025
+Gerente: Ayla Silva
+
+Orçamento inicial: R$ 3451518.00
+Custo real atual: R$ 3097723.43
+Desvio orçamentário: -10.25%
+Índice de Desempenho de Custo (CPI): 1.11
+Valor Agregado (EV): R$ 3451518.00
+Estimativa para conclusão: R$ 0.00
+Estimativa no término (EAC): R$ 3097723.43
+Variação no término (VAC): R$ 353794.57
+
+Detalhamento por categoria:
+- Pessoal: R$ 1779122.69 (57.4%)
+- Equipamentos: R$ 474694.80 (15.3%)
+- Software: R$ 199773.75 (6.4%)
+- Serviços: R$ 353123.68 (11.4%)
+- Outros: R$ 291008.52 (9.4%)

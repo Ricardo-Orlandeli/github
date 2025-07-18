@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A simplicidade de mudar sem preocupação (PROJ-0994)
+Data: 14/07/2025
+Gerente: Dr. Vinicius Aragão
+
+Orçamento inicial: R$ 1309617.00
+Custo real atual: R$ 427385.11
+Desvio orçamentário: -55.04%
+Índice de Desempenho de Custo (CPI): 0.83
+Valor Agregado (EV): R$ 353495.69
+Estimativa para conclusão: R$ 1155974.52
+Estimativa no término (EAC): R$ 1583359.63
+Variação no término (VAC): R$ -273742.63
+
+Detalhamento por categoria:
+- Pessoal: R$ 237714.26 (55.6%)
+- Equipamentos: R$ 68725.39 (16.1%)
+- Software: R$ 27817.79 (6.5%)
+- Serviços: R$ 63701.74 (14.9%)
+- Outros: R$ 29425.94 (6.9%)

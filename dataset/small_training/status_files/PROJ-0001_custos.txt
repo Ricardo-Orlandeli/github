@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O poder de inovar direto da fonte (PROJ-0001)
+Data: 14/07/2025
+Gerente: Apollo Sousa
+
+Orçamento inicial: R$ 2357113.00
+Custo real atual: R$ 1525057.93
+Desvio orçamentário: -1.71%
+Índice de Desempenho de Custo (CPI): 0.91
+Valor Agregado (EV): R$ 1393270.57
+Estimativa para conclusão: R$ 1055010.82
+Estimativa no término (EAC): R$ 2580068.75
+Variação no término (VAC): R$ -222955.75
+
+Detalhamento por categoria:
+- Pessoal: R$ 935238.39 (61.3%)
+- Equipamentos: R$ 175740.63 (11.5%)
+- Software: R$ 149060.02 (9.8%)
+- Serviços: R$ 166501.75 (10.9%)
+- Outros: R$ 98517.14 (6.5%)

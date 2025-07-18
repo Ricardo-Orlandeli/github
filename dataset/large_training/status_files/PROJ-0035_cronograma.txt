@@ -1,0 +1,27 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A certeza de atingir seus objetivos simplesmente (PROJ-0035)
+Data: 14/07/2025
+Gerente: Sr. Joaquim da Cruz
+
+Status atual: Em andamento
+Percentual de conclusão: 84.1%
+Data de início: 28/05/2024
+Data de término planejada: 08/12/2024
+Data de término real/prevista: 25/12/2024
+Atraso atual: 218 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.04
+Valor Planejado (PV): R$ 1319243.00
+Valor Agregado (EV): R$ 1108909.16
+
+Tarefas críticas:
+- Testes de segurança
+- Desenvolvimento do painel administrativo
+- Implementação do módulo de exportação de dados
+- Implementação do módulo de relatórios
+- Desenvolvimento da interface do usuário
+- Implementação do módulo de exportação de dados
+- Implementação do módulo de exportação de dados
+- Implementação do módulo de notificações
+
+Tarefas atrasadas:

@@ -1,0 +1,27 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A segurança de realizar seus sonhos com confiança (PROJ-0545)
+Data: 14/07/2025
+Gerente: Henry Camargo
+
+Status atual: Concluído
+Percentual de conclusão: 100.0%
+Data de início: 11/06/2024
+Data de término planejada: 16/11/2024
+Data de término real/prevista: 10/12/2024
+Atraso atual: 240 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.04
+Valor Planejado (PV): R$ 1000203.00
+Valor Agregado (EV): R$ 1000203.00
+
+Tarefas críticas:
+- Testes de aceitação do usuário
+- Testes de aceitação do usuário
+- Desenvolvimento do módulo de autenticação
+- Implementação do módulo de análise de dados
+- Desenvolvimento do módulo de autenticação
+- Desenvolvimento do painel administrativo
+- Implementação do módulo de análise de dados
+- Testes de aceitação do usuário
+
+Tarefas atrasadas:

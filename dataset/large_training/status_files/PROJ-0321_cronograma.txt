@@ -1,0 +1,22 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A possibilidade de evoluir em estado puro (PROJ-0321)
+Data: 14/07/2025
+Gerente: Luna Garcia
+
+Status atual: Em andamento
+Percentual de conclusão: 91.2%
+Data de início: 06/08/2023
+Data de término planejada: 13/04/2024
+Data de término real/prevista: 21/04/2024
+Atraso atual: 457 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.00
+Valor Planejado (PV): R$ 4302250.00
+Valor Agregado (EV): R$ 3923974.58
+
+Tarefas críticas:
+- Implementação do módulo de exportação de dados
+- Desenvolvimento do painel administrativo
+- Implementação do módulo de exportação de dados
+
+Tarefas atrasadas:

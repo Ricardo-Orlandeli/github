@@ -1,0 +1,25 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A simplicidade de avançar sem preocupação (PROJ-0166)
+Data: 14/07/2025
+Gerente: Pietro Teixeira
+
+Status atual: Em andamento
+Percentual de conclusão: 88.7%
+Data de início: 18/03/2024
+Data de término planejada: 07/06/2024
+Data de término real/prevista: 09/06/2024
+Atraso atual: 402 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.01
+Valor Planejado (PV): R$ 4971009.00
+Valor Agregado (EV): R$ 4411110.66
+
+Tarefas críticas:
+- Implementação do sistema de backup
+- Migração de dados legados
+- Migração de dados legados
+- Testes de segurança
+- Implementação do módulo de exportação de dados
+- Desenvolvimento da interface do usuário
+
+Tarefas atrasadas:

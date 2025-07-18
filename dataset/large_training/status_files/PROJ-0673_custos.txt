@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A certeza de avançar com confiança (PROJ-0673)
+Data: 14/07/2025
+Gerente: João Vitor Santos
+
+Orçamento inicial: R$ 137707.00
+Custo real atual: R$ 29275.71
+Desvio orçamentário: -32.68%
+Índice de Desempenho de Custo (CPI): 0.75
+Valor Agregado (EV): R$ 22029.69
+Estimativa para conclusão: R$ 153725.95
+Estimativa no término (EAC): R$ 183001.67
+Variação no término (VAC): R$ -45294.67
+
+Detalhamento por categoria:
+- Pessoal: R$ 14741.86 (50.4%)
+- Equipamentos: R$ 3516.79 (12.0%)
+- Software: R$ 3587.11 (12.3%)
+- Serviços: R$ 4788.44 (16.4%)
+- Outros: R$ 2641.51 (9.0%)

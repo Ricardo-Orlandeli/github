@@ -1,0 +1,39 @@
+RELATÓRIO DE STATUS DE RISCOS
+Projeto: A arte de evoluir sem preocupação (PROJ-0030)
+Data: 14/07/2025
+Gerente: Maria Alice Aragão
+
+Riscos identificados:
+- R01: Falhas em testes de aceitação
+  Probabilidade: 1/5, Impacto: 2/5, Nível: Baixo
+  Mitigação: Fortalecer medidas de segurança
+
+- R02: Mudanças regulatórias
+  Probabilidade: 4/5, Impacto: 5/5, Nível: Alto
+  Mitigação: Refinar estimativas com base em dados históricos
+
+- R03: Resistência dos usuários à mudança
+  Probabilidade: 1/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Implementar redundância de infraestrutura
+
+- R04: Falhas de segurança
+  Probabilidade: 5/5, Impacto: 2/5, Nível: Médio
+  Mitigação: Contratar pessoal adicional
+
+- R05: Problemas de desempenho
+  Probabilidade: 5/5, Impacto: 5/5, Nível: Alto
+  Mitigação: Monitorar mudanças regulatórias
+
+- R06: Mudanças regulatórias
+  Probabilidade: 4/5, Impacto: 3/5, Nível: Médio
+  Mitigação: Monitorar mudanças regulatórias
+
+- R07: Falhas em testes de aceitação
+  Probabilidade: 2/5, Impacto: 5/5, Nível: Médio
+  Mitigação: Buscar fornecedores alternativos
+
+Riscos ocorridos:
+- R07 (ocorrido em 28/02/2025)
+  Impacto real: Perda de dados
+  Ações tomadas: Implementação de soluções alternativas
+

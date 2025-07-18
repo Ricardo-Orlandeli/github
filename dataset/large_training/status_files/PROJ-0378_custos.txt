@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O conforto de avançar em estado puro (PROJ-0378)
+Data: 14/07/2025
+Gerente: Dra. Liz Ramos
+
+Orçamento inicial: R$ 1910837.00
+Custo real atual: R$ 119952.14
+Desvio orçamentário: -11.72%
+Índice de Desempenho de Custo (CPI): 0.95
+Valor Agregado (EV): R$ 114241.76
+Estimativa para conclusão: R$ 1886398.07
+Estimativa no término (EAC): R$ 2006350.20
+Variação no término (VAC): R$ -95513.20
+
+Detalhamento por categoria:
+- Pessoal: R$ 64031.63 (53.4%)
+- Equipamentos: R$ 20480.10 (17.1%)
+- Software: R$ 8701.28 (7.3%)
+- Serviços: R$ 16871.15 (14.1%)
+- Outros: R$ 9867.97 (8.2%)

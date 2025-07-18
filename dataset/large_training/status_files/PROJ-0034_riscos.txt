@@ -1,0 +1,19 @@
+RELATÓRIO DE STATUS DE RISCOS
+Projeto: O poder de ganhar antes de tudo (PROJ-0034)
+Data: 14/07/2025
+Gerente: Rebeca Montenegro
+
+Riscos identificados:
+- R01: Problemas de integração com sistemas legados
+  Probabilidade: 3/5, Impacto: 2/5, Nível: Baixo
+  Mitigação: Melhorar a documentação de requisitos
+
+- R02: Dependências externas não cumpridas
+  Probabilidade: 2/5, Impacto: 2/5, Nível: Baixo
+  Mitigação: Realizar testes de aceitação com usuários-chave
+
+- R03: Requisitos mal definidos
+  Probabilidade: 4/5, Impacto: 3/5, Nível: Médio
+  Mitigação: Estabelecer canais de comunicação claros
+
+Riscos ocorridos:

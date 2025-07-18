@@ -1,0 +1,27 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: O conforto de atingir seus objetivos mais rapidamente (PROJ-0255)
+Data: 14/07/2025
+Gerente: Mariana Castro
+
+Status atual: Cancelado
+Percentual de conclusão: 37.6%
+Data de início: 03/01/2025
+Data de término planejada: 12/12/2025
+Data de término real/prevista: 11/05/2025
+Atraso atual: 0 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 0.67
+Valor Planejado (PV): R$ 2350160.61
+Valor Agregado (EV): R$ 1578394.17
+
+Tarefas críticas:
+- Implementação do módulo de relatórios
+- Desenvolvimento do módulo de autenticação
+- Integração com sistema de pagamentos
+- Desenvolvimento do módulo de autenticação
+- Implementação do módulo de análise de dados
+- Implementação do módulo de exportação de dados
+- Integração com sistema de pagamentos
+- Implementação do módulo de análise de dados
+
+Tarefas atrasadas:

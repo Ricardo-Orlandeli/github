@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A segurança de evoluir antes de tudo (PROJ-0757)
+Data: 14/07/2025
+Gerente: Bianca Lopes
+
+Orçamento inicial: R$ 1899446.00
+Custo real atual: R$ 1585689.37
+Desvio orçamentário: -16.52%
+Índice de Desempenho de Custo (CPI): 1.20
+Valor Agregado (EV): R$ 1897546.55
+Estimativa para conclusão: R$ 1587.28
+Estimativa no término (EAC): R$ 1587276.64
+Variação no término (VAC): R$ 312169.36
+
+Detalhamento por categoria:
+- Pessoal: R$ 832714.79 (52.5%)
+- Equipamentos: R$ 258634.94 (16.3%)
+- Software: R$ 151532.20 (9.6%)
+- Serviços: R$ 234613.88 (14.8%)
+- Outros: R$ 108193.54 (6.8%)

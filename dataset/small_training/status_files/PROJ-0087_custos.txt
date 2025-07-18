@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A segurança de mudar direto da fonte (PROJ-0087)
+Data: 14/07/2025
+Gerente: Noah Novaes
+
+Orçamento inicial: R$ 2715690.00
+Custo real atual: R$ 2276734.86
+Desvio orçamentário: -16.16%
+Índice de Desempenho de Custo (CPI): 0.84
+Valor Agregado (EV): R$ 1903486.51
+Estimativa para conclusão: R$ 971465.78
+Estimativa no término (EAC): R$ 3248200.64
+Variação no término (VAC): R$ -532510.64
+
+Detalhamento por categoria:
+- Pessoal: R$ 1213549.52 (53.3%)
+- Equipamentos: R$ 317246.98 (13.9%)
+- Software: R$ 204570.51 (9.0%)
+- Serviços: R$ 387559.56 (17.0%)
+- Outros: R$ 153808.30 (6.8%)

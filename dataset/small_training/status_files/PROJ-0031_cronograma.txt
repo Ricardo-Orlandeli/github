@@ -1,0 +1,24 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: O direito de mudar com força total (PROJ-0031)
+Data: 14/07/2025
+Gerente: Breno Rios
+
+Status atual: Concluído
+Percentual de conclusão: 100.0%
+Data de início: 21/11/2024
+Data de término planejada: 19/11/2025
+Data de término real/prevista: 13/12/2025
+Atraso atual: 0 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.03
+Valor Planejado (PV): R$ 1451411.14
+Valor Agregado (EV): R$ 2241967.00
+
+Tarefas críticas:
+- Migração de dados legados
+- Testes de segurança
+- Integração com sistema de pagamentos
+- Desenvolvimento da interface do usuário
+- Implementação do módulo de análise de dados
+
+Tarefas atrasadas:

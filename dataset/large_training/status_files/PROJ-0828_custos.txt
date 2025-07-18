@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A possibilidade de conseguir com confiança (PROJ-0828)
+Data: 14/07/2025
+Gerente: Pietro Nunes
+
+Orçamento inicial: R$ 467904.00
+Custo real atual: R$ 438522.80
+Desvio orçamentário: -2.37%
+Índice de Desempenho de Custo (CPI): 0.92
+Valor Agregado (EV): R$ 404976.76
+Estimativa para conclusão: R$ 68139.78
+Estimativa no término (EAC): R$ 506662.59
+Variação no término (VAC): R$ -38758.59
+
+Detalhamento por categoria:
+- Pessoal: R$ 199999.64 (45.6%)
+- Equipamentos: R$ 91739.08 (20.9%)
+- Software: R$ 38225.56 (8.7%)
+- Serviços: R$ 77284.04 (17.6%)
+- Outros: R$ 31274.49 (7.1%)

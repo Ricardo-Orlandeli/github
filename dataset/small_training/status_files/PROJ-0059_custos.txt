@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A certeza de avançar mais rapidamente (PROJ-0059)
+Data: 14/07/2025
+Gerente: Diego Silva
+
+Orçamento inicial: R$ 4399759.00
+Custo real atual: R$ 4048486.56
+Desvio orçamentário: -7.98%
+Índice de Desempenho de Custo (CPI): 0.87
+Valor Agregado (EV): R$ 3539249.01
+Estimativa para conclusão: R$ 984322.69
+Estimativa no término (EAC): R$ 5032809.26
+Variação no término (VAC): R$ -633050.26
+
+Detalhamento por categoria:
+- Pessoal: R$ 2061088.41 (50.9%)
+- Equipamentos: R$ 530668.48 (13.1%)
+- Software: R$ 495175.29 (12.2%)
+- Serviços: R$ 706248.54 (17.4%)
+- Outros: R$ 255305.84 (6.3%)

@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A possibilidade de ganhar com confiança (PROJ-0594)
+Data: 14/07/2025
+Gerente: Vinicius Pinto
+
+Orçamento inicial: R$ 3173435.00
+Custo real atual: R$ 3628344.75
+Desvio orçamentário: 14.33%
+Índice de Desempenho de Custo (CPI): 0.85
+Valor Agregado (EV): R$ 3091273.69
+Estimativa para conclusão: R$ 96435.83
+Estimativa no término (EAC): R$ 3724780.58
+Variação no término (VAC): R$ -551345.58
+
+Detalhamento por categoria:
+- Pessoal: R$ 2076774.83 (57.2%)
+- Equipamentos: R$ 455105.90 (12.5%)
+- Software: R$ 421520.76 (11.6%)
+- Serviços: R$ 376862.47 (10.4%)
+- Outros: R$ 298080.79 (8.2%)

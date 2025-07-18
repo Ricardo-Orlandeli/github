@@ -1,0 +1,23 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: O direito de atingir seus objetivos antes de tudo (PROJ-0038)
+Data: 14/07/2025
+Gerente: Ana Laura Mendonça
+
+Status atual: Concluído
+Percentual de conclusão: 100.0%
+Data de início: 27/01/2024
+Data de término planejada: 18/12/2024
+Data de término real/prevista: 02/12/2024
+Atraso atual: 208 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 0.96
+Valor Planejado (PV): R$ 1574117.00
+Valor Agregado (EV): R$ 1574117.00
+
+Tarefas críticas:
+- Testes de aceitação do usuário
+- Desenvolvimento do painel administrativo
+- Configuração da infraestrutura
+- Desenvolvimento do painel administrativo
+
+Tarefas atrasadas:

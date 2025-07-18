@@ -1,0 +1,27 @@
+RELATÓRIO DE STATUS DE ESCOPO
+Projeto: A liberdade de concretizar seus projetos simplesmente (PROJ-0423)
+Data: 14/07/2025
+Gerente: Ágatha Montenegro
+
+Escopo original: Sistema para a liberdade de concretizar seus projetos simplesmente
+Houve mudança de escopo: Sim
+Descrição das mudanças: Expansão do escopo para incluir funcionalidades adicionais
+Impacto no cronograma: 33 dias
+Impacto no custo: R$ 153383.30
+
+Solicitações de mudança:
+- SCM-01: Mudança na arquitetura do sistema
+
+Requisitos atuais:
+- REQ-01: O sistema deve ter alta disponibilidade (99.9%)
+- REQ-02: O sistema deve ser escalável para suportar até 10.000 usuários simultâneos
+- REQ-03: O sistema deve ter alta disponibilidade (99.9%)
+- REQ-04: O sistema deve processar transações em menos de 2 seconds
+- REQ-05: O sistema deve implementar criptografia de dados sensíveis
+- REQ-06: O sistema deve registrar logs de auditoria
+- REQ-07: O sistema deve passar por testes de segurança
+- REQ-08: O sistema deve ter backup automático diário
+- REQ-09: O sistema deve permitir integração com APIs externas
+- REQ-10: O sistema deve implementar criptografia de dados sensíveis
+- REQ-11: O sistema deve ser compatível com navegadores modernos
+- REQ-12: O sistema deve permitir exportação de dados em formato CSV

@@ -1,0 +1,26 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: O poder de inovar direto da fonte (PROJ-0631)
+Data: 14/07/2025
+Gerente: Antony Cavalcante
+
+Status atual: Em andamento
+Percentual de conclusão: 81.9%
+Data de início: 21/06/2024
+Data de término planejada: 18/10/2024
+Data de término real/prevista: 29/10/2024
+Atraso atual: 269 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.02
+Valor Planejado (PV): R$ 3954828.00
+Valor Agregado (EV): R$ 3239108.56
+
+Tarefas críticas:
+- Implementação do módulo de relatórios
+- Desenvolvimento do módulo de autenticação
+- Configuração da infraestrutura
+- Configuração da infraestrutura
+- Implementação do módulo de notificações
+- Implementação da API REST
+- Implementação do módulo de relatórios
+
+Tarefas atrasadas:

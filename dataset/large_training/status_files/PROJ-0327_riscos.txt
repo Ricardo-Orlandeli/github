@@ -1,0 +1,39 @@
+RELATÓRIO DE STATUS DE RISCOS
+Projeto: O conforto de inovar direto da fonte (PROJ-0327)
+Data: 14/07/2025
+Gerente: Antônio Melo
+
+Riscos identificados:
+- R01: Dependências externas não cumpridas
+  Probabilidade: 3/5, Impacto: 2/5, Nível: Baixo
+  Mitigação: Refinar estimativas com base em dados históricos
+
+- R02: Requisitos mal definidos
+  Probabilidade: 4/5, Impacto: 2/5, Nível: Médio
+  Mitigação: Otimizar código e infraestrutura
+
+- R03: Resistência dos usuários à mudança
+  Probabilidade: 4/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Comunicar benefícios da mudança
+
+- R04: Problemas de comunicação com stakeholders
+  Probabilidade: 5/5, Impacto: 2/5, Nível: Médio
+  Mitigação: Otimizar código e infraestrutura
+
+- R05: Rotatividade de pessoal-chave
+  Probabilidade: 4/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Realizar testes de integração antecipados
+
+- R06: Problemas de compatibilidade
+  Probabilidade: 4/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Contratar pessoal adicional
+
+- R07: Falhas em testes de aceitação
+  Probabilidade: 4/5, Impacto: 4/5, Nível: Alto
+  Mitigação: Realizar testes de integração antecipados
+
+- R08: Rotatividade de pessoal-chave
+  Probabilidade: 2/5, Impacto: 2/5, Nível: Baixo
+  Mitigação: Gerenciar dependências ativamente
+
+Riscos ocorridos:

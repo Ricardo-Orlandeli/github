@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A simplicidade de conseguir com força total (PROJ-0664)
+Data: 14/07/2025
+Gerente: Sr. Bryan da Luz
+
+Orçamento inicial: R$ 990960.00
+Custo real atual: R$ 936317.17
+Desvio orçamentário: -5.51%
+Índice de Desempenho de Custo (CPI): 0.75
+Valor Agregado (EV): R$ 701321.48
+Estimativa para conclusão: R$ 386689.31
+Estimativa no término (EAC): R$ 1323006.48
+Variação no término (VAC): R$ -332046.48
+
+Detalhamento por categoria:
+- Pessoal: R$ 505236.89 (54.0%)
+- Equipamentos: R$ 119234.15 (12.7%)
+- Software: R$ 114887.21 (12.3%)
+- Serviços: R$ 142611.24 (15.2%)
+- Outros: R$ 54347.68 (5.8%)

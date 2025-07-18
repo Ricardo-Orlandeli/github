@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A vantagem de mudar simplesmente (PROJ-0099)
+Data: 14/07/2025
+Gerente: Luiz Henrique Rocha
+
+Orçamento inicial: R$ 4500583.00
+Custo real atual: R$ 1904650.77
+Desvio orçamentário: -42.65%
+Índice de Desempenho de Custo (CPI): 0.88
+Valor Agregado (EV): R$ 1669685.06
+Estimativa para conclusão: R$ 3229274.83
+Estimativa no término (EAC): R$ 5133925.60
+Variação no término (VAC): R$ -633342.60
+
+Detalhamento por categoria:
+- Pessoal: R$ 934393.18 (49.1%)
+- Equipamentos: R$ 229488.40 (12.0%)
+- Software: R$ 214854.56 (11.3%)
+- Serviços: R$ 411301.83 (21.6%)
+- Outros: R$ 114612.81 (6.0%)

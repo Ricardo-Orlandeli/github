@@ -1,0 +1,47 @@
+RELATÓRIO DE STATUS DE RISCOS
+Projeto: O conforto de concretizar seus projetos mais facilmente (PROJ-0517)
+Data: 14/07/2025
+Gerente: Stephany Santos
+
+Riscos identificados:
+- R01: Requisitos mal definidos
+  Probabilidade: 5/5, Impacto: 3/5, Nível: Médio
+  Mitigação: Fortalecer medidas de segurança
+
+- R02: Rotatividade de pessoal-chave
+  Probabilidade: 1/5, Impacto: 4/5, Nível: Baixo
+  Mitigação: Estabelecer canais de comunicação claros
+
+- R03: Falhas de segurança
+  Probabilidade: 3/5, Impacto: 3/5, Nível: Médio
+  Mitigação: Estabelecer canais de comunicação claros
+
+- R04: Problemas de desempenho
+  Probabilidade: 2/5, Impacto: 5/5, Nível: Médio
+  Mitigação: Contratar pessoal adicional
+
+- R05: Atraso na entrega de componentes críticos
+  Probabilidade: 5/5, Impacto: 5/5, Nível: Alto
+  Mitigação: Realizar testes de aceitação com usuários-chave
+
+- R06: Rotatividade de pessoal-chave
+  Probabilidade: 5/5, Impacto: 2/5, Nível: Médio
+  Mitigação: Buscar fornecedores alternativos
+
+- R07: Falhas de segurança
+  Probabilidade: 2/5, Impacto: 2/5, Nível: Baixo
+  Mitigação: Testar compatibilidade em diferentes ambientes
+
+Riscos ocorridos:
+- R07 (ocorrido em 02/07/2025)
+  Impacto real: Perda de recursos-chave
+  Ações tomadas: Implementação do plano de contingência
+
+- R02 (ocorrido em 26/06/2025)
+  Impacto real: Falhas de segurança
+  Ações tomadas: Comunicação intensificada com stakeholders
+
+- R04 (ocorrido em 03/07/2025)
+  Impacto real: Perda de recursos-chave
+  Ações tomadas: Revisão de prioridades
+

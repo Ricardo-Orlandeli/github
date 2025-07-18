@@ -1,0 +1,22 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: O direito de realizar seus sonhos de maneira eficaz (PROJ-0006)
+Data: 14/07/2025
+Gerente: Milena Borges
+
+Status atual: Em andamento
+Percentual de conclusão: 33.7%
+Data de início: 18/04/2025
+Data de término planejada: 20/11/2025
+Data de término real/prevista: 15/11/2025
+Atraso atual: 0 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.06
+Valor Planejado (PV): R$ 792452.79
+Valor Agregado (EV): R$ 662481.82
+
+Tarefas críticas:
+- Migração de dados legados
+- Implementação do módulo de relatórios
+- Implementação do módulo de exportação de dados
+
+Tarefas atrasadas:

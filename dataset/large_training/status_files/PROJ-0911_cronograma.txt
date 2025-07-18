@@ -1,0 +1,30 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A possibilidade de avançar antes de tudo (PROJ-0911)
+Data: 14/07/2025
+Gerente: Nina Pimenta
+
+Status atual: Atrasado
+Percentual de conclusão: 54.2%
+Data de início: 26/04/2025
+Data de término planejada: 06/07/2025
+Data de término real/prevista: 14/10/2025
+Atraso atual: 8 dias
+Motivo do atraso: Dependências externas não cumpridas
+Índice de Desempenho de Cronograma (SPI): 0.54
+Valor Planejado (PV): R$ 4230557.00
+Valor Agregado (EV): R$ 2291116.78
+
+Tarefas críticas:
+- Testes de segurança
+- Testes de aceitação do usuário
+- Configuração do ambiente de produção
+- Desenvolvimento do painel administrativo
+- Desenvolvimento do painel administrativo
+- Configuração do ambiente de produção
+- Migração de dados legados
+- Desenvolvimento do módulo de autenticação
+
+Tarefas atrasadas:
+- Desenvolvimento do módulo de autenticação
+- Configuração do ambiente de produção
+- Configuração do ambiente de produção

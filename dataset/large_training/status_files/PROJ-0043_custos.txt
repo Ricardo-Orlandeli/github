@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A liberdade de evoluir antes de tudo (PROJ-0043)
+Data: 14/07/2025
+Gerente: Bianca Duarte
+
+Orçamento inicial: R$ 225630.00
+Custo real atual: R$ 243998.46
+Desvio orçamentário: 8.14%
+Índice de Desempenho de Custo (CPI): 0.92
+Valor Agregado (EV): R$ 225404.37
+Estimativa para conclusão: R$ 244.24
+Estimativa no término (EAC): R$ 244242.70
+Variação no término (VAC): R$ -18612.70
+
+Detalhamento por categoria:
+- Pessoal: R$ 132266.71 (54.2%)
+- Equipamentos: R$ 33708.64 (13.8%)
+- Software: R$ 18627.19 (7.6%)
+- Serviços: R$ 37650.78 (15.4%)
+- Outros: R$ 21745.14 (8.9%)

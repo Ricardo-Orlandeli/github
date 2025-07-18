@@ -1,0 +1,31 @@
+RELATÓRIO DE STATUS DE RISCOS
+Projeto: A vantagem de inovar naturalmente (PROJ-0578)
+Data: 14/07/2025
+Gerente: Olivia Borges
+
+Riscos identificados:
+- R01: Problemas de compatibilidade
+  Probabilidade: 2/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Fortalecer medidas de segurança
+
+- R02: Problemas de integração com sistemas legados
+  Probabilidade: 4/5, Impacto: 2/5, Nível: Médio
+  Mitigação: Melhorar a documentação de requisitos
+
+- R03: Problemas de comunicação com stakeholders
+  Probabilidade: 3/5, Impacto: 2/5, Nível: Baixo
+  Mitigação: Gerenciar dependências ativamente
+
+- R04: Resistência dos usuários à mudança
+  Probabilidade: 3/5, Impacto: 5/5, Nível: Médio
+  Mitigação: Gerenciar dependências ativamente
+
+- R05: Falhas de infraestrutura
+  Probabilidade: 1/5, Impacto: 4/5, Nível: Baixo
+  Mitigação: Contratar pessoal adicional
+
+- R06: Problemas de integração com sistemas legados
+  Probabilidade: 5/5, Impacto: 4/5, Nível: Alto
+  Mitigação: Contratar pessoal adicional
+
+Riscos ocorridos:

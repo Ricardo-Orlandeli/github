@@ -1,0 +1,22 @@
+RELATÓRIO DE STATUS DE ESCOPO
+Projeto: A liberdade de evoluir antes de tudo (PROJ-0043)
+Data: 14/07/2025
+Gerente: Bianca Duarte
+
+Escopo original: Sistema para a liberdade de evoluir antes de tudo
+Houve mudança de escopo: Sim
+Descrição das mudanças: Adição de novos requisitos de segurança
+Impacto no cronograma: 5 dias
+Impacto no custo: R$ 22171.49
+
+Solicitações de mudança:
+- SCM-01: Implementação de módulo de exportação de dados
+
+Requisitos atuais:
+- REQ-01: O sistema deve implementar criptografia de dados sensíveis
+- REQ-02: O sistema deve permitir exportação de dados em formato CSV
+- REQ-03: O sistema deve ser compatível com dispositivos móveis
+- REQ-04: O sistema deve ter controle de acesso baseado em perfis
+- REQ-05: O sistema deve ser compatível com dispositivos móveis
+- REQ-06: O sistema deve permitir exportação de dados em formato CSV
+- REQ-07: O sistema deve ter controle de acesso baseado em perfis

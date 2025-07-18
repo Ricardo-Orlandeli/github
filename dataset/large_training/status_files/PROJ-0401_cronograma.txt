@@ -1,0 +1,24 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: O prazer de conseguir com toda a tranquilidade (PROJ-0401)
+Data: 14/07/2025
+Gerente: Srta. Isabelly Sampaio
+
+Status atual: Em andamento
+Percentual de conclusão: 7.6%
+Data de início: 18/06/2025
+Data de término planejada: 19/05/2026
+Data de término real/prevista: 18/05/2026
+Atraso atual: 0 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.06
+Valor Planejado (PV): R$ 379056.48
+Valor Agregado (EV): R$ 368767.11
+
+Tarefas críticas:
+- Testes de segurança
+- Desenvolvimento do módulo de autenticação
+- Implementação do módulo de análise de dados
+- Implementação da API REST
+- Configuração do ambiente de produção
+
+Tarefas atrasadas:

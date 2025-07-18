@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A segurança de realizar seus sonhos com confiança (PROJ-0073)
+Data: 14/07/2025
+Gerente: Ana Vitória Silveira
+
+Orçamento inicial: R$ 3349470.00
+Custo real atual: R$ 3612680.65
+Desvio orçamentário: 7.86%
+Índice de Desempenho de Custo (CPI): 0.93
+Valor Agregado (EV): R$ 3349470.00
+Estimativa para conclusão: R$ 0.00
+Estimativa no término (EAC): R$ 3612680.65
+Variação no término (VAC): R$ -263210.65
+
+Detalhamento por categoria:
+- Pessoal: R$ 1966097.11 (54.4%)
+- Equipamentos: R$ 678844.82 (18.8%)
+- Software: R$ 214443.44 (5.9%)
+- Serviços: R$ 474121.36 (13.1%)
+- Outros: R$ 279173.91 (7.7%)

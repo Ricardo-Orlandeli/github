@@ -1,0 +1,25 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: O conforto de atingir seus objetivos antes de tudo (PROJ-0090)
+Data: 14/07/2025
+Gerente: João Miguel Fogaça
+
+Status atual: Concluído
+Percentual de conclusão: 100.0%
+Data de início: 04/01/2024
+Data de término planejada: 22/03/2024
+Data de término real/prevista: 03/04/2024
+Atraso atual: 479 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.09
+Valor Planejado (PV): R$ 4534022.00
+Valor Agregado (EV): R$ 4534022.00
+
+Tarefas críticas:
+- Testes de aceitação do usuário
+- Desenvolvimento da interface do usuário
+- Implementação do módulo de notificações
+- Implementação do módulo de análise de dados
+- Desenvolvimento do painel administrativo
+- Implementação da API REST
+
+Tarefas atrasadas:

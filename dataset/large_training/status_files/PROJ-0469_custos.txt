@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A segurança de concretizar seus projetos em estado puro (PROJ-0469)
+Data: 14/07/2025
+Gerente: Alana Melo
+
+Orçamento inicial: R$ 204820.00
+Custo real atual: R$ 194337.03
+Desvio orçamentário: -5.12%
+Índice de Desempenho de Custo (CPI): 1.05
+Valor Agregado (EV): R$ 204820.00
+Estimativa para conclusão: R$ 0.00
+Estimativa no término (EAC): R$ 194337.03
+Variação no término (VAC): R$ 10482.97
+
+Detalhamento por categoria:
+- Pessoal: R$ 83898.99 (43.2%)
+- Equipamentos: R$ 40648.27 (20.9%)
+- Software: R$ 19555.90 (10.1%)
+- Serviços: R$ 30902.03 (15.9%)
+- Outros: R$ 19331.84 (9.9%)

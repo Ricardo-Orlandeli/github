@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O direito de conseguir naturalmente (PROJ-0503)
+Data: 14/07/2025
+Gerente: Francisco Câmara
+
+Orçamento inicial: R$ 695664.00
+Custo real atual: R$ 609223.66
+Desvio orçamentário: 1.88%
+Índice de Desempenho de Custo (CPI): 0.87
+Valor Agregado (EV): R$ 529954.66
+Estimativa para conclusão: R$ 190495.63
+Estimativa no término (EAC): R$ 799719.29
+Variação no término (VAC): R$ -104055.29
+
+Detalhamento por categoria:
+- Pessoal: R$ 329938.20 (54.2%)
+- Equipamentos: R$ 111267.86 (18.3%)
+- Software: R$ 35880.49 (5.9%)
+- Serviços: R$ 91144.23 (15.0%)
+- Outros: R$ 40992.88 (6.7%)

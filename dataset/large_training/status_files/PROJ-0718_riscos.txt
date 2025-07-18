@@ -1,0 +1,23 @@
+RELATÓRIO DE STATUS DE RISCOS
+Projeto: A certeza de mudar com toda a tranquilidade (PROJ-0718)
+Data: 14/07/2025
+Gerente: Alana Correia
+
+Riscos identificados:
+- R01: Problemas de comunicação com stakeholders
+  Probabilidade: 1/5, Impacto: 5/5, Nível: Baixo
+  Mitigação: Implementar plano de contingência
+
+- R02: Mudanças regulatórias
+  Probabilidade: 2/5, Impacto: 2/5, Nível: Baixo
+  Mitigação: Gerenciar dependências ativamente
+
+- R03: Problemas de comunicação com stakeholders
+  Probabilidade: 4/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Gerenciar dependências ativamente
+
+Riscos ocorridos:
+- R03 (ocorrido em 16/07/2024)
+  Impacto real: Perda de recursos-chave
+  Ações tomadas: Ajuste no cronograma
+

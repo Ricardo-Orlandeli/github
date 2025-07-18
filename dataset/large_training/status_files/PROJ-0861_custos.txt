@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A arte de realizar seus sonhos direto da fonte (PROJ-0861)
+Data: 14/07/2025
+Gerente: Kamilly Novaes
+
+Orçamento inicial: R$ 3066787.00
+Custo real atual: R$ 2868466.55
+Desvio orçamentário: -6.47%
+Índice de Desempenho de Custo (CPI): 0.74
+Valor Agregado (EV): R$ 2117826.08
+Estimativa para conclusão: R$ 1285309.82
+Estimativa no término (EAC): R$ 4153776.37
+Variação no término (VAC): R$ -1086989.37
+
+Detalhamento por categoria:
+- Pessoal: R$ 1326445.64 (46.2%)
+- Equipamentos: R$ 445398.31 (15.5%)
+- Software: R$ 210785.12 (7.3%)
+- Serviços: R$ 644801.94 (22.5%)
+- Outros: R$ 241035.55 (8.4%)

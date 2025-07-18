@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A possibilidade de ganhar com confiança (PROJ-0642)
+Data: 14/07/2025
+Gerente: Maria Júlia Almeida
+
+Orçamento inicial: R$ 1138577.00
+Custo real atual: R$ 928768.55
+Desvio orçamentário: -18.43%
+Índice de Desempenho de Custo (CPI): 1.23
+Valor Agregado (EV): R$ 1138577.00
+Estimativa para conclusão: R$ 0.00
+Estimativa no término (EAC): R$ 928768.55
+Variação no término (VAC): R$ 209808.45
+
+Detalhamento por categoria:
+- Pessoal: R$ 463832.89 (49.9%)
+- Equipamentos: R$ 154998.60 (16.7%)
+- Software: R$ 102527.05 (11.0%)
+- Serviços: R$ 125031.36 (13.5%)
+- Outros: R$ 82378.66 (8.9%)

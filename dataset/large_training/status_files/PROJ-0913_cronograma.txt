@@ -1,0 +1,27 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: O prazer de conseguir em estado puro (PROJ-0913)
+Data: 14/07/2025
+Gerente: Lunna Moura
+
+Status atual: Em andamento
+Percentual de conclusão: 99.9%
+Data de início: 09/06/2024
+Data de término planejada: 23/10/2024
+Data de término real/prevista: 21/11/2024
+Atraso atual: 264 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.03
+Valor Planejado (PV): R$ 714803.00
+Valor Agregado (EV): R$ 714088.20
+
+Tarefas críticas:
+- Implementação do módulo de exportação de dados
+- Desenvolvimento da interface do usuário
+- Implementação do módulo de relatórios
+- Integração com sistema de pagamentos
+- Migração de dados legados
+- Implementação do módulo de notificações
+- Testes de aceitação do usuário
+- Integração com sistema de pagamentos
+
+Tarefas atrasadas:

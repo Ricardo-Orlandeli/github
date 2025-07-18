@@ -1,0 +1,27 @@
+RELATÓRIO DE STATUS DE ESCOPO
+Projeto: A simplicidade de concretizar seus projetos antes de tudo (PROJ-0132)
+Data: 14/07/2025
+Gerente: Enzo Porto
+
+Escopo original: Sistema para a simplicidade de concretizar seus projetos antes de tudo
+Houve mudança de escopo: Sim
+Descrição das mudanças: Redução do escopo devido a restrições orçamentárias
+Impacto no cronograma: 27 dias
+Impacto no custo: R$ 147007.95
+
+Solicitações de mudança:
+- SCM-01: Mudança na arquitetura do sistema
+- SCM-02: Integração com sistema legado
+- SCM-03: Adição de funcionalidade de autenticação biométrica
+- SCM-04: Alteração nos requisitos de desempenho
+- SCM-05: Integração com sistema legado
+
+Requisitos atuais:
+- REQ-01: O sistema deve processar transações em menos de 2 seconds
+- REQ-02: O sistema deve ter documentação completa
+- REQ-03: O sistema deve implementar criptografia de dados sensíveis
+- REQ-04: O sistema deve passar por testes de segurança
+- REQ-05: O sistema deve ter alta disponibilidade (99.9%)
+- REQ-06: O sistema deve ter interface responsiva
+- REQ-07: O sistema deve registrar logs de auditoria
+- REQ-08: O sistema deve permitir integração com APIs externas

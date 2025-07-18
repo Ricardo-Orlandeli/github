@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A liberdade de evoluir com confiança (PROJ-0050)
+Data: 14/07/2025
+Gerente: Antonella Caldeira
+
+Orçamento inicial: R$ 3093849.00
+Custo real atual: R$ 1827818.34
+Desvio orçamentário: -1.43%
+Índice de Desempenho de Custo (CPI): 1.18
+Valor Agregado (EV): R$ 2153360.07
+Estimativa para conclusão: R$ 798307.23
+Estimativa no término (EAC): R$ 2626125.57
+Variação no término (VAC): R$ 467723.43
+
+Detalhamento por categoria:
+- Pessoal: R$ 958789.81 (52.5%)
+- Equipamentos: R$ 232927.96 (12.7%)
+- Software: R$ 236504.26 (12.9%)
+- Serviços: R$ 233683.64 (12.8%)
+- Outros: R$ 165912.66 (9.1%)

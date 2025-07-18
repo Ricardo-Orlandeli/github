@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A vantagem de avançar de maneira eficaz (PROJ-0756)
+Data: 14/07/2025
+Gerente: Otávio Rezende
+
+Orçamento inicial: R$ 2246963.00
+Custo real atual: R$ 2063688.30
+Desvio orçamentário: -8.16%
+Índice de Desempenho de Custo (CPI): 0.81
+Valor Agregado (EV): R$ 1673320.20
+Estimativa para conclusão: R$ 707467.67
+Estimativa no término (EAC): R$ 2771155.97
+Variação no término (VAC): R$ -524192.97
+
+Detalhamento por categoria:
+- Pessoal: R$ 977793.52 (47.4%)
+- Equipamentos: R$ 261909.68 (12.7%)
+- Software: R$ 187133.84 (9.1%)
+- Serviços: R$ 449882.74 (21.8%)
+- Outros: R$ 186968.52 (9.1%)

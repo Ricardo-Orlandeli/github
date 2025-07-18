@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A simplicidade de avançar sem preocupação (PROJ-0166)
+Data: 14/07/2025
+Gerente: Pietro Teixeira
+
+Orçamento inicial: R$ 4971009.00
+Custo real atual: R$ 4816515.18
+Desvio orçamentário: -3.11%
+Índice de Desempenho de Custo (CPI): 0.92
+Valor Agregado (EV): R$ 4411110.66
+Estimativa para conclusão: R$ 611355.97
+Estimativa no término (EAC): R$ 5427871.15
+Variação no término (VAC): R$ -456862.15
+
+Detalhamento por categoria:
+- Pessoal: R$ 2353894.64 (48.9%)
+- Equipamentos: R$ 900257.80 (18.7%)
+- Software: R$ 669298.28 (13.9%)
+- Serviços: R$ 624880.64 (13.0%)
+- Outros: R$ 268183.82 (5.6%)

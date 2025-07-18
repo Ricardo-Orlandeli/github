@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A liberdade de concretizar seus projetos sem preocupação (PROJ-0628)
+Data: 14/07/2025
+Gerente: Isadora Pires
+
+Orçamento inicial: R$ 2324328.00
+Custo real atual: R$ 2299771.33
+Desvio orçamentário: -1.06%
+Índice de Desempenho de Custo (CPI): 0.84
+Valor Agregado (EV): R$ 1930561.13
+Estimativa para conclusão: R$ 469072.83
+Estimativa no término (EAC): R$ 2768844.15
+Variação no término (VAC): R$ -444516.15
+
+Detalhamento por categoria:
+- Pessoal: R$ 1030255.49 (44.8%)
+- Equipamentos: R$ 364581.15 (15.9%)
+- Software: R$ 275706.12 (12.0%)
+- Serviços: R$ 407510.30 (17.7%)
+- Outros: R$ 221718.27 (9.6%)

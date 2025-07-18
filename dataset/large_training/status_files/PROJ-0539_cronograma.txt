@@ -1,0 +1,25 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: O prazer de concretizar seus projetos naturalmente (PROJ-0539)
+Data: 14/07/2025
+Gerente: Gabrielly Garcia
+
+Status atual: Atrasado
+Percentual de conclusão: 30.4%
+Data de início: 31/03/2025
+Data de término planejada: 07/11/2025
+Data de término real/prevista: 28/01/2026
+Atraso atual: 0 dias
+Motivo do atraso: Falhas em testes de aceitação
+Índice de Desempenho de Cronograma (SPI): 0.64
+Valor Planejado (PV): R$ 2068442.04
+Valor Agregado (EV): R$ 1321491.95
+
+Tarefas críticas:
+- Migração de dados legados
+- Implementação do módulo de relatórios
+- Implementação da API REST
+- Implementação da API REST
+
+Tarefas atrasadas:
+- Implementação da API REST
+- Implementação da API REST

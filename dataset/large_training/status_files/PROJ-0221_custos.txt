@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A segurança de ganhar direto da fonte (PROJ-0221)
+Data: 14/07/2025
+Gerente: Manuella Carvalho
+
+Orçamento inicial: R$ 250590.00
+Custo real atual: R$ 270853.53
+Desvio orçamentário: 8.09%
+Índice de Desempenho de Custo (CPI): 0.92
+Valor Agregado (EV): R$ 250339.41
+Estimativa para conclusão: R$ 271.12
+Estimativa no término (EAC): R$ 271124.66
+Variação no término (VAC): R$ -20534.66
+
+Detalhamento por categoria:
+- Pessoal: R$ 133837.62 (49.4%)
+- Equipamentos: R$ 38137.13 (14.1%)
+- Software: R$ 31135.66 (11.5%)
+- Serviços: R$ 51023.24 (18.8%)
+- Outros: R$ 16719.89 (6.2%)

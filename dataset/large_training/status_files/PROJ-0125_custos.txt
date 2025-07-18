@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O conforto de concretizar seus projetos com toda a tranquilidade (PROJ-0125)
+Data: 14/07/2025
+Gerente: Carolina Marques
+
+Orçamento inicial: R$ 1946611.00
+Custo real atual: R$ 1781277.94
+Desvio orçamentário: -8.49%
+Índice de Desempenho de Custo (CPI): 0.91
+Valor Agregado (EV): R$ 1615875.25
+Estimativa para conclusão: R$ 364590.21
+Estimativa no término (EAC): R$ 2145868.16
+Variação no término (VAC): R$ -199257.16
+
+Detalhamento por categoria:
+- Pessoal: R$ 812565.42 (45.6%)
+- Equipamentos: R$ 311408.98 (17.5%)
+- Software: R$ 197194.00 (11.1%)
+- Serviços: R$ 332523.05 (18.7%)
+- Outros: R$ 127586.49 (7.2%)

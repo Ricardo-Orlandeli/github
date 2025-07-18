@@ -1,0 +1,35 @@
+RELATÓRIO DE STATUS DE RISCOS
+Projeto: A arte de ganhar em estado puro (PROJ-0831)
+Data: 14/07/2025
+Gerente: Antony Abreu
+
+Riscos identificados:
+- R01: Resistência dos usuários à mudança
+  Probabilidade: 5/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Melhorar a documentação de requisitos
+
+- R02: Resistência dos usuários à mudança
+  Probabilidade: 3/5, Impacto: 5/5, Nível: Médio
+  Mitigação: Comunicar benefícios da mudança
+
+- R03: Problemas de compatibilidade
+  Probabilidade: 1/5, Impacto: 4/5, Nível: Baixo
+  Mitigação: Testar compatibilidade em diferentes ambientes
+
+- R04: Resistência dos usuários à mudança
+  Probabilidade: 5/5, Impacto: 3/5, Nível: Médio
+  Mitigação: Realizar testes de aceitação com usuários-chave
+
+- R05: Atraso na entrega de componentes críticos
+  Probabilidade: 1/5, Impacto: 4/5, Nível: Baixo
+  Mitigação: Fortalecer medidas de segurança
+
+- R06: Falhas de infraestrutura
+  Probabilidade: 5/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Comunicar benefícios da mudança
+
+- R07: Indisponibilidade de recursos especializados
+  Probabilidade: 2/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Realizar testes de integração antecipados
+
+Riscos ocorridos:

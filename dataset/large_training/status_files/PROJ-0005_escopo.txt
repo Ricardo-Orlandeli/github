@@ -1,0 +1,21 @@
+RELATÓRIO DE STATUS DE ESCOPO
+Projeto: A possibilidade de evoluir sem preocupação (PROJ-0005)
+Data: 14/07/2025
+Gerente: Gael Câmara
+
+Escopo original: Sistema para a possibilidade de evoluir sem preocupação
+Houve mudança de escopo: Sim
+Descrição das mudanças: Redução do escopo devido a restrições orçamentárias
+Impacto no cronograma: 53 dias
+Impacto no custo: R$ 292892.95
+
+Solicitações de mudança:
+- SCM-01: Adição de funcionalidade de autenticação biométrica
+
+Requisitos atuais:
+- REQ-01: O sistema deve implementar criptografia de dados sensíveis
+- REQ-02: O sistema deve processar transações em menos de 2 seconds
+- REQ-03: O sistema deve ter controle de acesso baseado em perfis
+- REQ-04: O sistema deve ter controle de acesso baseado em perfis
+- REQ-05: O sistema deve implementar criptografia de dados sensíveis
+- REQ-06: O sistema deve ser compatível com navegadores modernos

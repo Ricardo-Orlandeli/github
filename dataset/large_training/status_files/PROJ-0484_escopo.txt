@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE ESCOPO
+Projeto: A arte de avançar com confiança (PROJ-0484)
+Data: 14/07/2025
+Gerente: Kaique Fonseca
+
+Escopo original: Sistema para a arte de avançar com confiança
+Houve mudança de escopo: Não
+Descrição das mudanças: N/A
+Impacto no cronograma: 0 dias
+Impacto no custo: R$ 0.00
+
+Solicitações de mudança:
+
+Requisitos atuais:
+- REQ-01: O sistema deve ter backup automático diário
+- REQ-02: O sistema deve ser compatível com dispositivos móveis
+- REQ-03: O sistema deve implementar criptografia de dados sensíveis
+- REQ-04: O sistema deve permitir integração com APIs externas
+- REQ-05: O sistema deve implementar criptografia de dados sensíveis
+- REQ-06: O sistema deve ter controle de acesso baseado em perfis

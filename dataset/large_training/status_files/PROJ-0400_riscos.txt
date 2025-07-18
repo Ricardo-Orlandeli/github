@@ -1,0 +1,55 @@
+RELATÓRIO DE STATUS DE RISCOS
+Projeto: A simplicidade de realizar seus sonhos com força total (PROJ-0400)
+Data: 14/07/2025
+Gerente: Emanuel Novaes
+
+Riscos identificados:
+- R01: Problemas de desempenho
+  Probabilidade: 4/5, Impacto: 3/5, Nível: Médio
+  Mitigação: Melhorar a documentação de requisitos
+
+- R02: Falhas em testes de aceitação
+  Probabilidade: 5/5, Impacto: 4/5, Nível: Alto
+  Mitigação: Comunicar benefícios da mudança
+
+- R03: Falhas de segurança
+  Probabilidade: 1/5, Impacto: 2/5, Nível: Baixo
+  Mitigação: Testar compatibilidade em diferentes ambientes
+
+- R04: Problemas de desempenho
+  Probabilidade: 2/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Refinar estimativas com base em dados históricos
+
+- R05: Problemas de integração com sistemas legados
+  Probabilidade: 2/5, Impacto: 5/5, Nível: Médio
+  Mitigação: Gerenciar dependências ativamente
+
+- R06: Problemas de integração com sistemas legados
+  Probabilidade: 3/5, Impacto: 5/5, Nível: Médio
+  Mitigação: Buscar fornecedores alternativos
+
+- R07: Falhas de segurança
+  Probabilidade: 3/5, Impacto: 4/5, Nível: Médio
+  Mitigação: Testar compatibilidade em diferentes ambientes
+
+- R08: Indisponibilidade de recursos especializados
+  Probabilidade: 1/5, Impacto: 5/5, Nível: Baixo
+  Mitigação: Realizar testes de aceitação com usuários-chave
+
+- R09: Rotatividade de pessoal-chave
+  Probabilidade: 3/5, Impacto: 4/5, Nível: Médio
+  Mitigação: Realizar testes de aceitação com usuários-chave
+
+Riscos ocorridos:
+- R06 (ocorrido em 20/05/2025)
+  Impacto real: Indisponibilidade temporária
+  Ações tomadas: Ajuste no cronograma
+
+- R09 (ocorrido em 26/04/2024)
+  Impacto real: Atraso de 2 semanas no cronograma
+  Ações tomadas: Implementação do plano de contingência
+
+- R04 (ocorrido em 05/10/2024)
+  Impacto real: Retrabalho significativo
+  Ações tomadas: Revisão do orçamento
+

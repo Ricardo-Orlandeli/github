@@ -1,0 +1,23 @@
+RELATÓRIO DE STATUS DE ESCOPO
+Projeto: A certeza de mudar de maneira eficaz (PROJ-0962)
+Data: 14/07/2025
+Gerente: Isadora Fogaça
+
+Escopo original: Sistema para a certeza de mudar de maneira eficaz
+Houve mudança de escopo: Sim
+Descrição das mudanças: Mudança na plataforma de implementação
+Impacto no cronograma: 37 dias
+Impacto no custo: R$ 611298.43
+
+Solicitações de mudança:
+- SCM-01: Integração com sistema legado
+
+Requisitos atuais:
+- REQ-01: O sistema deve ter documentação completa
+- REQ-02: O sistema deve ter documentação completa
+- REQ-03: O sistema deve permitir integração com APIs externas
+- REQ-04: O sistema deve ter alta disponibilidade (99.9%)
+- REQ-05: O sistema deve permitir autenticação de usuários
+- REQ-06: O sistema deve ter alta disponibilidade (99.9%)
+- REQ-07: O sistema deve ter interface responsiva
+- REQ-08: O sistema deve ter documentação completa

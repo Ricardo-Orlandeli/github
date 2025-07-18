@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE ESCOPO
+Projeto: A possibilidade de mudar mais facilmente (PROJ-0984)
+Data: 14/07/2025
+Gerente: Theodoro Ramos
+
+Escopo original: Sistema para a possibilidade de mudar mais facilmente
+Houve mudança de escopo: Não
+Descrição das mudanças: N/A
+Impacto no cronograma: 0 dias
+Impacto no custo: R$ 0.00
+
+Solicitações de mudança:
+
+Requisitos atuais:
+- REQ-01: O sistema deve ter backup automático diário
+- REQ-02: O sistema deve passar por testes de segurança
+- REQ-03: O sistema deve ter controle de acesso baseado em perfis
+- REQ-04: O sistema deve ter controle de acesso baseado em perfis
+- REQ-05: O sistema deve passar por testes de segurança
+- REQ-06: O sistema deve permitir exportação de dados em formato CSV

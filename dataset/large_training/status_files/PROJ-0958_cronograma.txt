@@ -1,0 +1,22 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A possibilidade de atingir seus objetivos em estado puro (PROJ-0958)
+Data: 14/07/2025
+Gerente: Anthony Gabriel Pinto
+
+Status atual: Em andamento
+Percentual de conclusão: 97.3%
+Data de início: 09/10/2024
+Data de término planejada: 23/08/2025
+Data de término real/prevista: 20/08/2025
+Atraso atual: 0 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.02
+Valor Planejado (PV): R$ 4355778.31
+Valor Agregado (EV): R$ 4846330.96
+
+Tarefas críticas:
+- Desenvolvimento do módulo de autenticação
+- Implementação do módulo de análise de dados
+- Desenvolvimento do módulo de autenticação
+
+Tarefas atrasadas:

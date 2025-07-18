@@ -1,0 +1,51 @@
+RELATÓRIO DE STATUS DE RISCOS
+Projeto: A simplicidade de realizar seus sonhos naturalmente (PROJ-0315)
+Data: 14/07/2025
+Gerente: Marina Brito
+
+Riscos identificados:
+- R01: Rotatividade de pessoal-chave
+  Probabilidade: 1/5, Impacto: 4/5, Nível: Baixo
+  Mitigação: Realizar testes de integração antecipados
+
+- R02: Requisitos mal definidos
+  Probabilidade: 4/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Fortalecer medidas de segurança
+
+- R03: Mudanças regulatórias
+  Probabilidade: 2/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Estabelecer canais de comunicação claros
+
+- R04: Atraso na entrega de componentes críticos
+  Probabilidade: 1/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Fortalecer medidas de segurança
+
+- R05: Falhas em testes de aceitação
+  Probabilidade: 4/5, Impacto: 5/5, Nível: Alto
+  Mitigação: Testar compatibilidade em diferentes ambientes
+
+- R06: Mudanças regulatórias
+  Probabilidade: 4/5, Impacto: 3/5, Nível: Médio
+  Mitigação: Contratar pessoal adicional
+
+- R07: Resistência dos usuários à mudança
+  Probabilidade: 1/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Fortalecer medidas de segurança
+
+- R08: Indisponibilidade de recursos especializados
+  Probabilidade: 5/5, Impacto: 4/5, Nível: Alto
+  Mitigação: Fortalecer medidas de segurança
+
+- R09: Falhas de infraestrutura
+  Probabilidade: 2/5, Impacto: 3/5, Nível: Baixo
+  Mitigação: Buscar fornecedores alternativos
+
+- R10: Problemas de desempenho
+  Probabilidade: 4/5, Impacto: 5/5, Nível: Alto
+  Mitigação: Melhorar a documentação de requisitos
+
+Riscos ocorridos:
+- R02 (ocorrido em 17/07/2024)
+  Impacto real: Atraso de 2 semanas no cronograma
+  Ações tomadas: Contratação de recursos adicionais
+

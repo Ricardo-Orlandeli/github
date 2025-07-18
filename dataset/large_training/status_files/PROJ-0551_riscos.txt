@@ -1,0 +1,39 @@
+RELATÓRIO DE STATUS DE RISCOS
+Projeto: A possibilidade de atingir seus objetivos direto da fonte (PROJ-0551)
+Data: 14/07/2025
+Gerente: Ana Beatriz Mendes
+
+Riscos identificados:
+- R01: Rotatividade de pessoal-chave
+  Probabilidade: 2/5, Impacto: 2/5, Nível: Baixo
+  Mitigação: Fortalecer medidas de segurança
+
+- R02: Rotatividade de pessoal-chave
+  Probabilidade: 2/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Implementar redundância de infraestrutura
+
+- R03: Problemas de integração com sistemas legados
+  Probabilidade: 2/5, Impacto: 3/5, Nível: Baixo
+  Mitigação: Fortalecer medidas de segurança
+
+- R04: Problemas de comunicação com stakeholders
+  Probabilidade: 1/5, Impacto: 3/5, Nível: Baixo
+  Mitigação: Fortalecer medidas de segurança
+
+- R05: Atraso na entrega de componentes críticos
+  Probabilidade: 3/5, Impacto: 3/5, Nível: Médio
+  Mitigação: Melhorar a documentação de requisitos
+
+Riscos ocorridos:
+- R01 (ocorrido em 21/04/2025)
+  Impacto real: Perda de recursos-chave
+  Ações tomadas: Contratação de recursos adicionais
+
+- R03 (ocorrido em 31/03/2025)
+  Impacto real: Perda de recursos-chave
+  Ações tomadas: Implementação do plano de contingência
+
+- R02 (ocorrido em 20/11/2024)
+  Impacto real: Insatisfação dos stakeholders
+  Ações tomadas: Implementação de controles adicionais
+

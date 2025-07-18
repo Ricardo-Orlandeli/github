@@ -1,0 +1,22 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A simplicidade de avançar de maneira eficaz (PROJ-0268)
+Data: 14/07/2025
+Gerente: Davi Luiz Cirino
+
+Status atual: Em andamento
+Percentual de conclusão: 20.4%
+Data de início: 06/06/2025
+Data de término planejada: 23/11/2025
+Data de término real/prevista: 14/12/2025
+Atraso atual: 0 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 0.88
+Valor Planejado (PV): R$ 799415.16
+Valor Agregado (EV): R$ 730868.38
+
+Tarefas críticas:
+- Implementação do módulo de análise de dados
+- Desenvolvimento do painel administrativo
+- Testes de segurança
+
+Tarefas atrasadas:

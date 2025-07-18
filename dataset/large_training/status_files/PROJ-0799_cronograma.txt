@@ -1,0 +1,25 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: O prazer de mudar direto da fonte (PROJ-0799)
+Data: 14/07/2025
+Gerente: João Miguel Brito
+
+Status atual: Em andamento
+Percentual de conclusão: 99.9%
+Data de início: 16/03/2025
+Data de término planejada: 04/06/2025
+Data de término real/prevista: 24/06/2025
+Atraso atual: 40 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 0.91
+Valor Planejado (PV): R$ 1717935.00
+Valor Agregado (EV): R$ 1716217.07
+
+Tarefas críticas:
+- Testes de segurança
+- Testes de segurança
+- Testes de segurança
+- Migração de dados legados
+- Integração com sistema de pagamentos
+- Implementação do módulo de exportação de dados
+
+Tarefas atrasadas:

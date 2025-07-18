@@ -1,0 +1,24 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A liberdade de inovar naturalmente (PROJ-0300)
+Data: 14/07/2025
+Gerente: Maria Luísa Camargo
+
+Status atual: Atrasado
+Percentual de conclusão: 54.5%
+Data de início: 27/10/2024
+Data de término planejada: 11/10/2025
+Data de término real/prevista: 18/11/2025
+Atraso atual: 0 dias
+Motivo do atraso: Problemas de comunicação
+Índice de Desempenho de Cronograma (SPI): 0.73
+Valor Planejado (PV): R$ 1848038.28
+Valor Agregado (EV): R$ 1351172.94
+
+Tarefas críticas:
+- Desenvolvimento do módulo de autenticação
+- Desenvolvimento da interface do usuário
+- Testes de aceitação do usuário
+
+Tarefas atrasadas:
+- Desenvolvimento da interface do usuário
+- Desenvolvimento do módulo de autenticação

@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A vantagem de conseguir com força total (PROJ-0961)
+Data: 14/07/2025
+Gerente: Maria Liz Câmara
+
+Orçamento inicial: R$ 1701845.00
+Custo real atual: R$ 1510161.85
+Desvio orçamentário: -11.26%
+Índice de Desempenho de Custo (CPI): 1.04
+Valor Agregado (EV): R$ 1576295.76
+Estimativa para conclusão: R$ 120281.79
+Estimativa no término (EAC): R$ 1630443.65
+Variação no término (VAC): R$ 71401.35
+
+Detalhamento por categoria:
+- Pessoal: R$ 854633.82 (56.6%)
+- Equipamentos: R$ 163931.47 (10.9%)
+- Software: R$ 165384.87 (11.0%)
+- Serviços: R$ 214042.52 (14.2%)
+- Outros: R$ 112169.18 (7.4%)

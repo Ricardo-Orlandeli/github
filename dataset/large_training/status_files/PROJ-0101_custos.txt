@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O poder de avançar com força total (PROJ-0101)
+Data: 14/07/2025
+Gerente: Ana Beatriz Campos
+
+Orçamento inicial: R$ 4634829.00
+Custo real atual: R$ 4789894.97
+Desvio orçamentário: 3.35%
+Índice de Desempenho de Custo (CPI): 0.70
+Valor Agregado (EV): R$ 3369722.33
+Estimativa para conclusão: R$ 1798287.07
+Estimativa no término (EAC): R$ 6588182.04
+Variação no término (VAC): R$ -1953353.04
+
+Detalhamento por categoria:
+- Pessoal: R$ 2493235.28 (52.1%)
+- Equipamentos: R$ 827443.08 (17.3%)
+- Software: R$ 396748.54 (8.3%)
+- Serviços: R$ 780008.12 (16.3%)
+- Outros: R$ 292459.95 (6.1%)

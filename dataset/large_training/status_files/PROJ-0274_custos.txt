@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O prazer de conseguir com toda a tranquilidade (PROJ-0274)
+Data: 14/07/2025
+Gerente: Lívia Aragão
+
+Orçamento inicial: R$ 4550873.00
+Custo real atual: R$ 3495028.53
+Desvio orçamentário: -23.20%
+Índice de Desempenho de Custo (CPI): 1.18
+Valor Agregado (EV): R$ 4139007.56
+Estimativa para conclusão: R$ 347784.21
+Estimativa no término (EAC): R$ 3842812.74
+Variação no término (VAC): R$ 708060.26
+
+Detalhamento por categoria:
+- Pessoal: R$ 1868054.08 (53.4%)
+- Equipamentos: R$ 540307.78 (15.5%)
+- Software: R$ 275872.23 (7.9%)
+- Serviços: R$ 612764.61 (17.5%)
+- Outros: R$ 198029.82 (5.7%)

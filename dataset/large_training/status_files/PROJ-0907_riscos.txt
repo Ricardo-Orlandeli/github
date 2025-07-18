@@ -1,0 +1,23 @@
+RELATÓRIO DE STATUS DE RISCOS
+Projeto: A liberdade de evoluir simplesmente (PROJ-0907)
+Data: 14/07/2025
+Gerente: Ana Mendonça
+
+Riscos identificados:
+- R01: Problemas de compatibilidade
+  Probabilidade: 3/5, Impacto: 5/5, Nível: Médio
+  Mitigação: Melhorar a documentação de requisitos
+
+- R02: Requisitos mal definidos
+  Probabilidade: 1/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Estabelecer canais de comunicação claros
+
+- R03: Dependências externas não cumpridas
+  Probabilidade: 4/5, Impacto: 4/5, Nível: Alto
+  Mitigação: Fortalecer medidas de segurança
+
+- R04: Falhas de segurança
+  Probabilidade: 2/5, Impacto: 2/5, Nível: Baixo
+  Mitigação: Realizar testes de integração antecipados
+
+Riscos ocorridos:

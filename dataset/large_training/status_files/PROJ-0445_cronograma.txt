@@ -1,0 +1,27 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: O direito de evoluir mais facilmente (PROJ-0445)
+Data: 14/07/2025
+Gerente: Juliana Fernandes
+
+Status atual: Em andamento
+Percentual de conclusão: 45.4%
+Data de início: 10/05/2025
+Data de término planejada: 19/09/2025
+Data de término real/prevista: 09/09/2025
+Atraso atual: 0 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.09
+Valor Planejado (PV): R$ 1763414.05
+Valor Agregado (EV): R$ 1624726.62
+
+Tarefas críticas:
+- Implementação do módulo de notificações
+- Desenvolvimento do módulo de autenticação
+- Integração com sistema de pagamentos
+- Configuração do ambiente de produção
+- Configuração do ambiente de produção
+- Configuração da infraestrutura
+- Configuração da infraestrutura
+- Integração com sistema de pagamentos
+
+Tarefas atrasadas:

@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A possibilidade de atingir seus objetivos em estado puro (PROJ-0317)
+Data: 14/07/2025
+Gerente: Olívia Cirino
+
+Orçamento inicial: R$ 4303127.00
+Custo real atual: R$ 2968210.92
+Desvio orçamentário: -31.02%
+Índice de Desempenho de Custo (CPI): 0.85
+Valor Agregado (EV): R$ 2519571.90
+Estimativa para conclusão: R$ 2101137.78
+Estimativa no término (EAC): R$ 5069348.69
+Variação no término (VAC): R$ -766221.69
+
+Detalhamento por categoria:
+- Pessoal: R$ 1622044.87 (54.6%)
+- Equipamentos: R$ 555570.32 (18.7%)
+- Software: R$ 256462.59 (8.6%)
+- Serviços: R$ 357403.23 (12.0%)
+- Outros: R$ 176729.91 (6.0%)

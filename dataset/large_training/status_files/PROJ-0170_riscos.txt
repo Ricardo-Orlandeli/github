@@ -1,0 +1,35 @@
+RELATÓRIO DE STATUS DE RISCOS
+Projeto: A arte de ganhar antes de tudo (PROJ-0170)
+Data: 14/07/2025
+Gerente: Benjamin Gomes
+
+Riscos identificados:
+- R01: Falhas em testes de aceitação
+  Probabilidade: 1/5, Impacto: 2/5, Nível: Baixo
+  Mitigação: Buscar fornecedores alternativos
+
+- R02: Falhas de infraestrutura
+  Probabilidade: 2/5, Impacto: 3/5, Nível: Baixo
+  Mitigação: Gerenciar dependências ativamente
+
+- R03: Falhas de infraestrutura
+  Probabilidade: 2/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Realizar testes de integração antecipados
+
+- R04: Dependências externas não cumpridas
+  Probabilidade: 2/5, Impacto: 3/5, Nível: Baixo
+  Mitigação: Buscar fornecedores alternativos
+
+- R05: Dependências externas não cumpridas
+  Probabilidade: 2/5, Impacto: 4/5, Nível: Médio
+  Mitigação: Buscar fornecedores alternativos
+
+- R06: Requisitos mal definidos
+  Probabilidade: 4/5, Impacto: 4/5, Nível: Alto
+  Mitigação: Contratar pessoal adicional
+
+- R07: Atraso na entrega de componentes críticos
+  Probabilidade: 5/5, Impacto: 3/5, Nível: Médio
+  Mitigação: Melhorar a documentação de requisitos
+
+Riscos ocorridos:

@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A arte de ganhar com confiança (PROJ-0133)
+Data: 14/07/2025
+Gerente: André Pastor
+
+Orçamento inicial: R$ 2511998.00
+Custo real atual: R$ 2901103.34
+Desvio orçamentário: 15.49%
+Índice de Desempenho de Custo (CPI): 0.87
+Valor Agregado (EV): R$ 2509486.00
+Estimativa para conclusão: R$ 2904.01
+Estimativa no término (EAC): R$ 2904007.35
+Variação no término (VAC): R$ -392009.35
+
+Detalhamento por categoria:
+- Pessoal: R$ 1609022.32 (55.5%)
+- Equipamentos: R$ 314081.09 (10.8%)
+- Software: R$ 354925.39 (12.2%)
+- Serviços: R$ 466763.81 (16.1%)
+- Outros: R$ 156310.74 (5.4%)

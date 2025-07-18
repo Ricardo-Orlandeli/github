@@ -1,0 +1,19 @@
+RELATÓRIO DE STATUS DE RISCOS
+Projeto: A arte de inovar com toda a tranquilidade (PROJ-0496)
+Data: 14/07/2025
+Gerente: Bruna Pinto
+
+Riscos identificados:
+- R01: Rotatividade de pessoal-chave
+  Probabilidade: 1/5, Impacto: 2/5, Nível: Baixo
+  Mitigação: Refinar estimativas com base em dados históricos
+
+- R02: Problemas de comunicação com stakeholders
+  Probabilidade: 5/5, Impacto: 2/5, Nível: Médio
+  Mitigação: Fortalecer medidas de segurança
+
+- R03: Dependências externas não cumpridas
+  Probabilidade: 3/5, Impacto: 4/5, Nível: Médio
+  Mitigação: Realizar testes de integração antecipados
+
+Riscos ocorridos:

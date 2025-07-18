@@ -1,0 +1,39 @@
+RELATÓRIO DE STATUS DE RISCOS
+Projeto: A liberdade de atingir seus objetivos com força total (PROJ-0474)
+Data: 14/07/2025
+Gerente: Elisa Sousa
+
+Riscos identificados:
+- R01: Atraso na entrega de componentes críticos
+  Probabilidade: 2/5, Impacto: 2/5, Nível: Baixo
+  Mitigação: Contratar pessoal adicional
+
+- R02: Mudanças regulatórias
+  Probabilidade: 2/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Refinar estimativas com base em dados históricos
+
+- R03: Problemas de compatibilidade
+  Probabilidade: 2/5, Impacto: 2/5, Nível: Baixo
+  Mitigação: Refinar estimativas com base em dados históricos
+
+- R04: Falhas de segurança
+  Probabilidade: 2/5, Impacto: 3/5, Nível: Baixo
+  Mitigação: Implementar plano de contingência
+
+- R05: Falhas em testes de aceitação
+  Probabilidade: 2/5, Impacto: 3/5, Nível: Baixo
+  Mitigação: Contratar pessoal adicional
+
+- R06: Estimativas imprecisas
+  Probabilidade: 2/5, Impacto: 2/5, Nível: Baixo
+  Mitigação: Comunicar benefícios da mudança
+
+- R07: Falhas em testes de aceitação
+  Probabilidade: 3/5, Impacto: 3/5, Nível: Médio
+  Mitigação: Monitorar mudanças regulatórias
+
+Riscos ocorridos:
+- R07 (ocorrido em 14/07/2024)
+  Impacto real: Redução de funcionalidades
+  Ações tomadas: Ajuste no cronograma
+

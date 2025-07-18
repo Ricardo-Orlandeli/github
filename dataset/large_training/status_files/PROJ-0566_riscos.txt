@@ -1,0 +1,55 @@
+RELATÓRIO DE STATUS DE RISCOS
+Projeto: A vantagem de concretizar seus projetos com força total (PROJ-0566)
+Data: 14/07/2025
+Gerente: Bruna Silva
+
+Riscos identificados:
+- R01: Dependências externas não cumpridas
+  Probabilidade: 2/5, Impacto: 2/5, Nível: Baixo
+  Mitigação: Contratar pessoal adicional
+
+- R02: Problemas de integração com sistemas legados
+  Probabilidade: 4/5, Impacto: 2/5, Nível: Médio
+  Mitigação: Testar compatibilidade em diferentes ambientes
+
+- R03: Indisponibilidade de recursos especializados
+  Probabilidade: 2/5, Impacto: 4/5, Nível: Médio
+  Mitigação: Implementar redundância de infraestrutura
+
+- R04: Estimativas imprecisas
+  Probabilidade: 4/5, Impacto: 2/5, Nível: Médio
+  Mitigação: Estabelecer canais de comunicação claros
+
+- R05: Falhas de segurança
+  Probabilidade: 3/5, Impacto: 3/5, Nível: Médio
+  Mitigação: Implementar redundância de infraestrutura
+
+- R06: Atraso na entrega de componentes críticos
+  Probabilidade: 2/5, Impacto: 5/5, Nível: Médio
+  Mitigação: Realizar testes de aceitação com usuários-chave
+
+- R07: Falhas de segurança
+  Probabilidade: 4/5, Impacto: 3/5, Nível: Médio
+  Mitigação: Monitorar mudanças regulatórias
+
+- R08: Problemas de compatibilidade
+  Probabilidade: 1/5, Impacto: 3/5, Nível: Baixo
+  Mitigação: Buscar fornecedores alternativos
+
+- R09: Falhas de infraestrutura
+  Probabilidade: 1/5, Impacto: 3/5, Nível: Baixo
+  Mitigação: Realizar testes de aceitação com usuários-chave
+
+Riscos ocorridos:
+- R07 (ocorrido em 28/09/2024)
+  Impacto real: Indisponibilidade temporária
+  Ações tomadas: Revisão de processos
+
+- R05 (ocorrido em 17/05/2025)
+  Impacto real: Problemas de qualidade
+  Ações tomadas: Comunicação intensificada com stakeholders
+
+- R04 (ocorrido em 27/08/2024)
+  Impacto real: Perda de dados
+  Ações tomadas: Implementação do plano de contingência
+

@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O prazer de realizar seus sonhos com força total (PROJ-0663)
+Data: 14/07/2025
+Gerente: Dra. Maria Julia Vargas
+
+Orçamento inicial: R$ 3723064.00
+Custo real atual: R$ 3308695.79
+Desvio orçamentário: -11.13%
+Índice de Desempenho de Custo (CPI): 0.80
+Valor Agregado (EV): R$ 2634876.54
+Estimativa para conclusão: R$ 1366470.58
+Estimativa no término (EAC): R$ 4675166.37
+Variação no término (VAC): R$ -952102.37
+
+Detalhamento por categoria:
+- Pessoal: R$ 1846380.19 (55.8%)
+- Equipamentos: R$ 430466.59 (13.0%)
+- Software: R$ 298801.06 (9.0%)
+- Serviços: R$ 470929.17 (14.2%)
+- Outros: R$ 262118.79 (7.9%)

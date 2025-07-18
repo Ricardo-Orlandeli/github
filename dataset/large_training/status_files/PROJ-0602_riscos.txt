@@ -1,0 +1,39 @@
+RELATÓRIO DE STATUS DE RISCOS
+Projeto: A segurança de concretizar seus projetos antes de tudo (PROJ-0602)
+Data: 14/07/2025
+Gerente: Catarina Dias
+
+Riscos identificados:
+- R01: Problemas de integração com sistemas legados
+  Probabilidade: 2/5, Impacto: 5/5, Nível: Médio
+  Mitigação: Fortalecer medidas de segurança
+
+- R02: Falhas em testes de aceitação
+  Probabilidade: 4/5, Impacto: 5/5, Nível: Alto
+  Mitigação: Implementar plano de contingência
+
+- R03: Resistência dos usuários à mudança
+  Probabilidade: 2/5, Impacto: 2/5, Nível: Baixo
+  Mitigação: Comunicar benefícios da mudança
+
+- R04: Falhas de segurança
+  Probabilidade: 3/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Refinar estimativas com base em dados históricos
+
+- R05: Requisitos mal definidos
+  Probabilidade: 3/5, Impacto: 4/5, Nível: Médio
+  Mitigação: Buscar fornecedores alternativos
+
+- R06: Problemas de compatibilidade
+  Probabilidade: 4/5, Impacto: 3/5, Nível: Médio
+  Mitigação: Gerenciar dependências ativamente
+
+- R07: Falhas de infraestrutura
+  Probabilidade: 3/5, Impacto: 5/5, Nível: Médio
+  Mitigação: Realizar testes de integração antecipados
+
+- R08: Problemas de compatibilidade
+  Probabilidade: 4/5, Impacto: 4/5, Nível: Alto
+  Mitigação: Monitorar mudanças regulatórias
+
+Riscos ocorridos:

@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O poder de evoluir simplesmente (PROJ-0454)
+Data: 14/07/2025
+Gerente: Dr. Ravi Marques
+
+Orçamento inicial: R$ 3276159.00
+Custo real atual: R$ 2897997.10
+Desvio orçamentário: -11.54%
+Índice de Desempenho de Custo (CPI): 1.13
+Valor Agregado (EV): R$ 3276159.00
+Estimativa para conclusão: R$ 0.00
+Estimativa no término (EAC): R$ 2897997.10
+Variação no término (VAC): R$ 378161.90
+
+Detalhamento por categoria:
+- Pessoal: R$ 1183774.43 (40.8%)
+- Equipamentos: R$ 547375.01 (18.9%)
+- Software: R$ 345941.23 (11.9%)
+- Serviços: R$ 548861.72 (18.9%)
+- Outros: R$ 272044.71 (9.4%)

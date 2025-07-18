@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A liberdade de conseguir com força total (PROJ-0887)
+Data: 14/07/2025
+Gerente: Lívia Duarte
+
+Orçamento inicial: R$ 4413699.00
+Custo real atual: R$ 3372670.21
+Desvio orçamentário: -23.59%
+Índice de Desempenho de Custo (CPI): 0.81
+Valor Agregado (EV): R$ 2744067.92
+Estimativa para conclusão: R$ 2052104.81
+Estimativa no término (EAC): R$ 5424775.02
+Variação no término (VAC): R$ -1011076.02
+
+Detalhamento por categoria:
+- Pessoal: R$ 1687707.55 (50.0%)
+- Equipamentos: R$ 460710.82 (13.7%)
+- Software: R$ 444691.04 (13.2%)
+- Serviços: R$ 522374.58 (15.5%)
+- Outros: R$ 257186.22 (7.6%)

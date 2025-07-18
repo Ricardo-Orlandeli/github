@@ -1,0 +1,39 @@
+RELATÓRIO DE STATUS DE RISCOS
+Projeto: O direito de avançar com confiança (PROJ-0338)
+Data: 14/07/2025
+Gerente: Amanda Ferreira
+
+Riscos identificados:
+- R01: Problemas de integração com sistemas legados
+  Probabilidade: 2/5, Impacto: 4/5, Nível: Médio
+  Mitigação: Contratar pessoal adicional
+
+- R02: Falhas em testes de aceitação
+  Probabilidade: 1/5, Impacto: 5/5, Nível: Baixo
+  Mitigação: Estabelecer canais de comunicação claros
+
+- R03: Requisitos mal definidos
+  Probabilidade: 4/5, Impacto: 3/5, Nível: Médio
+  Mitigação: Otimizar código e infraestrutura
+
+- R04: Mudanças regulatórias
+  Probabilidade: 4/5, Impacto: 2/5, Nível: Médio
+  Mitigação: Fortalecer medidas de segurança
+
+- R05: Resistência dos usuários à mudança
+  Probabilidade: 1/5, Impacto: 2/5, Nível: Baixo
+  Mitigação: Otimizar código e infraestrutura
+
+- R06: Dependências externas não cumpridas
+  Probabilidade: 3/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Realizar testes de integração antecipados
+
+- R07: Rotatividade de pessoal-chave
+  Probabilidade: 5/5, Impacto: 3/5, Nível: Médio
+  Mitigação: Implementar plano de contingência
+
+- R08: Indisponibilidade de recursos especializados
+  Probabilidade: 1/5, Impacto: 5/5, Nível: Baixo
+  Mitigação: Refinar estimativas com base em dados históricos
+
+Riscos ocorridos:

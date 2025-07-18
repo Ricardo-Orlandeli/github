@@ -1,0 +1,27 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A segurança de concretizar seus projetos mais facilmente (PROJ-0709)
+Data: 14/07/2025
+Gerente: Renan Rios
+
+Status atual: Em andamento
+Percentual de conclusão: 13.8%
+Data de início: 11/06/2025
+Data de término planejada: 12/01/2026
+Data de término real/prevista: 08/01/2026
+Atraso atual: 0 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.04
+Valor Planejado (PV): R$ 511533.00
+Valor Agregado (EV): R$ 461340.69
+
+Tarefas críticas:
+- Configuração da infraestrutura
+- Implementação da API REST
+- Configuração do ambiente de produção
+- Desenvolvimento do painel administrativo
+- Configuração da infraestrutura
+- Desenvolvimento da interface do usuário
+- Migração de dados legados
+- Implementação do módulo de análise de dados
+
+Tarefas atrasadas:

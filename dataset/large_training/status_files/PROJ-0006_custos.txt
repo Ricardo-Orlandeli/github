@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O direito de realizar seus sonhos de maneira eficaz (PROJ-0006)
+Data: 14/07/2025
+Gerente: Milena Borges
+
+Orçamento inicial: R$ 1967469.00
+Custo real atual: R$ 554464.63
+Desvio orçamentário: -30.03%
+Índice de Desempenho de Custo (CPI): 1.19
+Valor Agregado (EV): R$ 662481.82
+Estimativa para conclusão: R$ 1092209.95
+Estimativa no término (EAC): R$ 1646674.58
+Variação no término (VAC): R$ 320794.42
+
+Detalhamento por categoria:
+- Pessoal: R$ 260975.56 (47.1%)
+- Equipamentos: R$ 68695.20 (12.4%)
+- Software: R$ 91148.24 (16.4%)
+- Serviços: R$ 92490.68 (16.7%)
+- Outros: R$ 41154.95 (7.4%)

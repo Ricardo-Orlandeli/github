@@ -1,0 +1,27 @@
+RELATÓRIO DE STATUS DE RISCOS
+Projeto: O conforto de atingir seus objetivos em estado puro (PROJ-0032)
+Data: 14/07/2025
+Gerente: Sra. Gabriela Campos
+
+Riscos identificados:
+- R01: Problemas de compatibilidade
+  Probabilidade: 4/5, Impacto: 3/5, Nível: Médio
+  Mitigação: Buscar fornecedores alternativos
+
+- R02: Requisitos mal definidos
+  Probabilidade: 4/5, Impacto: 5/5, Nível: Alto
+  Mitigação: Fortalecer medidas de segurança
+
+- R03: Estimativas imprecisas
+  Probabilidade: 4/5, Impacto: 2/5, Nível: Médio
+  Mitigação: Estabelecer canais de comunicação claros
+
+Riscos ocorridos:
+- R02 (ocorrido em 23/04/2025)
+  Impacto real: Redução de funcionalidades
+  Ações tomadas: Implementação de controles adicionais
+
+- R01 (ocorrido em 30/06/2025)
+  Impacto real: Perda de dados
+  Ações tomadas: Implementação de soluções alternativas
+

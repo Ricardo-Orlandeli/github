@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A liberdade de conseguir naturalmente (PROJ-0386)
+Data: 14/07/2025
+Gerente: Sophia Araújo
+
+Orçamento inicial: R$ 2652825.00
+Custo real atual: R$ 455974.01
+Desvio orçamentário: 14.59%
+Índice de Desempenho de Custo (CPI): 0.94
+Valor Agregado (EV): R$ 428100.55
+Estimativa para conclusão: R$ 2369575.41
+Estimativa no término (EAC): R$ 2825549.43
+Variação no término (VAC): R$ -172724.43
+
+Detalhamento por categoria:
+- Pessoal: R$ 247116.80 (54.2%)
+- Equipamentos: R$ 56433.36 (12.4%)
+- Software: R$ 42768.01 (9.4%)
+- Serviços: R$ 74502.19 (16.3%)
+- Outros: R$ 35153.65 (7.7%)

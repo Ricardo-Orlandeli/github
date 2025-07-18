@@ -1,0 +1,47 @@
+RELATÓRIO DE STATUS DE RISCOS
+Projeto: A certeza de ganhar com toda a tranquilidade (PROJ-0964)
+Data: 14/07/2025
+Gerente: José Miguel Peixoto
+
+Riscos identificados:
+- R01: Rotatividade de pessoal-chave
+  Probabilidade: 2/5, Impacto: 4/5, Nível: Médio
+  Mitigação: Implementar plano de contingência
+
+- R02: Requisitos mal definidos
+  Probabilidade: 4/5, Impacto: 4/5, Nível: Alto
+  Mitigação: Gerenciar dependências ativamente
+
+- R03: Falhas de infraestrutura
+  Probabilidade: 2/5, Impacto: 2/5, Nível: Baixo
+  Mitigação: Realizar testes de aceitação com usuários-chave
+
+- R04: Falhas de segurança
+  Probabilidade: 2/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Implementar redundância de infraestrutura
+
+- R05: Atraso na entrega de componentes críticos
+  Probabilidade: 1/5, Impacto: 5/5, Nível: Baixo
+  Mitigação: Fortalecer medidas de segurança
+
+- R06: Resistência dos usuários à mudança
+  Probabilidade: 1/5, Impacto: 5/5, Nível: Baixo
+  Mitigação: Fortalecer medidas de segurança
+
+- R07: Falhas de segurança
+  Probabilidade: 3/5, Impacto: 3/5, Nível: Médio
+  Mitigação: Implementar redundância de infraestrutura
+
+- R08: Problemas de integração com sistemas legados
+  Probabilidade: 2/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Gerenciar dependências ativamente
+
+Riscos ocorridos:
+- R02 (ocorrido em 25/10/2024)
+  Impacto real: Insatisfação dos stakeholders
+  Ações tomadas: Implementação do plano de contingência
+
+- R05 (ocorrido em 08/12/2024)
+  Impacto real: Perda de dados
+  Ações tomadas: Revisão de processos
+

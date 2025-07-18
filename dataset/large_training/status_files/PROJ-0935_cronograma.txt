@@ -1,0 +1,25 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A simplicidade de realizar seus sonhos sem preocupação (PROJ-0935)
+Data: 14/07/2025
+Gerente: Nicole Brito
+
+Status atual: Em andamento
+Percentual de conclusão: 88.2%
+Data de início: 04/01/2025
+Data de término planejada: 03/05/2025
+Data de término real/prevista: 28/04/2025
+Atraso atual: 72 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.04
+Valor Planejado (PV): R$ 1731903.00
+Valor Agregado (EV): R$ 1528127.84
+
+Tarefas críticas:
+- Implementação do módulo de relatórios
+- Implementação do módulo de notificações
+- Configuração do ambiente de produção
+- Testes de segurança
+- Implementação do módulo de exportação de dados
+- Configuração do ambiente de produção
+
+Tarefas atrasadas:

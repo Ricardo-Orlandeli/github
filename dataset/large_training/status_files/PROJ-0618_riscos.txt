@@ -1,0 +1,27 @@
+RELATÓRIO DE STATUS DE RISCOS
+Projeto: O prazer de atingir seus objetivos antes de tudo (PROJ-0618)
+Data: 14/07/2025
+Gerente: Lorena Porto
+
+Riscos identificados:
+- R01: Falhas em testes de aceitação
+  Probabilidade: 5/5, Impacto: 2/5, Nível: Médio
+  Mitigação: Estabelecer canais de comunicação claros
+
+- R02: Requisitos mal definidos
+  Probabilidade: 2/5, Impacto: 2/5, Nível: Baixo
+  Mitigação: Melhorar a documentação de requisitos
+
+- R03: Requisitos mal definidos
+  Probabilidade: 5/5, Impacto: 2/5, Nível: Médio
+  Mitigação: Implementar plano de contingência
+
+Riscos ocorridos:
+- R03 (ocorrido em 29/05/2025)
+  Impacto real: Perda de dados
+  Ações tomadas: Realocação de recursos
+
+- R02 (ocorrido em 26/05/2025)
+  Impacto real: Perda de recursos-chave
+  Ações tomadas: Implementação de controles adicionais
+

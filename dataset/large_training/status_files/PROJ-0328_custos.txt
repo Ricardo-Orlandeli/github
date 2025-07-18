@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A certeza de avançar com confiança (PROJ-0328)
+Data: 14/07/2025
+Gerente: Gael Vargas
+
+Orçamento inicial: R$ 2052216.00
+Custo real atual: R$ 570454.94
+Desvio orçamentário: 7.29%
+Índice de Desempenho de Custo (CPI): 0.90
+Valor Agregado (EV): R$ 511085.90
+Estimativa para conclusão: R$ 1720151.70
+Estimativa no término (EAC): R$ 2290606.63
+Variação no término (VAC): R$ -238390.63
+
+Detalhamento por categoria:
+- Pessoal: R$ 291293.55 (51.1%)
+- Equipamentos: R$ 77310.11 (13.6%)
+- Software: R$ 70808.27 (12.4%)
+- Serviços: R$ 78470.69 (13.8%)
+- Outros: R$ 52572.33 (9.2%)

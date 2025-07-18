@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O conforto de evoluir mais rapidamente (PROJ-0902)
+Data: 14/07/2025
+Gerente: Isaque Monteiro
+
+Orçamento inicial: R$ 3708143.00
+Custo real atual: R$ 2591773.97
+Desvio orçamentário: 13.43%
+Índice de Desempenho de Custo (CPI): 0.73
+Valor Agregado (EV): R$ 1898145.72
+Estimativa para conclusão: R$ 2471413.97
+Estimativa no término (EAC): R$ 5063187.93
+Variação no término (VAC): R$ -1355044.93
+
+Detalhamento por categoria:
+- Pessoal: R$ 1323841.78 (51.1%)
+- Equipamentos: R$ 334381.62 (12.9%)
+- Software: R$ 302356.68 (11.7%)
+- Serviços: R$ 378788.41 (14.6%)
+- Outros: R$ 252405.48 (9.7%)

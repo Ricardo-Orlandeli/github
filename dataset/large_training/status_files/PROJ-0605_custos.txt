@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O conforto de evoluir em estado puro (PROJ-0605)
+Data: 14/07/2025
+Gerente: Sra. Maitê das Neves
+
+Orçamento inicial: R$ 2203590.00
+Custo real atual: R$ 2113505.21
+Desvio orçamentário: -4.09%
+Índice de Desempenho de Custo (CPI): 0.93
+Valor Agregado (EV): R$ 1962389.20
+Estimativa para conclusão: R$ 259774.74
+Estimativa no término (EAC): R$ 2373279.95
+Variação no término (VAC): R$ -169689.95
+
+Detalhamento por categoria:
+- Pessoal: R$ 983014.24 (46.5%)
+- Equipamentos: R$ 455948.38 (21.6%)
+- Software: R$ 190825.09 (9.0%)
+- Serviços: R$ 263035.11 (12.4%)
+- Outros: R$ 220682.39 (10.4%)

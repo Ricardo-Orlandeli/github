@@ -1,0 +1,23 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: O direito de avançar simplesmente (PROJ-0719)
+Data: 14/07/2025
+Gerente: Srta. Liz Ribeiro
+
+Status atual: Concluído
+Percentual de conclusão: 100.0%
+Data de início: 25/02/2025
+Data de término planejada: 29/05/2025
+Data de término real/prevista: 30/04/2025
+Atraso atual: 46 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 0.97
+Valor Planejado (PV): R$ 717684.00
+Valor Agregado (EV): R$ 717684.00
+
+Tarefas críticas:
+- Desenvolvimento do módulo de autenticação
+- Implementação do módulo de análise de dados
+- Implementação da API REST
+- Desenvolvimento da interface do usuário
+
+Tarefas atrasadas:

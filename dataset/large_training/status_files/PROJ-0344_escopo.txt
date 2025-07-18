@@ -1,0 +1,28 @@
+RELATÓRIO DE STATUS DE ESCOPO
+Projeto: A vantagem de mudar sem preocupação (PROJ-0344)
+Data: 14/07/2025
+Gerente: Breno Vargas
+
+Escopo original: Sistema para a vantagem de mudar sem preocupação
+Houve mudança de escopo: Sim
+Descrição das mudanças: Mudança na plataforma de implementação
+Impacto no cronograma: 25 dias
+Impacto no custo: R$ 449467.30
+
+Solicitações de mudança:
+- SCM-01: Integração com sistema legado
+- SCM-02: Implementação de módulo de exportação de dados
+- SCM-03: Adição de funcionalidade de autenticação biométrica
+- SCM-04: Alteração na interface do usuário
+
+Requisitos atuais:
+- REQ-01: O sistema deve ter documentação completa
+- REQ-02: O sistema deve permitir exportação de dados em formato CSV
+- REQ-03: O sistema deve ter alta disponibilidade (99.9%)
+- REQ-04: O sistema deve ser compatível com dispositivos móveis
+- REQ-05: O sistema deve ter interface responsiva
+- REQ-06: O sistema deve ter controle de acesso baseado em perfis
+- REQ-07: O sistema deve implementar criptografia de dados sensíveis
+- REQ-08: O sistema deve registrar logs de auditoria
+- REQ-09: O sistema deve permitir integração com APIs externas
+- REQ-10: O sistema deve ser compatível com navegadores modernos

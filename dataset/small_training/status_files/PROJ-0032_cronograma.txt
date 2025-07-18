@@ -1,0 +1,26 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: O conforto de atingir seus objetivos em estado puro (PROJ-0032)
+Data: 14/07/2025
+Gerente: Sra. Gabriela Campos
+
+Status atual: Em andamento
+Percentual de conclusão: 99.1%
+Data de início: 20/02/2024
+Data de término planejada: 12/09/2024
+Data de término real/prevista: 19/09/2024
+Atraso atual: 305 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.02
+Valor Planejado (PV): R$ 1547246.00
+Valor Agregado (EV): R$ 1532736.21
+
+Tarefas críticas:
+- Desenvolvimento da interface do usuário
+- Configuração do ambiente de produção
+- Implementação do módulo de exportação de dados
+- Integração com sistema de pagamentos
+- Integração com sistema de pagamentos
+- Implementação do módulo de relatórios
+- Implementação da API REST
+
+Tarefas atrasadas:

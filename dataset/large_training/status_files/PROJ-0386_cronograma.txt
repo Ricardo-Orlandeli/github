@@ -1,0 +1,22 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A liberdade de conseguir naturalmente (PROJ-0386)
+Data: 14/07/2025
+Gerente: Sophia Araújo
+
+Status atual: Em andamento
+Percentual de conclusão: 16.1%
+Data de início: 21/05/2025
+Data de término planejada: 16/05/2026
+Data de término real/prevista: 27/05/2026
+Atraso atual: 0 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 0.87
+Valor Planejado (PV): R$ 397923.75
+Valor Agregado (EV): R$ 428100.55
+
+Tarefas críticas:
+- Desenvolvimento do módulo de autenticação
+- Configuração da infraestrutura
+- Testes de segurança
+
+Tarefas atrasadas:

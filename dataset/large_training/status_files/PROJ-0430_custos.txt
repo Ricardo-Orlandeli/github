@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O poder de atingir seus objetivos em estado puro (PROJ-0430)
+Data: 14/07/2025
+Gerente: Thales Leão
+
+Orçamento inicial: R$ 3512885.00
+Custo real atual: R$ 3755290.00
+Desvio orçamentário: 6.90%
+Índice de Desempenho de Custo (CPI): 0.93
+Valor Agregado (EV): R$ 3498303.65
+Estimativa para conclusão: R$ 15652.50
+Estimativa no término (EAC): R$ 3770942.50
+Variação no término (VAC): R$ -258057.50
+
+Detalhamento por categoria:
+- Pessoal: R$ 1909636.56 (50.9%)
+- Equipamentos: R$ 544561.66 (14.5%)
+- Software: R$ 393688.85 (10.5%)
+- Serviços: R$ 536026.03 (14.3%)
+- Outros: R$ 371376.90 (9.9%)

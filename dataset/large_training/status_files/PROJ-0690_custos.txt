@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A vantagem de inovar em estado puro (PROJ-0690)
+Data: 14/07/2025
+Gerente: Felipe Montenegro
+
+Orçamento inicial: R$ 2886381.00
+Custo real atual: R$ 3227763.90
+Desvio orçamentário: 11.83%
+Índice de Desempenho de Custo (CPI): 0.89
+Valor Agregado (EV): R$ 2883494.62
+Estimativa para conclusão: R$ 3230.99
+Estimativa no término (EAC): R$ 3230994.89
+Variação no término (VAC): R$ -344613.89
+
+Detalhamento por categoria:
+- Pessoal: R$ 1616593.94 (50.1%)
+- Equipamentos: R$ 493284.51 (15.3%)
+- Software: R$ 349366.73 (10.8%)
+- Serviços: R$ 525133.92 (16.3%)
+- Outros: R$ 243384.80 (7.5%)

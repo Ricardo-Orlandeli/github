@@ -1,0 +1,23 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A certeza de inovar direto da fonte (PROJ-0705)
+Data: 14/07/2025
+Gerente: Antony Santos
+
+Status atual: Concluído
+Percentual de conclusão: 100.0%
+Data de início: 28/11/2024
+Data de término planejada: 12/05/2025
+Data de término real/prevista: 26/05/2025
+Atraso atual: 63 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.04
+Valor Planejado (PV): R$ 3810970.00
+Valor Agregado (EV): R$ 3810970.00
+
+Tarefas críticas:
+- Implementação do módulo de análise de dados
+- Implementação da API REST
+- Testes de aceitação do usuário
+- Implementação do módulo de notificações
+
+Tarefas atrasadas:

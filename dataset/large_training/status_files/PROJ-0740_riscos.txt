@@ -1,0 +1,39 @@
+RELATÓRIO DE STATUS DE RISCOS
+Projeto: O direito de atingir seus objetivos com força total (PROJ-0740)
+Data: 14/07/2025
+Gerente: Theo da Conceição
+
+Riscos identificados:
+- R01: Mudanças regulatórias
+  Probabilidade: 5/5, Impacto: 3/5, Nível: Médio
+  Mitigação: Contratar pessoal adicional
+
+- R02: Falhas de infraestrutura
+  Probabilidade: 2/5, Impacto: 2/5, Nível: Baixo
+  Mitigação: Contratar pessoal adicional
+
+- R03: Mudanças regulatórias
+  Probabilidade: 3/5, Impacto: 5/5, Nível: Médio
+  Mitigação: Gerenciar dependências ativamente
+
+- R04: Problemas de desempenho
+  Probabilidade: 1/5, Impacto: 3/5, Nível: Baixo
+  Mitigação: Buscar fornecedores alternativos
+
+- R05: Mudanças regulatórias
+  Probabilidade: 3/5, Impacto: 5/5, Nível: Médio
+  Mitigação: Otimizar código e infraestrutura
+
+Riscos ocorridos:
+- R05 (ocorrido em 09/02/2025)
+  Impacto real: Insatisfação dos stakeholders
+  Ações tomadas: Revisão de prioridades
+
+- R02 (ocorrido em 11/04/2025)
+  Impacto real: Problemas de qualidade
+  Ações tomadas: Implementação do plano de contingência
+
+- R03 (ocorrido em 15/07/2024)
+  Impacto real: Redução de funcionalidades
+  Ações tomadas: Realocação de recursos
+

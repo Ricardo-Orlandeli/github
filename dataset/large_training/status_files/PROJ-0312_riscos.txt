@@ -1,0 +1,55 @@
+RELATÓRIO DE STATUS DE RISCOS
+Projeto: A vantagem de realizar seus sonhos sem preocupação (PROJ-0312)
+Data: 14/07/2025
+Gerente: Gabriel Rios
+
+Riscos identificados:
+- R01: Estimativas imprecisas
+  Probabilidade: 3/5, Impacto: 2/5, Nível: Baixo
+  Mitigação: Comunicar benefícios da mudança
+
+- R02: Problemas de comunicação com stakeholders
+  Probabilidade: 3/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Testar compatibilidade em diferentes ambientes
+
+- R03: Indisponibilidade de recursos especializados
+  Probabilidade: 3/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Estabelecer canais de comunicação claros
+
+- R04: Falhas de segurança
+  Probabilidade: 4/5, Impacto: 5/5, Nível: Alto
+  Mitigação: Refinar estimativas com base em dados históricos
+
+- R05: Requisitos mal definidos
+  Probabilidade: 3/5, Impacto: 5/5, Nível: Médio
+  Mitigação: Realizar testes de integração antecipados
+
+- R06: Problemas de comunicação com stakeholders
+  Probabilidade: 3/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Estabelecer canais de comunicação claros
+
+- R07: Requisitos mal definidos
+  Probabilidade: 1/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Realizar testes de aceitação com usuários-chave
+
+- R08: Resistência dos usuários à mudança
+  Probabilidade: 3/5, Impacto: 2/5, Nível: Baixo
+  Mitigação: Realizar testes de aceitação com usuários-chave
+
+- R09: Falhas em testes de aceitação
+  Probabilidade: 5/5, Impacto: 5/5, Nível: Alto
+  Mitigação: Monitorar mudanças regulatórias
+
+Riscos ocorridos:
+- R06 (ocorrido em 29/02/2024)
+  Impacto real: Atraso de 2 semanas no cronograma
+  Ações tomadas: Ajuste no cronograma
+
+- R05 (ocorrido em 29/02/2024)
+  Impacto real: Perda de recursos-chave
+  Ações tomadas: Realocação de recursos
+
+- R03 (ocorrido em 13/11/2024)
+  Impacto real: Perda de recursos-chave
+  Ações tomadas: Implementação de controles adicionais
+

@@ -1,0 +1,31 @@
+RELATÓRIO DE STATUS DE RISCOS
+Projeto: O poder de conseguir com força total (PROJ-0250)
+Data: 14/07/2025
+Gerente: Dom Azevedo
+
+Riscos identificados:
+- R01: Indisponibilidade de recursos especializados
+  Probabilidade: 4/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Melhorar a documentação de requisitos
+
+- R02: Requisitos mal definidos
+  Probabilidade: 5/5, Impacto: 2/5, Nível: Médio
+  Mitigação: Otimizar código e infraestrutura
+
+- R03: Problemas de desempenho
+  Probabilidade: 4/5, Impacto: 5/5, Nível: Alto
+  Mitigação: Otimizar código e infraestrutura
+
+- R04: Resistência dos usuários à mudança
+  Probabilidade: 5/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Implementar plano de contingência
+
+- R05: Indisponibilidade de recursos especializados
+  Probabilidade: 4/5, Impacto: 5/5, Nível: Alto
+  Mitigação: Otimizar código e infraestrutura
+
+- R06: Atraso na entrega de componentes críticos
+  Probabilidade: 3/5, Impacto: 2/5, Nível: Baixo
+  Mitigação: Implementar plano de contingência
+
+Riscos ocorridos:

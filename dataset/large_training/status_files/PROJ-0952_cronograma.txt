@@ -1,0 +1,26 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A simplicidade de concretizar seus projetos simplesmente (PROJ-0952)
+Data: 14/07/2025
+Gerente: Agatha da Luz
+
+Status atual: Atrasado
+Percentual de conclusão: 70.2%
+Data de início: 19/07/2023
+Data de término planejada: 02/10/2023
+Data de término real/prevista: 26/03/2024
+Atraso atual: 651 dias
+Motivo do atraso: Estimativas imprecisas
+Índice de Desempenho de Cronograma (SPI): 0.70
+Valor Planejado (PV): R$ 3995324.00
+Valor Agregado (EV): R$ 2804702.67
+
+Tarefas críticas:
+- Implementação do módulo de exportação de dados
+- Implementação da API REST
+- Desenvolvimento do painel administrativo
+- Testes de aceitação do usuário
+- Testes de segurança
+
+Tarefas atrasadas:
+- Testes de segurança
+- Implementação do módulo de exportação de dados

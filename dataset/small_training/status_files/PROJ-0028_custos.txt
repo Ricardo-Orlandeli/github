@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O prazer de avançar sem preocupação (PROJ-0028)
+Data: 14/07/2025
+Gerente: Sophie Casa Grande
+
+Orçamento inicial: R$ 321005.00
+Custo real atual: R$ 217142.08
+Desvio orçamentário: -32.36%
+Índice de Desempenho de Custo (CPI): 0.95
+Valor Agregado (EV): R$ 206558.04
+Estimativa para conclusão: R$ 120311.22
+Estimativa no término (EAC): R$ 337453.30
+Variação no término (VAC): R$ -16448.30
+
+Detalhamento por categoria:
+- Pessoal: R$ 109609.50 (50.5%)
+- Equipamentos: R$ 33239.63 (15.3%)
+- Software: R$ 26080.50 (12.0%)
+- Serviços: R$ 33295.44 (15.3%)
+- Outros: R$ 14917.01 (6.9%)

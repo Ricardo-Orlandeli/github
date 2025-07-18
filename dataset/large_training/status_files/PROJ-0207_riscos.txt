@@ -1,0 +1,19 @@
+RELATÓRIO DE STATUS DE RISCOS
+Projeto: O direito de ganhar naturalmente (PROJ-0207)
+Data: 14/07/2025
+Gerente: João Miguel Duarte
+
+Riscos identificados:
+- R01: Falhas em testes de aceitação
+  Probabilidade: 5/5, Impacto: 5/5, Nível: Alto
+  Mitigação: Comunicar benefícios da mudança
+
+- R02: Mudanças regulatórias
+  Probabilidade: 3/5, Impacto: 3/5, Nível: Médio
+  Mitigação: Testar compatibilidade em diferentes ambientes
+
+- R03: Problemas de compatibilidade
+  Probabilidade: 5/5, Impacto: 2/5, Nível: Médio
+  Mitigação: Testar compatibilidade em diferentes ambientes
+
+Riscos ocorridos:

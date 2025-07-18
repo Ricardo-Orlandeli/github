@@ -1,0 +1,19 @@
+RELATÓRIO DE STATUS DE RISCOS
+Projeto: A possibilidade de atingir seus objetivos com força total (PROJ-0959)
+Data: 14/07/2025
+Gerente: Juliana Cunha
+
+Riscos identificados:
+- R01: Mudanças regulatórias
+  Probabilidade: 2/5, Impacto: 2/5, Nível: Baixo
+  Mitigação: Refinar estimativas com base em dados históricos
+
+- R02: Dependências externas não cumpridas
+  Probabilidade: 4/5, Impacto: 4/5, Nível: Alto
+  Mitigação: Estabelecer canais de comunicação claros
+
+- R03: Indisponibilidade de recursos especializados
+  Probabilidade: 2/5, Impacto: 3/5, Nível: Baixo
+  Mitigação: Buscar fornecedores alternativos
+
+Riscos ocorridos:

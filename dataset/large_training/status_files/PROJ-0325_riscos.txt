@@ -1,0 +1,27 @@
+RELATÓRIO DE STATUS DE RISCOS
+Projeto: A simplicidade de evoluir de maneira eficaz (PROJ-0325)
+Data: 14/07/2025
+Gerente: Ravi da Cruz
+
+Riscos identificados:
+- R01: Atraso na entrega de componentes críticos
+  Probabilidade: 3/5, Impacto: 4/5, Nível: Médio
+  Mitigação: Refinar estimativas com base em dados históricos
+
+- R02: Requisitos mal definidos
+  Probabilidade: 3/5, Impacto: 3/5, Nível: Médio
+  Mitigação: Gerenciar dependências ativamente
+
+- R03: Atraso na entrega de componentes críticos
+  Probabilidade: 2/5, Impacto: 2/5, Nível: Baixo
+  Mitigação: Fortalecer medidas de segurança
+
+- R04: Problemas de compatibilidade
+  Probabilidade: 2/5, Impacto: 3/5, Nível: Baixo
+  Mitigação: Fortalecer medidas de segurança
+
+Riscos ocorridos:
+- R02 (ocorrido em 18/09/2024)
+  Impacto real: Redução de funcionalidades
+  Ações tomadas: Comunicação intensificada com stakeholders
+

@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A arte de ganhar mais rapidamente (PROJ-0047)
+Data: 14/07/2025
+Gerente: Theodoro Souza
+
+Orçamento inicial: R$ 4357375.00
+Custo real atual: R$ 3403586.52
+Desvio orçamentário: -21.89%
+Índice de Desempenho de Custo (CPI): 0.94
+Valor Agregado (EV): R$ 3212563.91
+Estimativa para conclusão: R$ 1212882.83
+Estimativa no término (EAC): R$ 4616469.35
+Variação no término (VAC): R$ -259094.35
+
+Detalhamento por categoria:
+- Pessoal: R$ 1634062.28 (48.0%)
+- Equipamentos: R$ 386663.33 (11.4%)
+- Software: R$ 423412.86 (12.4%)
+- Serviços: R$ 636269.09 (18.7%)
+- Outros: R$ 323178.96 (9.5%)

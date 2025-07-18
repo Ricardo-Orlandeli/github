@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A certeza de concretizar seus projetos com força total (PROJ-0909)
+Data: 14/07/2025
+Gerente: Erick Rocha
+
+Orçamento inicial: R$ 1531739.00
+Custo real atual: R$ 1573955.74
+Desvio orçamentário: 2.76%
+Índice de Desempenho de Custo (CPI): 0.68
+Valor Agregado (EV): R$ 1068478.13
+Estimativa para conclusão: R$ 682421.18
+Estimativa no término (EAC): R$ 2256376.93
+Variação no término (VAC): R$ -724637.93
+
+Detalhamento por categoria:
+- Pessoal: R$ 712440.62 (45.3%)
+- Equipamentos: R$ 237762.44 (15.1%)
+- Software: R$ 192229.41 (12.2%)
+- Serviços: R$ 256956.70 (16.3%)
+- Outros: R$ 174566.57 (11.1%)

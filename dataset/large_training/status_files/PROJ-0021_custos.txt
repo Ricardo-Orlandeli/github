@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A vantagem de evoluir com força total (PROJ-0021)
+Data: 14/07/2025
+Gerente: Vitor Hugo Ramos
+
+Orçamento inicial: R$ 2711934.00
+Custo real atual: R$ 2528668.60
+Desvio orçamentário: -6.76%
+Índice de Desempenho de Custo (CPI): 0.87
+Valor Agregado (EV): R$ 2210343.13
+Estimativa para conclusão: R$ 573828.13
+Estimativa no término (EAC): R$ 3102496.73
+Variação no término (VAC): R$ -390562.73
+
+Detalhamento por categoria:
+- Pessoal: R$ 1393089.24 (55.1%)
+- Equipamentos: R$ 363173.54 (14.4%)
+- Software: R$ 310234.81 (12.3%)
+- Serviços: R$ 311425.00 (12.3%)
+- Outros: R$ 150746.01 (6.0%)

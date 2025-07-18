@@ -1,0 +1,39 @@
+RELATÓRIO DE STATUS DE RISCOS
+Projeto: O poder de evoluir com toda a tranquilidade (PROJ-0617)
+Data: 14/07/2025
+Gerente: Rael Oliveira
+
+Riscos identificados:
+- R01: Dependências externas não cumpridas
+  Probabilidade: 4/5, Impacto: 3/5, Nível: Médio
+  Mitigação: Otimizar código e infraestrutura
+
+- R02: Problemas de compatibilidade
+  Probabilidade: 2/5, Impacto: 3/5, Nível: Baixo
+  Mitigação: Realizar testes de aceitação com usuários-chave
+
+- R03: Problemas de integração com sistemas legados
+  Probabilidade: 2/5, Impacto: 5/5, Nível: Médio
+  Mitigação: Implementar redundância de infraestrutura
+
+- R04: Problemas de comunicação com stakeholders
+  Probabilidade: 1/5, Impacto: 2/5, Nível: Baixo
+  Mitigação: Implementar redundância de infraestrutura
+
+- R05: Problemas de comunicação com stakeholders
+  Probabilidade: 2/5, Impacto: 4/5, Nível: Médio
+  Mitigação: Comunicar benefícios da mudança
+
+- R06: Problemas de compatibilidade
+  Probabilidade: 5/5, Impacto: 2/5, Nível: Médio
+  Mitigação: Realizar testes de aceitação com usuários-chave
+
+- R07: Problemas de compatibilidade
+  Probabilidade: 3/5, Impacto: 4/5, Nível: Médio
+  Mitigação: Melhorar a documentação de requisitos
+
+- R08: Problemas de desempenho
+  Probabilidade: 5/5, Impacto: 5/5, Nível: Alto
+  Mitigação: Fortalecer medidas de segurança
+
+Riscos ocorridos:

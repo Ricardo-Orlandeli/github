@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A vantagem de ganhar em estado puro (PROJ-0898)
+Data: 14/07/2025
+Gerente: Sophia da Rocha
+
+Orçamento inicial: R$ 266651.00
+Custo real atual: R$ 286487.52
+Desvio orçamentário: 7.44%
+Índice de Desempenho de Custo (CPI): 0.92
+Valor Agregado (EV): R$ 264120.36
+Estimativa para conclusão: R$ 2744.94
+Estimativa no término (EAC): R$ 289232.47
+Variação no término (VAC): R$ -22581.47
+
+Detalhamento por categoria:
+- Pessoal: R$ 135164.73 (47.2%)
+- Equipamentos: R$ 52928.64 (18.5%)
+- Software: R$ 44974.02 (15.7%)
+- Serviços: R$ 32628.90 (11.4%)
+- Outros: R$ 20791.23 (7.3%)

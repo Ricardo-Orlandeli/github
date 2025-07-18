@@ -1,0 +1,24 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A certeza de ganhar mais rapidamente (PROJ-0894)
+Data: 14/07/2025
+Gerente: Elisa Brito
+
+Status atual: Atrasado
+Percentual de conclusão: 60.3%
+Data de início: 20/02/2024
+Data de término planejada: 22/12/2024
+Data de término real/prevista: 08/02/2025
+Atraso atual: 204 dias
+Motivo do atraso: Dependências externas não cumpridas
+Índice de Desempenho de Cronograma (SPI): 0.60
+Valor Planejado (PV): R$ 2542085.00
+Valor Agregado (EV): R$ 1531692.31
+
+Tarefas críticas:
+- Configuração do ambiente de produção
+- Configuração da infraestrutura
+- Implementação do módulo de relatórios
+
+Tarefas atrasadas:
+- Configuração da infraestrutura
+- Implementação do módulo de relatórios

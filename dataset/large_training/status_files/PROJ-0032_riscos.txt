@@ -1,0 +1,27 @@
+RELATÓRIO DE STATUS DE RISCOS
+Projeto: O direito de ganhar mais facilmente (PROJ-0032)
+Data: 14/07/2025
+Gerente: Isabella Montenegro
+
+Riscos identificados:
+- R01: Rotatividade de pessoal-chave
+  Probabilidade: 1/5, Impacto: 3/5, Nível: Baixo
+  Mitigação: Buscar fornecedores alternativos
+
+- R02: Problemas de comunicação com stakeholders
+  Probabilidade: 2/5, Impacto: 2/5, Nível: Baixo
+  Mitigação: Estabelecer canais de comunicação claros
+
+- R03: Falhas de segurança
+  Probabilidade: 3/5, Impacto: 5/5, Nível: Médio
+  Mitigação: Realizar testes de aceitação com usuários-chave
+
+Riscos ocorridos:
+- R01 (ocorrido em 12/10/2024)
+  Impacto real: Indisponibilidade temporária
+  Ações tomadas: Revisão do orçamento
+
+- R03 (ocorrido em 09/04/2024)
+  Impacto real: Perda de dados
+  Ações tomadas: Implementação de controles adicionais
+

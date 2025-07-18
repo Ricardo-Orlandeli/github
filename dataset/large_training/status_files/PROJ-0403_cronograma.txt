@@ -1,0 +1,27 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: O conforto de conseguir de maneira eficaz (PROJ-0403)
+Data: 14/07/2025
+Gerente: João Vitor Monteiro
+
+Status atual: Concluído
+Percentual de conclusão: 100.0%
+Data de início: 16/03/2025
+Data de término planejada: 22/04/2025
+Data de término real/prevista: 28/03/2025
+Atraso atual: 83 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.04
+Valor Planejado (PV): R$ 2637952.00
+Valor Agregado (EV): R$ 2637952.00
+
+Tarefas críticas:
+- Testes de aceitação do usuário
+- Integração com sistema de pagamentos
+- Integração com sistema de pagamentos
+- Desenvolvimento do módulo de autenticação
+- Implementação do módulo de análise de dados
+- Configuração da infraestrutura
+- Testes de segurança
+- Desenvolvimento da interface do usuário
+
+Tarefas atrasadas:

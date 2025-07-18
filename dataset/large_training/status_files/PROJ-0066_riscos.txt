@@ -1,0 +1,39 @@
+RELATÓRIO DE STATUS DE RISCOS
+Projeto: A vantagem de avançar mais facilmente (PROJ-0066)
+Data: 14/07/2025
+Gerente: Dra. Aylla Gonçalves
+
+Riscos identificados:
+- R01: Problemas de desempenho
+  Probabilidade: 3/5, Impacto: 5/5, Nível: Médio
+  Mitigação: Implementar plano de contingência
+
+- R02: Falhas de segurança
+  Probabilidade: 4/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Realizar testes de aceitação com usuários-chave
+
+- R03: Problemas de comunicação com stakeholders
+  Probabilidade: 2/5, Impacto: 4/5, Nível: Médio
+  Mitigação: Estabelecer canais de comunicação claros
+
+- R04: Mudanças regulatórias
+  Probabilidade: 4/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Realizar testes de integração antecipados
+
+- R05: Indisponibilidade de recursos especializados
+  Probabilidade: 3/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Comunicar benefícios da mudança
+
+Riscos ocorridos:
+- R02 (ocorrido em 06/07/2024)
+  Impacto real: Redução de funcionalidades
+  Ações tomadas: Revisão de processos
+
+- R03 (ocorrido em 06/04/2024)
+  Impacto real: Indisponibilidade temporária
+  Ações tomadas: Revisão de processos
+
+- R01 (ocorrido em 13/04/2024)
+  Impacto real: Perda de recursos-chave
+  Ações tomadas: Implementação de soluções alternativas
+

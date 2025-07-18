@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A arte de concretizar seus projetos direto da fonte (PROJ-0437)
+Data: 14/07/2025
+Gerente: Isabelly Teixeira
+
+Orçamento inicial: R$ 2716253.00
+Custo real atual: R$ 2652571.09
+Desvio orçamentário: -2.34%
+Índice de Desempenho de Custo (CPI): 1.02
+Valor Agregado (EV): R$ 2713536.75
+Estimativa para conclusão: R$ 2655.23
+Estimativa no término (EAC): R$ 2655226.31
+Variação no término (VAC): R$ 61026.69
+
+Detalhamento por categoria:
+- Pessoal: R$ 1437820.88 (54.2%)
+- Equipamentos: R$ 448499.56 (16.9%)
+- Software: R$ 345287.75 (13.0%)
+- Serviços: R$ 242813.80 (9.2%)
+- Outros: R$ 178149.08 (6.7%)

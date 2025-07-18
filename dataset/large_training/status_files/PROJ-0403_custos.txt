@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O conforto de conseguir de maneira eficaz (PROJ-0403)
+Data: 14/07/2025
+Gerente: João Vitor Monteiro
+
+Orçamento inicial: R$ 2637952.00
+Custo real atual: R$ 2839530.67
+Desvio orçamentário: 7.64%
+Índice de Desempenho de Custo (CPI): 0.93
+Valor Agregado (EV): R$ 2637952.00
+Estimativa para conclusão: R$ 0.00
+Estimativa no término (EAC): R$ 2839530.67
+Variação no término (VAC): R$ -201578.67
+
+Detalhamento por categoria:
+- Pessoal: R$ 1609885.20 (56.7%)
+- Equipamentos: R$ 403517.22 (14.2%)
+- Software: R$ 342143.49 (12.0%)
+- Serviços: R$ 293676.56 (10.3%)
+- Outros: R$ 190308.21 (6.7%)

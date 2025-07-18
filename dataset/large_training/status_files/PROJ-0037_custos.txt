@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A certeza de concretizar seus projetos naturalmente (PROJ-0037)
+Data: 14/07/2025
+Gerente: Juliana da Paz
+
+Orçamento inicial: R$ 940287.00
+Custo real atual: R$ 846823.43
+Desvio orçamentário: -9.94%
+Índice de Desempenho de Custo (CPI): 1.11
+Valor Agregado (EV): R$ 939346.71
+Estimativa para conclusão: R$ 847.67
+Estimativa no término (EAC): R$ 847671.10
+Variação no término (VAC): R$ 92615.90
+
+Detalhamento por categoria:
+- Pessoal: R$ 429594.17 (50.7%)
+- Equipamentos: R$ 140139.49 (16.5%)
+- Software: R$ 104081.23 (12.3%)
+- Serviços: R$ 96842.18 (11.4%)
+- Outros: R$ 76166.36 (9.0%)

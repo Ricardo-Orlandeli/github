@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O direito de concretizar seus projetos de maneira eficaz (PROJ-0751)
+Data: 14/07/2025
+Gerente: Ana Cecília Monteiro
+
+Orçamento inicial: R$ 4814413.00
+Custo real atual: R$ 5619834.22
+Desvio orçamentário: 16.73%
+Índice de Desempenho de Custo (CPI): 0.86
+Valor Agregado (EV): R$ 4809598.59
+Estimativa para conclusão: R$ 5625.46
+Estimativa no término (EAC): R$ 5625459.68
+Variação no término (VAC): R$ -811046.68
+
+Detalhamento por categoria:
+- Pessoal: R$ 3416738.34 (60.8%)
+- Equipamentos: R$ 677462.40 (12.1%)
+- Software: R$ 394343.92 (7.0%)
+- Serviços: R$ 790019.69 (14.1%)
+- Outros: R$ 341269.87 (6.1%)

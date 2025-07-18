@@ -1,0 +1,39 @@
+RELATÓRIO DE STATUS DE RISCOS
+Projeto: A arte de conseguir antes de tudo (PROJ-0211)
+Data: 14/07/2025
+Gerente: Clara Camargo
+
+Riscos identificados:
+- R01: Falhas de segurança
+  Probabilidade: 4/5, Impacto: 2/5, Nível: Médio
+  Mitigação: Implementar plano de contingência
+
+- R02: Atraso na entrega de componentes críticos
+  Probabilidade: 1/5, Impacto: 2/5, Nível: Baixo
+  Mitigação: Realizar testes de integração antecipados
+
+- R03: Rotatividade de pessoal-chave
+  Probabilidade: 1/5, Impacto: 3/5, Nível: Baixo
+  Mitigação: Gerenciar dependências ativamente
+
+- R04: Rotatividade de pessoal-chave
+  Probabilidade: 5/5, Impacto: 4/5, Nível: Alto
+  Mitigação: Realizar testes de aceitação com usuários-chave
+
+- R05: Resistência dos usuários à mudança
+  Probabilidade: 3/5, Impacto: 5/5, Nível: Médio
+  Mitigação: Testar compatibilidade em diferentes ambientes
+
+- R06: Estimativas imprecisas
+  Probabilidade: 4/5, Impacto: 2/5, Nível: Médio
+  Mitigação: Monitorar mudanças regulatórias
+
+- R07: Falhas de segurança
+  Probabilidade: 3/5, Impacto: 5/5, Nível: Médio
+  Mitigação: Implementar redundância de infraestrutura
+
+- R08: Falhas de segurança
+  Probabilidade: 4/5, Impacto: 4/5, Nível: Alto
+  Mitigação: Implementar redundância de infraestrutura
+
+Riscos ocorridos:

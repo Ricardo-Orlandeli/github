@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A certeza de ganhar naturalmente (PROJ-0123)
+Data: 14/07/2025
+Gerente: Sr. Augusto Barbosa
+
+Orçamento inicial: R$ 191839.00
+Custo real atual: R$ 127464.64
+Desvio orçamentário: 32.89%
+Índice de Desempenho de Custo (CPI): 0.89
+Valor Agregado (EV): R$ 113056.32
+Estimativa para conclusão: R$ 88823.05
+Estimativa no término (EAC): R$ 216287.69
+Variação no término (VAC): R$ -24448.69
+
+Detalhamento por categoria:
+- Pessoal: R$ 63062.88 (49.5%)
+- Equipamentos: R$ 25003.26 (19.6%)
+- Software: R$ 11423.28 (9.0%)
+- Serviços: R$ 20167.04 (15.8%)
+- Outros: R$ 7808.18 (6.1%)

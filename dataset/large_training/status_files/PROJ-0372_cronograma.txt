@@ -1,0 +1,25 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A vantagem de inovar mais facilmente (PROJ-0372)
+Data: 14/07/2025
+Gerente: Antony Martins
+
+Status atual: Cancelado
+Percentual de conclusão: 70.9%
+Data de início: 21/08/2024
+Data de término planejada: 13/04/2025
+Data de término real/prevista: 03/02/2025
+Atraso atual: 92 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 0.71
+Valor Planejado (PV): R$ 1533323.00
+Valor Agregado (EV): R$ 1087519.95
+
+Tarefas críticas:
+- Configuração do ambiente de produção
+- Testes de aceitação do usuário
+- Desenvolvimento do módulo de autenticação
+- Implementação do sistema de backup
+- Configuração da infraestrutura
+- Desenvolvimento do módulo de autenticação
+
+Tarefas atrasadas:

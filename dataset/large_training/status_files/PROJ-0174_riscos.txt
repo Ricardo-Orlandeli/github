@@ -1,0 +1,35 @@
+RELATÓRIO DE STATUS DE RISCOS
+Projeto: O prazer de evoluir antes de tudo (PROJ-0174)
+Data: 14/07/2025
+Gerente: Sr. João Gabriel Souza
+
+Riscos identificados:
+- R01: Problemas de compatibilidade
+  Probabilidade: 4/5, Impacto: 3/5, Nível: Médio
+  Mitigação: Contratar pessoal adicional
+
+- R02: Estimativas imprecisas
+  Probabilidade: 1/5, Impacto: 4/5, Nível: Baixo
+  Mitigação: Realizar testes de integração antecipados
+
+- R03: Requisitos mal definidos
+  Probabilidade: 3/5, Impacto: 2/5, Nível: Baixo
+  Mitigação: Implementar redundância de infraestrutura
+
+- R04: Rotatividade de pessoal-chave
+  Probabilidade: 1/5, Impacto: 2/5, Nível: Baixo
+  Mitigação: Implementar plano de contingência
+
+- R05: Problemas de desempenho
+  Probabilidade: 1/5, Impacto: 4/5, Nível: Baixo
+  Mitigação: Realizar testes de integração antecipados
+
+- R06: Mudanças regulatórias
+  Probabilidade: 4/5, Impacto: 4/5, Nível: Alto
+  Mitigação: Refinar estimativas com base em dados históricos
+
+- R07: Falhas de segurança
+  Probabilidade: 2/5, Impacto: 5/5, Nível: Médio
+  Mitigação: Buscar fornecedores alternativos
+
+Riscos ocorridos:

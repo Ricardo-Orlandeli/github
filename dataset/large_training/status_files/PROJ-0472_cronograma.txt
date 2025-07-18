@@ -1,0 +1,27 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A certeza de conseguir mais rapidamente (PROJ-0472)
+Data: 14/07/2025
+Gerente: Stella Monteiro
+
+Status atual: Concluído
+Percentual de conclusão: 100.0%
+Data de início: 08/11/2024
+Data de término planejada: 23/12/2024
+Data de término real/prevista: 22/01/2025
+Atraso atual: 203 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.09
+Valor Planejado (PV): R$ 3922169.00
+Valor Agregado (EV): R$ 3922169.00
+
+Tarefas críticas:
+- Desenvolvimento da interface do usuário
+- Desenvolvimento do painel administrativo
+- Configuração da infraestrutura
+- Desenvolvimento do painel administrativo
+- Desenvolvimento do painel administrativo
+- Testes de segurança
+- Implementação do sistema de backup
+- Implementação do módulo de notificações
+
+Tarefas atrasadas:

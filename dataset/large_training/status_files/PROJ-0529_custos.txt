@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O prazer de inovar mais facilmente (PROJ-0529)
+Data: 14/07/2025
+Gerente: Melina Souza
+
+Orçamento inicial: R$ 3818609.00
+Custo real atual: R$ 3383070.81
+Desvio orçamentário: -11.41%
+Índice de Desempenho de Custo (CPI): 0.77
+Valor Agregado (EV): R$ 2594983.47
+Estimativa para conclusão: R$ 1595236.30
+Estimativa no término (EAC): R$ 4978307.11
+Variação no término (VAC): R$ -1159698.11
+
+Detalhamento por categoria:
+- Pessoal: R$ 1797727.32 (53.1%)
+- Equipamentos: R$ 564444.06 (16.7%)
+- Software: R$ 262239.30 (7.8%)
+- Serviços: R$ 551768.21 (16.3%)
+- Outros: R$ 206891.91 (6.1%)

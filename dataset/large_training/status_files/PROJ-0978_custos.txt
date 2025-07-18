@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O direito de realizar seus sonhos naturalmente (PROJ-0978)
+Data: 14/07/2025
+Gerente: José Pedro Duarte
+
+Orçamento inicial: R$ 2404305.00
+Custo real atual: R$ 2405147.38
+Desvio orçamentário: 0.04%
+Índice de Desempenho de Custo (CPI): 1.00
+Valor Agregado (EV): R$ 2404305.00
+Estimativa para conclusão: R$ 0.00
+Estimativa no término (EAC): R$ 2405147.38
+Variação no término (VAC): R$ -842.38
+
+Detalhamento por categoria:
+- Pessoal: R$ 1192303.44 (49.6%)
+- Equipamentos: R$ 373080.27 (15.5%)
+- Software: R$ 240882.95 (10.0%)
+- Serviços: R$ 455654.42 (18.9%)
+- Outros: R$ 143226.30 (6.0%)

@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O prazer de atingir seus objetivos mais facilmente (PROJ-0780)
+Data: 14/07/2025
+Gerente: Bárbara Mendonça
+
+Orçamento inicial: R$ 3971169.00
+Custo real atual: R$ 2874032.34
+Desvio orçamentário: -27.63%
+Índice de Desempenho de Custo (CPI): 1.16
+Valor Agregado (EV): R$ 3336412.39
+Estimativa para conclusão: R$ 546788.23
+Estimativa no término (EAC): R$ 3420820.57
+Variação no término (VAC): R$ 550348.43
+
+Detalhamento por categoria:
+- Pessoal: R$ 1504793.96 (52.4%)
+- Equipamentos: R$ 540769.06 (18.8%)
+- Software: R$ 208401.36 (7.3%)
+- Serviços: R$ 404220.22 (14.1%)
+- Outros: R$ 215847.74 (7.5%)

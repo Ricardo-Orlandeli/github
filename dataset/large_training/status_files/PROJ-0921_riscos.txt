@@ -1,0 +1,47 @@
+RELATÓRIO DE STATUS DE RISCOS
+Projeto: O conforto de inovar antes de tudo (PROJ-0921)
+Data: 14/07/2025
+Gerente: Sarah Melo
+
+Riscos identificados:
+- R01: Problemas de integração com sistemas legados
+  Probabilidade: 2/5, Impacto: 2/5, Nível: Baixo
+  Mitigação: Fortalecer medidas de segurança
+
+- R02: Problemas de desempenho
+  Probabilidade: 2/5, Impacto: 3/5, Nível: Baixo
+  Mitigação: Contratar pessoal adicional
+
+- R03: Requisitos mal definidos
+  Probabilidade: 2/5, Impacto: 3/5, Nível: Baixo
+  Mitigação: Realizar testes de aceitação com usuários-chave
+
+- R04: Dependências externas não cumpridas
+  Probabilidade: 1/5, Impacto: 4/5, Nível: Baixo
+  Mitigação: Implementar redundância de infraestrutura
+
+- R05: Mudanças regulatórias
+  Probabilidade: 1/5, Impacto: 4/5, Nível: Baixo
+  Mitigação: Testar compatibilidade em diferentes ambientes
+
+- R06: Requisitos mal definidos
+  Probabilidade: 1/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Refinar estimativas com base em dados históricos
+
+- R07: Indisponibilidade de recursos especializados
+  Probabilidade: 5/5, Impacto: 5/5, Nível: Alto
+  Mitigação: Contratar pessoal adicional
+
+- R08: Falhas de infraestrutura
+  Probabilidade: 5/5, Impacto: 4/5, Nível: Alto
+  Mitigação: Refinar estimativas com base em dados históricos
+
+Riscos ocorridos:
+- R04 (ocorrido em 08/07/2025)
+  Impacto real: Falhas de segurança
+  Ações tomadas: Implementação do plano de contingência
+
+- R08 (ocorrido em 24/06/2025)
+  Impacto real: Falhas de segurança
+  Ações tomadas: Implementação do plano de contingência
+

@@ -1,0 +1,25 @@
+RELATÓRIO DE STATUS DE ESCOPO
+Projeto: A simplicidade de mudar sem preocupação (PROJ-0899)
+Data: 14/07/2025
+Gerente: Nicole Sousa
+
+Escopo original: Sistema para a simplicidade de mudar sem preocupação
+Houve mudança de escopo: Sim
+Descrição das mudanças: Alteração nas especificações técnicas
+Impacto no cronograma: 47 dias
+Impacto no custo: R$ 391722.86
+
+Solicitações de mudança:
+- SCM-01: Adição de relatórios gerenciais
+- SCM-02: Implementação de módulo de exportação de dados
+- SCM-03: Alteração nos requisitos de desempenho
+
+Requisitos atuais:
+- REQ-01: O sistema deve ter controle de acesso baseado em perfis
+- REQ-02: O sistema deve ter alta disponibilidade (99.9%)
+- REQ-03: O sistema deve ter interface responsiva
+- REQ-04: O sistema deve permitir integração com APIs externas
+- REQ-05: O sistema deve ser compatível com navegadores modernos
+- REQ-06: O sistema deve ter documentação completa
+- REQ-07: O sistema deve processar transações em menos de 2 seconds
+- REQ-08: O sistema deve ter interface responsiva

@@ -1,0 +1,43 @@
+RELATÓRIO DE STATUS DE RISCOS
+Projeto: O direito de realizar seus sonhos com toda a tranquilidade (PROJ-0680)
+Data: 14/07/2025
+Gerente: Sra. Maria Clara Monteiro
+
+Riscos identificados:
+- R01: Mudanças regulatórias
+  Probabilidade: 5/5, Impacto: 5/5, Nível: Alto
+  Mitigação: Realizar testes de aceitação com usuários-chave
+
+- R02: Problemas de integração com sistemas legados
+  Probabilidade: 5/5, Impacto: 4/5, Nível: Alto
+  Mitigação: Contratar pessoal adicional
+
+- R03: Mudanças regulatórias
+  Probabilidade: 1/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Realizar testes de integração antecipados
+
+- R04: Estimativas imprecisas
+  Probabilidade: 3/5, Impacto: 2/5, Nível: Baixo
+  Mitigação: Buscar fornecedores alternativos
+
+- R05: Falhas de segurança
+  Probabilidade: 3/5, Impacto: 2/5, Nível: Baixo
+  Mitigação: Estabelecer canais de comunicação claros
+
+- R06: Indisponibilidade de recursos especializados
+  Probabilidade: 5/5, Impacto: 3/5, Nível: Médio
+  Mitigação: Testar compatibilidade em diferentes ambientes
+
+Riscos ocorridos:
+- R02 (ocorrido em 29/04/2024)
+  Impacto real: Falhas de segurança
+  Ações tomadas: Revisão de processos
+
+- R04 (ocorrido em 18/09/2023)
+  Impacto real: Redução de funcionalidades
+  Ações tomadas: Ajuste no cronograma
+
+- R01 (ocorrido em 24/05/2025)
+  Impacto real: Perda de dados
+  Ações tomadas: Comunicação intensificada com stakeholders
+

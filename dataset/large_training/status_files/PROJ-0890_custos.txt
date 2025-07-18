@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O direito de realizar seus sonhos mais rapidamente (PROJ-0890)
+Data: 14/07/2025
+Gerente: Oliver Fernandes
+
+Orçamento inicial: R$ 2550874.00
+Custo real atual: R$ 674780.65
+Desvio orçamentário: -10.47%
+Índice de Desempenho de Custo (CPI): 1.16
+Valor Agregado (EV): R$ 780263.05
+Estimativa para conclusão: R$ 1531245.15
+Estimativa no término (EAC): R$ 2206025.80
+Variação no término (VAC): R$ 344848.20
+
+Detalhamento por categoria:
+- Pessoal: R$ 323948.21 (48.0%)
+- Equipamentos: R$ 114531.90 (17.0%)
+- Software: R$ 64630.37 (9.6%)
+- Serviços: R$ 116394.26 (17.2%)
+- Outros: R$ 55275.91 (8.2%)

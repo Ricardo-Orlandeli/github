@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A simplicidade de evoluir de maneira eficaz (PROJ-0325)
+Data: 14/07/2025
+Gerente: Ravi da Cruz
+
+Orçamento inicial: R$ 2385691.00
+Custo real atual: R$ 2503092.29
+Desvio orçamentário: 4.92%
+Índice de Desempenho de Custo (CPI): 0.81
+Valor Agregado (EV): R$ 2028150.15
+Estimativa para conclusão: R$ 441268.00
+Estimativa no término (EAC): R$ 2944360.29
+Variação no término (VAC): R$ -558669.29
+
+Detalhamento por categoria:
+- Pessoal: R$ 1320869.15 (52.8%)
+- Equipamentos: R$ 302484.05 (12.1%)
+- Software: R$ 291187.93 (11.6%)
+- Serviços: R$ 360887.00 (14.4%)
+- Outros: R$ 227664.16 (9.1%)

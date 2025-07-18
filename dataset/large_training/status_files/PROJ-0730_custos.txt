@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A certeza de realizar seus sonhos sem preocupação (PROJ-0730)
+Data: 14/07/2025
+Gerente: Dr. Benjamin Porto
+
+Orçamento inicial: R$ 860108.00
+Custo real atual: R$ 816848.07
+Desvio orçamentário: -5.03%
+Índice de Desempenho de Custo (CPI): 0.88
+Valor Agregado (EV): R$ 717658.48
+Estimativa para conclusão: R$ 162137.86
+Estimativa no término (EAC): R$ 978985.93
+Variação no término (VAC): R$ -118877.93
+
+Detalhamento por categoria:
+- Pessoal: R$ 423971.53 (51.9%)
+- Equipamentos: R$ 117601.10 (14.4%)
+- Software: R$ 93008.35 (11.4%)
+- Serviços: R$ 118999.31 (14.6%)
+- Outros: R$ 63267.78 (7.7%)

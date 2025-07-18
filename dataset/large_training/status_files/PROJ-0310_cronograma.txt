@@ -1,0 +1,27 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A segurança de ganhar em estado puro (PROJ-0310)
+Data: 14/07/2025
+Gerente: Davi Luiz Ramos
+
+Status atual: Atrasado
+Percentual de conclusão: 54.3%
+Data de início: 16/07/2024
+Data de término planejada: 24/05/2025
+Data de término real/prevista: 07/11/2025
+Atraso atual: 51 dias
+Motivo do atraso: Problemas de integração com sistemas legados
+Índice de Desempenho de Cronograma (SPI): 0.54
+Valor Planejado (PV): R$ 4625644.00
+Valor Agregado (EV): R$ 2513255.81
+
+Tarefas críticas:
+- Implementação do sistema de backup
+- Implementação do módulo de relatórios
+- Testes de aceitação do usuário
+- Implementação do módulo de relatórios
+- Testes de aceitação do usuário
+- Integração com sistema de pagamentos
+
+Tarefas atrasadas:
+- Implementação do módulo de relatórios
+- Implementação do módulo de relatórios

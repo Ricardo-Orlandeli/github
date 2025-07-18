@@ -1,0 +1,19 @@
+RELATÓRIO DE STATUS DE RISCOS
+Projeto: A liberdade de realizar seus sonhos simplesmente (PROJ-0536)
+Data: 14/07/2025
+Gerente: Gael Henrique Rodrigues
+
+Riscos identificados:
+- R01: Dependências externas não cumpridas
+  Probabilidade: 4/5, Impacto: 2/5, Nível: Médio
+  Mitigação: Gerenciar dependências ativamente
+
+- R02: Estimativas imprecisas
+  Probabilidade: 1/5, Impacto: 5/5, Nível: Baixo
+  Mitigação: Monitorar mudanças regulatórias
+
+- R03: Indisponibilidade de recursos especializados
+  Probabilidade: 2/5, Impacto: 4/5, Nível: Médio
+  Mitigação: Contratar pessoal adicional
+
+Riscos ocorridos:

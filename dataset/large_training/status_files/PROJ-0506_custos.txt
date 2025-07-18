@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A certeza de inovar naturalmente (PROJ-0506)
+Data: 14/07/2025
+Gerente: Clara Camargo
+
+Orçamento inicial: R$ 3030963.00
+Custo real atual: R$ 2637473.87
+Desvio orçamentário: 1282.05%
+Índice de Desempenho de Custo (CPI): 1.15
+Valor Agregado (EV): R$ 3030963.00
+Estimativa para conclusão: R$ 0.00
+Estimativa no término (EAC): R$ 2637473.87
+Variação no término (VAC): R$ 393489.13
+
+Detalhamento por categoria:
+- Pessoal: R$ 1376446.53 (52.2%)
+- Equipamentos: R$ 550319.29 (20.9%)
+- Software: R$ 141472.30 (5.4%)
+- Serviços: R$ 338185.42 (12.8%)
+- Outros: R$ 231050.34 (8.8%)

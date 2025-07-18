@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O direito de concretizar seus projetos em estado puro (PROJ-0376)
+Data: 14/07/2025
+Gerente: Carlos Eduardo Duarte
+
+Orçamento inicial: R$ 2249134.00
+Custo real atual: R$ 315714.09
+Desvio orçamentário: -20.88%
+Índice de Desempenho de Custo (CPI): 1.15
+Valor Agregado (EV): R$ 364037.35
+Estimativa para conclusão: R$ 1634864.02
+Estimativa no término (EAC): R$ 1950578.11
+Variação no término (VAC): R$ 298555.89
+
+Detalhamento por categoria:
+- Pessoal: R$ 160172.69 (50.7%)
+- Equipamentos: R$ 40363.03 (12.8%)
+- Software: R$ 46240.04 (14.6%)
+- Serviços: R$ 36352.22 (11.5%)
+- Outros: R$ 32586.11 (10.3%)

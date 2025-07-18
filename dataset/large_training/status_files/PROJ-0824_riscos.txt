@@ -1,0 +1,23 @@
+RELATÓRIO DE STATUS DE RISCOS
+Projeto: O poder de ganhar sem preocupação (PROJ-0824)
+Data: 14/07/2025
+Gerente: Maria Isis da Cruz
+
+Riscos identificados:
+- R01: Atraso na entrega de componentes críticos
+  Probabilidade: 2/5, Impacto: 4/5, Nível: Médio
+  Mitigação: Implementar redundância de infraestrutura
+
+- R02: Falhas de segurança
+  Probabilidade: 2/5, Impacto: 5/5, Nível: Médio
+  Mitigação: Fortalecer medidas de segurança
+
+- R03: Problemas de desempenho
+  Probabilidade: 2/5, Impacto: 4/5, Nível: Médio
+  Mitigação: Contratar pessoal adicional
+
+- R04: Problemas de desempenho
+  Probabilidade: 1/5, Impacto: 4/5, Nível: Baixo
+  Mitigação: Testar compatibilidade em diferentes ambientes
+
+Riscos ocorridos:

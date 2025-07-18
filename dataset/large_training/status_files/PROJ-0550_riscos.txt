@@ -1,0 +1,39 @@
+RELATÓRIO DE STATUS DE RISCOS
+Projeto: O conforto de atingir seus objetivos mais facilmente (PROJ-0550)
+Data: 14/07/2025
+Gerente: Gael Henrique Souza
+
+Riscos identificados:
+- R01: Requisitos mal definidos
+  Probabilidade: 3/5, Impacto: 3/5, Nível: Médio
+  Mitigação: Monitorar mudanças regulatórias
+
+- R02: Rotatividade de pessoal-chave
+  Probabilidade: 5/5, Impacto: 3/5, Nível: Médio
+  Mitigação: Buscar fornecedores alternativos
+
+- R03: Falhas de segurança
+  Probabilidade: 2/5, Impacto: 5/5, Nível: Médio
+  Mitigação: Contratar pessoal adicional
+
+- R04: Falhas de segurança
+  Probabilidade: 1/5, Impacto: 2/5, Nível: Baixo
+  Mitigação: Implementar plano de contingência
+
+- R05: Indisponibilidade de recursos especializados
+  Probabilidade: 5/5, Impacto: 4/5, Nível: Alto
+  Mitigação: Monitorar mudanças regulatórias
+
+Riscos ocorridos:
+- R01 (ocorrido em 22/04/2025)
+  Impacto real: Perda de recursos-chave
+  Ações tomadas: Revisão do orçamento
+
+- R02 (ocorrido em 12/11/2024)
+  Impacto real: Aumento de 10% nos custos
+  Ações tomadas: Revisão de processos
+
+- R04 (ocorrido em 09/10/2024)
+  Impacto real: Indisponibilidade temporária
+  Ações tomadas: Implementação de controles adicionais
+

@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A liberdade de conseguir simplesmente (PROJ-0917)
+Data: 14/07/2025
+Gerente: Lunna da Cunha
+
+Orçamento inicial: R$ 2577843.00
+Custo real atual: R$ 3002112.81
+Desvio orçamentário: 16.46%
+Índice de Desempenho de Custo (CPI): 0.86
+Valor Agregado (EV): R$ 2575265.16
+Estimativa para conclusão: R$ 3005.12
+Estimativa no término (EAC): R$ 3005117.93
+Variação no término (VAC): R$ -427274.93
+
+Detalhamento por categoria:
+- Pessoal: R$ 1571647.93 (52.4%)
+- Equipamentos: R$ 365703.88 (12.2%)
+- Software: R$ 277983.70 (9.3%)
+- Serviços: R$ 535979.44 (17.9%)
+- Outros: R$ 250797.87 (8.4%)

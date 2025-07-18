@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A vantagem de realizar seus sonhos sem preocupação (PROJ-0312)
+Data: 14/07/2025
+Gerente: Gabriel Rios
+
+Orçamento inicial: R$ 4039405.00
+Custo real atual: R$ 3777588.56
+Desvio orçamentário: -6.48%
+Índice de Desempenho de Custo (CPI): 1.01
+Valor Agregado (EV): R$ 3797549.78
+Estimativa para conclusão: R$ 240583.94
+Estimativa no término (EAC): R$ 4018172.51
+Variação no término (VAC): R$ 21232.49
+
+Detalhamento por categoria:
+- Pessoal: R$ 2016635.63 (53.4%)
+- Equipamentos: R$ 731443.86 (19.4%)
+- Software: R$ 284903.30 (7.5%)
+- Serviços: R$ 418155.39 (11.1%)
+- Outros: R$ 326450.39 (8.6%)

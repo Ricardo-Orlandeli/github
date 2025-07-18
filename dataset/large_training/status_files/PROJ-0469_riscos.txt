@@ -1,0 +1,27 @@
+RELATÓRIO DE STATUS DE RISCOS
+Projeto: A segurança de concretizar seus projetos em estado puro (PROJ-0469)
+Data: 14/07/2025
+Gerente: Alana Melo
+
+Riscos identificados:
+- R01: Resistência dos usuários à mudança
+  Probabilidade: 5/5, Impacto: 4/5, Nível: Alto
+  Mitigação: Implementar redundância de infraestrutura
+
+- R02: Falhas de infraestrutura
+  Probabilidade: 5/5, Impacto: 5/5, Nível: Alto
+  Mitigação: Contratar pessoal adicional
+
+- R03: Problemas de integração com sistemas legados
+  Probabilidade: 4/5, Impacto: 2/5, Nível: Médio
+  Mitigação: Buscar fornecedores alternativos
+
+- R04: Dependências externas não cumpridas
+  Probabilidade: 2/5, Impacto: 5/5, Nível: Médio
+  Mitigação: Comunicar benefícios da mudança
+
+- R05: Problemas de comunicação com stakeholders
+  Probabilidade: 1/5, Impacto: 3/5, Nível: Baixo
+  Mitigação: Melhorar a documentação de requisitos
+
+Riscos ocorridos:

@@ -1,0 +1,23 @@
+RELATÓRIO DE STATUS DE RISCOS
+Projeto: O conforto de concretizar seus projetos mais facilmente (PROJ-0335)
+Data: 14/07/2025
+Gerente: Francisco Jesus
+
+Riscos identificados:
+- R01: Resistência dos usuários à mudança
+  Probabilidade: 3/5, Impacto: 2/5, Nível: Baixo
+  Mitigação: Realizar testes de integração antecipados
+
+- R02: Problemas de desempenho
+  Probabilidade: 2/5, Impacto: 4/5, Nível: Médio
+  Mitigação: Refinar estimativas com base em dados históricos
+
+- R03: Problemas de compatibilidade
+  Probabilidade: 3/5, Impacto: 3/5, Nível: Médio
+  Mitigação: Realizar testes de integração antecipados
+
+- R04: Dependências externas não cumpridas
+  Probabilidade: 3/5, Impacto: 4/5, Nível: Médio
+  Mitigação: Fortalecer medidas de segurança
+
+Riscos ocorridos:

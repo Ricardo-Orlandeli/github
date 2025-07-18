@@ -1,0 +1,23 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A simplicidade de realizar seus sonhos direto da fonte (PROJ-0366)
+Data: 14/07/2025
+Gerente: Francisco Vasconcelos
+
+Status atual: Em andamento
+Percentual de conclusão: 82.6%
+Data de início: 18/12/2024
+Data de término planejada: 19/07/2025
+Data de término real/prevista: 11/07/2025
+Atraso atual: 0 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 0.98
+Valor Planejado (PV): R$ 3260217.39
+Valor Agregado (EV): R$ 2757571.53
+
+Tarefas críticas:
+- Migração de dados legados
+- Implementação do módulo de notificações
+- Implementação do módulo de análise de dados
+- Implementação do sistema de backup
+
+Tarefas atrasadas:

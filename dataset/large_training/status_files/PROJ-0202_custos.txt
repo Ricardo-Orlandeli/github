@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A segurança de inovar antes de tudo (PROJ-0202)
+Data: 14/07/2025
+Gerente: Nicole Ribeiro
+
+Orçamento inicial: R$ 94583.00
+Custo real atual: R$ 99696.57
+Desvio orçamentário: 5.41%
+Índice de Desempenho de Custo (CPI): 0.87
+Valor Agregado (EV): R$ 86434.79
+Estimativa para conclusão: R$ 9398.40
+Estimativa no término (EAC): R$ 109094.97
+Variação no término (VAC): R$ -14511.97
+
+Detalhamento por categoria:
+- Pessoal: R$ 48584.74 (48.7%)
+- Equipamentos: R$ 17948.49 (18.0%)
+- Software: R$ 11499.58 (11.5%)
+- Serviços: R$ 16789.14 (16.8%)
+- Outros: R$ 4874.62 (4.9%)

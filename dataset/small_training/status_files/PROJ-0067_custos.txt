@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O direito de ganhar com toda a tranquilidade (PROJ-0067)
+Data: 14/07/2025
+Gerente: Alice Viana
+
+Orçamento inicial: R$ 3564861.00
+Custo real atual: R$ 3975667.44
+Desvio orçamentário: 11.52%
+Índice de Desempenho de Custo (CPI): 0.90
+Valor Agregado (EV): R$ 3561296.14
+Estimativa para conclusão: R$ 3979.65
+Estimativa no término (EAC): R$ 3979647.08
+Variação no término (VAC): R$ -414786.08
+
+Detalhamento por categoria:
+- Pessoal: R$ 1846730.17 (46.5%)
+- Equipamentos: R$ 798852.25 (20.1%)
+- Software: R$ 320621.57 (8.1%)
+- Serviços: R$ 794108.22 (20.0%)
+- Outros: R$ 215355.22 (5.4%)

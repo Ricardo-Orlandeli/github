@@ -1,0 +1,25 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A certeza de realizar seus sonhos sem preocupação (PROJ-0815)
+Data: 14/07/2025
+Gerente: Allana Lopes
+
+Status atual: Atrasado
+Percentual de conclusão: 3.9%
+Data de início: 30/06/2025
+Data de término planejada: 13/01/2026
+Data de término real/prevista: 16/03/2026
+Atraso atual: 0 dias
+Motivo do atraso: Problemas de comunicação
+Índice de Desempenho de Cronograma (SPI): 0.55
+Valor Planejado (PV): R$ 296961.39
+Valor Agregado (EV): R$ 162925.20
+
+Tarefas críticas:
+- Testes de aceitação do usuário
+- Implementação do módulo de exportação de dados
+- Implementação do módulo de notificações
+- Integração com sistema de pagamentos
+
+Tarefas atrasadas:
+- Testes de aceitação do usuário
+- Integração com sistema de pagamentos

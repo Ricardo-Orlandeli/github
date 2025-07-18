@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A certeza de inovar mais facilmente (PROJ-0595)
+Data: 14/07/2025
+Gerente: Ana Carolina Aparecida
+
+Orçamento inicial: R$ 134363.00
+Custo real atual: R$ 106259.71
+Desvio orçamentário: -20.92%
+Índice de Desempenho de Custo (CPI): 0.95
+Valor Agregado (EV): R$ 101325.50
+Estimativa para conclusão: R$ 34646.31
+Estimativa no término (EAC): R$ 140906.02
+Variação no término (VAC): R$ -6543.02
+
+Detalhamento por categoria:
+- Pessoal: R$ 56208.10 (52.9%)
+- Equipamentos: R$ 16585.70 (15.6%)
+- Software: R$ 8445.06 (7.9%)
+- Serviços: R$ 16572.49 (15.6%)
+- Outros: R$ 8448.37 (8.0%)

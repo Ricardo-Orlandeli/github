@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O direito de concretizar seus projetos direto da fonte (PROJ-0075)
+Data: 14/07/2025
+Gerente: Agatha Borges
+
+Orçamento inicial: R$ 2522347.00
+Custo real atual: R$ 1803669.41
+Desvio orçamentário: -28.49%
+Índice de Desempenho de Custo (CPI): 1.13
+Valor Agregado (EV): R$ 2033609.38
+Estimativa para conclusão: R$ 433476.12
+Estimativa no término (EAC): R$ 2237145.53
+Variação no término (VAC): R$ 285201.47
+
+Detalhamento por categoria:
+- Pessoal: R$ 900150.11 (49.9%)
+- Equipamentos: R$ 315468.27 (17.5%)
+- Software: R$ 107056.93 (5.9%)
+- Serviços: R$ 286618.74 (15.9%)
+- Outros: R$ 194375.36 (10.8%)

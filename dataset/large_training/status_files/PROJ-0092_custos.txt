@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A segurança de atingir seus objetivos naturalmente (PROJ-0092)
+Data: 14/07/2025
+Gerente: Marcos Vinicius Siqueira
+
+Orçamento inicial: R$ 2291165.00
+Custo real atual: R$ 1998289.61
+Desvio orçamentário: -9.48%
+Índice de Desempenho de Custo (CPI): 0.96
+Valor Agregado (EV): R$ 1926149.67
+Estimativa para conclusão: R$ 378686.22
+Estimativa no término (EAC): R$ 2376975.83
+Variação no término (VAC): R$ -85810.83
+
+Detalhamento por categoria:
+- Pessoal: R$ 1068730.02 (53.5%)
+- Equipamentos: R$ 238257.46 (11.9%)
+- Software: R$ 198859.33 (10.0%)
+- Serviços: R$ 347116.61 (17.4%)
+- Outros: R$ 145326.18 (7.3%)

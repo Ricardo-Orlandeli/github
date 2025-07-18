@@ -1,0 +1,26 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A simplicidade de realizar seus sonhos antes de tudo (PROJ-0724)
+Data: 14/07/2025
+Gerente: Beatriz Lima
+
+Status atual: Em andamento
+Percentual de conclusão: 82.9%
+Data de início: 24/01/2025
+Data de término planejada: 08/09/2025
+Data de término real/prevista: 17/09/2025
+Atraso atual: 0 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 0.88
+Valor Planejado (PV): R$ 754937.13
+Valor Agregado (EV): R$ 830902.12
+
+Tarefas críticas:
+- Testes de segurança
+- Desenvolvimento do painel administrativo
+- Implementação do sistema de backup
+- Desenvolvimento da interface do usuário
+- Implementação da API REST
+- Implementação do módulo de análise de dados
+- Implementação do módulo de análise de dados
+
+Tarefas atrasadas:

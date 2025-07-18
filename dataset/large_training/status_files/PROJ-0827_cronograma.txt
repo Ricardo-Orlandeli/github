@@ -1,0 +1,26 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A liberdade de ganhar mais facilmente (PROJ-0827)
+Data: 14/07/2025
+Gerente: Henry Gabriel Rodrigues
+
+Status atual: Concluído
+Percentual de conclusão: 100.0%
+Data de início: 29/09/2023
+Data de término planejada: 02/01/2024
+Data de término real/prevista: 27/12/2023
+Atraso atual: 559 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 0.97
+Valor Planejado (PV): R$ 2680653.00
+Valor Agregado (EV): R$ 2680653.00
+
+Tarefas críticas:
+- Integração com sistema de pagamentos
+- Desenvolvimento do módulo de autenticação
+- Desenvolvimento do módulo de autenticação
+- Desenvolvimento da interface do usuário
+- Migração de dados legados
+- Configuração do ambiente de produção
+- Implementação do módulo de análise de dados
+
+Tarefas atrasadas:

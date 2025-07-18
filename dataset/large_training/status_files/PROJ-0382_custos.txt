@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A segurança de atingir seus objetivos direto da fonte (PROJ-0382)
+Data: 14/07/2025
+Gerente: Danilo da Luz
+
+Orçamento inicial: R$ 728368.00
+Custo real atual: R$ 553797.99
+Desvio orçamentário: -23.97%
+Índice de Desempenho de Custo (CPI): 0.76
+Valor Agregado (EV): R$ 422806.03
+Estimativa para conclusão: R$ 400229.88
+Estimativa no término (EAC): R$ 954027.87
+Variação no término (VAC): R$ -225659.87
+
+Detalhamento por categoria:
+- Pessoal: R$ 242109.21 (43.7%)
+- Equipamentos: R$ 101420.68 (18.3%)
+- Software: R$ 71521.98 (12.9%)
+- Serviços: R$ 106053.97 (19.2%)
+- Outros: R$ 32692.15 (5.9%)

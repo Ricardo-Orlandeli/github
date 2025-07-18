@@ -1,0 +1,27 @@
+RELATÓRIO DE STATUS DE RISCOS
+Projeto: A certeza de conseguir antes de tudo (PROJ-0892)
+Data: 14/07/2025
+Gerente: Maria Flor Pimenta
+
+Riscos identificados:
+- R01: Problemas de integração com sistemas legados
+  Probabilidade: 1/5, Impacto: 5/5, Nível: Baixo
+  Mitigação: Comunicar benefícios da mudança
+
+- R02: Problemas de comunicação com stakeholders
+  Probabilidade: 3/5, Impacto: 5/5, Nível: Médio
+  Mitigação: Testar compatibilidade em diferentes ambientes
+
+- R03: Dependências externas não cumpridas
+  Probabilidade: 5/5, Impacto: 4/5, Nível: Alto
+  Mitigação: Refinar estimativas com base em dados históricos
+
+- R04: Problemas de comunicação com stakeholders
+  Probabilidade: 5/5, Impacto: 3/5, Nível: Médio
+  Mitigação: Refinar estimativas com base em dados históricos
+
+- R05: Estimativas imprecisas
+  Probabilidade: 4/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Testar compatibilidade em diferentes ambientes
+
+Riscos ocorridos:

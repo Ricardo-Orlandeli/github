@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A simplicidade de mudar simplesmente (PROJ-0696)
+Data: 14/07/2025
+Gerente: Letícia Mendonça
+
+Orçamento inicial: R$ 3212966.00
+Custo real atual: R$ 2745456.13
+Desvio orçamentário: -14.55%
+Índice de Desempenho de Custo (CPI): 1.05
+Valor Agregado (EV): R$ 2884492.73
+Estimativa para conclusão: R$ 312640.39
+Estimativa no término (EAC): R$ 3058096.52
+Variação no término (VAC): R$ 154869.48
+
+Detalhamento por categoria:
+- Pessoal: R$ 1645726.76 (59.9%)
+- Equipamentos: R$ 299230.60 (10.9%)
+- Software: R$ 307394.59 (11.2%)
+- Serviços: R$ 295187.73 (10.8%)
+- Outros: R$ 197916.45 (7.2%)

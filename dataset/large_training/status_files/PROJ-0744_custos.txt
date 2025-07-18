@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A arte de atingir seus objetivos mais facilmente (PROJ-0744)
+Data: 14/07/2025
+Gerente: Felipe Novaes
+
+Orçamento inicial: R$ 4581010.00
+Custo real atual: R$ 3999075.57
+Desvio orçamentário: -12.70%
+Índice de Desempenho de Custo (CPI): 1.14
+Valor Agregado (EV): R$ 4576428.99
+Estimativa para conclusão: R$ 4003.08
+Estimativa no término (EAC): R$ 4003078.65
+Variação no término (VAC): R$ 577931.35
+
+Detalhamento por categoria:
+- Pessoal: R$ 2064063.66 (51.6%)
+- Equipamentos: R$ 542549.00 (13.6%)
+- Software: R$ 308811.53 (7.7%)
+- Serviços: R$ 724499.97 (18.1%)
+- Outros: R$ 359151.41 (9.0%)

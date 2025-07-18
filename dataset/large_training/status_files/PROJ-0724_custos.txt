@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A simplicidade de realizar seus sonhos antes de tudo (PROJ-0724)
+Data: 14/07/2025
+Gerente: Beatriz Lima
+
+Orçamento inicial: R$ 1002168.00
+Custo real atual: R$ 892186.30
+Desvio orçamentário: 18.18%
+Índice de Desempenho de Custo (CPI): 0.93
+Valor Agregado (EV): R$ 830902.12
+Estimativa para conclusão: R$ 183897.80
+Estimativa no término (EAC): R$ 1076084.10
+Variação no término (VAC): R$ -73916.10
+
+Detalhamento por categoria:
+- Pessoal: R$ 436981.94 (49.0%)
+- Equipamentos: R$ 164329.78 (18.4%)
+- Software: R$ 134086.85 (15.0%)
+- Serviços: R$ 105567.83 (11.8%)
+- Outros: R$ 51219.90 (5.7%)

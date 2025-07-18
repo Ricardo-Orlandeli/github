@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O direito de atingir seus objetivos com força total (PROJ-0740)
+Data: 14/07/2025
+Gerente: Theo da Conceição
+
+Orçamento inicial: R$ 1666467.00
+Custo real atual: R$ 1936992.41
+Desvio orçamentário: 16.23%
+Índice de Desempenho de Custo (CPI): 0.86
+Valor Agregado (EV): R$ 1666467.00
+Estimativa para conclusão: R$ 0.00
+Estimativa no término (EAC): R$ 1936992.41
+Variação no término (VAC): R$ -270525.41
+
+Detalhamento por categoria:
+- Pessoal: R$ 955981.05 (49.4%)
+- Equipamentos: R$ 235932.13 (12.2%)
+- Software: R$ 215382.65 (11.1%)
+- Serviços: R$ 313495.58 (16.2%)
+- Outros: R$ 216200.99 (11.2%)

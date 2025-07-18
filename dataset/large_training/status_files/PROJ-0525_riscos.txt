@@ -1,0 +1,27 @@
+RELATÓRIO DE STATUS DE RISCOS
+Projeto: A possibilidade de conseguir de maneira eficaz (PROJ-0525)
+Data: 14/07/2025
+Gerente: Sra. Mirella Ferreira
+
+Riscos identificados:
+- R01: Falhas de infraestrutura
+  Probabilidade: 2/5, Impacto: 3/5, Nível: Baixo
+  Mitigação: Realizar testes de aceitação com usuários-chave
+
+- R02: Problemas de integração com sistemas legados
+  Probabilidade: 5/5, Impacto: 5/5, Nível: Alto
+  Mitigação: Contratar pessoal adicional
+
+- R03: Indisponibilidade de recursos especializados
+  Probabilidade: 5/5, Impacto: 3/5, Nível: Médio
+  Mitigação: Implementar redundância de infraestrutura
+
+- R04: Falhas de segurança
+  Probabilidade: 4/5, Impacto: 3/5, Nível: Médio
+  Mitigação: Realizar testes de integração antecipados
+
+- R05: Atraso na entrega de componentes críticos
+  Probabilidade: 1/5, Impacto: 4/5, Nível: Baixo
+  Mitigação: Otimizar código e infraestrutura
+
+Riscos ocorridos:

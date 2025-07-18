@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A simplicidade de mudar antes de tudo (PROJ-0699)
+Data: 14/07/2025
+Gerente: Zoe Câmara
+
+Orçamento inicial: R$ 4641672.00
+Custo real atual: R$ 4843467.83
+Desvio orçamentário: 4.35%
+Índice de Desempenho de Custo (CPI): 0.81
+Valor Agregado (EV): R$ 3911094.03
+Estimativa para conclusão: R$ 904741.96
+Estimativa no término (EAC): R$ 5748209.79
+Variação no término (VAC): R$ -1106537.79
+
+Detalhamento por categoria:
+- Pessoal: R$ 2747682.67 (56.7%)
+- Equipamentos: R$ 691093.97 (14.3%)
+- Software: R$ 263178.58 (5.4%)
+- Serviços: R$ 847691.57 (17.5%)
+- Outros: R$ 293821.04 (6.1%)

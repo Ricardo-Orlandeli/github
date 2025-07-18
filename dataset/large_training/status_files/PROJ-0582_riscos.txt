@@ -1,0 +1,23 @@
+RELATÓRIO DE STATUS DE RISCOS
+Projeto: A vantagem de evoluir mais facilmente (PROJ-0582)
+Data: 14/07/2025
+Gerente: Brenda Oliveira
+
+Riscos identificados:
+- R01: Problemas de comunicação com stakeholders
+  Probabilidade: 2/5, Impacto: 5/5, Nível: Médio
+  Mitigação: Estabelecer canais de comunicação claros
+
+- R02: Estimativas imprecisas
+  Probabilidade: 4/5, Impacto: 5/5, Nível: Alto
+  Mitigação: Estabelecer canais de comunicação claros
+
+- R03: Resistência dos usuários à mudança
+  Probabilidade: 2/5, Impacto: 3/5, Nível: Baixo
+  Mitigação: Gerenciar dependências ativamente
+
+- R04: Problemas de comunicação com stakeholders
+  Probabilidade: 1/5, Impacto: 5/5, Nível: Baixo
+  Mitigação: Buscar fornecedores alternativos
+
+Riscos ocorridos:

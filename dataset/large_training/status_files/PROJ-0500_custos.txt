@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A possibilidade de inovar simplesmente (PROJ-0500)
+Data: 14/07/2025
+Gerente: Heloísa Abreu
+
+Orçamento inicial: R$ 2799555.00
+Custo real atual: R$ 3175660.93
+Desvio orçamentário: 13.43%
+Índice de Desempenho de Custo (CPI): 0.85
+Valor Agregado (EV): R$ 2696100.50
+Estimativa para conclusão: R$ 121856.15
+Estimativa no término (EAC): R$ 3297517.08
+Variação no término (VAC): R$ -497962.08
+
+Detalhamento por categoria:
+- Pessoal: R$ 1407839.15 (44.3%)
+- Equipamentos: R$ 620536.54 (19.5%)
+- Software: R$ 433779.20 (13.7%)
+- Serviços: R$ 423723.04 (13.3%)
+- Outros: R$ 289783.01 (9.1%)

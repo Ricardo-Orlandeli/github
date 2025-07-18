@@ -1,0 +1,28 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: O poder de evoluir mais facilmente (PROJ-0323)
+Data: 14/07/2025
+Gerente: Lunna Câmara
+
+Status atual: Atrasado
+Percentual de conclusão: 74.4%
+Data de início: 11/06/2024
+Data de término planejada: 07/03/2025
+Data de término real/prevista: 08/04/2025
+Atraso atual: 129 dias
+Motivo do atraso: Atraso na entrega de componentes por fornecedores
+Índice de Desempenho de Cronograma (SPI): 0.74
+Valor Planejado (PV): R$ 4579834.00
+Valor Agregado (EV): R$ 3409194.74
+
+Tarefas críticas:
+- Implementação do sistema de backup
+- Integração com sistema de pagamentos
+- Implementação do módulo de notificações
+- Integração com sistema de pagamentos
+- Implementação da API REST
+- Implementação do módulo de análise de dados
+- Implementação do módulo de notificações
+
+Tarefas atrasadas:
+- Integração com sistema de pagamentos
+- Implementação do módulo de notificações

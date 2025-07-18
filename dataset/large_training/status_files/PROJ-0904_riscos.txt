@@ -1,0 +1,43 @@
+RELATÓRIO DE STATUS DE RISCOS
+Projeto: O conforto de inovar sem preocupação (PROJ-0904)
+Data: 14/07/2025
+Gerente: Matheus Duarte
+
+Riscos identificados:
+- R01: Problemas de integração com sistemas legados
+  Probabilidade: 1/5, Impacto: 2/5, Nível: Baixo
+  Mitigação: Otimizar código e infraestrutura
+
+- R02: Rotatividade de pessoal-chave
+  Probabilidade: 4/5, Impacto: 2/5, Nível: Médio
+  Mitigação: Melhorar a documentação de requisitos
+
+- R03: Falhas em testes de aceitação
+  Probabilidade: 4/5, Impacto: 4/5, Nível: Alto
+  Mitigação: Realizar testes de integração antecipados
+
+- R04: Requisitos mal definidos
+  Probabilidade: 3/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Implementar plano de contingência
+
+- R05: Mudanças regulatórias
+  Probabilidade: 3/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Gerenciar dependências ativamente
+
+- R06: Indisponibilidade de recursos especializados
+  Probabilidade: 3/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Fortalecer medidas de segurança
+
+- R07: Problemas de desempenho
+  Probabilidade: 2/5, Impacto: 3/5, Nível: Baixo
+  Mitigação: Melhorar a documentação de requisitos
+
+Riscos ocorridos:
+- R03 (ocorrido em 25/12/2023)
+  Impacto real: Indisponibilidade temporária
+  Ações tomadas: Realocação de recursos
+
+- R01 (ocorrido em 13/02/2024)
+  Impacto real: Problemas de qualidade
+  Ações tomadas: Contratação de recursos adicionais
+

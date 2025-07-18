@@ -1,0 +1,26 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: O prazer de mudar com confiança (PROJ-0983)
+Data: 14/07/2025
+Gerente: Antony Correia
+
+Status atual: Em andamento
+Percentual de conclusão: 84.1%
+Data de início: 24/01/2025
+Data de término planejada: 04/04/2025
+Data de término real/prevista: 01/04/2025
+Atraso atual: 101 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.09
+Valor Planejado (PV): R$ 498126.00
+Valor Agregado (EV): R$ 418843.36
+
+Tarefas críticas:
+- Implementação do sistema de backup
+- Testes de aceitação do usuário
+- Desenvolvimento do painel administrativo
+- Implementação da API REST
+- Integração com sistema de pagamentos
+- Desenvolvimento da interface do usuário
+- Testes de segurança
+
+Tarefas atrasadas:

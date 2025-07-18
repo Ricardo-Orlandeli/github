@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O conforto de avançar mais rapidamente (PROJ-0045)
+Data: 14/07/2025
+Gerente: Ana Liz Moura
+
+Orçamento inicial: R$ 4591885.00
+Custo real atual: R$ 533546.66
+Desvio orçamentário: 10.08%
+Índice de Desempenho de Custo (CPI): 1.07
+Valor Agregado (EV): R$ 568400.95
+Estimativa para conclusão: R$ 3776764.40
+Estimativa no término (EAC): R$ 4310311.07
+Variação no término (VAC): R$ 281573.93
+
+Detalhamento por categoria:
+- Pessoal: R$ 293001.02 (54.9%)
+- Equipamentos: R$ 71542.70 (13.4%)
+- Software: R$ 31184.21 (5.8%)
+- Serviços: R$ 103686.75 (19.4%)
+- Outros: R$ 34131.99 (6.4%)

@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O prazer de avançar mais rapidamente (PROJ-0199)
+Data: 14/07/2025
+Gerente: Maria Cecília Jesus
+
+Orçamento inicial: R$ 4804485.00
+Custo real atual: R$ 3518012.73
+Desvio orçamentário: -26.78%
+Índice de Desempenho de Custo (CPI): 0.72
+Valor Agregado (EV): R$ 2534964.10
+Estimativa para conclusão: R$ 3149631.76
+Estimativa no término (EAC): R$ 6667644.49
+Variação no término (VAC): R$ -1863159.49
+
+Detalhamento por categoria:
+- Pessoal: R$ 1760024.53 (50.0%)
+- Equipamentos: R$ 689669.59 (19.6%)
+- Software: R$ 288917.89 (8.2%)
+- Serviços: R$ 407703.41 (11.6%)
+- Outros: R$ 371697.32 (10.6%)

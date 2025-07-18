@@ -1,0 +1,27 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: O poder de mudar mais facilmente (PROJ-0024)
+Data: 14/07/2025
+Gerente: Isaac Sousa
+
+Status atual: Atrasado
+Percentual de conclusão: 74.9%
+Data de início: 06/01/2024
+Data de término planejada: 08/09/2024
+Data de término real/prevista: 21/12/2024
+Atraso atual: 309 dias
+Motivo do atraso: Mudanças de requisitos não planejadas
+Índice de Desempenho de Cronograma (SPI): 0.75
+Valor Planejado (PV): R$ 2635866.00
+Valor Agregado (EV): R$ 1974692.13
+
+Tarefas críticas:
+- Testes de aceitação do usuário
+- Implementação do módulo de notificações
+- Desenvolvimento do painel administrativo
+- Testes de segurança
+- Integração com sistema de pagamentos
+- Desenvolvimento da interface do usuário
+
+Tarefas atrasadas:
+- Testes de aceitação do usuário
+- Implementação do módulo de notificações

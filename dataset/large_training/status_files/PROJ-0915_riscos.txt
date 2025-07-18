@@ -1,0 +1,19 @@
+RELATÓRIO DE STATUS DE RISCOS
+Projeto: A liberdade de ganhar com toda a tranquilidade (PROJ-0915)
+Data: 14/07/2025
+Gerente: Jade Vargas
+
+Riscos identificados:
+- R01: Falhas de infraestrutura
+  Probabilidade: 1/5, Impacto: 4/5, Nível: Baixo
+  Mitigação: Realizar testes de integração antecipados
+
+- R02: Requisitos mal definidos
+  Probabilidade: 5/5, Impacto: 4/5, Nível: Alto
+  Mitigação: Estabelecer canais de comunicação claros
+
+- R03: Problemas de comunicação com stakeholders
+  Probabilidade: 2/5, Impacto: 2/5, Nível: Baixo
+  Mitigação: Estabelecer canais de comunicação claros
+
+Riscos ocorridos:

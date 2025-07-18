@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A liberdade de avançar com confiança (PROJ-0079)
+Data: 14/07/2025
+Gerente: Vicente Azevedo
+
+Orçamento inicial: R$ 185209.00
+Custo real atual: R$ 170071.71
+Desvio orçamentário: -8.17%
+Índice de Desempenho de Custo (CPI): 0.70
+Valor Agregado (EV): R$ 119035.72
+Estimativa para conclusão: R$ 94544.75
+Estimativa no término (EAC): R$ 264616.46
+Variação no término (VAC): R$ -79407.46
+
+Detalhamento por categoria:
+- Pessoal: R$ 85029.56 (50.0%)
+- Equipamentos: R$ 31042.74 (18.3%)
+- Software: R$ 19882.79 (11.7%)
+- Serviços: R$ 24383.89 (14.3%)
+- Outros: R$ 9732.74 (5.7%)

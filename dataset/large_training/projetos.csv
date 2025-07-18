@@ -1,0 +1,1001 @@
+id,nome,data_inicio,data_termino_planejada,data_termino_real,orcamento_inicial,gerente,status,percentual_conclusao,spi,cpi,mudanca_escopo
+PROJ-0001,A liberdade de ganhar mais facilmente,15/03/2025,31/07/2025,24/08/2025,111655,Clara Cardoso,Em andamento,99.9,1.0168788158319157,1.0958101204149047,Não
+PROJ-0002,A segurança de inovar direto da fonte,21/02/2025,24/04/2025,03/04/2025,2405713,Srta. Brenda Sousa,Cancelado,66.79213957880056,0.6679213957880056,0.7355994895819957,Não
+PROJ-0003,A possibilidade de mudar naturalmente,09/05/2024,23/06/2024,02/07/2024,4022823,Mateus Moraes,Em andamento,99.9,1.0809362182721647,0.9081273176986328,Não
+PROJ-0004,O poder de concretizar seus projetos sem preocupação,16/01/2024,09/12/2024,06/12/2024,4744823,Daniela Lima,Em andamento,81.59023053415069,0.889964446604197,1.1642054882985788,Não
+PROJ-0005,A possibilidade de evoluir sem preocupação,28/10/2023,14/08/2024,01/08/2024,1720926,Gael Câmara,Concluído,100.0,1.0141560945229002,1.218921737500673,Sim
+PROJ-0006,O direito de realizar seus sonhos de maneira eficaz,18/04/2025,20/11/2025,15/11/2025,1967469,Milena Borges,Em andamento,33.6717791876281,1.058593838407451,1.1948134882538557,Não
+PROJ-0007,A possibilidade de avançar com toda a tranquilidade,28/10/2024,20/10/2025,27/01/2026,2528146,Isabela Cunha,Atrasado,47.12887745257345,0.6496142567787151,0.8113295955711105,Não
+PROJ-0008,A arte de atingir seus objetivos com confiança,13/07/2024,21/12/2024,20/12/2024,1291278,Davi Sales,Em andamento,99.9,0.9246214050002715,0.8678307163913466,Não
+PROJ-0009,A simplicidade de realizar seus sonhos com toda a tranquilidade,27/09/2024,10/04/2025,10/05/2025,2792304,Ana Cavalcanti,Em andamento,99.9,0.9444365135388041,1.0320563301744232,Não
+PROJ-0010,O direito de avançar com toda a tranquilidade,26/11/2023,17/03/2024,28/02/2024,4536304,Marcelo Viana,Concluído,100.0,1.0887070839375046,1.008597138403713,Não
+PROJ-0011,A liberdade de concretizar seus projetos sem preocupação,06/11/2023,11/03/2024,09/03/2024,2045748,João Guilherme Camargo,Em andamento,82.37486643484924,0.9665323418210561,0.95666024599691,Não
+PROJ-0012,O direito de atingir seus objetivos mais rapidamente,09/01/2024,25/12/2024,16/12/2024,4791372,Diego Pimenta,Em andamento,99.9,1.0373857673919247,1.0504548090958932,Não
+PROJ-0013,O prazer de conseguir com força total,03/04/2024,26/02/2025,16/06/2024,3850502,Pedro Viana,Cancelado,22.59177257345648,0.2259177257345648,0.667285538501915,Não
+PROJ-0014,O prazer de evoluir direto da fonte,13/08/2024,23/01/2025,30/04/2025,3220019,Carolina da Rocha,Atrasado,63.81408650775787,0.6381408650775787,0.9575386407622383,Não
+PROJ-0015,O prazer de evoluir com confiança,30/03/2025,11/08/2025,19/11/2025,1802692,Mirella Viana,Atrasado,70.23629280856946,0.8878927581460666,0.911440387901147,Não
+PROJ-0016,A certeza de mudar sem preocupação,01/02/2025,07/05/2025,04/05/2025,200733,Lara Martins,Em andamento,99.9,0.8666162368362915,0.8696169131497774,Não
+PROJ-0017,O poder de inovar antes de tudo,01/12/2023,07/10/2024,01/11/2024,3223377,Ana Beatriz Fernandes,Em andamento,93.78869694677738,1.0987644081189454,1.2060956111675771,Sim
+PROJ-0018,A certeza de concretizar seus projetos direto da fonte,08/02/2024,14/03/2024,04/03/2024,1428020,Carlos Eduardo da Cunha,Em andamento,99.9,0.8501393326666121,0.9604571449321042,Sim
+PROJ-0019,A possibilidade de mudar de maneira eficaz,10/07/2025,26/03/2026,13/05/2026,2272214,Rafael da Mota,Atrasado,1.0223534740970484,0.661973874477839,0.7319332400436301,Não
+PROJ-0020,A segurança de mudar sem preocupação,07/05/2024,13/04/2025,30/08/2025,3154220,Sra. Camila Nunes,Atrasado,54.088828928337584,0.5408882892833758,0.9495726485262761,Não
+PROJ-0021,A vantagem de evoluir com força total,10/05/2024,12/12/2024,28/05/2025,2711934,Vitor Hugo Ramos,Atrasado,81.50431147595529,0.815043114759553,0.8741134109535272,Não
+PROJ-0022,A arte de atingir seus objetivos de maneira eficaz,01/09/2023,04/01/2024,16/10/2023,295505,Danilo Monteiro,Cancelado,36.06580864297703,0.3606580864297703,0.9205798027206806,Não
+PROJ-0023,A simplicidade de avançar antes de tudo,19/09/2024,11/06/2025,04/07/2025,1221343,Gael Campos,Em andamento,82.14013848160681,1.0520313123373015,0.9020786723912599,Não
+PROJ-0024,O poder de mudar mais facilmente,06/01/2024,08/09/2024,21/12/2024,2635866,Isaac Sousa,Atrasado,74.9162563874967,0.749162563874967,0.8187284900696763,Sim
+PROJ-0025,O direito de ganhar direto da fonte,17/04/2024,20/01/2025,10/02/2025,461915,Isaque Ramos,Em andamento,99.40085574385282,0.9199896644746879,1.1031808954692266,Não
+PROJ-0026,A possibilidade de inovar mais facilmente,02/01/2025,16/09/2025,13/09/2025,621682,Gabriel Marques,Concluído,100.0,1.074953093078073,1.2363660761177337,Não
+PROJ-0027,A segurança de evoluir direto da fonte,27/11/2023,10/01/2024,29/01/2024,2638065,Dra. Daniela Castro,Concluído,100.0,0.9831099013152951,1.078082376963598,Não
+PROJ-0028,O poder de inovar naturalmente,13/09/2024,21/01/2025,21/03/2025,693438,Leandro Alves,Atrasado,54.45614640115013,0.5445614640115013,0.92843449166467,Não
+PROJ-0029,A segurança de inovar antes de tudo,26/11/2023,13/07/2024,15/12/2024,1367987,Nicole Santos,Atrasado,87.74805840300426,0.8774805840300426,0.9049404175107787,Sim
+PROJ-0030,A arte de evoluir sem preocupação,03/06/2024,08/09/2024,03/10/2024,3057372,Maria Alice Aragão,Em andamento,98.18208511151974,1.0177203420498304,0.991285952435568,Não
+PROJ-0031,A vantagem de ganhar antes de tudo,04/06/2025,03/06/2026,07/06/2026,4279368,Stephany Teixeira,Em andamento,11.314296682627896,0.9481686414013657,0.9758860972001961,Não
+PROJ-0032,O direito de ganhar mais facilmente,15/11/2023,30/04/2024,13/05/2024,747578,Isabella Montenegro,Concluído,100.0,0.9500975048835971,1.148302600026462,Não
+PROJ-0033,O direito de mudar com toda a tranquilidade,23/07/2023,15/10/2023,03/10/2023,2187175,Rebeca Rocha,Em andamento,87.35081004563361,1.0484474382110496,0.951389210178831,Sim
+PROJ-0034,O poder de ganhar antes de tudo,09/12/2024,22/02/2025,20/03/2025,4137556,Rebeca Montenegro,Em andamento,99.9,0.8895037284297229,1.1304940516945832,Não
+PROJ-0035,A certeza de atingir seus objetivos simplesmente,28/05/2024,08/12/2024,25/12/2024,1319243,Sr. Joaquim da Cruz,Em andamento,84.05647447084719,1.0408696656367578,0.8771467066486817,Não
+PROJ-0036,A arte de avançar direto da fonte,10/11/2024,02/08/2025,18/08/2025,4227990,Srta. Aylla Pastor,Em andamento,76.06911992763285,1.1394620280644312,1.1394735938409164,Não
+PROJ-0037,A certeza de concretizar seus projetos naturalmente,19/12/2023,04/10/2024,07/10/2024,940287,Juliana da Paz,Em andamento,99.9,0.8961905993806707,1.1092592363185827,Não
+PROJ-0038,O direito de atingir seus objetivos antes de tudo,27/01/2024,18/12/2024,02/12/2024,1574117,Ana Laura Mendonça,Concluído,100.0,0.9568521032019028,1.1766426742973588,Não
+PROJ-0039,A vantagem de mudar de maneira eficaz,21/01/2025,11/06/2025,17/04/2025,4522626,Beatriz Castro,Cancelado,61.40361951025547,0.6140361951025547,0.6938814261819924,Não
+PROJ-0040,A arte de concretizar seus projetos mais rapidamente,31/07/2023,19/11/2023,13/11/2023,1169682,Heloísa Borges,Em andamento,99.9,0.9201319359451218,0.9528860788074104,Não
+PROJ-0041,A segurança de evoluir sem preocupação,22/07/2023,14/09/2023,01/09/2023,3891056,Catarina Duarte,Em andamento,99.9,0.953996684363157,1.1182149102835315,Não
+PROJ-0042,A certeza de avançar naturalmente,21/05/2025,16/01/2026,21/01/2026,1322004,Luiz Miguel Lopes,Em andamento,23.322711444345977,1.060339426804108,0.9066344773074524,Não
+PROJ-0043,A liberdade de evoluir antes de tudo,29/04/2024,05/01/2025,31/12/2024,225630,Bianca Duarte,Em andamento,99.9,0.8687163874627262,0.9237942289302535,Sim
+PROJ-0044,O poder de avançar sem preocupação,11/12/2024,28/03/2025,18/07/2025,3211417,Léo Moraes,Atrasado,64.74557807920311,0.6474557807920311,0.7893075412932704,Não
+PROJ-0045,O conforto de avançar com confiança,03/03/2024,19/07/2024,16/08/2024,2943343,Davi Lucas Rodrigues,Em andamento,99.9,1.027652162064473,1.040237614239641,Não
+PROJ-0046,A segurança de concretizar seus projetos naturalmente,25/10/2024,03/05/2025,08/05/2025,1020194,Cauê Lopes,Em andamento,99.9,1.034484334477857,1.0043171421564534,Não
+PROJ-0047,O poder de avançar com força total,25/07/2024,04/07/2025,26/08/2025,4939207,Raquel da Conceição,Atrasado,64.82848627508892,0.6482848627508893,0.7809327442686664,Não
+PROJ-0048,O poder de atingir seus objetivos naturalmente,06/01/2024,26/02/2024,25/03/2024,4311900,Henry Gabriel Mendonça,Concluído,100.0,1.0229238575492547,1.1160793031749006,Não
+PROJ-0049,A segurança de realizar seus sonhos antes de tudo,10/06/2025,09/02/2026,18/10/2025,1612711,Stella Vieira,Cancelado,53.59608836633938,3.8463075180549433,0.8347600772934753,Não
+PROJ-0050,A arte de concretizar seus projetos mais rapidamente,11/05/2024,07/11/2024,23/12/2024,1155154,Dra. Carolina Moreira,Atrasado,57.3466850401598,0.573466850401598,0.9556378703869614,Sim
+PROJ-0051,A certeza de inovar simplesmente,04/11/2023,08/12/2023,27/11/2023,2875605,Sra. Maria Sophia Barros,Concluído,100.0,1.0763967841315512,0.9829645680602919,Não
+PROJ-0052,A vantagem de realizar seus sonhos simplesmente,03/12/2023,30/09/2024,27/01/2025,146706,Sra. Agatha Campos,Atrasado,69.91033963424817,0.6991033963424818,0.8212789431508742,Sim
+PROJ-0053,A simplicidade de mudar com força total,15/02/2025,12/12/2025,03/12/2025,2060895,Sarah Almeida,Em andamento,49.600535707870485,1.0425580088920035,0.921309152875711,Sim
+PROJ-0054,O conforto de realizar seus sonhos com toda a tranquilidade,11/10/2024,01/07/2025,14/07/2025,4010763,Thales Moraes,Em andamento,80.7969240513246,0.956952192782521,0.9320566979166869,Não
+PROJ-0055,A simplicidade de concretizar seus projetos antes de tudo,26/05/2025,23/03/2026,26/03/2026,1607868,Giovanna Pimenta,Em andamento,18.80992643428475,1.1021609879323409,0.8861044113047314,Não
+PROJ-0056,A arte de conseguir naturalmente,11/08/2023,14/12/2023,04/01/2024,1561483,Thales Santos,Em andamento,99.9,0.8541742505781099,0.8945460964764256,Sim
+PROJ-0057,A possibilidade de conseguir com toda a tranquilidade,12/12/2023,09/12/2024,03/01/2025,2936121,Sr. Apollo Sousa,Atrasado,84.14028047723336,0.8414028047723336,0.9462877147284855,Não
+PROJ-0058,A vantagem de ganhar com toda a tranquilidade,04/05/2025,04/11/2025,04/03/2026,4102557,Maria Liz Brito,Atrasado,26.897241335431453,0.6970552684111814,0.802339845675844,Não
+PROJ-0059,A segurança de ganhar de maneira eficaz,25/04/2024,07/09/2024,01/08/2024,1712851,Valentim Pastor,Cancelado,72.92005682609474,0.7292005682609474,0.9457757474198045,Sim
+PROJ-0060,A possibilidade de inovar mais facilmente,09/09/2023,08/05/2024,01/05/2024,3523670,Sr. Danilo Casa Grande,Em andamento,99.9,0.9663098337240927,0.9330319688187952,Não
+PROJ-0061,A simplicidade de conseguir sem preocupação,24/03/2024,05/08/2024,10/12/2024,2007736,Benjamim Pires,Atrasado,68.54602220369487,0.6854602220369488,0.7305835369763904,Não
+PROJ-0062,O poder de conseguir sem preocupação,14/08/2024,26/02/2025,24/04/2025,3250129,Maitê Lima,Atrasado,75.20856280653499,0.75208562806535,0.7570237542373309,Sim
+PROJ-0063,A simplicidade de concretizar seus projetos mais rapidamente,03/12/2024,05/02/2025,04/03/2025,466665,Clarice Gonçalves,Em andamento,99.9,1.1289838740204932,0.9264766128518499,Não
+PROJ-0064,A possibilidade de concretizar seus projetos com toda a tranquilidade,25/03/2024,11/06/2024,11/07/2024,3840742,Milena Porto,Em andamento,90.42288132645146,0.9677201837355126,0.8926127275831482,Não
+PROJ-0065,O direito de atingir seus objetivos direto da fonte,17/12/2023,20/07/2024,13/08/2024,2535258,Diego Machado,Atrasado,69.20990786743447,0.6920990786743446,0.6984354186680505,Não
+PROJ-0066,A vantagem de avançar mais facilmente,03/12/2023,19/11/2024,22/11/2024,1823027,Dra. Aylla Gonçalves,Em andamento,91.33574124762863,0.969441074089,0.9051120165179117,Não
+PROJ-0067,A segurança de conseguir de maneira eficaz,27/02/2024,17/06/2024,13/07/2024,4537213,Vitor Sousa,Em andamento,99.9,0.8909982045850868,1.167847010688867,Não
+PROJ-0068,A vantagem de ganhar direto da fonte,04/03/2025,09/11/2025,20/01/2026,165707,Gabriela da Cruz,Atrasado,44.19929459724582,0.8371078522205646,0.7389375975817283,Não
+PROJ-0069,A liberdade de mudar direto da fonte,04/01/2025,05/09/2025,03/10/2025,2723079,Catarina Farias,Em andamento,85.55719438864212,1.135324973488859,0.9973799142419852,Não
+PROJ-0070,O direito de conseguir naturalmente,04/01/2025,16/09/2025,04/09/2025,4002418,Srta. Maria Helena Moreira,Concluído,100.0,1.019041380318896,0.9871315975127851,Não
+PROJ-0071,A certeza de ganhar em estado puro,09/06/2024,23/07/2024,09/08/2024,2849610,Kaique Peixoto,Concluído,100.0,1.0817740967206062,1.1971942947397993,Não
+PROJ-0072,O conforto de inovar com confiança,14/01/2025,17/09/2025,02/10/2025,3634225,Maria Eduarda Sampaio,Atrasado,64.85918220340663,0.8815115371291732,0.9678697937592047,Não
+PROJ-0073,A segurança de conseguir mais rapidamente,23/12/2023,13/05/2024,02/05/2024,4985715,Sra. Lorena Abreu,Em andamento,99.9,0.9126270317849472,0.8621746934759872,Não
+PROJ-0074,A segurança de ganhar direto da fonte,24/12/2023,06/03/2024,18/03/2024,594612,Alana Garcia,Em andamento,90.00682539607286,0.973765839273103,1.0075034484153331,Não
+PROJ-0075,O prazer de inovar mais rapidamente,23/06/2024,23/01/2025,30/01/2025,4008564,Ryan Guerra,Em andamento,99.9,1.08231910934772,1.0396022513654914,Não
+PROJ-0076,A simplicidade de conseguir mais facilmente,08/10/2023,21/05/2024,05/11/2024,4807657,Luigi Sousa,Atrasado,68.40658339513277,0.6840658339513277,0.8298762011908979,Sim
+PROJ-0077,A arte de concretizar seus projetos mais facilmente,09/05/2025,20/07/2025,12/11/2025,1876996,Maria Júlia da Rosa,Atrasado,57.9881957065411,0.632598498616812,0.7701751313017333,Não
+PROJ-0078,A possibilidade de realizar seus sonhos com confiança,23/08/2023,29/12/2023,31/12/2023,2542760,Théo Rezende,Em andamento,81.2779912356403,1.0678869666560946,1.1948747886886957,Sim
+PROJ-0079,O prazer de conseguir simplesmente,10/04/2025,08/10/2025,24/10/2025,3907350,Camila Sá,Em andamento,58.23598677701969,0.9041050113509043,0.8742233010119342,Sim
+PROJ-0080,A possibilidade de avançar direto da fonte,11/08/2023,27/04/2024,11/04/2024,1246437,Diego da Rosa,Concluído,100.0,1.0690882728766309,1.2497060260027784,Não
+PROJ-0081,O direito de realizar seus sonhos com toda a tranquilidade,11/09/2024,28/02/2025,22/03/2025,304458,Ana Luiza Farias,Concluído,100.0,1.0029648831080653,1.0469734049943913,Sim
+PROJ-0082,A certeza de inovar sem preocupação,13/02/2024,17/01/2025,26/01/2025,769691,Stephany Silva,Em andamento,99.9,0.9506704516115374,1.2445692814205591,Sim
+PROJ-0083,A segurança de ganhar com confiança,27/02/2024,31/03/2024,26/03/2024,4373811,Heitor Abreu,Em andamento,93.63889551297085,0.988607771349183,0.8617866145196046,Não
+PROJ-0084,O poder de atingir seus objetivos em estado puro,15/12/2023,03/09/2024,25/11/2024,1755471,Gabriel da Paz,Atrasado,58.826282119347006,0.5882628211934701,0.7975753406164697,Não
+PROJ-0085,A simplicidade de inovar simplesmente,08/03/2024,29/10/2024,10/11/2024,1383078,Dra. Isabel Câmara,Em andamento,87.36301792416401,1.004416972020572,1.026701912204467,Sim
+PROJ-0086,A possibilidade de concretizar seus projetos em estado puro,09/10/2024,25/12/2024,22/06/2025,2374394,Aurora Caldeira,Atrasado,62.20302116603501,0.6220302116603501,0.6754403916754584,Não
+PROJ-0087,A liberdade de inovar direto da fonte,13/01/2025,25/03/2025,17/04/2025,3668752,Dra. Joana da Rosa,Em andamento,99.9,1.0377428898531682,0.8853327133375937,Não
+PROJ-0088,O prazer de mudar mais facilmente,17/11/2024,13/01/2025,30/06/2025,4153470,Gabrielly Macedo,Atrasado,59.14352054002789,0.5914352054002789,0.9278074017250324,Não
+PROJ-0089,O direito de evoluir mais rapidamente,21/07/2024,25/03/2025,18/03/2025,3022716,Melina Castro,Em andamento,96.0316801388716,1.0794737208541805,0.9116816686655933,Não
+PROJ-0090,O conforto de atingir seus objetivos antes de tudo,04/01/2024,22/03/2024,03/04/2024,4534022,João Miguel Fogaça,Concluído,100.0,1.0910728717871598,1.1893403807869967,Não
+PROJ-0091,O conforto de avançar com confiança,18/03/2024,01/03/2025,28/03/2025,4975314,Mariana Mendes,Em andamento,97.14596024029359,1.1145787852740137,1.0841970768942182,Não
+PROJ-0092,A segurança de atingir seus objetivos naturalmente,10/01/2025,21/07/2025,11/08/2025,2291165,Marcos Vinicius Siqueira,Em andamento,84.06857093583412,0.90262851722963,0.9638991578822053,Não
+PROJ-0093,O prazer de conseguir com força total,23/12/2024,04/09/2025,08/11/2025,727745,Joana Oliveira,Atrasado,40.64193338221768,0.5105267493825374,0.714688797322741,Não
+PROJ-0094,O prazer de conseguir mais facilmente,18/03/2025,01/11/2025,06/11/2025,3341801,Ana Clara Aragão,Em andamento,50.605359693767696,1.0028320743462142,0.9270863616323972,Não
+PROJ-0095,O poder de concretizar seus projetos direto da fonte,28/02/2025,07/04/2025,01/05/2025,4086419,Yan Viana,Em andamento,99.9,0.902420554119257,0.986181653790192,Não
+PROJ-0096,A simplicidade de conseguir simplesmente,24/09/2023,05/04/2024,09/04/2024,1642235,Dr. Ravi Lucca Ramos,Em andamento,82.35544228806118,0.9849340754172602,1.0884554851015331,Não
+PROJ-0097,A segurança de mudar com confiança,18/05/2025,02/02/2026,04/11/2025,3398223,Otávio da Mata,Cancelado,65.40720401986255,2.983486499151625,0.7671690972713658,Não
+PROJ-0098,O poder de mudar simplesmente,06/12/2023,24/05/2024,11/05/2024,3886563,Ísis Vasconcelos,Concluído,100.0,1.0528746840332113,1.197899978637246,Sim
+PROJ-0099,A liberdade de inovar em estado puro,08/03/2025,13/02/2026,21/05/2026,237702,Maria Helena Camargo,Atrasado,31.156989257154148,0.8324758067145874,0.9605289465257854,Não
+PROJ-0100,A segurança de evoluir direto da fonte,14/11/2023,09/06/2024,29/06/2024,4847492,Sr. Caleb Borges,Atrasado,63.6018258317393,0.636018258317393,0.7942176057213434,Não
+PROJ-0101,O poder de avançar com força total,26/09/2024,03/07/2025,19/08/2025,4634829,Ana Beatriz Campos,Atrasado,72.70435059250258,0.7270435059250258,0.7035065169464695,Não
+PROJ-0102,A segurança de ganhar simplesmente,21/03/2025,25/06/2025,18/07/2025,1010434,Luana Cavalcante,Em andamento,99.9,0.8659240896777425,1.0201464358081633,Não
+PROJ-0103,O conforto de atingir seus objetivos de maneira eficaz,09/07/2024,06/10/2024,27/01/2025,3854615,Luna da Conceição,Atrasado,80.55856103680382,0.8055856103680382,0.8138335109344125,Não
+PROJ-0104,A liberdade de concretizar seus projetos com toda a tranquilidade,08/06/2025,12/09/2025,24/08/2025,3568542,Vitória Aparecida,Concluído,100.0,1.068946066907587,1.1428930112430093,Sim
+PROJ-0105,O direito de realizar seus sonhos sem preocupação,20/03/2024,04/12/2024,03/12/2024,1482859,Sra. Heloisa Borges,Em andamento,99.9,0.9694729009018886,0.871772344639189,Não
+PROJ-0106,O conforto de realizar seus sonhos com confiança,12/04/2024,21/05/2024,09/05/2024,1101604,Dante Novaes,Concluído,100.0,1.0796215989650357,1.0117769587664076,Sim
+PROJ-0107,O prazer de inovar direto da fonte,08/11/2024,06/04/2025,04/05/2025,2135006,Lorena Sales,Em andamento,99.9,0.904236555067659,1.132148227798208,Não
+PROJ-0108,A possibilidade de inovar com força total,20/08/2024,20/06/2025,11/11/2025,3239294,Dra. Alícia Casa Grande,Atrasado,69.14531802418745,0.6914531802418744,0.9831513233619598,Não
+PROJ-0109,A certeza de mudar de maneira eficaz,19/09/2024,12/07/2025,01/07/2025,1183339,Elisa da Rosa,Concluído,100.0,1.008759167657668,1.0515218216332307,Não
+PROJ-0110,A possibilidade de ganhar sem preocupação,15/07/2024,04/09/2024,27/08/2024,668017,Sr. Matheus Lima,Em andamento,99.9,0.8594698511707413,0.8581039932867408,Não
+PROJ-0111,A vantagem de mudar mais rapidamente,14/04/2024,01/04/2025,10/04/2025,2570436,Nina Leão,Em andamento,82.83233493694871,0.9003489041923596,1.239512865680416,Sim
+PROJ-0112,O direito de inovar com toda a tranquilidade,04/09/2023,14/01/2024,02/05/2024,4089995,Eduardo Pereira,Atrasado,86.69643956689777,0.8669643956689776,0.8195651778711182,Sim
+PROJ-0113,O conforto de ganhar com força total,13/12/2024,19/04/2025,01/05/2025,1026169,Thales Freitas,Em andamento,99.9,0.9770681690575397,0.9587541299090008,Não
+PROJ-0114,A liberdade de realizar seus sonhos simplesmente,07/10/2024,17/08/2025,03/08/2025,1395261,Dr. Bernardo Aparecida,Em andamento,78.65989335236124,1.0129121386474993,0.8939801472012436,Não
+PROJ-0115,O direito de mudar de maneira eficaz,13/12/2023,20/11/2024,18/12/2024,4732116,Samuel Macedo,Em andamento,98.84981773104765,0.9246187713883995,1.0843405536975086,Não
+PROJ-0116,A certeza de mudar de maneira eficaz,23/10/2024,27/04/2025,12/06/2025,3973653,Luísa Almeida,Atrasado,66.46708666430887,0.6646708666430886,0.8189498717104705,Não
+PROJ-0117,A certeza de evoluir com força total,06/07/2025,31/03/2026,28/04/2026,3304188,Apollo Vasconcelos,Em andamento,2.5002023077737165,0.9079915545500136,0.9481113915466216,Não
+PROJ-0118,O poder de concretizar seus projetos de maneira eficaz,17/05/2024,04/10/2024,01/10/2024,1198387,Camila Ribeiro,Em andamento,99.5263449579306,1.0301818074175337,0.9702865814392945,Não
+PROJ-0119,O direito de concretizar seus projetos de maneira eficaz,04/01/2024,25/11/2024,10/11/2024,2321230,Mateus Cirino,Em andamento,99.64278382311818,0.9750867906625722,0.878845054112685,Sim
+PROJ-0120,O direito de inovar com força total,19/06/2024,04/10/2024,29/09/2024,2213548,Ravi Lucca Andrade,Em andamento,99.9,0.8750141815940965,1.2158608570789828,Não
+PROJ-0121,A simplicidade de concretizar seus projetos com confiança,07/08/2023,05/04/2024,12/01/2024,77355,Léo Aparecida,Cancelado,65.30046542185143,0.6530046542185143,0.6750915861050393,Não
+PROJ-0122,A certeza de avançar antes de tudo,27/05/2025,04/07/2025,22/07/2025,3678834,Maria Cecília Barros,Em andamento,99.9,0.9378939691039383,1.0260709047404366,Não
+PROJ-0123,A certeza de ganhar naturalmente,10/06/2025,17/08/2025,25/08/2025,191839,Sr. Augusto Barbosa,Em andamento,58.93291519835113,0.9120118151389829,0.8869621751986859,Não
+PROJ-0124,A vantagem de atingir seus objetivos com confiança,17/03/2024,23/08/2024,28/08/2024,2035305,Diego Aparecida,Em andamento,99.9,0.8524483228169617,1.0857825815983675,Não
+PROJ-0125,O conforto de concretizar seus projetos com toda a tranquilidade,23/06/2024,22/06/2025,01/07/2025,1946611,Carolina Marques,Em andamento,83.00966376826453,0.9126902702100692,0.9071438028888469,Sim
+PROJ-0126,O direito de atingir seus objetivos direto da fonte,24/10/2023,11/08/2024,13/08/2024,4352273,Caio Moreira,Em andamento,84.137544366988,0.8738413498622286,1.1096014081668808,Não
+PROJ-0127,A possibilidade de avançar em estado puro,12/01/2024,25/03/2024,08/03/2024,4042802,João Vitor da Mata,Cancelado,77.40555506665282,0.7740555506665282,0.7412448463132285,Sim
+PROJ-0128,A simplicidade de atingir seus objetivos em estado puro,18/05/2024,28/03/2025,19/05/2025,4668779,Ana Cecília Castro,Atrasado,88.75648831231133,0.8875648831231133,0.8311933800837509,Sim
+PROJ-0129,A segurança de evoluir em estado puro,15/02/2024,17/01/2025,18/05/2025,1678417,Larissa Sampaio,Atrasado,55.44012024777142,0.5544012024777142,0.896640581875944,Não
+PROJ-0130,A arte de conseguir simplesmente,14/02/2025,24/10/2025,03/03/2026,3137017,Enzo Costa,Atrasado,34.48538980215902,0.5793545486762716,0.9717191791214973,Sim
+PROJ-0131,A possibilidade de avançar com força total,12/02/2024,16/06/2024,16/06/2024,2885594,Paulo Pacheco,Em andamento,81.77118926793723,1.0948443696213799,0.9167500912169586,Não
+PROJ-0132,A simplicidade de concretizar seus projetos antes de tudo,28/04/2025,01/03/2026,22/02/2026,1068702,Enzo Porto,Em andamento,26.759134566162217,1.0631366803759406,0.8730636656937669,Sim
+PROJ-0133,A arte de ganhar com confiança,25/08/2024,26/11/2024,05/12/2024,2511998,André Pastor,Em andamento,99.9,0.9460506347919634,0.8650108956901943,Não
+PROJ-0134,O conforto de ganhar com força total,22/11/2023,18/02/2024,08/02/2024,4503542,Maria Clara Moreira,Em andamento,85.89089728238763,1.036812645808583,1.127644507057365,Sim
+PROJ-0135,O conforto de realizar seus sonhos com força total,11/11/2024,07/08/2025,05/08/2025,260978,Enzo Gabriel Viana,Em andamento,99.9,0.940763371943578,0.8954720991963336,Não
+PROJ-0136,O poder de concretizar seus projetos simplesmente,24/12/2023,05/11/2024,17/11/2024,4419246,Sra. Manuella Ramos,Em andamento,99.9,0.8962060726438571,1.0631583426266422,Não
+PROJ-0137,O conforto de ganhar mais rapidamente,26/01/2024,03/10/2024,20/10/2024,1505012,Sra. Maitê Mendes,Em andamento,82.28539388294024,1.0202841465903163,0.8933553028735615,Sim
+PROJ-0138,A arte de atingir seus objetivos direto da fonte,13/07/2024,03/04/2025,19/03/2025,2355495,Maria Júlia Sampaio,Em andamento,83.49444489233142,0.9658971500808523,0.9185399400513442,Não
+PROJ-0139,A liberdade de avançar mais facilmente,30/11/2023,12/04/2024,29/06/2024,2578248,Clarice da Paz,Atrasado,67.6546983512962,0.676546983512962,0.7960863373292838,Sim
+PROJ-0140,O poder de realizar seus sonhos com confiança,19/07/2023,17/02/2024,15/02/2024,4121943,Dr. Gael Henrique Moraes,Em andamento,99.9,1.0076305671211454,0.966402892482344,Não
+PROJ-0141,O prazer de mudar simplesmente,13/09/2023,05/04/2024,03/08/2024,1465627,Dr. Otávio Guerra,Atrasado,81.06092943263148,0.8106092943263148,0.8174103526152678,Não
+PROJ-0142,O poder de mudar simplesmente,28/07/2023,24/12/2023,20/12/2023,827666,Sra. Hellena Azevedo,Em andamento,87.42376783309763,0.9714272754675852,0.911458093614325,Sim
+PROJ-0143,A vantagem de atingir seus objetivos de maneira eficaz,07/10/2023,12/08/2024,13/08/2024,4608562,Lavínia Cavalcanti,Em andamento,83.50362706956504,1.1237323295748896,0.8364306590639214,Não
+PROJ-0144,O poder de avançar naturalmente,22/03/2024,13/01/2025,11/02/2025,3263436,Isadora Cavalcante,Em andamento,98.14559962436572,1.093057876483116,0.9619719798007046,Não
+PROJ-0145,A certeza de inovar com confiança,31/01/2024,18/12/2024,14/01/2025,3142110,Dra. Bárbara Silva,Em andamento,98.68338287516065,1.1321490943218826,1.0010158391418806,Não
+PROJ-0146,A certeza de avançar direto da fonte,13/11/2023,15/07/2024,13/01/2024,4875093,Lorena Melo,Cancelado,25.13192666221789,0.2513192666221789,0.8440382274487644,Sim
+PROJ-0147,A possibilidade de conseguir antes de tudo,13/12/2023,17/09/2024,15/11/2024,4025724,Dr. Raul Nunes,Atrasado,60.417702085445455,0.6041770208544547,0.8514958454249759,Não
+PROJ-0148,O conforto de concretizar seus projetos de maneira eficaz,18/03/2025,17/05/2025,12/08/2025,1540480,Ana Sophia Costa,Atrasado,79.50897836774405,0.7950897836774405,0.771411869963631,Sim
+PROJ-0149,A arte de concretizar seus projetos com toda a tranquilidade,17/03/2024,24/12/2024,17/06/2024,1263335,Olivia Monteiro,Cancelado,32.692583679126976,0.32692583679126974,0.8123635108343786,Não
+PROJ-0150,A certeza de avançar sem preocupação,08/06/2024,17/10/2024,15/03/2025,1496943,Maria Júlia Teixeira,Atrasado,58.65917284289031,0.5865917284289031,0.9469531623142451,Não
+PROJ-0151,A segurança de realizar seus sonhos antes de tudo,26/10/2023,15/07/2024,17/06/2024,1398358,Srta. Lunna Vasconcelos,Concluído,100.0,1.021482725692717,1.0975815893714915,Não
+PROJ-0152,A simplicidade de ganhar em estado puro,18/03/2025,16/06/2025,05/07/2025,3960779,Rebeca da Paz,Concluído,100.0,0.9863281251754948,1.241446595107613,Não
+PROJ-0153,O conforto de mudar mais rapidamente,03/07/2024,14/09/2024,04/09/2024,2813630,Gabriela Vargas,Concluído,100.0,1.0644783032394711,1.1313987575280737,Não
+PROJ-0154,A liberdade de inovar antes de tudo,27/07/2024,24/05/2025,07/06/2025,2293428,Dra. Maria Alice Souza,Em andamento,99.9,0.9572462748481946,0.9777806033849995,Sim
+PROJ-0155,O conforto de conseguir com toda a tranquilidade,04/11/2024,24/03/2025,03/07/2025,622800,Eduarda Leão,Atrasado,64.44768813330052,0.6444768813330052,0.8076231012963969,Sim
+PROJ-0156,A arte de atingir seus objetivos antes de tudo,17/07/2024,18/10/2024,17/10/2024,1176870,Jade Cardoso,Em andamento,81.57440462960734,0.9311170677068076,0.9429333046015266,Sim
+PROJ-0157,O conforto de ganhar com toda a tranquilidade,08/12/2024,22/04/2025,22/04/2025,2303748,Arthur Gabriel Souza,Em andamento,82.92699182663968,0.971698694687436,0.8859548095719508,Sim
+PROJ-0158,O conforto de evoluir sem preocupação,29/06/2024,03/09/2024,27/09/2024,570287,Antonella Montenegro,Em andamento,91.50072502291987,0.9985323724058711,0.9853046423196838,Não
+PROJ-0159,A certeza de mudar em estado puro,12/04/2025,15/11/2025,18/10/2025,4849384,Joaquim Gonçalves,Concluído,100.0,1.0848555352745686,0.9491586673835507,Não
+PROJ-0160,O poder de conseguir antes de tudo,02/10/2023,17/08/2024,07/08/2024,3091974,Luiz Miguel da Costa,Concluído,100.0,1.0880128682637968,1.0154513005467727,Não
+PROJ-0161,O conforto de ganhar de maneira eficaz,27/11/2024,06/06/2025,08/06/2025,4826212,Natália Oliveira,Em andamento,99.9,1.0412282864891105,0.9937050444183493,Não
+PROJ-0162,A arte de realizar seus sonhos antes de tudo,08/10/2023,14/08/2024,29/08/2024,4411685,Leonardo Montenegro,Em andamento,99.9,1.034822178558191,0.8495753512695269,Não
+PROJ-0163,O conforto de mudar simplesmente,11/09/2023,16/07/2024,29/07/2024,2988556,Srta. Luna Sampaio,Em andamento,87.47608980876174,0.9582837868054704,1.0484904098924013,Não
+PROJ-0164,O conforto de realizar seus sonhos simplesmente,23/10/2024,12/05/2025,01/06/2025,4243025,Fernando Alves,Concluído,100.0,1.0197083150285984,0.9275740508598018,Não
+PROJ-0165,A possibilidade de mudar com toda a tranquilidade,07/04/2024,14/02/2025,26/01/2025,2560564,Eduardo Peixoto,Concluído,100.0,1.0652413118260968,0.8752602054069489,Sim
+PROJ-0166,A simplicidade de avançar sem preocupação,18/03/2024,07/06/2024,09/06/2024,4971009,Pietro Teixeira,Em andamento,88.73672652400857,1.0106456207559484,0.9158303248363208,Sim
+PROJ-0167,O conforto de realizar seus sonhos antes de tudo,05/12/2023,12/02/2024,09/02/2024,4229037,Liam Barbosa,Em andamento,99.9,1.0063838254948514,1.0208983758193904,Sim
+PROJ-0168,A certeza de evoluir antes de tudo,20/11/2023,11/03/2024,29/03/2024,1566129,Sra. Maria Laura da Paz,Em andamento,99.9,1.0178017979918106,0.8371384258487031,Não
+PROJ-0169,A liberdade de mudar de maneira eficaz,06/07/2024,10/02/2025,30/01/2025,3517185,Benjamin Gonçalves,Em andamento,84.6626841615494,1.0261037170906837,1.1265912044494573,Não
+PROJ-0170,A arte de ganhar antes de tudo,05/05/2024,21/12/2024,16/01/2025,3348769,Benjamin Gomes,Em andamento,89.14140712984887,1.035002966904011,0.9191034483891009,Não
+PROJ-0171,A simplicidade de atingir seus objetivos com força total,11/12/2024,10/08/2025,06/09/2025,4763732,Catarina Silveira,Em andamento,98.61574567096237,0.8603013002249745,1.1212066399925953,Sim
+PROJ-0172,A possibilidade de realizar seus sonhos direto da fonte,13/12/2024,24/04/2025,26/01/2025,2987294,João Gabriel Souza,Cancelado,33.503443673761275,0.33503443673761274,0.6820085315205355,Sim
+PROJ-0173,A certeza de inovar sem preocupação,12/07/2024,19/01/2025,29/03/2025,4045688,Sra. Isadora Camargo,Atrasado,85.72618909169908,0.8572618909169908,0.7863347267131202,Sim
+PROJ-0174,O prazer de evoluir antes de tudo,14/06/2024,31/01/2025,17/01/2025,3377137,Sr. João Gabriel Souza,Em andamento,88.09429563405722,0.9380540170984973,0.8765993153581225,Não
+PROJ-0175,O conforto de mudar com toda a tranquilidade,02/09/2023,12/03/2024,01/04/2024,603545,Isaac Vasconcelos,Em andamento,86.82818369952045,0.9378120379606105,0.9276436816764446,Não
+PROJ-0176,A possibilidade de mudar simplesmente,02/11/2023,12/06/2024,20/10/2024,2501020,Esther Sampaio,Atrasado,84.04805328895033,0.8404805328895033,0.8836589913304577,Sim
+PROJ-0177,O direito de conseguir com toda a tranquilidade,12/10/2024,04/02/2025,30/06/2025,4766179,Asafe Sales,Atrasado,74.95170850793664,0.7495170850793664,0.7971649044158194,Não
+PROJ-0178,O poder de evoluir com força total,15/11/2024,23/05/2025,22/05/2025,652827,Lucca Pires,Em andamento,95.85066903839994,0.9455701973518917,0.9710420545311125,Não
+PROJ-0179,A possibilidade de evoluir com força total,19/03/2024,21/12/2024,24/04/2025,4977292,Vinícius Mendonça,Atrasado,84.9022274480133,0.849022274480133,0.7421736316057024,Não
+PROJ-0180,O direito de atingir seus objetivos em estado puro,22/06/2024,20/02/2025,20/10/2024,3019160,Sr. João Guilherme Marques,Cancelado,49.6349011155569,0.496349011155569,0.6892970826615484,Não
+PROJ-0181,A possibilidade de atingir seus objetivos mais facilmente,31/08/2023,19/07/2024,16/07/2024,3611389,Maria Vitória Ramos,Concluído,100.0,1.0939553008355458,0.9470661621641019,Sim
+PROJ-0182,A vantagem de conseguir de maneira eficaz,22/04/2025,23/08/2025,14/09/2025,2749550,José Miguel Farias,Em andamento,67.1677210293144,0.9260074351736324,1.0682871392433604,Não
+PROJ-0183,A certeza de inovar com confiança,12/02/2024,12/08/2024,30/07/2024,4916183,Kevin Macedo,Em andamento,99.9,0.8690899132852566,0.967841140910263,Sim
+PROJ-0184,A vantagem de conseguir com toda a tranquilidade,20/07/2024,19/02/2025,09/03/2025,3865587,João Felipe Alves,Em andamento,99.9,1.0774573415737028,1.113392550579422,Não
+PROJ-0185,O poder de concretizar seus projetos direto da fonte,08/07/2025,06/09/2025,13/09/2025,153140,Eloah Sousa,Em andamento,9.2787565376357,0.9814450462835611,0.9125956861667025,Não
+PROJ-0186,A possibilidade de evoluir sem preocupação,02/11/2024,19/07/2025,24/07/2025,1127866,Ana Cecília Rocha,Em andamento,99.43185218411102,0.9226996024387866,1.0468456604738992,Não
+PROJ-0187,O poder de concretizar seus projetos de maneira eficaz,12/02/2024,30/08/2024,25/09/2024,2971619,Dra. Maria Julia Nascimento,Em andamento,99.9,1.1336300917879942,0.8851459292609759,Sim
+PROJ-0188,O prazer de realizar seus sonhos direto da fonte,15/02/2024,03/02/2025,06/02/2025,3523617,Mariana Azevedo,Em andamento,99.9,0.9607331579706476,0.9162878219466944,Não
+PROJ-0189,A liberdade de evoluir simplesmente,05/02/2024,01/08/2024,29/07/2024,1676404,Vitória Albuquerque,Em andamento,99.9,0.9539734020170708,1.0343051664213982,Não
+PROJ-0190,A arte de mudar com força total,21/10/2024,28/02/2025,02/03/2025,3853200,Laura Monteiro,Em andamento,83.31028280363375,1.0235691786212258,0.9076294702152619,Não
+PROJ-0191,A simplicidade de inovar de maneira eficaz,09/12/2023,05/05/2024,25/05/2024,842647,Dr. Gael Farias,Em andamento,91.71339930668022,0.9070904212565805,0.8464719303297433,Sim
+PROJ-0192,O prazer de conseguir simplesmente,10/06/2024,14/09/2024,14/01/2025,530254,Rebeca Peixoto,Atrasado,78.38430520723558,0.7838430520723558,0.783405791057585,Sim
+PROJ-0193,A segurança de atingir seus objetivos com força total,16/12/2024,21/11/2025,09/11/2025,1492095,Pedro Henrique Pacheco,Concluído,100.0,1.090986204857507,1.2036795497434332,Não
+PROJ-0194,A certeza de realizar seus sonhos sem preocupação,07/04/2024,06/08/2024,26/10/2024,3447433,Dr. Antônio Mendonça,Atrasado,88.97383885883457,0.8897383885883456,0.6768925544778385,Sim
+PROJ-0195,A possibilidade de concretizar seus projetos mais facilmente,06/06/2024,19/10/2024,12/11/2024,1646460,Isaac Almeida,Atrasado,60.22534569656218,0.6022534569656218,0.8967138896966091,Não
+PROJ-0196,A arte de realizar seus sonhos em estado puro,30/03/2025,13/01/2026,22/01/2026,945628,Gustavo Barbosa,Em andamento,40.97130758367334,1.0543791875046682,1.0625168009044264,Não
+PROJ-0197,A certeza de atingir seus objetivos simplesmente,18/07/2024,02/04/2025,14/04/2025,3700865,Rhavi Azevedo,Em andamento,99.9,1.1351192259794722,1.0308840874719183,Não
+PROJ-0198,O conforto de avançar com confiança,15/08/2023,21/12/2023,05/01/2024,3643067,Kevin Albuquerque,Atrasado,73.27767680098798,0.7327767680098798,0.7006407675380084,Não
+PROJ-0199,O prazer de avançar mais rapidamente,07/09/2024,30/05/2025,08/11/2025,4804485,Maria Cecília Jesus,Atrasado,52.762452106073845,0.5276245210607384,0.7205670622181423,Não
+PROJ-0200,O poder de mudar com toda a tranquilidade,15/09/2023,09/05/2024,30/05/2024,1648371,Srta. Clarice Nogueira,Concluído,100.0,1.0793610892527143,0.8654460037079666,Sim
+PROJ-0201,A segurança de inovar naturalmente,12/12/2024,16/07/2025,30/06/2025,4535692,Sr. Isaque Martins,Concluído,100.0,1.0930603796565004,1.1382888852704907,Não
+PROJ-0202,A segurança de inovar antes de tudo,05/12/2023,31/08/2024,14/09/2024,94583,Nicole Ribeiro,Em andamento,91.3851187475482,1.1432582185810927,0.8669785315366976,Não
+PROJ-0203,O prazer de mudar naturalmente,27/07/2023,26/05/2024,11/01/2024,633163,Ana Luiza Melo,Cancelado,55.39937747825864,0.5539937747825864,0.6911837510346928,Não
+PROJ-0204,O direito de ganhar mais rapidamente,21/09/2024,25/01/2025,22/02/2025,4474166,Sra. Emanuelly Nogueira,Em andamento,99.9,1.0446748882163417,1.1500243780460682,Não
+PROJ-0205,A segurança de concretizar seus projetos simplesmente,05/08/2024,04/11/2024,19/12/2024,2887200,Nina Moraes,Atrasado,65.50790160363464,0.6550790160363463,0.8810182458268541,Não
+PROJ-0206,A certeza de inovar naturalmente,16/07/2023,20/12/2023,07/01/2024,856028,Maria Almeida,Em andamento,98.98281570824548,1.106263464838575,0.8712963074453465,Não
+PROJ-0207,O direito de ganhar naturalmente,31/07/2023,12/11/2023,04/11/2023,2642772,João Miguel Duarte,Concluído,100.0,1.0287950133106714,0.9331473613938384,Sim
+PROJ-0208,A certeza de mudar com força total,06/09/2024,13/02/2025,19/05/2025,1745821,João Castro,Atrasado,55.20007623058931,0.5520007623058931,0.8153268437899295,Sim
+PROJ-0209,A segurança de inovar de maneira eficaz,08/05/2025,25/02/2026,15/02/2026,4040705,Otto da Cunha,Concluído,100.0,0.9615066395106097,1.139245513284696,Sim
+PROJ-0210,O poder de mudar em estado puro,14/06/2024,14/02/2025,04/07/2025,1297547,Eduarda Araújo,Atrasado,55.98297912033983,0.5598297912033983,0.9013117988090573,Não
+PROJ-0211,A arte de conseguir antes de tudo,12/08/2024,30/10/2024,22/11/2024,3964092,Clara Camargo,Em andamento,99.9,1.1411047801419167,1.097306499823269,Não
+PROJ-0212,A arte de avançar mais rapidamente,16/04/2024,05/08/2024,29/07/2024,1620195,Isabella Nascimento,Concluído,100.0,1.0282350876637014,0.9141867151529682,Não
+PROJ-0213,A segurança de realizar seus sonhos mais facilmente,08/08/2024,13/09/2024,09/10/2024,2843867,Heloísa Oliveira,Em andamento,99.9,1.1238746676807265,0.9072429847721276,Sim
+PROJ-0214,A possibilidade de mudar mais facilmente,26/12/2024,27/01/2025,05/02/2025,2375730,Bianca Barros,Em andamento,95.52668440822681,1.0613550914143484,1.2005578746142458,Sim
+PROJ-0215,A liberdade de conseguir com confiança,16/01/2024,04/11/2024,17/10/2024,2430470,Thomas Pereira,Concluído,100.0,1.0510802407912343,0.9146223596291856,Não
+PROJ-0216,A arte de realizar seus sonhos com toda a tranquilidade,06/08/2023,14/04/2024,10/02/2024,1196034,Lorenzo Cavalcante,Cancelado,74.97491542154958,0.7497491542154958,0.719051704310278,Não
+PROJ-0217,A liberdade de evoluir em estado puro,28/08/2024,22/07/2025,24/07/2025,112359,Nathan Garcia,Em andamento,84.29824191788585,0.9213230120266079,1.14359660623719,Sim
+PROJ-0218,A arte de inovar de maneira eficaz,15/07/2024,23/11/2024,28/11/2024,3465188,Isadora Moreira,Concluído,100.0,0.9805197285985084,0.8897144699896864,Não
+PROJ-0219,A simplicidade de avançar direto da fonte,05/12/2023,16/01/2024,10/07/2024,1629030,Heloísa Silveira,Atrasado,74.44882657408863,0.7444882657408862,0.7444396724068781,Não
+PROJ-0220,A vantagem de mudar naturalmente,22/12/2024,03/08/2025,30/08/2025,3472721,Thales Cunha,Atrasado,77.54199289138292,0.8514414905720477,0.7518821424962575,Sim
+PROJ-0221,A segurança de ganhar direto da fonte,24/04/2024,27/10/2024,15/11/2024,250590,Manuella Carvalho,Em andamento,99.9,1.1150204062933093,0.9242611925717104,Não
+PROJ-0222,A vantagem de mudar em estado puro,30/07/2023,05/02/2024,05/02/2024,2540939,Sr. Thales Gonçalves,Em andamento,90.76096801870551,1.1397424695562106,0.8874293108726977,Sim
+PROJ-0223,O prazer de realizar seus sonhos com toda a tranquilidade,19/04/2025,21/09/2025,27/01/2026,2208515,João Vitor Souza,Atrasado,44.933470613974904,0.8098474354844314,0.7483180853616819,Não
+PROJ-0224,A arte de ganhar direto da fonte,03/11/2023,07/08/2024,17/08/2024,1114292,Maria Clara Pacheco,Em andamento,81.82582773330306,1.0256260683638097,0.8950469090000224,Não
+PROJ-0225,O prazer de inovar simplesmente,19/01/2024,22/11/2024,15/12/2024,553006,Cecilia Ribeiro,Em andamento,98.36526696710023,1.0482108680692626,1.2343090768292053,Não
+PROJ-0226,A vantagem de concretizar seus projetos direto da fonte,08/03/2025,25/11/2025,24/10/2025,3647955,Murilo Nogueira,Cancelado,87.93409242211526,1.7999009542651718,0.6866105769031836,Não
+PROJ-0227,A simplicidade de mudar simplesmente,28/05/2024,20/11/2024,17/11/2024,1144570,Cecília Aragão,Em andamento,99.9,1.008480264774539,1.1681920812247437,Não
+PROJ-0228,A certeza de realizar seus sonhos de maneira eficaz,30/06/2024,05/12/2024,28/11/2024,118737,Caio Cardoso,Em andamento,99.9,0.8720457847463996,1.0168034547805558,Não
+PROJ-0229,O poder de avançar sem preocupação,08/04/2025,03/04/2026,26/03/2026,2766271,Pedro da Mota,Concluído,100.0,0.9579524654254784,0.9582189994186043,Não
+PROJ-0230,A possibilidade de inovar direto da fonte,19/07/2024,02/09/2024,26/09/2024,842643,Srta. Maria Luiza Monteiro,Atrasado,84.34618049395175,0.8434618049395175,0.9818584185527692,Não
+PROJ-0231,O poder de evoluir direto da fonte,22/10/2023,03/05/2024,14/05/2024,593468,Lucca Sousa,Em andamento,85.3665858485783,0.9455665589054958,1.2377232075592048,Não
+PROJ-0232,O poder de mudar simplesmente,10/11/2024,05/07/2025,18/12/2025,1022442,Léo Aragão,Atrasado,89.73650044968325,0.8973650044968324,0.9915695253425789,Não
+PROJ-0233,A segurança de mudar em estado puro,10/09/2024,10/08/2025,04/08/2025,2459575,Bella Fernandes,Em andamento,82.35166435368788,0.8894502895489282,1.1203524111241763,Não
+PROJ-0234,A simplicidade de realizar seus sonhos em estado puro,21/04/2025,12/11/2025,26/10/2025,2015365,Sra. Isabela da Mata,Concluído,100.0,1.0170169686993187,0.9205798656641558,Não
+PROJ-0235,O conforto de avançar antes de tudo,19/09/2024,09/03/2025,07/03/2025,2413283,Dr. Enrico Carvalho,Concluído,100.0,0.9592607529105981,0.980767694010395,Não
+PROJ-0236,O prazer de realizar seus sonhos simplesmente,18/05/2025,20/03/2026,12/03/2026,928434,Sr. Gustavo Henrique Abreu,Em andamento,22.08928732709594,1.1221645415783363,1.1806476928124685,Não
+PROJ-0237,A vantagem de evoluir de maneira eficaz,30/03/2025,26/12/2025,04/01/2026,4384014,Yago Caldeira,Em andamento,34.946041336250374,1.0022796297072976,1.018115627053594,Não
+PROJ-0238,O poder de inovar simplesmente,23/03/2024,10/11/2024,15/11/2024,3130494,Erick Cassiano,Em andamento,99.9,1.116581772972967,0.8496179163578753,Não
+PROJ-0239,A possibilidade de realizar seus sonhos em estado puro,29/07/2023,24/12/2023,12/12/2023,360341,Lívia da Luz,Em andamento,99.9,0.9815069921451448,0.9951871149606782,Sim
+PROJ-0240,A liberdade de conseguir mais rapidamente,14/05/2025,23/09/2025,04/10/2025,549710,Maysa Ferreira,Concluído,100.0,0.9583253682888487,0.922172864088167,Não
+PROJ-0241,A certeza de evoluir mais rapidamente,05/03/2024,13/10/2024,21/10/2024,3308917,Rhavi da Mota,Em andamento,87.14981986709694,0.9523148536850726,0.9052583783399157,Não
+PROJ-0242,A segurança de evoluir sem preocupação,21/09/2023,08/05/2024,27/09/2024,821770,Antônio Vieira,Atrasado,75.51460691322987,0.7551460691322986,0.7503029746744667,Sim
+PROJ-0243,A simplicidade de conseguir mais rapidamente,05/07/2025,18/09/2025,05/09/2025,1517333,Otávio Campos,Concluído,100.0,1.0935512545099244,1.0217015541963783,Não
+PROJ-0244,O direito de avançar simplesmente,27/07/2023,08/09/2023,29/01/2024,675181,Maria Cecília Guerra,Atrasado,66.82182187572076,0.6682182187572075,0.9932497976032805,Não
+PROJ-0245,A arte de conseguir mais rapidamente,11/08/2024,27/05/2025,02/11/2025,120406,Nicolas Machado,Atrasado,84.98746774349678,0.8498746774349678,0.8754947115838042,Não
+PROJ-0246,O poder de realizar seus sonhos sem preocupação,22/03/2025,16/06/2025,06/04/2025,2098708,Benicio Machado,Cancelado,18.535164768105616,0.18535164768105616,0.8464184145865976,Não
+PROJ-0247,O poder de conseguir mais facilmente,21/11/2024,31/03/2025,18/04/2025,2750848,Benício Costa,Em andamento,99.9,0.9045303696446347,1.041384588516873,Não
+PROJ-0248,O direito de avançar mais facilmente,08/12/2024,25/05/2025,18/05/2025,2632049,Ana Pires,Em andamento,86.17815867223919,0.8571012985367398,0.8985991595816668,Sim
+PROJ-0249,A segurança de inovar sem preocupação,28/04/2025,09/07/2025,07/08/2025,3337332,Mateus Nunes,Em andamento,99.9,1.0503038686509245,0.9465584358158998,Sim
+PROJ-0250,O poder de conseguir com força total,14/08/2024,23/01/2025,15/06/2025,3103791,Dom Azevedo,Atrasado,83.62609312558277,0.8362609312558277,0.6718487665660055,Não
+PROJ-0251,A possibilidade de evoluir com confiança,21/04/2025,05/04/2026,18/04/2026,3355417,Caio da Rosa,Em andamento,26.2174011462633,0.930606455604083,1.1646367508175481,Não
+PROJ-0252,A vantagem de inovar com confiança,30/01/2024,25/10/2024,27/10/2024,2328154,Zoe Oliveira,Em andamento,99.9,0.8935376884760673,1.1639198085782294,Não
+PROJ-0253,O poder de concretizar seus projetos de maneira eficaz,06/06/2025,19/01/2026,04/01/2026,892778,Luan Fernandes,Em andamento,16.2669896835132,0.9223022726770865,1.0781822848852232,Não
+PROJ-0254,A simplicidade de conseguir de maneira eficaz,21/08/2023,22/04/2024,11/04/2024,4266030,Kevin Carvalho,Em andamento,99.8929614117603,0.8847623943501794,1.0156578381443007,Não
+PROJ-0255,O conforto de atingir seus objetivos mais rapidamente,03/01/2025,12/12/2025,11/05/2025,4198464,Mariana Castro,Cancelado,37.594562459045136,0.6716111939298167,0.7401247884922308,Sim
+PROJ-0256,A segurança de conseguir direto da fonte,05/11/2023,08/06/2024,27/06/2024,2589540,Srta. Eloah Aragão,Concluído,100.0,1.0773827176280804,1.0831071043618767,Não
+PROJ-0257,A vantagem de mudar antes de tudo,11/06/2024,08/10/2024,25/10/2024,3551583,Leandro Rezende,Em andamento,99.9,0.9785232236454184,1.0620699856839333,Não
+PROJ-0258,A possibilidade de atingir seus objetivos com força total,22/01/2025,25/03/2025,06/04/2025,2458627,Sarah Casa Grande,Em andamento,99.9,0.9770891826986012,1.1166613991356134,Não
+PROJ-0259,A segurança de evoluir simplesmente,27/09/2024,28/10/2024,24/11/2024,4377392,Mariana Pastor,Em andamento,83.54268748458654,1.061500714005756,0.929881507825183,Não
+PROJ-0260,O poder de ganhar direto da fonte,27/11/2023,03/03/2024,30/03/2024,3884108,Antony Azevedo,Em andamento,99.9,0.9353434802272191,1.0515283682054692,Sim
+PROJ-0261,A certeza de realizar seus sonhos mais facilmente,18/03/2025,05/08/2025,28/08/2025,463532,Arthur Gabriel Abreu,Atrasado,73.93427162856977,0.8771862735593023,0.7003050636201718,Não
+PROJ-0262,O prazer de evoluir naturalmente,02/05/2024,25/06/2024,11/06/2024,2365634,Maria Luiza Castro,Em andamento,91.87033473655043,0.9900311531966415,0.9086190947985546,Não
+PROJ-0263,A possibilidade de avançar sem preocupação,28/05/2025,31/01/2026,23/02/2026,1285810,Sra. Mirella Pires,Em andamento,17.9374809113503,0.8657796219932464,1.0204519347984018,Não
+PROJ-0264,A simplicidade de avançar mais facilmente,24/08/2023,28/04/2024,07/05/2024,4500879,Sra. Maria Clara da Mata,Em andamento,99.9,1.0660053064423824,0.9734101679059453,Sim
+PROJ-0265,O conforto de ganhar em estado puro,03/06/2024,04/07/2024,02/07/2024,3410643,Mathias Nogueira,Em andamento,83.60391041344563,1.0412726725569184,0.9557994892291551,Não
+PROJ-0266,O poder de evoluir em estado puro,10/12/2024,08/03/2025,31/07/2025,3037481,Maria Luiza Câmara,Atrasado,79.9477943098646,0.7994779430986461,0.9487867373143011,Não
+PROJ-0267,A liberdade de evoluir de maneira eficaz,19/08/2023,24/07/2024,15/08/2024,4780515,Dr. Benjamim Machado,Em andamento,99.9,0.9061406685242828,0.9830135598770575,Sim
+PROJ-0268,A simplicidade de avançar de maneira eficaz,06/06/2025,23/11/2025,14/12/2025,3576331,Davi Luiz Cirino,Em andamento,20.436262290655122,0.8798048021626237,1.1177814539409872,Não
+PROJ-0269,A vantagem de evoluir em estado puro,21/07/2023,21/09/2023,22/09/2023,2331887,Laura Rocha,Em andamento,80.5600055081759,0.9807854850300838,1.1386956991768822,Sim
+PROJ-0270,A liberdade de evoluir direto da fonte,17/04/2024,20/12/2024,27/11/2024,2881671,Sr. Marcelo Rodrigues,Concluído,100.0,1.0394207929555832,1.0489336791256394,Não
+PROJ-0271,A possibilidade de evoluir mais rapidamente,30/09/2024,28/01/2025,03/03/2025,4840471,Srta. Hellena Vieira,Atrasado,82.12133686374146,0.8212133686374146,0.9897309818035591,Sim
+PROJ-0272,A simplicidade de concretizar seus projetos em estado puro,28/01/2024,08/03/2024,03/07/2024,4163242,Nicole Alves,Atrasado,77.35425667984232,0.7735425667984233,0.8944768668194939,Não
+PROJ-0273,A segurança de evoluir em estado puro,27/02/2025,06/10/2025,04/01/2026,75362,Dra. Helena Azevedo,Atrasado,45.17888201244631,0.7287980237044259,0.8439287929197564,Não
+PROJ-0274,O prazer de conseguir com toda a tranquilidade,24/09/2023,20/04/2024,13/05/2024,4550873,Lívia Aragão,Em andamento,90.94974868891484,1.0109563451047827,1.1842557287765265,Sim
+PROJ-0275,O conforto de concretizar seus projetos simplesmente,22/01/2024,02/01/2025,26/12/2024,2969074,Dra. Kamilly Azevedo,Concluído,100.0,1.0890998695191645,0.9882428450972099,Não
+PROJ-0276,A certeza de avançar direto da fonte,22/10/2023,30/05/2024,09/09/2024,3680298,Matheus Carvalho,Atrasado,83.45333726861914,0.8345333726861913,0.9856616989462631,Não
+PROJ-0277,O direito de atingir seus objetivos com força total,22/10/2024,14/04/2025,23/05/2025,4408866,Maria Helena da Luz,Atrasado,84.85297286718203,0.8485297286718203,0.8519509310910923,Não
+PROJ-0278,A certeza de evoluir simplesmente,17/01/2025,23/07/2025,20/07/2025,281611,Sra. Lívia Costa,Em andamento,99.9,0.8954446641535451,0.9578249928840741,Não
+PROJ-0279,A simplicidade de evoluir direto da fonte,24/04/2024,03/04/2025,18/04/2025,751656,Dra. Bárbara da Mata,Em andamento,99.9,0.8658278115731319,1.1206882913532796,Não
+PROJ-0280,A segurança de conseguir mais facilmente,08/07/2025,17/11/2025,10/11/2025,1116985,Amanda Sales,Concluído,100.0,1.0801390908133448,1.1624170872377313,Não
+PROJ-0281,A simplicidade de evoluir mais facilmente,23/07/2024,14/01/2025,07/02/2025,4942902,Emanuelly Siqueira,Em andamento,89.30892706350774,1.0347787101583352,0.9571363995194849,Não
+PROJ-0282,O conforto de evoluir simplesmente,08/11/2023,22/04/2024,15/05/2024,2338061,Melina da Conceição,Em andamento,99.9,1.1226621662508869,0.9300426656265959,Não
+PROJ-0283,O poder de avançar antes de tudo,29/12/2023,06/04/2024,10/04/2024,2777418,Srta. Cecília Castro,Em andamento,99.9,0.9462983907576884,0.9954152876972188,Sim
+PROJ-0284,O prazer de evoluir com confiança,31/01/2025,29/06/2025,01/10/2025,3092029,Renan Aparecida,Atrasado,75.53728657164585,0.7553728657164585,0.74012917980373,Sim
+PROJ-0285,O conforto de avançar com força total,08/12/2024,07/08/2025,17/09/2025,2856848,Dom das Neves,Atrasado,66.69645817118473,0.7403918751113167,0.7356395476199469,Não
+PROJ-0286,O direito de concretizar seus projetos mais rapidamente,05/09/2023,08/10/2023,28/09/2023,922352,Sr. Luiz Fernando Mendonça,Em andamento,99.9,0.9094323708779161,0.937516348261758,Sim
+PROJ-0287,A certeza de inovar com força total,07/10/2023,27/07/2024,23/08/2024,4277694,Maria Alice Carvalho,Em andamento,97.24458178052171,1.0049593234220784,0.9289542103269661,Sim
+PROJ-0288,A vantagem de atingir seus objetivos com toda a tranquilidade,28/06/2024,22/10/2024,15/11/2024,2069640,Henry Gabriel Oliveira,Em andamento,91.05931962618445,1.0869217564269047,0.887924047353649,Não
+PROJ-0289,O conforto de inovar naturalmente,05/05/2024,24/10/2024,16/11/2024,1671501,Diogo Silveira,Concluído,100.0,0.9841139241844987,0.9005513087634609,Não
+PROJ-0290,O direito de concretizar seus projetos mais rapidamente,18/02/2025,21/01/2026,18/01/2026,4129531,Ana Julia Cassiano,Em andamento,44.38461309728115,0.8844233797029916,0.8562861256457376,Não
+PROJ-0291,A liberdade de realizar seus sonhos simplesmente,03/02/2025,11/04/2025,07/05/2025,858210,Srta. Mariane Viana,Em andamento,99.9,0.9561867060026512,0.9311839176099164,Não
+PROJ-0292,A liberdade de mudar com força total,02/09/2024,30/11/2024,12/12/2024,3444802,Daniela Viana,Concluído,100.0,0.9900646335117105,0.9503569727066741,Não
+PROJ-0293,A segurança de inovar sem preocupação,08/11/2023,24/03/2024,02/05/2024,2302936,Sr. José Sales,Atrasado,63.180101527095836,0.6318010152709583,0.8538572841956124,Não
+PROJ-0294,O prazer de avançar antes de tudo,30/07/2023,12/05/2024,12/05/2024,1890242,Anthony Freitas,Em andamento,94.44182263675015,0.997914777670299,1.2361788427234388,Não
+PROJ-0295,O poder de realizar seus sonhos naturalmente,30/06/2025,02/03/2026,06/10/2025,2753678,Helena Aparecida,Cancelado,40.19343261450527,7.033850707538423,0.7943732781413794,Não
+PROJ-0296,A vantagem de evoluir com confiança,02/09/2024,07/10/2024,02/11/2024,1630609,Maria Liz da Rosa,Em andamento,99.9,1.0722653588996145,1.200130658492781,Não
+PROJ-0297,A simplicidade de realizar seus sonhos naturalmente,05/07/2025,21/02/2026,17/03/2026,3631960,Clara Cavalcanti,Concluído,100.0,1.066960405944284,0.8902812749911033,Não
+PROJ-0298,A segurança de avançar simplesmente,07/12/2023,21/10/2024,11/10/2024,1807956,Alexandre Duarte,Em andamento,94.4550511855657,0.9241711110298887,0.8603622630769298,Não
+PROJ-0299,O prazer de evoluir sem preocupação,11/11/2023,27/07/2024,30/07/2024,1097838,Sofia Vieira,Em andamento,90.36193359274604,0.9927775669806032,0.9811835348498004,Não
+PROJ-0300,A liberdade de inovar naturalmente,27/10/2024,11/10/2025,18/11/2025,2480636,Maria Luísa Camargo,Atrasado,54.46881128670095,0.7311390438099473,0.9511125346032331,Não
+PROJ-0301,A possibilidade de ganhar naturalmente,13/02/2024,13/12/2024,09/02/2025,1628793,Thomas Correia,Atrasado,87.37709253176392,0.8737709253176392,0.9588832366818557,Não
+PROJ-0302,O prazer de mudar naturalmente,16/05/2025,10/12/2025,08/12/2025,3881514,Anthony Gabriel Cassiano,Em andamento,31.95858822817852,1.1428468433428705,0.8947245117234913,Não
+PROJ-0303,O direito de inovar sem preocupação,28/04/2024,29/06/2024,27/06/2024,1678281,Srta. Ana Julia da Conceição,Em andamento,99.9,0.9122475735725764,0.919571805798796,Sim
+PROJ-0304,A simplicidade de evoluir direto da fonte,12/06/2025,02/02/2026,02/07/2026,796134,Liz Nogueira,Atrasado,6.922179575178925,0.5083475625522023,0.7037636922120948,Não
+PROJ-0305,O prazer de concretizar seus projetos mais rapidamente,07/07/2024,11/11/2024,14/11/2024,1377088,Eduarda Lima,Concluído,100.0,1.0346648393084925,0.8518327612518097,Não
+PROJ-0306,A arte de atingir seus objetivos direto da fonte,15/04/2024,05/09/2024,06/09/2024,1715455,Letícia Sampaio,Em andamento,97.26606241728668,1.0244457808643272,1.0465334302431826,Sim
+PROJ-0307,O conforto de avançar com confiança,19/07/2024,02/04/2025,15/04/2025,3473584,João Vitor da Mota,Em andamento,99.9,1.0981946336161195,0.9781630537929953,Não
+PROJ-0308,A certeza de mudar naturalmente,18/09/2023,15/01/2024,24/12/2023,1300950,Maria Luísa Ribeiro,Concluído,100.0,1.0660697142431432,0.8980856323528894,Não
+PROJ-0309,A possibilidade de evoluir com força total,02/08/2024,29/11/2024,11/11/2024,3845364,Vicente Gonçalves,Concluído,100.0,1.0237427293357244,1.2304101751715912,Não
+PROJ-0310,A segurança de ganhar em estado puro,16/07/2024,24/05/2025,07/11/2025,4625644,Davi Luiz Ramos,Atrasado,54.33310054873082,0.5433310054873082,0.7870558274463141,Sim
+PROJ-0311,A certeza de conseguir antes de tudo,19/03/2024,27/04/2024,16/05/2024,66970,Ayla Fonseca,Em andamento,99.9,0.8756173464255698,0.8591201590753859,Não
+PROJ-0312,A vantagem de realizar seus sonhos sem preocupação,18/10/2023,24/09/2024,22/09/2024,4039405,Gabriel Rios,Em andamento,94.01260288964839,1.1159608026382173,1.00528411677155,Sim
+PROJ-0313,O prazer de conseguir com confiança,27/02/2025,21/12/2025,15/01/2026,2572894,Liam Sá,Em andamento,38.21130843313318,0.9038808803436343,1.1006968884755344,Sim
+PROJ-0314,A segurança de mudar com toda a tranquilidade,01/12/2024,25/03/2025,11/04/2025,1508423,Dr. Ravi Carvalho,Concluído,100.0,1.0905800593720631,1.2450296163578038,Não
+PROJ-0315,A simplicidade de realizar seus sonhos naturalmente,06/05/2024,08/12/2024,01/01/2025,4143735,Marina Brito,Em andamento,82.32339213393222,1.1411981081728355,0.8741722076823583,Não
+PROJ-0316,A vantagem de inovar com toda a tranquilidade,25/09/2024,16/11/2024,08/12/2024,497996,Thomas Melo,Concluído,100.0,1.0842473571778006,0.9686457512535659,Sim
+PROJ-0317,A possibilidade de atingir seus objetivos em estado puro,09/02/2025,14/06/2025,23/07/2025,4303127,Olívia Cirino,Atrasado,58.55211575083041,0.5855211575083041,0.848852043852835,Não
+PROJ-0318,A simplicidade de inovar em estado puro,18/12/2024,22/09/2025,19/09/2025,1533435,Carolina Cunha,Em andamento,73.285557223364,1.0690270419807795,0.908711428520129,Não
+PROJ-0319,A vantagem de avançar naturalmente,07/02/2024,12/07/2024,13/07/2024,3320507,Maya da Mata,Concluído,100.0,1.0237402981372101,1.001071544504942,Não
+PROJ-0320,A certeza de atingir seus objetivos naturalmente,26/09/2024,23/12/2024,06/01/2025,4843986,Dra. Clarice da Costa,Em andamento,99.9,1.095513389306416,1.1022283533838928,Não
+PROJ-0321,A possibilidade de evoluir em estado puro,06/08/2023,13/04/2024,21/04/2024,4302250,Luna Garcia,Em andamento,91.2074978642154,1.0011316429664632,0.8572608468557801,Sim
+PROJ-0322,A segurança de concretizar seus projetos com confiança,08/01/2025,06/10/2025,05/11/2025,706649,Sr. Yan Camargo,Atrasado,60.038846616959574,0.8700816809195745,0.670697823999261,Não
+PROJ-0323,O poder de evoluir mais facilmente,11/06/2024,07/03/2025,08/04/2025,4579834,Lunna Câmara,Atrasado,74.43926436156677,0.7443926436156677,0.7435544419473954,Sim
+PROJ-0324,A possibilidade de realizar seus sonhos mais rapidamente,13/02/2024,20/10/2024,08/11/2024,1325062,Pedro Miguel Jesus,Em andamento,94.42695497007173,1.0701151000316735,0.9385887422975944,Não
+PROJ-0325,A simplicidade de evoluir de maneira eficaz,29/08/2024,14/04/2025,27/08/2025,2385691,Ravi da Cruz,Atrasado,85.01311131878417,0.8501311131878417,0.8102578358497998,Não
+PROJ-0326,A arte de realizar seus sonhos mais facilmente,06/01/2025,04/07/2025,24/07/2025,3235605,Cauã Peixoto,Em andamento,94.10272578682128,0.9041670395336453,1.0758594127190126,Sim
+PROJ-0327,O conforto de inovar direto da fonte,12/01/2025,24/05/2025,18/05/2025,4164619,Antônio Melo,Em andamento,89.1139573829584,0.8548314553207924,1.1908327864220976,Sim
+PROJ-0328,A certeza de avançar com confiança,18/05/2025,24/12/2025,10/12/2025,2052216,Gael Vargas,Em andamento,24.9040986755407,0.9858481988934702,0.8959268571285832,Não
+PROJ-0329,A possibilidade de avançar antes de tudo,08/06/2024,30/12/2024,03/01/2025,1232877,Ana Vitória Albuquerque,Em andamento,81.18418592286754,1.1477001292852869,1.1896647937758364,Não
+PROJ-0330,O direito de conseguir simplesmente,20/04/2024,27/08/2024,22/09/2024,3555091,Eduardo Garcia,Em andamento,99.9,1.1160459637174462,0.8502211691404601,Sim
+PROJ-0331,A possibilidade de atingir seus objetivos com confiança,27/09/2023,05/01/2024,14/01/2024,1030082,Luiza das Neves,Concluído,100.0,1.0526190549088799,1.023909137207201,Sim
+PROJ-0332,A possibilidade de concretizar seus projetos sem preocupação,08/08/2024,12/02/2025,02/03/2025,4364027,Ana Júlia Jesus,Concluído,100.0,0.9718576874702457,1.0635928676471884,Não
+PROJ-0333,O prazer de inovar com toda a tranquilidade,16/01/2025,02/05/2025,18/05/2025,2166373,Dr. José Miguel Castro,Atrasado,86.91422682133776,0.8691422682133776,0.6840014234456736,Não
+PROJ-0334,A segurança de inovar com força total,24/04/2025,14/02/2026,07/07/2026,4272090,Maria Luiza Oliveira,Atrasado,24.205814103174138,0.8845581450048823,0.965379764134734,Não
+PROJ-0335,O conforto de concretizar seus projetos mais facilmente,15/12/2023,23/11/2024,21/12/2024,3353904,Francisco Jesus,Concluído,100.0,1.015175117396123,1.0638914424606662,Não
+PROJ-0336,A vantagem de mudar mais facilmente,06/09/2024,10/03/2025,17/03/2025,4877817,Emanuel Oliveira,Em andamento,94.14743572430223,1.0936522063488168,0.8482290793490925,Não
+PROJ-0337,A vantagem de atingir seus objetivos mais facilmente,11/06/2025,06/08/2025,13/08/2025,3278494,Luiz Fernando Correia,Em andamento,68.99005461066245,1.037190211346036,0.9187639890756227,Sim
+PROJ-0338,O direito de avançar com confiança,19/07/2023,08/02/2024,03/02/2024,784140,Amanda Ferreira,Concluído,100.0,1.0205171590718907,0.9379442245259308,Não
+PROJ-0339,A possibilidade de avançar com força total,07/01/2024,13/03/2024,28/04/2024,633051,Rodrigo Freitas,Atrasado,79.13997275755277,0.7913997275755277,0.6863009551989494,Não
+PROJ-0340,A possibilidade de atingir seus objetivos simplesmente,01/12/2023,23/10/2024,25/03/2025,1740571,Srta. Liz Vargas,Atrasado,53.60054296822124,0.5360054296822124,0.7428273365729073,Não
+PROJ-0341,A segurança de conseguir naturalmente,13/10/2024,12/04/2025,28/03/2025,4141999,Fernando Ramos,Concluído,100.0,0.985333283402932,1.061940017213378,Não
+PROJ-0342,A liberdade de avançar simplesmente,30/07/2023,29/01/2024,17/01/2024,3443543,Cecília Martins,Em andamento,95.48025549518417,0.9420617702207282,0.9573708935712781,Não
+PROJ-0343,O direito de inovar com toda a tranquilidade,17/05/2025,09/11/2025,29/11/2025,4584620,Noah Camargo,Em andamento,33.1214755791523,1.0691845998896192,0.9068530961714018,Sim
+PROJ-0344,A vantagem de mudar sem preocupação,04/03/2025,18/08/2025,10/09/2025,2607555,Breno Vargas,Em andamento,69.53287677037183,0.9629807657667822,1.1209706068239351,Sim
+PROJ-0345,A arte de conseguir com confiança,31/08/2024,28/12/2024,06/10/2024,4129425,João Rocha,Cancelado,30.280116062986792,0.30280116062986795,0.68958805674872,Não
+PROJ-0346,A possibilidade de concretizar seus projetos em estado puro,30/06/2024,11/03/2025,05/03/2025,4728487,Maria Isis Almeida,Em andamento,95.47563262300285,0.9150030369330326,1.2039256148269553,Não
+PROJ-0347,O direito de mudar com força total,27/11/2024,16/02/2025,22/02/2025,3243070,Marina Farias,Concluído,100.0,0.9536429909697866,1.0792317488491374,Sim
+PROJ-0348,A vantagem de evoluir mais rapidamente,07/10/2024,31/05/2025,18/05/2025,2264760,Thomas Pimenta,Em andamento,99.9,1.149697823964064,0.9657434475663902,Não
+PROJ-0349,A possibilidade de realizar seus sonhos de maneira eficaz,04/11/2024,12/08/2025,26/08/2025,2374301,Dr. Gabriel Abreu,Em andamento,99.9,0.8912520322288083,0.8598618623796193,Não
+PROJ-0350,A vantagem de avançar sem preocupação,19/08/2024,15/10/2024,08/11/2024,4262832,Ana Luiza Marques,Em andamento,84.0096779955594,0.9075705507899859,0.8455590917528677,Sim
+PROJ-0351,O conforto de inovar de maneira eficaz,27/08/2023,14/02/2024,15/09/2023,2213164,Emanuella Leão,Cancelado,11.157360531724372,0.11157360531724372,0.8389176471512665,Não
+PROJ-0352,A segurança de inovar mais facilmente,12/04/2024,30/07/2024,29/07/2024,2432138,Sr. Otávio da Cunha,Em andamento,99.9,1.0823777825632988,0.8649482906155456,Sim
+PROJ-0353,O conforto de evoluir naturalmente,25/10/2024,26/12/2024,13/06/2025,4817270,Maria Julia Cirino,Atrasado,89.5097314317859,0.895097314317859,0.7959156659548201,Sim
+PROJ-0354,A possibilidade de atingir seus objetivos mais facilmente,21/07/2023,07/07/2024,27/07/2024,1203177,André Azevedo,Em andamento,99.9,1.0681704659413662,0.8903942204688786,Não
+PROJ-0355,A simplicidade de evoluir mais rapidamente,23/06/2025,02/05/2026,19/05/2026,3863220,Ísis Andrade,Em andamento,7.668876192294194,1.0288263678200966,1.105103394994151,Não
+PROJ-0356,O prazer de ganhar sem preocupação,02/08/2024,27/11/2024,25/01/2025,2726184,Sr. Henry Gabriel Leão,Atrasado,77.61402035076773,0.7761402035076774,0.7187654089368921,Não
+PROJ-0357,A liberdade de concretizar seus projetos em estado puro,01/02/2024,29/03/2024,15/03/2024,1886615,Matteo Rios,Em andamento,97.62529718464441,1.1008335081101088,1.1075390315213527,Não
+PROJ-0358,O poder de atingir seus objetivos mais rapidamente,05/09/2024,15/11/2024,06/01/2025,4241233,Dom Gonçalves,Atrasado,77.71549414989008,0.7771549414989007,0.6853578744183336,Não
+PROJ-0359,A simplicidade de inovar naturalmente,26/09/2023,15/12/2023,25/01/2024,1956552,Dr. Yuri Fernandes,Atrasado,54.315642141670516,0.5431564214167052,0.7487545900798621,Não
+PROJ-0360,A segurança de ganhar de maneira eficaz,24/05/2025,12/10/2025,08/11/2025,3782424,Maria Julia Jesus,Em andamento,29.778297896179446,1.12643346892435,1.2075176934329748,Não
+PROJ-0361,O conforto de concretizar seus projetos antes de tudo,22/10/2023,08/06/2024,29/10/2024,457574,Dra. Aurora Ramos,Atrasado,54.89392886510114,0.5489392886510114,0.703098576699734,Sim
+PROJ-0362,O prazer de concretizar seus projetos simplesmente,25/06/2025,17/04/2026,13/04/2026,3901297,Laís Ribeiro,Concluído,100.0,0.9603617217528364,0.9225149592664031,Não
+PROJ-0363,O poder de inovar com confiança,22/12/2024,17/11/2025,17/12/2025,111773,Dra. Ayla Lima,Em andamento,50.39266245701122,0.8900159850524499,0.915671174795472,Sim
+PROJ-0364,O direito de concretizar seus projetos simplesmente,23/05/2024,27/09/2024,26/10/2024,3137696,Hadassa Lima,Em andamento,85.80349017623665,1.1419761140746822,0.9369192655842827,Não
+PROJ-0365,A certeza de mudar simplesmente,08/11/2024,29/10/2025,14/11/2025,4775280,Srta. Heloisa Silveira,Concluído,100.0,0.9710169066730151,0.8657184737879828,Sim
+PROJ-0366,A simplicidade de realizar seus sonhos direto da fonte,18/12/2024,19/07/2025,11/07/2025,3338588,Francisco Vasconcelos,Em andamento,82.59694000519502,0.9767284942500846,1.1994818648702776,Sim
+PROJ-0367,A vantagem de realizar seus sonhos com confiança,16/04/2024,24/05/2024,24/05/2024,155281,Maria Luiza Vieira,Em andamento,88.84366233110515,0.9552147814491766,0.9095127334158117,Não
+PROJ-0368,O conforto de mudar naturalmente,24/06/2025,31/10/2025,27/10/2025,3798276,Theo da Rosa,Em andamento,12.951539920023833,1.1454124241829564,1.239720170661973,Sim
+PROJ-0369,A arte de inovar antes de tudo,29/03/2025,11/09/2025,24/11/2025,2877467,Benicio Nogueira,Atrasado,52.35938822518783,0.8123045276057177,0.9243106139255602,Sim
+PROJ-0370,A segurança de inovar com confiança,04/10/2023,02/06/2024,22/06/2024,2002136,Erick da Cunha,Em andamento,93.40865864770174,0.9673267747317952,1.0488569185636183,Sim
+PROJ-0371,A possibilidade de evoluir antes de tudo,05/09/2023,30/08/2024,20/08/2024,1141432,João Felipe Rios,Em andamento,99.9,1.1488426934089548,0.8375126540763612,Não
+PROJ-0372,A vantagem de inovar mais facilmente,21/08/2024,13/04/2025,03/02/2025,1533323,Antony Martins,Cancelado,70.92569178709368,0.7092569178709368,0.9952384281382841,Não
+PROJ-0373,A segurança de realizar seus sonhos com toda a tranquilidade,04/07/2024,22/10/2024,01/12/2024,2561310,Rafaela da Rocha,Atrasado,73.35480738105153,0.7335480738105153,0.8781863075779064,Não
+PROJ-0374,O conforto de conseguir direto da fonte,03/04/2025,01/12/2025,20/12/2025,1201776,Melissa Pacheco,Concluído,100.0,1.0831667408835766,0.9795464932887249,Não
+PROJ-0375,O prazer de evoluir direto da fonte,20/07/2024,05/01/2025,04/02/2025,445128,Anna Liz Cassiano,Em andamento,99.9,1.0267252868081596,1.2187815515187057,Sim
+PROJ-0376,O direito de concretizar seus projetos em estado puro,11/06/2025,14/12/2025,06/01/2026,2249134,Carlos Eduardo Duarte,Em andamento,16.185667584585968,0.9696568202403602,1.15306020689184,Não
+PROJ-0377,A arte de realizar seus sonhos antes de tudo,24/08/2023,22/05/2024,23/05/2024,310187,Igor Porto,Em andamento,80.42677506333891,0.916480552906752,0.9785728535839356,Sim
+PROJ-0378,O conforto de avançar em estado puro,28/06/2025,08/02/2026,10/03/2026,1910837,Dra. Liz Ramos,Em andamento,5.9786241112236835,1.126807784500125,0.9523945507240675,Não
+PROJ-0379,O conforto de conseguir mais facilmente,11/12/2024,25/07/2025,27/06/2025,4552787,Nathan Nunes,Concluído,100.0,1.0340990556567191,1.0501370293772065,Não
+PROJ-0380,A liberdade de evoluir sem preocupação,21/03/2025,18/10/2025,31/10/2025,2610241,Davi Luiz Rodrigues,Concluído,100.0,1.086065088292527,1.1003034172428112,Não
+PROJ-0381,A vantagem de mudar mais facilmente,27/12/2024,17/12/2025,19/11/2025,1159793,Maria Flor da Luz,Concluído,100.0,1.0913966586311388,1.2001794760224613,Não
+PROJ-0382,A segurança de atingir seus objetivos direto da fonte,16/04/2024,21/08/2024,07/11/2024,728368,Danilo da Luz,Atrasado,58.04840764229863,0.5804840764229863,0.7634661650597337,Não
+PROJ-0383,A simplicidade de evoluir mais facilmente,24/08/2024,05/12/2024,10/12/2024,3754853,Dr. Kevin Cardoso,Concluído,100.0,0.9759957753001853,0.992223315166605,Não
+PROJ-0384,A certeza de inovar com força total,11/12/2024,26/02/2025,23/02/2025,796216,Benicio Freitas,Em andamento,99.9,1.0007853631897385,1.1465311020074493,Não
+PROJ-0385,O conforto de ganhar simplesmente,21/06/2024,28/05/2025,21/06/2025,3311170,Alana Cavalcanti,Em andamento,83.4168533575507,1.0871006642865138,1.223303085553882,Não
+PROJ-0386,A liberdade de conseguir naturalmente,21/05/2025,16/05/2026,27/05/2026,2652825,Sophia Araújo,Em andamento,16.137534434651293,0.874618971504669,0.9388704989733652,Não
+PROJ-0387,O prazer de inovar naturalmente,14/03/2025,30/01/2026,24/06/2026,2254197,Matteo Siqueira,Atrasado,33.537566027801816,0.8851718246682119,0.8159399865486335,Sim
+PROJ-0388,A certeza de inovar simplesmente,13/03/2025,06/01/2026,18/01/2026,2343126,Kaique Viana,Em andamento,41.51200973068776,1.0552280986681677,1.193906439402093,Não
+PROJ-0389,O direito de avançar simplesmente,17/07/2024,27/12/2024,02/01/2025,868733,Mariah Mendes,Concluído,100.0,1.0264101123839138,1.149461172036337,Não
+PROJ-0390,A certeza de atingir seus objetivos simplesmente,28/06/2025,24/10/2025,26/10/2025,4157626,Maria Helena Araújo,Em andamento,11.360464611606782,1.0885025543250517,1.2111739121698488,Sim
+PROJ-0391,O prazer de conseguir mais facilmente,26/10/2024,09/06/2025,09/07/2025,1037402,Isaque Novaes,Em andamento,89.1784313558407,0.970548921212609,1.2355902741301055,Não
+PROJ-0392,A segurança de atingir seus objetivos em estado puro,16/11/2024,15/02/2025,26/01/2025,2655318,Dr. Ryan Silveira,Concluído,100.0,1.0573785799268534,0.8777804637956481,Sim
+PROJ-0393,O direito de avançar simplesmente,28/11/2024,17/03/2025,20/06/2025,804498,Emilly da Luz,Atrasado,84.45797140992235,0.8445797140992235,0.8440753607526116,Não
+PROJ-0394,O direito de realizar seus sonhos naturalmente,28/04/2024,28/05/2024,08/10/2024,1410842,Danilo da Cruz,Atrasado,61.053996804441866,0.6105399680444187,0.6838047596747538,Não
+PROJ-0395,O poder de concretizar seus projetos simplesmente,26/03/2025,17/10/2025,12/10/2025,4917589,Laura Siqueira,Em andamento,62.713443678869,1.0737320697342116,0.886747428008253,Não
+PROJ-0396,A vantagem de avançar antes de tudo,11/01/2024,10/07/2024,10/11/2024,1372560,Júlia Freitas,Atrasado,75.62035721875068,0.7562035721875069,0.9694018622851874,Sim
+PROJ-0397,O prazer de ganhar direto da fonte,01/09/2024,05/08/2025,01/08/2025,3445661,Dr. Raul da Paz,Concluído,100.0,1.097634264706685,1.16476298016639,Sim
+PROJ-0398,A segurança de conseguir direto da fonte,16/01/2024,28/12/2024,13/12/2024,2018741,Emanuelly Guerra,Concluído,100.0,1.0603638927063674,1.0450748974032196,Não
+PROJ-0399,A liberdade de atingir seus objetivos mais rapidamente,30/07/2023,13/05/2024,08/06/2024,2013592,Luigi Lopes,Atrasado,75.06221368818846,0.7506221368818846,0.7040858252553741,Sim
+PROJ-0400,A simplicidade de realizar seus sonhos com força total,19/10/2023,09/01/2024,26/12/2023,4711981,Emanuel Novaes,Em andamento,99.9,1.1328796180058658,1.0828534457376335,Sim
+PROJ-0401,O prazer de conseguir com toda a tranquilidade,18/06/2025,19/05/2026,18/05/2026,4883997,Srta. Isabelly Sampaio,Em andamento,7.550518842871747,1.0643698686781535,1.0806255751985185,Não
+PROJ-0402,A segurança de evoluir mais facilmente,24/05/2024,09/04/2025,07/09/2025,2099551,Cecilia Dias,Atrasado,87.75287087965008,0.8775287087965008,0.732110035997729,Sim
+PROJ-0403,O conforto de conseguir de maneira eficaz,16/03/2025,22/04/2025,28/03/2025,2637952,João Vitor Monteiro,Concluído,100.0,1.0372513599565374,0.9290098621621139,Não
+PROJ-0404,A possibilidade de ganhar naturalmente,05/06/2025,31/12/2025,31/12/2025,389084,Dra. Stella da Rocha,Em andamento,17.957477186584672,1.0462607986018453,1.243964767921702,Sim
+PROJ-0405,A segurança de avançar com força total,16/02/2024,06/09/2024,24/04/2024,2837153,Ana Júlia Camargo,Cancelado,33.74359361772954,0.3374359361772954,0.6774449530804777,Não
+PROJ-0406,A certeza de ganhar direto da fonte,11/08/2023,07/08/2024,14/08/2024,795172,Ravi Vieira,Concluído,100.0,1.0283752103003476,0.836313176631362,Sim
+PROJ-0407,A possibilidade de inovar mais facilmente,04/09/2024,30/07/2025,24/07/2025,1735328,Luiz Fernando Lima,Em andamento,99.9,1.0802193565328417,1.0477078504329569,Sim
+PROJ-0408,A simplicidade de inovar com toda a tranquilidade,17/03/2024,17/04/2024,10/05/2024,678931,Rodrigo Rezende,Concluído,100.0,1.077155606978978,1.2123395878945094,Não
+PROJ-0409,O conforto de atingir seus objetivos antes de tudo,26/07/2023,04/06/2024,26/06/2024,881894,Luiz Otávio Cassiano,Em andamento,99.9,0.9888684247098904,0.8553346301257382,Não
+PROJ-0410,A segurança de realizar seus sonhos naturalmente,21/09/2024,08/06/2025,25/05/2025,2391791,Giovanna Rios,Em andamento,99.9,0.9506466087826622,0.9592868928947643,Não
+PROJ-0411,O prazer de ganhar em estado puro,10/12/2024,18/09/2025,11/01/2026,4008933,Caio da Rosa,Atrasado,42.54757548853023,0.5554822355447002,0.8048259597069405,Não
+PROJ-0412,O conforto de atingir seus objetivos com força total,28/05/2025,17/09/2025,15/03/2026,867107,Emilly Pinto,Atrasado,26.219499079381198,0.6248050844448285,0.6962590329089818,Não
+PROJ-0413,O conforto de atingir seus objetivos antes de tudo,10/01/2024,31/05/2024,22/06/2024,4238229,Maria Luísa Siqueira,Em andamento,94.06771975189602,0.9170769965402241,0.9019103195758079,Não
+PROJ-0414,A liberdade de conseguir mais facilmente,24/10/2024,24/03/2025,25/08/2025,87978,Maria Helena da Rocha,Atrasado,75.00884209290939,0.750088420929094,0.8273503664878926,Não
+PROJ-0415,A liberdade de inovar com toda a tranquilidade,13/10/2024,04/04/2025,04/04/2025,4420559,Antony Campos,Em andamento,99.9,0.9568321802716448,0.8656069148693125,Não
+PROJ-0416,A liberdade de evoluir naturalmente,12/05/2024,21/08/2024,03/09/2024,2090056,Maria Eduarda Jesus,Em andamento,81.01333757013577,1.0512737169048085,1.0441186518434635,Sim
+PROJ-0417,O conforto de ganhar em estado puro,20/04/2025,27/09/2025,21/10/2025,2602416,Helena Lopes,Concluído,100.0,0.9777353552810728,1.0146251264671347,Sim
+PROJ-0418,A arte de inovar antes de tudo,11/04/2024,08/11/2024,01/12/2024,4110920,Luiz Gustavo Andrade,Concluído,100.0,1.0074342089208415,0.9556720563785952,Não
+PROJ-0419,A vantagem de conseguir naturalmente,14/09/2023,16/11/2023,29/10/2023,3266229,Pedro Aparecida,Concluído,100.0,1.0532183315532855,0.9363897354760605,Sim
+PROJ-0420,O prazer de ganhar com toda a tranquilidade,29/09/2024,11/06/2025,01/10/2025,1614885,Bryan Pereira,Atrasado,86.99078116666583,0.8699078116666583,0.6922696428296351,Sim
+PROJ-0421,O conforto de avançar com força total,14/10/2024,14/08/2025,01/09/2025,4521594,João Pedro Pires,Concluído,100.0,1.0824220063236956,0.9003587949024152,Não
+PROJ-0422,A possibilidade de evoluir simplesmente,13/09/2024,30/06/2025,24/06/2025,1264761,Miguel Nunes,Em andamento,99.9,1.051967392312398,0.8483539863951193,Sim
+PROJ-0423,A liberdade de concretizar seus projetos simplesmente,17/03/2025,24/05/2025,17/06/2025,2595063,Ágatha Montenegro,Em andamento,99.9,1.0472506718972872,0.898957604083488,Sim
+PROJ-0424,A arte de atingir seus objetivos com força total,06/02/2025,03/12/2025,08/05/2026,1768075,Alice Martins,Atrasado,45.23050340871457,0.858807026747745,0.728449654744557,Sim
+PROJ-0425,O poder de avançar direto da fonte,15/07/2024,10/05/2025,23/05/2025,1031513,Miguel Ferreira,Concluído,100.0,1.002354301378532,1.0496092400763173,Não
+PROJ-0426,O poder de ganhar com força total,01/03/2024,04/11/2024,26/11/2024,1591371,Cauã Freitas,Em andamento,93.12252896211464,1.072308463162181,1.2368119479609847,Não
+PROJ-0427,O prazer de avançar com toda a tranquilidade,03/01/2024,07/11/2024,14/11/2024,4913928,Benício Aparecida,Em andamento,99.9,0.8802391921192781,1.162715526319391,Não
+PROJ-0428,O direito de ganhar simplesmente,10/09/2024,19/06/2025,28/05/2025,2744469,Lívia Leão,Concluído,100.0,1.0366449298484635,1.0110917841570493,Sim
+PROJ-0429,A possibilidade de avançar direto da fonte,22/03/2025,12/06/2025,30/06/2025,3042524,Eloá Camargo,Concluído,100.0,1.0726392826817475,1.0060415885672187,Sim
+PROJ-0430,O poder de atingir seus objetivos em estado puro,07/02/2025,23/04/2025,04/05/2025,3512885,Thales Leão,Em andamento,99.58491798106053,1.1299829004064152,0.9315668430996383,Não
+PROJ-0431,A simplicidade de realizar seus sonhos com força total,01/09/2023,27/03/2024,19/04/2024,1881122,Gustavo Cunha,Em andamento,99.9,1.1255886833832933,0.8728559494281902,Não
+PROJ-0432,A possibilidade de atingir seus objetivos mais rapidamente,12/01/2025,12/05/2025,25/05/2025,3535718,Gael Martins,Em andamento,96.8636023843062,0.9212249940967748,0.8501357078826477,Não
+PROJ-0433,A certeza de mudar antes de tudo,27/09/2024,03/09/2025,07/09/2025,480898,Caleb Azevedo,Em andamento,95.0498761447045,0.9470016194386921,1.011134158248807,Não
+PROJ-0434,A possibilidade de atingir seus objetivos naturalmente,11/04/2025,14/08/2025,10/07/2025,4555126,Luiz Felipe Castro,Cancelado,72.68616249407013,0.9665713097615709,0.6914093451304363,Sim
+PROJ-0435,O poder de concretizar seus projetos direto da fonte,27/06/2024,23/08/2024,24/08/2024,4123231,Zoe Pimenta,Em andamento,99.9,1.0781186227826633,0.970242398255098,Não
+PROJ-0436,A simplicidade de realizar seus sonhos direto da fonte,26/02/2024,23/11/2024,02/12/2024,1927797,Fernando Costela,Concluído,100.0,0.9823419583239076,0.9038354788476088,Não
+PROJ-0437,A arte de concretizar seus projetos direto da fonte,22/02/2024,09/01/2025,04/01/2025,2716253,Isabelly Teixeira,Em andamento,99.9,1.1183975225121576,1.022983610855994,Sim
+PROJ-0438,A vantagem de ganhar simplesmente,05/06/2024,15/12/2024,17/11/2024,248690,Rhavi Silva,Concluído,100.0,1.0053414176852573,1.2034646161231721,Não
+PROJ-0439,A liberdade de conseguir com força total,24/06/2024,31/10/2024,05/09/2024,3715679,Sra. Isis Alves,Cancelado,57.22517388403997,0.5722517388403997,0.7579539444872384,Não
+PROJ-0440,O prazer de realizar seus sonhos direto da fonte,05/05/2025,23/03/2026,14/04/2026,464636,Arthur Gabriel Vieira,Em andamento,22.585084639349752,0.8662633772092656,1.0504621583203844,Não
+PROJ-0441,A certeza de concretizar seus projetos com toda a tranquilidade,26/02/2025,08/07/2025,24/12/2025,4054285,Maria Luísa Moraes,Atrasado,69.21347374999765,0.6921347374999764,0.9022986808741378,Sim
+PROJ-0442,O prazer de concretizar seus projetos em estado puro,15/05/2025,27/04/2026,13/05/2026,2767369,Davi Lucas Abreu,Em andamento,20.070796411341792,1.0491785837251748,0.9098166275062173,Não
+PROJ-0443,A certeza de avançar mais rapidamente,23/10/2024,24/05/2025,16/06/2025,1551081,Dr. Benjamin Oliveira,Em andamento,85.40873467400262,1.141674042709341,0.8861878592995613,Não
+PROJ-0444,O conforto de atingir seus objetivos com força total,28/02/2024,11/07/2024,17/07/2024,4543662,Sra. Aurora Costa,Em andamento,89.12233110163693,1.0783056865022458,0.9190625121048245,Não
+PROJ-0445,O direito de evoluir mais facilmente,10/05/2025,19/09/2025,09/09/2025,3581087,Juliana Fernandes,Em andamento,45.36964941166433,1.0900744788474364,1.0077998415713767,Não
+PROJ-0446,A liberdade de realizar seus sonhos com confiança,14/09/2024,12/11/2024,05/11/2024,3673793,Mirella Aragão,Cancelado,89.17810177452117,0.8917810177452117,0.8359741775941456,Não
+PROJ-0447,A certeza de avançar com força total,09/10/2024,04/01/2025,22/04/2025,446575,Luísa Lopes,Atrasado,54.99657883200007,0.5499657883200006,0.8383778838527988,Sim
+PROJ-0448,O poder de realizar seus sonhos com confiança,16/01/2025,20/09/2025,23/09/2025,2444649,José Pedro Marques,Em andamento,60.04536042658544,0.8518153769288835,0.8641021490738264,Não
+PROJ-0449,A vantagem de atingir seus objetivos antes de tudo,01/03/2024,10/10/2024,13/10/2024,3814889,Mariana Mendonça,Em andamento,95.80277936722227,0.9754259638322174,1.200525698434692,Não
+PROJ-0450,O poder de realizar seus sonhos de maneira eficaz,16/03/2025,25/11/2025,10/12/2025,104383,Sr. Luiz Henrique Vasconcelos,Em andamento,44.92784034626997,0.8977617578981804,1.0272647742643184,Não
+PROJ-0451,A possibilidade de ganhar naturalmente,26/09/2024,02/06/2025,28/06/2025,116251,Stephany Vargas,Em andamento,99.9,1.005798058153352,0.9221254408657171,Não
+PROJ-0452,A vantagem de realizar seus sonhos mais rapidamente,23/06/2024,01/09/2024,12/09/2024,4852841,Dra. Daniela Montenegro,Em andamento,99.9,0.8793604466925575,0.843567691069653,Não
+PROJ-0453,A liberdade de conseguir mais rapidamente,02/07/2024,06/04/2025,09/04/2025,2894903,Maria Fernanda Freitas,Em andamento,99.9,1.0100067754385735,1.0586941243877757,Não
+PROJ-0454,O poder de evoluir simplesmente,17/10/2023,03/08/2024,09/08/2024,3276159,Dr. Ravi Marques,Concluído,100.0,1.069289293267154,1.1304907794793073,Sim
+PROJ-0455,A liberdade de conseguir mais rapidamente,26/12/2023,05/03/2024,18/03/2024,4840794,Dra. Liz Macedo,Em andamento,99.9,1.1008710064897325,0.9289724185920252,Não
+PROJ-0456,A certeza de mudar de maneira eficaz,18/06/2024,11/12/2024,21/12/2024,3289178,Srta. Maria Isis Marques,Em andamento,99.9,0.9292991908592632,1.098248792273131,Não
+PROJ-0457,O poder de avançar mais rapidamente,24/10/2024,18/03/2025,19/03/2025,1693693,Luana Cavalcante,Em andamento,84.93942414197335,1.1497306830646017,0.9489567973311218,Sim
+PROJ-0458,A certeza de inovar mais rapidamente,03/04/2025,03/04/2026,27/03/2026,202378,Davi Lucas Costa,Em andamento,30.691300155738904,0.8760059639661862,0.8601405881609454,Não
+PROJ-0459,O prazer de avançar mais facilmente,06/10/2023,07/12/2023,24/02/2024,4985115,Aylla Vargas,Atrasado,50.73834362905427,0.5073834362905427,0.7382413213314842,Sim
+PROJ-0460,A possibilidade de conseguir direto da fonte,22/06/2024,12/01/2025,25/01/2025,1431136,Vitor Hugo Costela,Em andamento,90.5583286667049,0.8895149537208356,0.8894948442025216,Sim
+PROJ-0461,A arte de realizar seus sonhos com força total,02/03/2024,22/06/2024,13/11/2024,2830005,Theodoro Gomes,Atrasado,58.55435150167171,0.5855435150167171,0.9135540039750354,Sim
+PROJ-0462,O poder de mudar com confiança,29/09/2023,25/03/2024,20/03/2024,4275700,Miguel Nogueira,Em andamento,99.9,0.9356369904640626,1.0307337464259092,Não
+PROJ-0463,O poder de concretizar seus projetos sem preocupação,12/01/2025,24/07/2025,31/07/2025,1324100,Sr. Apollo Castro,Concluído,100.0,0.9958347949382085,1.0591078014818092,Não
+PROJ-0464,O conforto de concretizar seus projetos de maneira eficaz,16/05/2025,01/08/2025,29/07/2025,4561583,Maya Araújo,Em andamento,89.46803473052171,1.0559900763242476,1.2407460364194354,Não
+PROJ-0465,A liberdade de atingir seus objetivos mais rapidamente,01/07/2024,08/11/2024,06/11/2024,109261,Maria Cecília Pacheco,Em andamento,99.9,0.8564639385629355,0.93898601344734,Sim
+PROJ-0466,O poder de conseguir naturalmente,30/12/2023,24/09/2024,09/10/2024,4381398,Caroline Jesus,Concluído,100.0,1.0974820628766302,0.9548435967942452,Não
+PROJ-0467,O direito de atingir seus objetivos com toda a tranquilidade,06/04/2025,26/01/2026,03/01/2026,3029201,Srta. Maria Flor Nunes,Concluído,100.0,1.086847871986071,1.1003629429082877,Não
+PROJ-0468,A simplicidade de evoluir em estado puro,24/10/2023,19/09/2024,15/09/2024,1687145,Dr. Arthur Mendes,Concluído,100.0,0.9820747929587131,0.9263684387723822,Sim
+PROJ-0469,A segurança de concretizar seus projetos em estado puro,18/09/2024,20/05/2025,19/05/2025,204820,Alana Melo,Concluído,100.0,0.9553344417221972,1.053942222648742,Não
+PROJ-0470,O conforto de mudar simplesmente,18/06/2025,13/06/2026,23/06/2026,3545544,Dr. Vitor Hugo Correia,Em andamento,7.366596256941552,1.0563438550940665,0.8904813967560331,Não
+PROJ-0471,A simplicidade de ganhar com toda a tranquilidade,11/01/2025,24/03/2025,18/04/2025,2429595,Rael Abreu,Em andamento,89.27723589854925,0.9502643836860333,1.0406513533730999,Sim
+PROJ-0472,A certeza de conseguir mais rapidamente,08/11/2024,23/12/2024,22/01/2025,3922169,Stella Monteiro,Concluído,100.0,1.087676820209507,1.1581835181596363,Não
+PROJ-0473,A vantagem de conseguir mais facilmente,22/12/2024,08/12/2025,11/04/2026,1087441,Sr. Ravi Lucca da Costa,Atrasado,47.0640625311316,0.8097787229621172,0.7651016972675065,Sim
+PROJ-0474,A liberdade de atingir seus objetivos com força total,20/11/2023,12/11/2024,03/12/2024,399232,Elisa Sousa,Em andamento,91.6016351919475,1.0962941858496142,0.8433695190731134,Sim
+PROJ-0475,A segurança de concretizar seus projetos com confiança,28/07/2023,16/02/2024,09/03/2024,1974672,Liam Cunha,Concluído,100.0,1.0812869268826915,1.0991587112305965,Não
+PROJ-0476,O prazer de concretizar seus projetos mais rapidamente,21/09/2023,26/06/2024,18/07/2024,1737180,Dr. Luan Nascimento,Concluído,100.0,0.9816700019561122,1.1164297749420429,Não
+PROJ-0477,A vantagem de conseguir mais rapidamente,28/03/2024,29/08/2024,30/09/2024,1413121,Sra. Luara Fogaça,Atrasado,83.0352812143419,0.8303528121434188,0.9489183465903296,Não
+PROJ-0478,A liberdade de inovar sem preocupação,17/08/2023,04/07/2024,22/06/2024,4725914,João Miguel Teixeira,Concluído,100.0,1.0620674991488868,0.9769901028134784,Não
+PROJ-0479,A certeza de mudar mais rapidamente,10/11/2023,17/02/2024,27/02/2024,1783058,Evelyn Marques,Em andamento,81.36540415734828,0.8917686704527703,1.2151164407602797,Não
+PROJ-0480,O conforto de ganhar com toda a tranquilidade,08/08/2024,25/04/2025,17/04/2025,1822097,Pedro Lucas Costela,Em andamento,99.9,1.0046785831510383,1.2431129384102375,Sim
+PROJ-0481,A certeza de mudar antes de tudo,31/03/2024,25/07/2024,06/11/2024,3385414,Sr. Benjamin Fernandes,Atrasado,70.50641427585194,0.7050641427585194,0.721782650024957,Não
+PROJ-0482,A certeza de avançar em estado puro,13/11/2023,03/05/2024,23/05/2024,1106642,Lorena Pinto,Em andamento,99.9,1.0698416240382775,1.0294219731331118,Sim
+PROJ-0483,A simplicidade de concretizar seus projetos simplesmente,04/05/2025,08/11/2025,23/03/2026,4894693,Eloah Vargas,Atrasado,30.26486681694501,0.8013795720543185,0.7906355967009435,Sim
+PROJ-0484,A arte de avançar com confiança,06/07/2024,01/04/2025,23/07/2025,1322015,Kaique Fonseca,Atrasado,74.51487066411678,0.7451487066411678,0.9417504549547847,Não
+PROJ-0485,A segurança de mudar simplesmente,10/01/2025,08/03/2025,08/03/2025,3281209,Emanuel Dias,Em andamento,85.05002436743167,0.8541422973016349,1.0283049106698996,Não
+PROJ-0486,A possibilidade de avançar sem preocupação,28/10/2024,16/05/2025,09/06/2025,1484682,Ian Gonçalves,Concluído,100.0,0.9826803295911443,0.9101931037018737,Não
+PROJ-0487,A arte de ganhar mais facilmente,23/07/2023,03/01/2024,07/03/2024,1617371,Isadora Guerra,Atrasado,56.94908923251536,0.5694908923251536,0.6992900033372013,Não
+PROJ-0488,A vantagem de evoluir sem preocupação,07/01/2024,03/04/2024,21/03/2024,554806,Bianca Mendes,Cancelado,85.75440000007133,0.8575440000007133,0.9160802084071776,Não
+PROJ-0489,A segurança de mudar com força total,06/12/2024,06/03/2025,05/05/2025,2988881,Mirella Ribeiro,Atrasado,87.1823209971776,0.8718232099717761,0.8813648637970195,Não
+PROJ-0490,A arte de atingir seus objetivos mais rapidamente,21/01/2025,17/08/2025,16/09/2025,2530973,José Ribeiro,Em andamento,78.90169155494804,1.0557214553948842,0.8909844672005446,Não
+PROJ-0491,O direito de avançar mais facilmente,26/10/2024,19/12/2024,22/11/2024,3405173,Davi Lucas Barbosa,Concluído,100.0,0.9652376412857832,1.2269627662402787,Sim
+PROJ-0492,O conforto de ganhar com força total,04/05/2024,02/09/2024,13/07/2024,3914373,Isabella Martins,Cancelado,58.464368906243536,0.5846436890624354,0.7360688852813598,Não
+PROJ-0493,O direito de ganhar antes de tudo,28/09/2023,15/04/2024,01/05/2024,4977258,Srta. Allana Silva,Concluído,100.0,0.9668632527153941,0.9618303711315165,Não
+PROJ-0494,A liberdade de realizar seus sonhos mais facilmente,04/09/2023,02/11/2023,19/12/2023,1062714,Clara da Cunha,Atrasado,56.97300761354573,0.5697300761354573,0.6774115934964027,Não
+PROJ-0495,A segurança de ganhar mais rapidamente,14/08/2024,06/10/2024,17/12/2024,880307,Heloisa Cavalcante,Atrasado,50.65600613372469,0.5065600613372468,0.8582019522125038,Não
+PROJ-0496,A arte de inovar com toda a tranquilidade,08/08/2023,06/01/2024,25/01/2024,3644301,Bruna Pinto,Em andamento,91.27806410210135,0.9024847530581873,1.0195199281692464,Sim
+PROJ-0497,O direito de atingir seus objetivos mais facilmente,01/09/2023,19/05/2024,01/06/2024,417259,Mathias Brito,Em andamento,99.9,0.995287853654789,0.9803639486972676,Sim
+PROJ-0498,A vantagem de evoluir de maneira eficaz,11/07/2025,18/05/2026,30/05/2026,1771085,Sr. Luiz Otávio Aparecida,Em andamento,1.0459985423462372,0.964649080674227,0.892963278597321,Não
+PROJ-0499,A liberdade de realizar seus sonhos direto da fonte,23/03/2024,01/11/2024,21/11/2024,4682464,Sra. Maria Luísa Macedo,Concluído,100.0,1.029555754064296,0.9261891655561865,Não
+PROJ-0500,A possibilidade de inovar simplesmente,04/10/2024,20/02/2025,14/02/2025,2799555,Heloísa Abreu,Em andamento,96.30460905677558,0.8538458811554667,0.8489887792187707,Não
+PROJ-0501,A vantagem de realizar seus sonhos antes de tudo,02/10/2024,02/09/2025,09/09/2025,4772245,Maria Laura Sampaio,Concluído,100.0,1.0023197623886138,1.0078338816686647,Sim
+PROJ-0502,O conforto de realizar seus sonhos antes de tudo,11/11/2024,08/03/2025,31/03/2025,1820115,Ana Júlia Martins,Em andamento,99.9,1.0957161082685365,0.8352116338282275,Não
+PROJ-0503,O direito de conseguir naturalmente,24/12/2024,16/08/2025,01/09/2025,695664,Francisco Câmara,Em andamento,76.17968747581789,1.1238961032271422,0.869885232654981,Não
+PROJ-0504,O conforto de evoluir mais facilmente,22/03/2024,11/10/2024,28/10/2024,392980,Pedro Lucas Sousa,Em andamento,99.9,0.9280897422195669,0.9529293600216491,Não
+PROJ-0505,A vantagem de evoluir com força total,31/08/2023,31/07/2024,23/07/2024,2763358,Melina Freitas,Concluído,100.0,1.034761230844487,1.160294681403468,Não
+PROJ-0506,A certeza de inovar naturalmente,27/06/2025,24/03/2026,06/04/2026,3030963,Clara Camargo,Concluído,100.0,1.063331604951007,1.1491916684504642,Não
+PROJ-0507,A liberdade de atingir seus objetivos com toda a tranquilidade,10/01/2025,09/02/2025,06/03/2025,1656641,Maria Clara Montenegro,Em andamento,99.9,1.1314359042204112,1.1936338079515956,Sim
+PROJ-0508,A vantagem de avançar com força total,14/10/2023,15/03/2024,28/02/2024,1854500,Amanda Abreu,Concluído,100.0,0.9735358472048106,1.1998619940569435,Sim
+PROJ-0509,O direito de evoluir direto da fonte,18/09/2024,29/06/2025,30/06/2025,3666416,Joana Novais,Em andamento,90.66901687403293,1.0102755391675577,0.9611719595982339,Não
+PROJ-0510,A vantagem de concretizar seus projetos antes de tudo,21/06/2025,21/05/2026,27/09/2026,3612522,Noah Barros,Atrasado,5.206463466967447,0.7560690425944033,0.668079717620641,Não
+PROJ-0511,A arte de concretizar seus projetos mais rapidamente,15/06/2025,09/09/2025,25/09/2025,435990,Olívia da Mata,Em andamento,28.001393168587974,1.130407280753288,0.8411319945269276,Sim
+PROJ-0512,A vantagem de mudar mais facilmente,01/04/2025,06/02/2026,07/02/2026,3279804,Liz Peixoto,Em andamento,27.336859390602147,0.9106298747720962,0.8681824432962083,Não
+PROJ-0513,O poder de conseguir com toda a tranquilidade,11/09/2023,06/08/2024,14/08/2024,3264141,Luiz Henrique Oliveira,Em andamento,93.9310401455616,1.073707037157691,1.1946366632723997,Sim
+PROJ-0514,A arte de atingir seus objetivos mais facilmente,26/11/2023,06/01/2024,01/12/2023,3123135,Isadora Marques,Cancelado,12.290835377271172,0.12290835377271171,0.6997994123885756,Sim
+PROJ-0515,A vantagem de inovar em estado puro,04/01/2025,25/02/2025,21/01/2025,4346900,Lívia Ribeiro,Cancelado,33.05458891034819,0.33054588910348187,0.8242621363168232,Não
+PROJ-0516,O conforto de avançar mais facilmente,06/08/2023,02/05/2024,11/06/2024,2976008,Sr. Cauã Garcia,Atrasado,85.38019829301362,0.8538019829301362,0.8960157370135766,Não
+PROJ-0517,O conforto de concretizar seus projetos mais facilmente,23/06/2025,29/12/2025,20/12/2025,2961542,Stephany Santos,Em andamento,13.301414887225993,0.9038987161818812,1.0001949455347812,Não
+PROJ-0518,A possibilidade de ganhar sem preocupação,28/08/2024,19/06/2025,09/07/2025,3641741,Maria Flor Alves,Em andamento,98.33253777058019,1.1034815224191772,0.840121153190517,Sim
+PROJ-0519,A segurança de atingir seus objetivos mais facilmente,29/06/2025,30/11/2025,29/11/2025,2297762,Leonardo Santos,Em andamento,8.75856619070813,1.058333474187814,1.0631197406736668,Sim
+PROJ-0520,O poder de ganhar com força total,15/01/2024,11/11/2024,25/11/2024,1430071,Julia Dias,Em andamento,85.90930043530771,0.9118029647208449,0.9661671567233112,Não
+PROJ-0521,O prazer de evoluir mais rapidamente,13/06/2024,18/05/2025,13/05/2025,3219014,Maria Eduarda Martins,Concluído,100.0,1.0016179076870084,0.8913555724506717,Sim
+PROJ-0522,A arte de concretizar seus projetos com força total,02/03/2024,04/04/2024,21/03/2024,2756559,Dr. Juan Santos,Em andamento,83.89813672758291,1.1247744306420735,0.9532715682519366,Não
+PROJ-0523,A vantagem de inovar em estado puro,16/03/2024,19/09/2024,12/10/2024,234190,Ana Liz Santos,Em andamento,86.54348145915822,1.0801548291775505,0.9393247357209488,Não
+PROJ-0524,O poder de ganhar de maneira eficaz,09/08/2023,18/06/2024,21/06/2024,2404354,Vinicius Pereira,Em andamento,94.30553508707759,1.1477722186955903,0.8506586860656927,Não
+PROJ-0525,A possibilidade de conseguir de maneira eficaz,15/04/2025,14/03/2026,22/03/2026,2510978,Sra. Mirella Ferreira,Em andamento,26.859006677224357,1.1037478465906916,1.0377661880303024,Sim
+PROJ-0526,A simplicidade de atingir seus objetivos sem preocupação,06/10/2024,11/12/2024,26/11/2024,4206213,Ana Luiza da Mota,Cancelado,77.48142641755747,0.7748142641755748,0.7983968989602028,Não
+PROJ-0527,O prazer de inovar naturalmente,07/09/2024,05/08/2025,26/07/2025,1509619,Gabrielly Novaes,Em andamento,97.81058752558245,0.9178844070629945,0.8737605146652163,Sim
+PROJ-0528,A certeza de evoluir com confiança,25/06/2025,27/07/2025,21/08/2025,3585504,Gael Henrique Garcia,Em andamento,71.0248732392407,1.062802419926107,0.9301556149804506,Não
+PROJ-0529,O prazer de inovar mais facilmente,28/09/2023,19/01/2024,13/12/2023,3818609,Melina Souza,Cancelado,67.95624969149327,0.6795624969149326,0.7670497054280622,Não
+PROJ-0530,O prazer de conseguir de maneira eficaz,17/10/2024,21/04/2025,07/04/2025,1080898,Dr. João Miguel Pimenta,Concluído,100.0,1.0242774523511058,0.8766079981558184,Sim
+PROJ-0531,A segurança de realizar seus sonhos com força total,22/09/2023,27/01/2024,24/01/2024,4906389,Alice Martins,Concluído,100.0,1.006159418798264,1.1322751757545,Não
+PROJ-0532,A arte de avançar mais facilmente,14/02/2024,09/08/2024,17/11/2024,3482588,Alexandre Mendonça,Atrasado,87.83943456970059,0.8783943456970058,0.9725894928241768,Sim
+PROJ-0533,A vantagem de evoluir direto da fonte,19/09/2023,19/03/2024,12/09/2024,2832004,Ana Novaes,Atrasado,58.86977438637201,0.5886977438637201,0.927100217579161,Sim
+PROJ-0534,A possibilidade de ganhar mais facilmente,04/01/2025,29/10/2025,30/12/2025,3866319,Sra. Rebeca Silveira,Atrasado,40.81202693617037,0.6367530904177365,0.7008210563832057,Não
+PROJ-0535,A segurança de inovar simplesmente,27/11/2024,05/08/2025,26/07/2025,3496362,João Gabriel Martins,Concluído,100.0,1.0047449810314668,0.8421567914433046,Não
+PROJ-0536,A liberdade de realizar seus sonhos simplesmente,09/12/2023,07/03/2024,08/03/2024,4025245,Gael Henrique Rodrigues,Em andamento,88.0625469809809,1.0961044086608427,0.8588076321000859,Sim
+PROJ-0537,O poder de concretizar seus projetos simplesmente,08/07/2024,26/04/2025,26/05/2025,329197,Eduarda Lopes,Em andamento,95.19789991870485,0.9323482525326766,1.0116856445340603,Não
+PROJ-0538,A segurança de evoluir com confiança,01/03/2024,08/04/2024,12/04/2024,3023195,Maria Vitória Melo,Em andamento,99.9,1.0234595313250558,0.9390199432549715,Não
+PROJ-0539,O prazer de concretizar seus projetos naturalmente,31/03/2025,07/11/2025,28/01/2026,4353578,Gabrielly Garcia,Atrasado,30.354158214896387,0.6388827586182954,0.6873024075148171,Sim
+PROJ-0540,A liberdade de ganhar naturalmente,22/03/2025,27/09/2025,15/01/2026,4615371,Antônio Peixoto,Atrasado,41.87207623609737,0.6941949481247722,0.7689646030835264,Não
+PROJ-0541,A certeza de atingir seus objetivos com força total,17/06/2024,07/09/2024,14/09/2024,2879958,Sr. Yuri Correia,Em andamento,98.76896665426304,1.0414776160682062,1.0541163993925198,Não
+PROJ-0542,O direito de avançar em estado puro,24/02/2024,18/10/2024,21/12/2024,222681,Mariane Abreu,Atrasado,63.47653418542135,0.6347653418542135,0.9158828955503541,Sim
+PROJ-0543,O conforto de evoluir de maneira eficaz,23/09/2023,18/01/2024,16/02/2024,4738869,Sr. Matheus Souza,Concluído,100.0,1.0582789829197154,0.9663328508158938,Não
+PROJ-0544,A vantagem de evoluir de maneira eficaz,22/09/2024,09/07/2025,12/10/2025,3707165,Asafe Rios,Atrasado,84.87599205354256,0.8487599205354257,0.9122792690450983,Sim
+PROJ-0545,A segurança de realizar seus sonhos com confiança,11/06/2024,16/11/2024,10/12/2024,1000203,Henry Camargo,Concluído,100.0,1.043321671081476,0.8798185745371797,Sim
+PROJ-0546,O conforto de ganhar simplesmente,10/09/2023,10/06/2024,23/06/2024,1891522,Dra. Sara Caldeira,Em andamento,97.64761577411863,0.896748557296149,0.8941459453655458,Não
+PROJ-0547,A segurança de evoluir mais rapidamente,18/12/2024,20/05/2025,10/05/2025,1623567,Yasmin da Paz,Em andamento,99.9,1.0321314814915843,0.9209830831624816,Não
+PROJ-0548,A possibilidade de concretizar seus projetos em estado puro,09/06/2025,20/02/2026,10/03/2026,1464138,Dr. Davi Lucca Costela,Em andamento,14.172087926739572,1.0802961847096002,0.9547129119796738,Não
+PROJ-0549,A certeza de realizar seus sonhos em estado puro,02/01/2024,16/12/2024,09/01/2025,2793882,Gael Henrique Rodrigues,Em andamento,80.33025605583526,1.0163333866466344,0.9393908835648533,Sim
+PROJ-0550,O conforto de atingir seus objetivos mais facilmente,31/08/2024,25/07/2025,05/10/2024,1005931,Gael Henrique Souza,Cancelado,10.754407313096195,0.11127588639418146,0.6850543974928796,Não
+PROJ-0551,A possibilidade de atingir seus objetivos direto da fonte,26/09/2023,19/12/2023,16/05/2024,1723356,Ana Beatriz Mendes,Atrasado,71.1755418105255,0.711755418105255,0.7955471409834778,Não
+PROJ-0552,A arte de atingir seus objetivos de maneira eficaz,05/09/2023,03/04/2024,03/05/2024,162428,Dra. Valentina Montenegro,Em andamento,81.8682117100268,1.0961485969809348,1.0664259484620406,Não
+PROJ-0553,O prazer de evoluir com toda a tranquilidade,16/07/2023,14/07/2024,04/07/2024,876844,Milena Garcia,Em andamento,97.47900367546475,0.8882965630768678,0.9221616342111146,Sim
+PROJ-0554,A arte de mudar antes de tudo,01/12/2023,02/08/2024,30/08/2024,4424839,Arthur Gomes,Concluído,100.0,0.9750242462593085,1.0174835274689809,Não
+PROJ-0555,A vantagem de evoluir mais rapidamente,17/03/2025,12/10/2025,04/10/2025,329213,Mariana Barbosa,Concluído,100.0,1.0899543984844156,1.0306721457016736,Sim
+PROJ-0556,O poder de inovar simplesmente,02/02/2024,22/11/2024,11/12/2024,387823,Alice Borges,Em andamento,85.94756736653653,1.099761935009545,1.0248227147107198,Não
+PROJ-0557,A segurança de realizar seus sonhos antes de tudo,18/12/2024,07/03/2025,08/03/2025,1821988,Benjamin Fonseca,Em andamento,99.9,1.0744191652985065,1.0701191019962333,Não
+PROJ-0558,A certeza de conseguir antes de tudo,18/12/2024,22/02/2025,01/07/2025,3961983,Olívia Costa,Atrasado,51.66281037548942,0.5166281037548942,0.927300209486479,Não
+PROJ-0559,O prazer de conseguir com confiança,17/01/2024,13/09/2024,30/09/2024,4650111,Sabrina Cavalcante,Em andamento,99.9,0.927850012131864,0.8679950351013586,Não
+PROJ-0560,A liberdade de ganhar mais rapidamente,27/05/2025,04/12/2025,31/12/2025,431568,Nicolas Fonseca,Em andamento,24.20327986634361,1.075773584256475,1.2461650806171092,Sim
+PROJ-0561,A vantagem de realizar seus sonhos com toda a tranquilidade,13/05/2024,15/03/2025,27/02/2025,1678787,Valentim da Luz,Concluído,100.0,1.0501655302859945,0.8764118104026798,Não
+PROJ-0562,A possibilidade de realizar seus sonhos simplesmente,17/12/2024,02/05/2025,21/07/2025,2004884,Gustavo Henrique da Cruz,Atrasado,52.7119235903111,0.527119235903111,0.8413546663612308,Sim
+PROJ-0563,A simplicidade de evoluir de maneira eficaz,20/03/2025,08/11/2025,24/12/2025,1055750,Maria Julia da Cunha,Atrasado,32.34867032153277,0.6497620849066498,0.9873610719894266,Não
+PROJ-0564,O conforto de mudar em estado puro,13/10/2023,23/06/2024,04/07/2024,4504147,Luiz Henrique Cunha,Em andamento,88.29134722655463,1.0492555948798827,0.8732982363932352,Não
+PROJ-0565,A certeza de realizar seus sonhos em estado puro,20/05/2025,29/06/2025,31/05/2025,4300983,Pedro Henrique da Mota,Concluído,100.0,1.0051836476233913,1.0043399677635114,Não
+PROJ-0566,A vantagem de concretizar seus projetos com força total,17/02/2024,03/12/2024,11/01/2025,4804365,Bruna Silva,Atrasado,64.37931708656501,0.6437931708656501,0.9458564978888865,Não
+PROJ-0567,A arte de atingir seus objetivos mais facilmente,12/08/2023,27/11/2023,04/03/2024,1589126,Thales Araújo,Atrasado,76.02450783992117,0.7602450783992117,0.7180659822417491,Não
+PROJ-0568,O conforto de atingir seus objetivos com toda a tranquilidade,17/10/2023,20/05/2024,08/05/2024,2015497,Hadassa Costela,Em andamento,99.9,0.9767477275533312,1.0518102231094908,Não
+PROJ-0569,A liberdade de evoluir sem preocupação,20/08/2023,08/04/2024,24/04/2024,2122013,Gabriel Rodrigues,Concluído,100.0,1.0780135133459516,0.8840195151271029,Não
+PROJ-0570,O poder de atingir seus objetivos direto da fonte,21/10/2024,18/04/2025,19/06/2025,616594,Maria Luísa da Costa,Atrasado,58.78461782963905,0.5878461782963905,0.8164317112547728,Não
+PROJ-0571,O direito de realizar seus sonhos naturalmente,01/04/2025,06/09/2025,26/09/2025,2654598,Ana Luiza Campos,Em andamento,75.14542111785758,0.9778170992317622,0.979659765145167,Sim
+PROJ-0572,A simplicidade de evoluir mais facilmente,22/09/2024,26/08/2025,06/09/2025,4711779,Agatha Aragão,Concluído,100.0,0.9748400112554306,1.1028092960656288,Não
+PROJ-0573,A possibilidade de mudar de maneira eficaz,15/01/2025,19/12/2025,20/12/2025,81407,Sarah Melo,Concluído,100.0,1.0467816243184551,0.8897531273919778,Não
+PROJ-0574,O prazer de atingir seus objetivos antes de tudo,12/03/2024,15/11/2024,02/11/2024,545307,Rodrigo Mendes,Concluído,100.0,0.9622181805362944,0.8743826634239512,Sim
+PROJ-0575,O conforto de mudar antes de tudo,02/04/2024,13/11/2024,02/11/2024,258546,Alícia Leão,Em andamento,94.39391495951955,1.0390074184062446,0.8338310294538167,Não
+PROJ-0576,O prazer de avançar antes de tudo,25/03/2025,08/12/2025,19/12/2025,2228058,Ian Teixeira,Concluído,100.0,0.9593296273664317,0.8364583019420925,Sim
+PROJ-0577,A possibilidade de mudar simplesmente,15/01/2025,11/05/2025,02/05/2025,2797682,Yago Montenegro,Em andamento,99.9,0.9482889440771306,0.9729982612695731,Não
+PROJ-0578,A vantagem de inovar naturalmente,27/06/2025,14/12/2025,26/02/2026,3415358,Olivia Borges,Atrasado,6.6917548974031655,0.6691754897403165,0.7116729608396852,Não
+PROJ-0579,A certeza de concretizar seus projetos mais facilmente,30/11/2023,19/06/2024,13/07/2024,4068873,Ravy Nascimento,Em andamento,99.9,1.1496097630676472,0.8738067472297019,Não
+PROJ-0580,O direito de ganhar mais rapidamente,05/01/2025,30/04/2025,29/04/2025,2349945,Sofia Cardoso,Em andamento,90.97037292176078,0.8888021319892867,0.8882064860352915,Não
+PROJ-0581,O poder de avançar mais facilmente,07/06/2024,25/11/2024,09/12/2024,380995,Juliana Silveira,Em andamento,99.9,0.9084172757573937,0.8609178412212956,Não
+PROJ-0582,A vantagem de evoluir mais facilmente,05/05/2024,20/09/2024,07/10/2024,781451,Brenda Oliveira,Em andamento,99.9,1.1080897685968085,0.9327977933196584,Sim
+PROJ-0583,A segurança de inovar em estado puro,28/10/2023,31/12/2023,26/12/2023,1622955,Hellena Barros,Em andamento,99.9,1.0653181378917942,0.9677998974776949,Não
+PROJ-0584,O prazer de conseguir com toda a tranquilidade,09/08/2023,16/01/2024,29/06/2024,4798507,Srta. Maria Helena Pastor,Atrasado,81.4587188702913,0.814587188702913,0.7758305463727012,Sim
+PROJ-0585,A certeza de atingir seus objetivos com força total,04/11/2023,26/02/2024,20/02/2024,3322894,Olívia da Luz,Em andamento,99.9,0.9110567251882895,0.9620410131327574,Não
+PROJ-0586,O conforto de conseguir mais facilmente,14/01/2025,21/09/2025,27/09/2025,3258460,Srta. Cecília Ribeiro,Em andamento,62.16703353482293,0.94373039943675,1.2315233122390636,Sim
+PROJ-0587,A vantagem de evoluir mais facilmente,19/11/2023,16/05/2024,24/05/2024,4751159,Cauê Mendonça,Em andamento,99.9,0.9933067919937713,1.0414170248661936,Sim
+PROJ-0588,A possibilidade de evoluir sem preocupação,18/09/2023,22/07/2024,17/08/2024,4863034,Bruna Ramos,Em andamento,88.1450659294159,1.0062338400084856,1.1023317604814071,Não
+PROJ-0589,O conforto de ganhar simplesmente,05/12/2023,15/05/2024,20/05/2024,4569388,Camila da Cruz,Em andamento,97.28431307931191,1.1491521609250162,1.0032549030080533,Não
+PROJ-0590,O conforto de inovar sem preocupação,11/07/2025,04/12/2025,30/05/2026,3880025,Emanuel da Costa,Atrasado,1.5905182752599234,0.7740522272931627,0.7991121407582779,Não
+PROJ-0591,A segurança de inovar mais facilmente,29/03/2025,01/01/2026,08/01/2026,3749189,Luiz Felipe da Mota,Concluído,100.0,1.0767204580916172,0.8635663126791482,Não
+PROJ-0592,A simplicidade de conseguir com confiança,30/11/2024,03/07/2025,13/08/2025,1711115,Luiz Gustavo Marques,Atrasado,74.89038498067897,0.7489038498067897,0.8493388906442085,Não
+PROJ-0593,O conforto de realizar seus sonhos mais rapidamente,24/03/2024,10/09/2024,27/10/2024,3175201,Ana Lívia Ferreira,Atrasado,85.85754702235275,0.8585754702235274,0.9549814266204978,Sim
+PROJ-0594,A possibilidade de ganhar com confiança,20/06/2024,16/12/2024,19/12/2024,3173435,Vinicius Pinto,Em andamento,97.41096606888404,1.0465049167882963,0.8519790441934832,Não
+PROJ-0595,A certeza de inovar mais facilmente,23/09/2023,15/12/2023,13/02/2024,134363,Ana Carolina Aparecida,Atrasado,75.411758180778,0.75411758180778,0.9535646257663363,Sim
+PROJ-0596,A vantagem de realizar seus sonhos mais rapidamente,03/10/2023,29/11/2023,22/11/2023,1282127,Noah Fonseca,Em andamento,99.9,1.068434583158128,1.0068596461513557,Não
+PROJ-0597,A arte de realizar seus sonhos antes de tudo,31/08/2024,20/03/2025,04/06/2025,1416060,Heloisa Pimenta,Atrasado,79.40835702853386,0.7940835702853385,0.6761351274508824,Sim
+PROJ-0598,A liberdade de evoluir mais rapidamente,06/11/2024,08/05/2025,30/07/2025,861558,Cauê Vargas,Atrasado,79.6824261289419,0.796824261289419,0.7308170514093448,Sim
+PROJ-0599,A segurança de inovar direto da fonte,25/02/2025,19/02/2026,17/02/2026,2790078,Arthur Miguel Marques,Em andamento,31.97735862479407,1.0536956264594655,0.944787425671865,Não
+PROJ-0600,O direito de inovar simplesmente,27/02/2024,04/08/2024,28/07/2024,2992174,Arthur Martins,Em andamento,99.9,0.8918630235540703,0.9732056924802646,Não
+PROJ-0601,A arte de mudar em estado puro,30/01/2025,03/11/2025,31/01/2026,4751978,Luiz Gustavo Garcia,Atrasado,49.99115513579791,0.8392454528858194,0.6883544298334144,Sim
+PROJ-0602,A segurança de concretizar seus projetos antes de tudo,05/02/2024,10/06/2024,26/08/2024,4092671,Catarina Dias,Atrasado,75.33404772535566,0.7533404772535566,0.9364175101776862,Sim
+PROJ-0603,O prazer de conseguir com toda a tranquilidade,18/08/2023,22/05/2024,11/06/2024,287489,Sophia Borges,Concluído,100.0,1.0707718130784527,1.0965666267224288,Não
+PROJ-0604,O direito de inovar com força total,01/08/2023,04/02/2024,17/02/2024,2270759,Eduarda Fonseca,Concluído,100.0,1.0666878124081953,0.8669999978966644,Não
+PROJ-0605,O conforto de evoluir em estado puro,30/05/2024,29/09/2024,24/09/2024,2203590,Sra. Maitê das Neves,Em andamento,89.05418876762866,0.9884296605632512,0.9284998160051554,Não
+PROJ-0606,A vantagem de atingir seus objetivos com confiança,22/01/2025,09/03/2025,27/02/2025,3965672,Elisa Andrade,Em andamento,97.57396816325922,1.0020478521422527,0.9051824497034355,Não
+PROJ-0607,A simplicidade de inovar mais rapidamente,05/10/2024,21/12/2024,26/12/2024,2948620,Bruno Ferreira,Em andamento,96.72507279168087,0.9530495851392055,0.861471324383923,Sim
+PROJ-0608,A segurança de realizar seus sonhos em estado puro,09/02/2025,09/07/2025,02/07/2025,3964311,Valentim Fernandes,Concluído,100.0,1.0379532748616365,0.9079619633197048,Sim
+PROJ-0609,O poder de evoluir mais rapidamente,04/09/2024,25/07/2025,14/08/2025,3620252,Pedro Henrique Abreu,Atrasado,81.68794580046554,0.8455876817683974,0.9773975881987705,Não
+PROJ-0610,A possibilidade de ganhar simplesmente,26/07/2024,13/03/2025,06/03/2025,1625896,Joana Ribeiro,Em andamento,99.9,0.987313863636867,1.020996081827025,Não
+PROJ-0611,A possibilidade de ganhar sem preocupação,01/07/2024,29/03/2025,19/03/2025,370547,Ana Júlia Barbosa,Em andamento,99.9,1.0689781374834697,1.1819325631454667,Sim
+PROJ-0612,A vantagem de avançar com confiança,07/12/2024,19/07/2025,10/08/2025,3928516,Marcela Viana,Em andamento,79.03932422082461,0.9740715553772342,0.9966271617069864,Não
+PROJ-0613,O conforto de atingir seus objetivos simplesmente,17/05/2025,10/10/2025,28/09/2025,3470434,Raquel das Neves,Em andamento,33.714733885499385,0.9826476126207333,1.1130128141864286,Não
+PROJ-0614,O poder de ganhar sem preocupação,14/01/2025,12/07/2025,11/08/2025,1619172,Erick Barros,Em andamento,99.9,0.9699974788191877,1.0386265131976347,Sim
+PROJ-0615,A liberdade de inovar de maneira eficaz,22/01/2025,15/07/2025,30/07/2025,763038,Maria Isis Guerra,Concluído,100.0,1.0724738547658577,1.1427020764839972,Não
+PROJ-0616,O direito de realizar seus sonhos simplesmente,30/08/2023,02/12/2023,21/11/2023,4006210,Pietra Carvalho,Concluído,100.0,0.9603330834996566,1.0210622237335258,Não
+PROJ-0617,O poder de evoluir com toda a tranquilidade,16/03/2024,25/11/2024,28/10/2024,1623311,Rael Oliveira,Concluído,100.0,0.9694607297409703,0.8635898481834537,Não
+PROJ-0618,O prazer de atingir seus objetivos antes de tudo,12/05/2025,09/05/2026,30/04/2026,4188654,Lorena Porto,Concluído,100.0,1.0073750302153295,0.8679620082138919,Não
+PROJ-0619,A segurança de concretizar seus projetos com toda a tranquilidade,08/06/2024,11/03/2025,22/03/2025,2286875,Helena Pires,Atrasado,88.81308643039982,0.8881308643039982,0.7208710578415847,Não
+PROJ-0620,A certeza de realizar seus sonhos mais rapidamente,25/04/2024,10/06/2024,28/05/2024,4438369,Heitor Sousa,Em andamento,89.47193040347705,0.9094227286931431,1.1226067827337833,Não
+PROJ-0621,A vantagem de ganhar antes de tudo,22/02/2024,04/02/2025,12/02/2025,3820314,Aylla Cirino,Em andamento,98.84310228813715,0.9195072250844925,0.9850906244631643,Não
+PROJ-0622,A possibilidade de ganhar direto da fonte,06/07/2024,10/09/2024,05/10/2024,2753471,Aurora da Paz,Concluído,100.0,0.9923191046756433,1.0115785774401158,Sim
+PROJ-0623,A vantagem de atingir seus objetivos antes de tudo,22/07/2024,20/12/2024,08/05/2025,4587638,Benjamin Pereira,Atrasado,89.90487948318777,0.8990487948318777,0.7579175536019637,Não
+PROJ-0624,A vantagem de ganhar de maneira eficaz,17/03/2025,21/05/2025,08/08/2025,2055305,Alice Aparecida,Atrasado,82.1524077889072,0.821524077889072,0.8917192968356233,Sim
+PROJ-0625,A arte de evoluir antes de tudo,19/09/2023,12/11/2023,23/11/2023,4764088,Dra. Lorena Nunes,Em andamento,99.9,1.1291857809287926,0.9877079028614362,Sim
+PROJ-0626,O conforto de realizar seus sonhos em estado puro,16/03/2025,29/11/2025,26/11/2025,4470945,Mariane Cavalcante,Em andamento,55.80418076609999,1.0074748320535623,1.1069870982998025,Não
+PROJ-0627,O conforto de mudar sem preocupação,08/05/2024,23/06/2024,02/07/2024,4944259,Dra. Stephany Sampaio,Concluído,100.0,0.9566967757004353,0.8892352269845519,Não
+PROJ-0628,A liberdade de concretizar seus projetos sem preocupação,31/07/2024,06/04/2025,21/04/2025,2324328,Isadora Pires,Em andamento,83.05889383747899,1.0864414229545383,0.8394578646257007,Não
+PROJ-0629,A liberdade de avançar mais facilmente,18/11/2024,22/06/2025,19/07/2025,3737982,Dr. Anthony Gabriel Abreu,Em andamento,81.94493198489303,1.0028320878777706,0.9098198136259941,Sim
+PROJ-0630,A certeza de evoluir naturalmente,24/04/2025,05/10/2025,01/10/2025,4077113,Enzo Camargo,Concluído,100.0,1.0722217168003276,0.9642372128627877,Não
+PROJ-0631,O poder de inovar direto da fonte,21/06/2024,18/10/2024,29/10/2024,3954828,Antony Cavalcante,Em andamento,81.90264050676507,1.0217044614418695,0.846364151690735,Não
+PROJ-0632,A liberdade de inovar sem preocupação,27/02/2024,13/11/2024,23/11/2024,1173877,Lucca Moraes,Em andamento,99.9,1.097730391908083,0.9460786329530607,Sim
+PROJ-0633,A vantagem de ganhar mais facilmente,27/03/2025,01/09/2025,26/09/2025,1380098,Caio Marques,Em andamento,66.13033489906405,0.9695089733978639,1.1314088807448817,Não
+PROJ-0634,O conforto de conseguir com força total,07/02/2024,10/03/2024,01/04/2024,2908404,Maria Liz Sousa,Em andamento,99.9,1.0091920888909636,0.9587800717035218,Não
+PROJ-0635,A liberdade de ganhar mais facilmente,25/06/2025,30/10/2025,13/11/2025,3685535,Sr. Vitor da Mata,Concluído,100.0,0.9540768494348694,0.9988102668699606,Sim
+PROJ-0636,A liberdade de inovar mais facilmente,15/01/2025,30/08/2025,14/08/2025,2092722,Breno Novaes,Concluído,100.0,0.9690297962777218,1.2187685964462662,Não
+PROJ-0637,A vantagem de realizar seus sonhos sem preocupação,27/02/2025,29/05/2025,27/10/2025,1686060,Yuri Nascimento,Atrasado,86.6674999031321,0.866674999031321,0.7491580923493003,Não
+PROJ-0638,A simplicidade de conseguir direto da fonte,25/11/2023,02/07/2024,30/07/2024,3769122,Pedro Lucas Siqueira,Em andamento,99.9,0.8825496262362588,0.9473088502163108,Não
+PROJ-0639,A certeza de conseguir mais facilmente,07/09/2023,14/12/2023,29/12/2023,4936756,Oliver Albuquerque,Concluído,100.0,1.0794660871520645,1.2210018128084479,Sim
+PROJ-0640,A vantagem de realizar seus sonhos mais facilmente,20/06/2025,08/01/2026,20/01/2026,136782,Eloah Novais,Concluído,100.0,0.9700338279954962,0.9258104831509292,Não
+PROJ-0641,A simplicidade de ganhar com toda a tranquilidade,16/10/2024,20/12/2024,25/02/2025,1552577,Arthur Fernandes,Atrasado,51.85369107262608,0.5185369107262607,0.696766433444604,Não
+PROJ-0642,A possibilidade de ganhar com confiança,20/12/2024,02/04/2025,05/03/2025,1138577,Maria Júlia Almeida,Concluído,100.0,1.003693091863771,1.2258996088808998,Não
+PROJ-0643,A arte de mudar com confiança,27/06/2025,07/01/2026,12/11/2025,1352177,Srta. Luísa Barbosa,Cancelado,71.22178033847484,8.127661991567129,0.700635862966552,Não
+PROJ-0644,A vantagem de avançar sem preocupação,08/09/2024,03/01/2025,15/01/2025,1459763,Sr. Guilherme Rocha,Em andamento,89.30975190808606,0.969359046367249,1.1054527409088706,Sim
+PROJ-0645,A simplicidade de inovar em estado puro,18/09/2023,01/05/2024,29/05/2024,3113115,Ana Julia da Cruz,Em andamento,86.90343974488958,0.8509607576381467,1.1325054602857965,Sim
+PROJ-0646,A segurança de atingir seus objetivos com força total,08/10/2023,16/12/2023,20/12/2023,3735441,Luísa Sampaio,Em andamento,88.00886710351483,0.9321770767469266,1.1645120116112087,Não
+PROJ-0647,O prazer de inovar naturalmente,24/03/2024,13/10/2024,10/11/2024,390871,Eloá Ferreira,Em andamento,99.9,1.0618327018140086,0.9577942907752509,Sim
+PROJ-0648,O conforto de realizar seus sonhos naturalmente,28/06/2024,07/10/2024,23/02/2025,2337594,Ian Lima,Atrasado,83.74807515540994,0.8374807515540994,0.8002547439836988,Não
+PROJ-0649,A vantagem de atingir seus objetivos mais rapidamente,28/07/2024,11/09/2024,26/08/2024,621082,Sarah Fernandes,Concluído,100.0,0.9667513050141562,0.8601855167133123,Não
+PROJ-0650,O poder de conseguir mais rapidamente,16/10/2024,04/08/2025,28/08/2025,4979446,Bruno Casa Grande,Em andamento,97.74156305067669,0.9007609385935429,0.9696669637235292,Não
+PROJ-0651,O direito de inovar com confiança,26/07/2024,16/06/2025,22/08/2025,210586,Gabrielly Caldeira,Atrasado,50.84604311182777,0.5084604311182777,0.8193773278166281,Não
+PROJ-0652,O conforto de atingir seus objetivos antes de tudo,04/05/2024,25/01/2025,30/01/2025,3809154,Luan Cardoso,Em andamento,86.45148396422407,1.0525379696736998,1.0954075088726938,Sim
+PROJ-0653,A segurança de avançar antes de tudo,07/10/2024,05/08/2025,20/11/2025,3172873,Lara Fernandes,Atrasado,49.22508265460296,0.5309276772032177,0.7092605991836083,Não
+PROJ-0654,O prazer de inovar mais rapidamente,15/10/2023,22/09/2024,12/09/2024,3007854,Ravi Lucca Macedo,Em andamento,81.8575635683182,1.0411336748432616,1.0708929888092737,Não
+PROJ-0655,A certeza de mudar com força total,10/11/2023,16/07/2024,19/07/2024,4852732,Natália Alves,Em andamento,99.9,0.9442959805108828,0.9345932431455396,Sim
+PROJ-0656,O poder de avançar antes de tudo,25/05/2024,03/02/2025,02/08/2025,2980481,Pietra Andrade,Atrasado,64.68654477547256,0.6468654477547255,0.6887832009288075,Sim
+PROJ-0657,A vantagem de atingir seus objetivos sem preocupação,28/10/2024,19/03/2025,22/03/2025,2561870,Alice Aparecida,Em andamento,98.59674633829702,0.8662252129781005,1.213661579890301,Não
+PROJ-0658,O direito de atingir seus objetivos naturalmente,04/09/2023,29/11/2023,24/11/2023,2848518,Hellena Casa Grande,Em andamento,99.9,0.9655649553912523,0.8943899654372982,Não
+PROJ-0659,A possibilidade de evoluir de maneira eficaz,11/08/2023,07/06/2024,19/06/2024,1488867,Maria Julia Cavalcante,Em andamento,87.8897384484646,0.9455207427988774,1.074777689879943,Sim
+PROJ-0660,A liberdade de evoluir naturalmente,14/07/2024,29/05/2025,16/06/2025,2374985,Luiz Fernando das Neves,Em andamento,99.9,1.1455684232272016,1.1657695182973453,Sim
+PROJ-0661,A possibilidade de mudar mais rapidamente,21/03/2024,14/08/2024,10/08/2024,687988,Dr. Benício Correia,Em andamento,85.45327489877408,1.0792856115627654,1.0857869594810363,Não
+PROJ-0662,O poder de avançar direto da fonte,11/05/2025,28/09/2025,15/10/2025,4889059,Heloisa da Luz,Atrasado,25.09197337572731,0.548886917594035,0.804893030718934,Não
+PROJ-0663,O prazer de realizar seus sonhos com força total,25/08/2024,27/04/2025,26/08/2025,3723064,Dra. Maria Julia Vargas,Atrasado,70.77172300809622,0.7077172300809622,0.796348986370587,Não
+PROJ-0664,A simplicidade de conseguir com força total,18/11/2023,12/07/2024,03/11/2024,990960,Sr. Bryan da Luz,Atrasado,70.77192621280912,0.7077192621280912,0.7490212719654784,Sim
+PROJ-0665,O poder de mudar com toda a tranquilidade,23/11/2023,26/05/2024,25/06/2024,2346505,Dr. Felipe Moreira,Em andamento,99.9,1.0217913623682933,1.1668163707948456,Não
+PROJ-0666,O poder de conseguir com toda a tranquilidade,06/05/2025,22/06/2025,29/07/2025,2297395,Hellena Rodrigues,Atrasado,56.033221295929316,0.5603322129592931,0.867167183922626,Não
+PROJ-0667,O poder de concretizar seus projetos mais rapidamente,03/06/2024,02/09/2024,05/08/2024,1240591,Allana Porto,Concluído,100.0,1.0300098409980347,1.178634122825356,Não
+PROJ-0668,A segurança de concretizar seus projetos com confiança,26/01/2024,07/08/2024,13/08/2024,4969880,Maitê da Conceição,Concluído,100.0,0.9504113103248938,1.036296163298301,Sim
+PROJ-0669,A vantagem de conseguir em estado puro,07/01/2024,03/07/2024,19/07/2024,1674576,Srta. Lara Souza,Concluído,100.0,0.9589722702625043,1.014941435397352,Não
+PROJ-0670,O poder de conseguir com toda a tranquilidade,18/03/2024,16/06/2024,13/07/2024,4614938,Lucas Gabriel Araújo,Em andamento,90.99980577925699,0.9100800897102204,0.8462316788254864,Não
+PROJ-0671,O poder de realizar seus sonhos com toda a tranquilidade,05/05/2025,22/08/2025,06/08/2025,1059876,Julia Caldeira,Concluído,100.0,1.04652069429332,1.1682964139463756,Sim
+PROJ-0672,O conforto de realizar seus sonhos sem preocupação,20/09/2024,11/01/2025,10/02/2025,3251834,Henrique Rios,Em andamento,90.20929612637025,0.8831984346983437,0.9411443047065942,Não
+PROJ-0673,A certeza de avançar com confiança,27/05/2025,26/10/2025,28/12/2025,137707,João Vitor Santos,Atrasado,15.997512472924994,0.5065878949759581,0.7524904162886069,Não
+PROJ-0674,A liberdade de realizar seus sonhos com toda a tranquilidade,18/12/2024,28/04/2025,22/05/2025,1217859,Luara Lima,Atrasado,86.9569289959403,0.869569289959403,0.9525562139368049,Sim
+PROJ-0675,O direito de concretizar seus projetos mais facilmente,29/09/2023,17/08/2024,25/12/2024,444309,Dra. Marcela Rocha,Atrasado,82.96425072891782,0.8296425072891782,0.7969710246836557,Não
+PROJ-0676,O direito de concretizar seus projetos mais rapidamente,09/10/2024,02/10/2025,28/10/2025,2215413,Valentina Sousa,Concluído,100.0,1.034127060728311,1.1918604232295509,Não
+PROJ-0677,A certeza de mudar em estado puro,19/09/2024,14/11/2024,09/11/2024,1021447,Sr. Murilo Abreu,Concluído,100.0,1.0306773367877997,1.031158005076983,Sim
+PROJ-0678,A arte de ganhar de maneira eficaz,11/09/2024,30/01/2025,08/04/2025,1457317,Beatriz Mendonça,Atrasado,84.43776656921581,0.8443776656921582,0.9443518306521094,Não
+PROJ-0679,O prazer de conseguir sem preocupação,10/12/2024,16/06/2025,11/06/2025,2420404,Matteo Azevedo,Em andamento,80.04961873173617,1.1041765267458377,1.1550563768637336,Sim
+PROJ-0680,O direito de realizar seus sonhos com toda a tranquilidade,22/07/2023,18/11/2023,01/12/2023,2256323,Sra. Maria Clara Monteiro,Em andamento,98.43742624586612,1.0082881597485642,1.0832312316429626,Não
+PROJ-0681,A segurança de conseguir em estado puro,12/10/2024,30/11/2024,19/12/2024,3307135,Sr. Bernardo Cavalcanti,Concluído,100.0,1.07094781374129,0.9433755035746779,Não
+PROJ-0682,A certeza de evoluir em estado puro,05/05/2025,07/01/2026,10/01/2026,4377108,Lorenzo Moraes,Em andamento,25.814692287939916,1.0689880651128076,1.0514322713593116,Não
+PROJ-0683,O conforto de ganhar simplesmente,11/10/2023,11/09/2024,28/08/2024,1719228,Luiz Felipe Nunes,Concluído,100.0,1.0884614013029168,1.0866767711148317,Não
+PROJ-0684,A vantagem de evoluir de maneira eficaz,21/03/2025,20/02/2026,06/02/2026,3056412,Davi Lucas Câmara,Em andamento,27.56847343675411,1.1095442079237816,0.9267430690691397,Não
+PROJ-0685,O poder de evoluir com força total,14/06/2024,26/04/2025,11/05/2025,1217164,Maria Isis Freitas,Concluído,100.0,0.9941803764307092,1.097619919655316,Sim
+PROJ-0686,A certeza de evoluir mais facilmente,29/02/2024,16/06/2024,01/07/2024,3960068,Sr. Davi Luiz Souza,Em andamento,99.9,1.0696270755379436,0.8927317572866976,Sim
+PROJ-0687,A simplicidade de evoluir direto da fonte,22/03/2024,01/11/2024,27/10/2024,362817,Henry Gabriel Pimenta,Em andamento,94.67923983029061,1.0867657745065338,1.0731426186474888,Sim
+PROJ-0688,A liberdade de conseguir mais rapidamente,21/11/2024,16/07/2025,25/12/2025,1304351,Dom Dias,Atrasado,64.96341874099048,0.6551629890048827,0.9806020506328873,Não
+PROJ-0689,A segurança de conseguir mais rapidamente,05/11/2024,14/12/2024,11/06/2025,2953693,Raul Cunha,Atrasado,82.3879335498525,0.8238793354985251,0.8307449398868515,Sim
+PROJ-0690,A vantagem de inovar em estado puro,09/02/2025,22/05/2025,03/06/2025,2886381,Felipe Montenegro,Em andamento,99.9,0.9678801048305448,0.8933412452452565,Sim
+PROJ-0691,A possibilidade de mudar com confiança,15/12/2023,18/07/2024,16/08/2024,1411109,Luiz Felipe Camargo,Em andamento,99.9,0.9387731084771885,1.0223601675168859,Não
+PROJ-0692,A certeza de mudar direto da fonte,22/08/2023,29/06/2024,23/07/2024,4207258,Eduardo Ferreira,Em andamento,99.9,0.9443143668542352,0.8538630919419218,Não
+PROJ-0693,A arte de evoluir sem preocupação,23/05/2024,30/03/2025,14/04/2025,1485942,Isabela Caldeira,Em andamento,97.45286777929168,0.9728179033155864,0.9191401204293754,Não
+PROJ-0694,O prazer de ganhar sem preocupação,29/06/2025,18/05/2026,07/11/2026,3574694,Elisa Teixeira,Atrasado,3.61186287113937,0.7777544715853443,0.7931183088378176,Não
+PROJ-0695,A simplicidade de ganhar com força total,22/07/2024,02/07/2025,31/07/2025,2448172,Davi Luiz Sousa,Em andamento,90.56149602325922,0.9247283082943627,0.9798513861540359,Sim
+PROJ-0696,A simplicidade de mudar simplesmente,29/11/2024,02/07/2025,11/07/2025,3212966,Letícia Mendonça,Em andamento,89.77663418906941,1.109148869346578,1.0506424431510866,Não
+PROJ-0697,O direito de mudar naturalmente,03/03/2024,12/12/2024,21/12/2024,3485336,Melina da Mota,Em andamento,90.10452162453998,1.0286156658092478,0.8491930417401976,Não
+PROJ-0698,A arte de ganhar sem preocupação,02/05/2024,13/09/2024,25/09/2024,1189738,Vitor Sá,Em andamento,99.9,1.0432076146249356,1.1916806115539882,Não
+PROJ-0699,A simplicidade de mudar antes de tudo,16/10/2024,17/03/2025,21/07/2025,4641672,Zoe Câmara,Atrasado,84.26045687416324,0.8426045687416324,0.8074987112391503,Sim
+PROJ-0700,A liberdade de concretizar seus projetos em estado puro,25/05/2025,29/06/2025,28/06/2025,4917886,Léo Pimenta,Em andamento,90.30106185861732,0.8672868571593056,1.1407778739061005,Não
+PROJ-0701,O conforto de inovar direto da fonte,03/04/2025,24/12/2025,14/08/2025,4627486,Dr. Anthony Vieira,Cancelado,50.50507172810047,1.312141569406532,0.7002694388503935,Não
+PROJ-0702,O conforto de concretizar seus projetos em estado puro,15/03/2024,21/12/2024,03/01/2025,3451518,Ayla Silva,Concluído,100.0,1.0922092682962137,1.1142111538631043,Não
+PROJ-0703,O direito de evoluir antes de tudo,10/07/2025,28/02/2026,23/03/2026,945733,Sr. Rael Nunes,Em andamento,1.5589233937919083,0.9068168951711915,0.9135338110537815,Sim
+PROJ-0704,O poder de avançar simplesmente,23/07/2023,10/04/2024,20/04/2024,4718909,Asafe Cavalcanti,Em andamento,99.9,1.1273026396427717,0.992781706567308,Sim
+PROJ-0705,A certeza de inovar direto da fonte,28/11/2024,12/05/2025,26/05/2025,3810970,Antony Santos,Concluído,100.0,1.0421050242112706,0.9497392978323089,Não
+PROJ-0706,A arte de inovar naturalmente,19/11/2024,05/07/2025,28/06/2025,4958940,Maria Luísa Guerra,Em andamento,99.9,1.0297168252364757,1.0973277865107263,Sim
+PROJ-0707,A certeza de inovar sem preocupação,08/05/2024,03/07/2024,17/07/2024,2410468,Léo Macedo,Em andamento,99.9,0.8772394638533593,0.8876053669523325,Não
+PROJ-0708,A arte de evoluir com toda a tranquilidade,20/09/2023,21/10/2023,04/11/2023,3564480,Lívia Andrade,Em andamento,99.9,0.9074235246956204,0.9456283117156173,Não
+PROJ-0709,A segurança de concretizar seus projetos mais facilmente,11/06/2025,12/01/2026,08/01/2026,3332715,Renan Rios,Em andamento,13.842788395311137,1.0409700840163705,1.116205496493643,Não
+PROJ-0710,O direito de ganhar direto da fonte,13/07/2024,10/06/2025,01/06/2025,1316402,Dom Gonçalves,Em andamento,99.9,1.0418417089884762,1.080441624423806,Não
+PROJ-0711,A possibilidade de conseguir mais rapidamente,31/05/2025,11/03/2026,25/02/2026,1207247,Eduarda Siqueira,Em andamento,16.524659736580105,0.9311778700859994,0.9819299781909571,Não
+PROJ-0712,O prazer de ganhar sem preocupação,20/05/2025,28/10/2025,21/10/2025,96187,Hellena Montenegro,Em andamento,35.124647340571144,0.8858681168208893,1.037501517207365,Sim
+PROJ-0713,A liberdade de atingir seus objetivos mais facilmente,29/04/2025,21/09/2025,28/09/2025,2292012,Sara Rezende,Em andamento,47.19545716108857,0.9357671179227212,0.942350715437536,Não
+PROJ-0714,A possibilidade de mudar em estado puro,17/05/2024,23/12/2024,03/01/2025,2363800,Rodrigo Abreu,Em andamento,99.9,1.1051069128076931,0.8464706416751968,Sim
+PROJ-0715,O prazer de concretizar seus projetos mais rapidamente,30/07/2024,16/06/2025,27/06/2025,1841455,Sr. Anthony Gabriel Sousa,Em andamento,99.9,1.1016211354014194,0.9688622643495297,Não
+PROJ-0716,A vantagem de conseguir antes de tudo,31/12/2024,04/09/2025,26/08/2025,4046628,Bárbara Pereira,Em andamento,78.83119800508017,1.1138659662358648,0.9805510922249403,Não
+PROJ-0717,A liberdade de conseguir em estado puro,13/07/2024,11/12/2024,23/12/2024,790557,Theo Fernandes,Concluído,100.0,1.0884662332376818,0.9257900111646166,Sim
+PROJ-0718,A certeza de mudar com toda a tranquilidade,12/04/2024,06/12/2024,21/12/2024,3072322,Alana Correia,Em andamento,99.9,1.1318730388069835,1.2069594102053531,Sim
+PROJ-0719,O direito de avançar simplesmente,25/02/2025,29/05/2025,30/04/2025,717684,Srta. Liz Ribeiro,Concluído,100.0,0.9732477324319618,0.9197158888302305,Não
+PROJ-0720,A arte de conseguir com toda a tranquilidade,23/11/2024,25/01/2025,21/02/2025,884065,Lavínia Ramos,Concluído,100.0,1.0231712052344484,1.0627481006953403,Não
+PROJ-0721,A possibilidade de realizar seus sonhos com confiança,17/07/2023,20/12/2023,13/01/2024,2979014,Hadassa Melo,Em andamento,81.14343759237312,1.1102266054122318,0.8805518191496591,Não
+PROJ-0722,A simplicidade de concretizar seus projetos com toda a tranquilidade,11/02/2025,01/12/2025,20/12/2025,1240799,Ana Júlia Gonçalves,Em andamento,47.112163066933,1.1257893260688383,1.1442116114036123,Não
+PROJ-0723,O conforto de mudar em estado puro,30/11/2023,13/08/2024,09/09/2024,4704178,Leonardo Silveira,Concluído,100.0,1.0576724815757614,1.0911594198080166,Não
+PROJ-0724,A simplicidade de realizar seus sonhos antes de tudo,24/01/2025,08/09/2025,17/09/2025,1002168,Beatriz Lima,Em andamento,82.91046235201277,0.8802001647554423,0.9313101118309219,Não
+PROJ-0725,A vantagem de realizar seus sonhos em estado puro,01/06/2025,21/03/2026,10/07/2026,2393061,Sra. Ana Liz Vargas,Atrasado,8.009617673004783,0.5457716228349772,0.762566599961851,Não
+PROJ-0726,A possibilidade de ganhar de maneira eficaz,16/03/2025,03/07/2025,05/07/2025,4246310,Vitor Hugo Abreu,Concluído,100.0,0.9893156550235799,0.9194675433456128,Não
+PROJ-0727,O prazer de avançar com força total,31/03/2025,04/10/2025,29/10/2025,3085089,Vitor da Mota,Em andamento,59.34672997803151,1.0432932735824543,1.07297205699662,Não
+PROJ-0728,A vantagem de conseguir antes de tudo,28/03/2024,03/12/2024,18/01/2025,1916655,Sr. Apollo Peixoto,Atrasado,82.52588464392248,0.8252588464392248,0.7537296065664071,Não
+PROJ-0729,A certeza de inovar mais facilmente,20/01/2025,09/06/2025,30/05/2025,4647932,Matheus Macedo,Concluído,100.0,0.9944070605385036,1.1381245819168777,Sim
+PROJ-0730,A certeza de realizar seus sonhos sem preocupação,09/08/2023,22/06/2024,10/06/2024,860108,Dr. Benjamin Porto,Em andamento,83.43818261941482,1.1234298603529034,0.8785703391725669,Não
+PROJ-0731,O direito de concretizar seus projetos com confiança,11/04/2024,30/08/2024,30/08/2024,2483050,Luiz Miguel Jesus,Em andamento,99.9,1.0370327143179685,0.9932567694329969,Não
+PROJ-0732,A vantagem de concretizar seus projetos com confiança,08/12/2024,18/09/2025,12/09/2025,4364666,Esther Vargas,Em andamento,66.80284264975602,0.9664903387014057,1.1107985320908407,Não
+PROJ-0733,A arte de mudar mais rapidamente,20/01/2025,25/11/2025,15/11/2025,1549830,Sr. João Felipe da Rosa,Em andamento,63.80054757553255,0.8798783331517305,0.9859555000310509,Sim
+PROJ-0734,A segurança de ganhar simplesmente,26/06/2024,25/10/2024,12/11/2024,4983634,Sara Albuquerque,Em andamento,83.48996447500478,0.9645618943708033,1.1062951630554947,Sim
+PROJ-0735,A arte de mudar sem preocupação,11/03/2025,05/05/2025,31/05/2025,2215298,Rael Castro,Em andamento,83.0831748966673,0.9969201310829181,0.835589320797351,Não
+PROJ-0736,O prazer de atingir seus objetivos direto da fonte,02/08/2024,25/09/2024,24/09/2024,294548,Valentina da Cunha,Concluído,100.0,1.0619487466806312,1.1353366632176076,Sim
+PROJ-0737,A simplicidade de conseguir com confiança,04/10/2024,24/02/2025,25/05/2025,1464803,Maria Pimenta,Atrasado,64.8616110763077,0.648616110763077,0.8989701949777168,Sim
+PROJ-0738,O prazer de ganhar sem preocupação,30/11/2023,05/11/2024,17/11/2024,1256335,Olívia Vieira,Atrasado,88.64394189716795,0.8864394189716795,0.7241509559343866,Não
+PROJ-0739,O prazer de concretizar seus projetos antes de tudo,01/01/2024,05/10/2024,13/10/2024,4061709,Théo Aragão,Em andamento,82.35954719410921,1.1367942089629972,1.0187859359521243,Não
+PROJ-0740,O direito de atingir seus objetivos com força total,31/05/2024,25/01/2025,19/02/2025,1666467,Theo da Conceição,Concluído,100.0,1.0952211769875815,0.8603373912271589,Sim
+PROJ-0741,O prazer de inovar com toda a tranquilidade,11/03/2025,21/11/2025,16/12/2025,2248975,João Guilherme Vieira,Em andamento,53.26232877070235,0.9624537600978489,1.0528786614144658,Não
+PROJ-0742,A segurança de atingir seus objetivos em estado puro,12/02/2025,27/11/2025,08/12/2025,4934783,José Pedro Vargas,Atrasado,41.92570993786974,0.7943818725070058,0.7548296795545623,Sim
+PROJ-0743,O conforto de avançar com força total,12/09/2023,13/01/2024,22/01/2024,4783938,Henry Lima,Concluído,100.0,0.9623109644034781,0.9050753911266647,Não
+PROJ-0744,A arte de atingir seus objetivos mais facilmente,27/01/2025,01/07/2025,19/06/2025,4581010,Felipe Novaes,Em andamento,99.9,1.0767277835248583,1.1443717197314376,Não
+PROJ-0745,O poder de conseguir mais facilmente,30/08/2023,06/08/2024,30/08/2024,241477,Helena Leão,Em andamento,99.9,1.0517655647870081,0.8691307837796927,Sim
+PROJ-0746,A certeza de concretizar seus projetos com força total,11/03/2025,13/07/2025,30/07/2025,2034667,Sr. Marcos Vinicius Moraes,Em andamento,99.9,0.867816998673925,1.2459024019557015,Não
+PROJ-0747,A arte de evoluir em estado puro,22/08/2023,29/11/2023,05/12/2023,3891337,Luara Souza,Em andamento,99.9,0.9098263203555845,1.16393290928587,Sim
+PROJ-0748,O prazer de ganhar naturalmente,19/04/2024,02/03/2025,01/02/2025,4565054,Liam Freitas,Concluído,100.0,1.0816828667745049,0.8379997801506062,Não
+PROJ-0749,O prazer de inovar com confiança,06/10/2024,22/01/2025,17/02/2025,380208,Hadassa Cunha,Concluído,100.0,0.9710594111355936,0.9439293294675751,Sim
+PROJ-0750,O poder de atingir seus objetivos em estado puro,14/03/2024,14/09/2024,05/10/2024,3022929,Dra. Lara Freitas,Em andamento,99.26204688242952,0.9505232801066149,1.157099742515616,Não
+PROJ-0751,O direito de concretizar seus projetos de maneira eficaz,05/03/2024,16/05/2024,04/05/2024,4814413,Ana Cecília Monteiro,Em andamento,99.9,0.947244852134376,0.8558257057167514,Não
+PROJ-0752,A possibilidade de conseguir com toda a tranquilidade,15/11/2024,02/10/2025,15/10/2025,1331468,Nina Fonseca,Concluído,100.0,1.0524348246102424,1.0006299600568365,Sim
+PROJ-0753,O poder de realizar seus sonhos em estado puro,10/06/2025,14/01/2026,30/12/2025,415446,Isadora Correia,Concluído,100.0,1.0265964306299709,1.0800034811114958,Não
+PROJ-0754,O poder de atingir seus objetivos mais facilmente,02/08/2024,22/11/2024,04/12/2024,1658555,João Pedro Barros,Em andamento,89.97799247378398,0.8920705872076932,0.8563943499759178,Não
+PROJ-0755,O conforto de evoluir antes de tudo,07/08/2023,13/10/2023,06/11/2023,4539831,Luana Albuquerque,Em andamento,99.9,0.878416992821124,1.0713063282115969,Não
+PROJ-0756,A vantagem de avançar de maneira eficaz,27/11/2024,03/07/2025,12/10/2025,2246963,Otávio Rezende,Atrasado,74.47030495125318,0.7447030495125319,0.8108396004643937,Não
+PROJ-0757,A segurança de evoluir antes de tudo,19/08/2023,06/10/2023,25/10/2023,1899446,Bianca Lopes,Em andamento,99.9,0.9886118091531522,1.1966697855623194,Não
+PROJ-0758,A arte de ganhar com força total,09/08/2023,10/05/2024,10/03/2024,1616072,Nicolas da Mata,Cancelado,77.97188452247804,0.7797188452247803,0.7463923018463267,Sim
+PROJ-0759,A liberdade de inovar mais rapidamente,21/11/2024,05/01/2025,11/12/2024,2562457,Sabrina Dias,Cancelado,44.617508871619165,0.44617508871619166,0.7403593204334648,Sim
+PROJ-0760,A arte de realizar seus sonhos com confiança,23/09/2024,19/06/2025,05/06/2025,3360670,Nicolas Machado,Em andamento,99.9,1.141637536759248,1.1934114704783672,Não
+PROJ-0761,O direito de concretizar seus projetos de maneira eficaz,01/02/2024,27/10/2024,05/11/2024,2862766,João Rocha,Em andamento,80.35594325599584,0.8515156190533308,0.9221728512952304,Sim
+PROJ-0762,A simplicidade de atingir seus objetivos com força total,26/07/2024,07/04/2025,17/05/2025,2068682,Léo Alves,Atrasado,77.78914893055612,0.7778914893055613,0.8158617718365947,Não
+PROJ-0763,A certeza de ganhar em estado puro,30/03/2025,15/05/2025,26/05/2025,457097,Valentim da Rosa,Em andamento,99.9,1.0078877744012953,0.9182747924623498,Não
+PROJ-0764,O prazer de inovar direto da fonte,15/12/2024,22/03/2025,29/03/2025,4519693,Ana Laura Vargas,Em andamento,99.9,0.9517789371610709,1.2336499545336816,Não
+PROJ-0765,A arte de avançar com toda a tranquilidade,02/03/2024,25/10/2024,27/09/2024,3447099,João Felipe Viana,Concluído,100.0,1.0427475331285465,1.1495557134439824,Não
+PROJ-0766,A arte de mudar sem preocupação,14/02/2024,13/09/2024,03/09/2024,2779738,Sra. Maria Vitória Lima,Concluído,100.0,1.039401187477697,0.9203420615995088,Não
+PROJ-0767,O direito de concretizar seus projetos com força total,31/12/2023,12/02/2024,15/02/2024,4870479,Lorenzo Costela,Concluído,100.0,1.0301803078057488,0.8464018395292843,Não
+PROJ-0768,O prazer de atingir seus objetivos antes de tudo,04/09/2024,29/01/2025,24/01/2025,4607228,Sofia Cassiano,Concluído,100.0,1.045287505479894,1.1441866541233316,Não
+PROJ-0769,A liberdade de realizar seus sonhos mais rapidamente,26/08/2023,07/01/2024,19/03/2024,4463030,Lara Rios,Atrasado,59.52689028056487,0.5952689028056487,0.7778125592458788,Não
+PROJ-0770,A certeza de conseguir com toda a tranquilidade,25/03/2024,18/10/2024,12/10/2024,2564355,Henry Gabriel Pimenta,Em andamento,81.704871941887,0.9955958326305709,1.2019494116731666,Sim
+PROJ-0771,A possibilidade de ganhar com força total,08/11/2024,26/01/2025,27/05/2025,172892,Pietra Mendonça,Atrasado,72.68318585183167,0.7268318585183167,0.8693708793654231,Sim
+PROJ-0772,O direito de mudar simplesmente,07/03/2024,08/08/2024,18/08/2024,828187,Eloah Lima,Concluído,100.0,1.049485911076352,1.2060473572891537,Sim
+PROJ-0773,A segurança de mudar com toda a tranquilidade,29/04/2024,20/06/2024,08/07/2024,3016631,Anthony Gabriel Leão,Em andamento,99.9,1.0347161355445509,0.8901958575240967,Não
+PROJ-0774,A certeza de inovar antes de tudo,28/02/2025,16/02/2026,16/03/2026,752783,João Pedro Macedo,Concluído,100.0,1.0378145516733646,1.1875080783400145,Não
+PROJ-0775,A segurança de inovar com confiança,10/10/2023,22/09/2024,23/09/2024,2340464,Luan Gomes,Em andamento,99.9,0.9928735520156294,1.2266546782975334,Não
+PROJ-0776,A possibilidade de realizar seus sonhos com toda a tranquilidade,05/12/2023,16/01/2024,29/01/2024,807411,Sofia Freitas,Em andamento,99.9,0.9360478114570284,0.9996616437598244,Não
+PROJ-0777,O poder de ganhar com força total,01/02/2024,26/10/2024,07/11/2024,3189498,Gustavo Henrique Mendonça,Concluído,100.0,0.9931077746373879,1.0164177839451625,Não
+PROJ-0778,A arte de avançar simplesmente,01/01/2025,18/02/2025,19/02/2025,321920,Luana Gomes,Em andamento,99.9,1.097741885706849,1.0951812041739508,Não
+PROJ-0779,A segurança de inovar com força total,17/05/2024,25/08/2024,09/09/2024,4870329,Eloá Cassiano,Em andamento,99.9,1.002282685504388,0.8502785531471513,Não
+PROJ-0780,O prazer de atingir seus objetivos mais facilmente,10/02/2024,06/11/2024,04/12/2024,3971169,Bárbara Mendonça,Em andamento,84.0158750746771,1.0862944531072332,1.160881992414025,Sim
+PROJ-0781,A certeza de atingir seus objetivos mais rapidamente,24/12/2024,07/04/2025,22/04/2025,431247,Raquel Fonseca,Em andamento,99.9,1.0963828679341356,0.8948769007693731,Sim
+PROJ-0782,O prazer de inovar antes de tudo,31/05/2025,10/10/2025,01/11/2025,793771,Eduarda Ribeiro,Em andamento,31.10417088631635,0.9767999742578563,0.9532011509456324,Não
+PROJ-0783,O poder de conseguir mais facilmente,06/10/2024,20/04/2025,17/05/2025,4275185,Dr. Anthony Gabriel Novais,Em andamento,91.95385986780671,1.1108423785644583,0.9416899000316693,Não
+PROJ-0784,O prazer de conseguir mais facilmente,25/11/2023,12/01/2024,25/06/2024,2615250,Sr. Lucas Gabriel Duarte,Atrasado,65.52275255982194,0.6552275255982194,0.6793802231342966,Não
+PROJ-0785,A vantagem de avançar com confiança,21/08/2024,24/05/2025,23/06/2025,3180247,Dr. Cauê da Cunha,Em andamento,81.99854628982267,1.0362254607221846,1.104716658629365,Não
+PROJ-0786,A liberdade de mudar com toda a tranquilidade,27/07/2023,30/05/2024,14/06/2024,1367530,Sr. Samuel Brito,Em andamento,99.9,0.9734348621572171,0.9028148378687093,Não
+PROJ-0787,O poder de realizar seus sonhos mais facilmente,09/12/2023,23/11/2024,07/12/2024,3388225,Pietro Gonçalves,Concluído,100.0,1.0784592825145272,0.9155645910312508,Não
+PROJ-0788,A simplicidade de realizar seus sonhos simplesmente,30/05/2024,07/02/2025,25/01/2025,4384112,Benício Caldeira,Em andamento,99.67331869969289,1.0090669522898195,1.1589721597282323,Não
+PROJ-0789,A certeza de mudar com confiança,18/08/2023,24/01/2024,15/01/2024,2047771,Kaique Novaes,Em andamento,93.53412375146593,0.9046070109131322,1.0304904155530654,Não
+PROJ-0790,A simplicidade de evoluir antes de tudo,24/09/2023,28/06/2024,16/07/2024,2127471,Antonella Correia,Em andamento,99.9,1.110207414814616,1.0807127714384455,Não
+PROJ-0791,O direito de realizar seus sonhos mais rapidamente,29/12/2024,27/05/2025,15/06/2025,1628809,Yasmin da Cruz,Em andamento,99.9,1.0464929426935774,0.8627098257967436,Não
+PROJ-0792,O direito de realizar seus sonhos de maneira eficaz,25/11/2023,13/11/2024,26/11/2024,1238925,Sophia Rios,Concluído,100.0,1.0281710834371158,0.9941607318739959,Não
+PROJ-0793,O direito de inovar mais rapidamente,02/09/2023,15/10/2023,14/10/2023,3636806,Lara Gomes,Concluído,100.0,1.0255623812878516,1.2101580230950961,Sim
+PROJ-0794,A vantagem de realizar seus sonhos em estado puro,06/01/2025,26/04/2025,18/05/2025,1606682,Isis Ramos,Em andamento,83.2827074805119,1.145439487963508,0.9413478691790378,Não
+PROJ-0795,A segurança de evoluir direto da fonte,22/06/2025,15/12/2025,17/12/2025,2329992,Miguel Teixeira,Em andamento,11.99590747695258,0.9408427881824705,0.8691405662575797,Não
+PROJ-0796,A segurança de evoluir com toda a tranquilidade,13/07/2024,02/11/2024,23/11/2024,1271468,Dr. Fernando Fogaça,Em andamento,99.9,0.8616107401899719,1.041998775556754,Não
+PROJ-0797,A possibilidade de realizar seus sonhos de maneira eficaz,25/02/2024,01/12/2024,08/12/2024,4917719,Sra. Maria Flor Peixoto,Concluído,100.0,1.070901782482345,0.9072390782407878,Não
+PROJ-0798,O prazer de ganhar mais rapidamente,23/02/2024,10/02/2025,14/06/2025,4914554,João Vitor Porto,Atrasado,60.56889018444716,0.6056889018444717,0.7278787372023245,Não
+PROJ-0799,O prazer de mudar direto da fonte,16/03/2025,04/06/2025,24/06/2025,1717935,João Miguel Brito,Em andamento,99.9,0.9092176319727096,0.9371097368106892,Sim
+PROJ-0800,A simplicidade de ganhar naturalmente,10/05/2024,20/09/2024,23/12/2024,443844,Raquel da Mata,Atrasado,87.87590624720674,0.8787590624720675,0.945422364650956,Não
+PROJ-0801,A simplicidade de evoluir com confiança,23/08/2024,16/06/2025,08/06/2025,1078975,Bruna Rocha,Em andamento,99.9,0.8874806130156724,0.9792404173294318,Não
+PROJ-0802,A vantagem de atingir seus objetivos com força total,25/03/2025,13/10/2025,29/09/2025,418741,Caroline da Rosa,Concluído,100.0,1.018479826059477,1.0053961147739066,Não
+PROJ-0803,O poder de inovar mais facilmente,13/08/2023,26/06/2024,08/07/2024,4253136,Bruno Peixoto,Em andamento,99.9,0.955110716491493,1.0349248230152208,Não
+PROJ-0804,A certeza de inovar direto da fonte,29/07/2023,05/05/2024,01/09/2024,4665674,Yuri da Mata,Atrasado,62.6967827766413,0.626967827766413,0.925352706698331,Não
+PROJ-0805,A vantagem de concretizar seus projetos simplesmente,23/08/2023,04/05/2024,24/04/2024,4989234,Théo Pinto,Em andamento,99.9,0.886146890858351,0.8544869766740091,Sim
+PROJ-0806,A liberdade de mudar mais facilmente,21/11/2024,01/06/2025,04/05/2025,850990,Daniela Farias,Concluído,100.0,1.0204546838013324,0.8337659965001015,Não
+PROJ-0807,A arte de atingir seus objetivos mais facilmente,12/02/2025,24/06/2025,04/03/2025,4168397,Eduarda Gomes,Cancelado,15.437003963518645,0.15437003963518645,0.6931018416037706,Não
+PROJ-0808,O poder de inovar mais facilmente,14/12/2024,19/03/2025,16/05/2025,1569377,Dr. Ravi Lucca Abreu,Atrasado,51.77517476846079,0.517751747684608,0.8191077702405318,Não
+PROJ-0809,O poder de concretizar seus projetos mais facilmente,06/06/2025,23/11/2025,24/10/2025,1165193,Antonella Porto,Concluído,100.0,1.0743198222532082,1.1711509466938768,Sim
+PROJ-0810,A liberdade de atingir seus objetivos com confiança,25/12/2023,28/06/2024,15/07/2024,1069716,Kaique Garcia,Em andamento,95.91642704093292,0.8549956952455809,1.088197018503557,Não
+PROJ-0811,A liberdade de mudar de maneira eficaz,27/03/2024,16/03/2025,10/04/2025,2946192,Maria Eduarda Marques,Concluído,100.0,1.015350760764739,1.1915156391157204,Sim
+PROJ-0812,A liberdade de concretizar seus projetos naturalmente,10/12/2023,30/09/2024,17/09/2024,2468161,Sr. Caio Melo,Em andamento,99.9,1.0277408576832465,0.8892815386386291,Sim
+PROJ-0813,A segurança de avançar com toda a tranquilidade,12/06/2025,24/12/2025,25/12/2025,4701252,Isabel Freitas,Em andamento,14.95065190561044,1.1018872909547612,0.9068557219145831,Não
+PROJ-0814,O prazer de atingir seus objetivos mais facilmente,20/12/2024,14/12/2025,14/12/2025,1985542,Srta. Maria Silva,Em andamento,46.87393153861359,1.0604537826856641,1.2339492219741754,Não
+PROJ-0815,A certeza de realizar seus sonhos sem preocupação,30/06/2025,13/01/2026,16/03/2026,4178671,Allana Lopes,Atrasado,3.898971822728292,0.5486410350553382,0.6968506329292532,Não
+PROJ-0816,A vantagem de atingir seus objetivos em estado puro,01/08/2023,22/06/2024,31/05/2024,2301164,Emanuella Pacheco,Concluído,100.0,1.0971101805217385,0.9618795459825367,Não
+PROJ-0817,O direito de atingir seus objetivos de maneira eficaz,25/03/2025,09/07/2025,13/07/2025,1755995,Sr. Noah Pastor,Em andamento,99.9,0.8840911379592378,1.1014973858013644,Não
+PROJ-0818,A arte de realizar seus sonhos com toda a tranquilidade,01/08/2024,31/10/2024,12/11/2024,3671738,Isabela Costa,Em andamento,86.18902773052368,0.8825827479761901,0.8926405228069417,Não
+PROJ-0819,A segurança de realizar seus sonhos de maneira eficaz,17/02/2024,24/05/2024,18/06/2024,171653,Alexia Rocha,Em andamento,83.75436705099801,1.1284828694739184,1.010589843933021,Não
+PROJ-0820,A vantagem de concretizar seus projetos naturalmente,22/04/2024,27/07/2024,21/08/2024,284262,Ísis Alves,Concluído,100.0,0.9855597209074439,0.8563821990092573,Sim
+PROJ-0821,A simplicidade de conseguir com confiança,27/11/2024,22/07/2025,27/07/2025,1102053,Eloah Camargo,Em andamento,79.2125047610059,1.072312370782113,1.182506183661953,Sim
+PROJ-0822,O poder de evoluir em estado puro,19/11/2024,03/05/2025,21/04/2025,433535,Nicolas Borges,Em andamento,99.9,0.8610497078066417,0.9358535344337537,Não
+PROJ-0823,A possibilidade de concretizar seus projetos sem preocupação,20/06/2025,03/10/2025,23/10/2025,1282393,Maria Laura Ferreira,Em andamento,25.708371604282192,1.073485220487223,1.0272697776914115,Não
+PROJ-0824,O poder de ganhar sem preocupação,23/02/2024,28/04/2024,19/05/2024,365364,Maria Isis da Cruz,Em andamento,96.33306213729217,1.0030210048879176,0.9933210417606482,Não
+PROJ-0825,O prazer de inovar antes de tudo,18/04/2024,16/01/2025,11/01/2025,1754840,Sra. Manuella Carvalho,Concluído,100.0,1.0538172130545667,0.8579668393237366,Não
+PROJ-0826,A vantagem de evoluir sem preocupação,10/08/2023,26/09/2023,10/10/2023,3569625,Dr. Heitor Teixeira,Em andamento,92.11551489895666,1.0005709564844563,0.8412075889541384,Não
+PROJ-0827,A liberdade de ganhar mais facilmente,29/09/2023,02/01/2024,27/12/2023,2680653,Henry Gabriel Rodrigues,Concluído,100.0,0.9718074435369194,0.8508981291593376,Não
+PROJ-0828,A possibilidade de conseguir com confiança,27/01/2025,21/07/2025,25/07/2025,467904,Pietro Nunes,Em andamento,86.55125023091432,0.9526496064748188,0.9235021725171841,Não
+PROJ-0829,O poder de inovar mais rapidamente,01/12/2023,25/07/2024,20/08/2024,3128788,Luiz Felipe Dias,Em andamento,91.30523692186058,0.8993229871588481,1.1608650667879767,Não
+PROJ-0830,A segurança de atingir seus objetivos mais rapidamente,15/01/2025,08/03/2025,21/02/2025,2111530,Emanuelly Pastor,Cancelado,71.66023573147922,0.7166023573147922,0.7296576523151732,Sim
+PROJ-0831,A arte de ganhar em estado puro,12/10/2023,06/04/2024,07/05/2024,4881000,Antony Abreu,Atrasado,70.01378736352424,0.7001378736352425,0.8774266498282299,Sim
+PROJ-0832,O conforto de inovar simplesmente,18/10/2024,19/11/2024,04/05/2025,4286499,Ana Carolina Ramos,Atrasado,88.36465724301436,0.8836465724301437,0.7460215714101668,Não
+PROJ-0833,O direito de ganhar simplesmente,31/07/2023,01/03/2024,01/03/2024,2631513,Igor Sales,Em andamento,99.9,1.080257771445232,1.07560999010688,Não
+PROJ-0834,A simplicidade de ganhar com força total,01/05/2024,29/07/2024,14/07/2024,1176892,João Guilherme Abreu,Em andamento,94.85587622968583,1.0785064394650323,1.1529934025600603,Sim
+PROJ-0835,A vantagem de avançar com confiança,04/08/2023,23/12/2023,19/09/2023,4348345,Clara Mendonça,Cancelado,32.79231145023043,0.32792311450230427,0.8610792568564485,Não
+PROJ-0836,A arte de evoluir direto da fonte,16/06/2025,20/10/2025,23/09/2025,2741637,Alícia Fernandes,Concluído,100.0,1.0277203482668182,0.9658595618623916,Não
+PROJ-0837,A certeza de conseguir com confiança,25/12/2024,22/05/2025,31/05/2025,870543,Dr. Cauã Vieira,Em andamento,91.1103254183385,0.9715528804176986,1.129071347000666,Não
+PROJ-0838,A segurança de atingir seus objetivos sem preocupação,12/12/2024,04/06/2025,17/06/2025,729880,Rhavi Barbosa,Em andamento,99.9,0.9160378048095196,1.0723032602435483,Não
+PROJ-0839,A certeza de evoluir de maneira eficaz,30/11/2024,17/04/2025,09/04/2025,218092,Maria Helena da Rocha,Concluído,100.0,1.0710488506488556,0.834247255564092,Não
+PROJ-0840,O prazer de avançar com confiança,18/02/2024,26/12/2024,17/12/2024,2504734,Giovanna Almeida,Em andamento,80.92831443636557,1.1477127682478026,1.032437040117385,Sim
+PROJ-0841,A vantagem de inovar com força total,15/06/2024,17/09/2024,12/10/2024,4500751,Ravy Brito,Atrasado,79.11676028843826,0.7911676028843826,0.7570331548015031,Não
+PROJ-0842,A liberdade de ganhar mais rapidamente,07/11/2023,26/02/2024,13/03/2024,114919,Dr. Gael da Rosa,Em andamento,99.9,1.1224206140223978,0.9236199424898592,Sim
+PROJ-0843,A vantagem de evoluir direto da fonte,20/01/2025,02/09/2025,12/09/2025,3711178,Srta. Esther Souza,Concluído,100.0,0.9693459275650957,1.0069631799174716,Sim
+PROJ-0844,A vantagem de realizar seus sonhos de maneira eficaz,03/12/2024,11/09/2025,05/10/2025,3532828,Pietra Gonçalves,Atrasado,41.68941802744864,0.5271935373874671,0.9389832127969427,Não
+PROJ-0845,A possibilidade de mudar em estado puro,12/04/2024,06/07/2024,20/06/2024,1406760,Dr. Juan das Neves,Concluído,100.0,1.06311009780494,1.0313060836342371,Não
+PROJ-0846,A simplicidade de inovar mais rapidamente,14/05/2024,06/12/2024,20/12/2024,3962159,Gael Henrique Pacheco,Atrasado,69.88777915150504,0.6988777915150505,0.719974313728079,Sim
+PROJ-0847,O poder de realizar seus sonhos em estado puro,05/04/2025,27/03/2026,26/04/2026,4289649,Alexia Peixoto,Em andamento,33.15499980259348,0.9049295606308878,0.9737474668322315,Não
+PROJ-0848,A liberdade de inovar mais facilmente,01/04/2025,08/02/2026,26/02/2026,4560337,Isis Pinto,Em andamento,27.655156229596866,1.0812381263164834,1.059142935676591,Não
+PROJ-0849,A arte de realizar seus sonhos mais facilmente,15/01/2025,20/03/2025,12/05/2025,4308273,Allana Albuquerque,Atrasado,55.320792350539996,0.5532079235053999,0.9907783599416601,Não
+PROJ-0850,A possibilidade de mudar simplesmente,19/02/2025,27/09/2025,19/10/2025,1358413,Helena Novais,Atrasado,33.47190892822822,0.5078496527041523,0.9516943581847279,Não
+PROJ-0851,A segurança de conseguir antes de tudo,05/07/2025,23/03/2026,06/03/2026,4386077,Liam Barbosa,Concluído,100.0,0.9564202693273932,0.9945035901072697,Não
+PROJ-0852,A segurança de conseguir com confiança,08/12/2023,29/07/2024,31/07/2024,4883397,Sra. Rafaela Vieira,Em andamento,99.9,1.0390155926763263,1.050800814510928,Não
+PROJ-0853,A arte de ganhar antes de tudo,12/10/2024,22/07/2025,09/09/2025,2321876,Luan Jesus,Atrasado,68.08692548399358,0.7006763604352794,0.9335483333841954,Sim
+PROJ-0854,A liberdade de evoluir sem preocupação,13/01/2024,10/12/2024,03/12/2024,1860725,Letícia Pires,Em andamento,99.9,1.1385852840539001,0.9061913168650243,Não
+PROJ-0855,O direito de avançar direto da fonte,19/11/2023,02/10/2024,22/10/2024,2264258,Pedro Lucas Martins,Atrasado,73.0552314561389,0.730552314561389,0.9809695198329655,Não
+PROJ-0856,A arte de conseguir simplesmente,06/02/2024,09/08/2024,28/07/2024,4766533,Maria Alice Marques,Em andamento,82.47978746125044,1.0504632191003418,1.092780618496606,Não
+PROJ-0857,O poder de realizar seus sonhos naturalmente,19/04/2024,25/10/2024,08/11/2024,650348,Joaquim Sales,Em andamento,99.9,1.0532904177190927,1.107274841951538,Não
+PROJ-0858,A possibilidade de evoluir com confiança,12/01/2024,11/04/2024,06/07/2024,3604278,Letícia Rios,Atrasado,79.047673821548,0.79047673821548,0.9539754681412188,Não
+PROJ-0859,A segurança de ganhar com força total,15/10/2024,12/01/2025,24/01/2025,2696045,Sofia Correia,Em andamento,99.9,0.962471519530638,1.1118460215248933,Não
+PROJ-0860,A certeza de concretizar seus projetos de maneira eficaz,05/03/2024,29/12/2024,10/03/2025,3993928,Gabrielly Viana,Atrasado,54.72781898328147,0.5472781898328147,0.811243950934885,Não
+PROJ-0861,A arte de realizar seus sonhos direto da fonte,04/02/2024,12/11/2024,28/04/2025,3066787,Kamilly Novaes,Atrasado,69.05683632130814,0.6905683632130813,0.7383129776861413,Não
+PROJ-0862,O prazer de concretizar seus projetos de maneira eficaz,22/03/2024,18/06/2024,30/07/2024,3267476,Sophie Vieira,Atrasado,77.9968511236838,0.779968511236838,0.7430577114777424,Não
+PROJ-0863,O prazer de evoluir mais rapidamente,15/07/2023,24/06/2024,02/06/2024,4156827,João Guilherme Moraes,Concluído,100.0,1.0273735803413573,0.9453901585479011,Não
+PROJ-0864,O conforto de realizar seus sonhos direto da fonte,10/05/2024,05/04/2025,21/05/2025,1110032,Letícia Moreira,Atrasado,70.61408072833858,0.7061408072833858,0.704227527058727,Não
+PROJ-0865,A liberdade de evoluir de maneira eficaz,05/09/2023,29/07/2024,07/10/2024,4597946,Ísis da Conceição,Atrasado,62.01929671886101,0.6201929671886101,0.7617338811522533,Sim
+PROJ-0866,A arte de ganhar direto da fonte,05/06/2025,05/01/2026,25/12/2025,748204,Breno Ramos,Em andamento,18.098279632617455,1.0062241812155304,1.0440772559316855,Não
+PROJ-0867,A arte de conseguir direto da fonte,18/06/2025,09/01/2026,17/10/2025,332485,Cecilia Sousa,Cancelado,59.03612220647123,4.65477117397177,0.9713266654539028,Não
+PROJ-0868,O poder de mudar sem preocupação,11/03/2025,28/08/2025,13/09/2025,3843112,Sr. Davi Lucas Aparecida,Em andamento,71.39317294204469,0.8701917310604803,1.035763363098285,Não
+PROJ-0869,A simplicidade de mudar direto da fonte,05/09/2023,09/10/2023,29/09/2023,3639829,Ravi Ramos,Em andamento,99.9,0.9163044014443525,1.2419641826151466,Não
+PROJ-0870,A segurança de ganhar antes de tudo,17/11/2024,30/03/2025,14/04/2025,1897114,Bella Porto,Concluído,100.0,1.045129071758498,1.040184512565377,Não
+PROJ-0871,O poder de conseguir com força total,04/04/2024,24/06/2024,05/09/2024,4724662,Elisa Duarte,Atrasado,87.67835390346383,0.8767835390346383,0.7100458144003717,Não
+PROJ-0872,O prazer de avançar com confiança,28/05/2024,22/09/2024,10/01/2025,652471,Isabel Macedo,Atrasado,83.92399588820115,0.8392399588820115,0.8318653154096065,Não
+PROJ-0873,O direito de concretizar seus projetos mais facilmente,04/08/2023,02/07/2024,21/06/2024,3304737,Enzo Gabriel Andrade,Em andamento,99.9,1.0834752517957738,1.1907932260043315,Não
+PROJ-0874,A arte de ganhar direto da fonte,19/11/2023,07/11/2024,30/11/2024,4161659,Ravi Lucca da Cunha,Em andamento,99.9,0.9470101906135392,1.0895684103378795,Sim
+PROJ-0875,O prazer de avançar com força total,11/03/2024,09/05/2024,20/10/2024,600433,Ravi Lucca Pacheco,Atrasado,52.957403592079054,0.5295740359207906,0.7726259337251491,Não
+PROJ-0876,A possibilidade de concretizar seus projetos antes de tudo,16/10/2024,23/01/2025,31/12/2024,585863,Nathan Dias,Concluído,100.0,1.083346474634564,1.1890465165481388,Não
+PROJ-0877,A segurança de evoluir em estado puro,19/03/2025,03/08/2025,29/08/2025,993523,Maria Julia Borges,Concluído,100.0,1.036229228743913,1.1397776357859275,Não
+PROJ-0878,A liberdade de atingir seus objetivos mais rapidamente,10/08/2023,03/08/2024,14/09/2024,3641755,Henry Machado,Atrasado,62.76928896900868,0.6276928896900869,0.8771412127176809,Não
+PROJ-0879,O conforto de inovar com força total,11/12/2024,28/11/2025,24/11/2025,1448602,Amanda Pastor,Em andamento,68.47748374339628,0.902962300573184,1.227019075583318,Não
+PROJ-0880,O conforto de mudar naturalmente,13/03/2025,25/01/2026,16/01/2026,4633347,Sr. Henry Gabriel Costa,Em andamento,38.76273545534163,1.0320086608314922,0.8849478136559576,Não
+PROJ-0881,A liberdade de evoluir com força total,12/02/2024,14/08/2024,09/12/2024,4703290,Luiz Felipe Rodrigues,Atrasado,79.20922319101592,0.7920922319101592,0.6691280937388742,Não
+PROJ-0882,A arte de realizar seus sonhos com confiança,03/07/2025,21/12/2025,06/10/2025,3050263,Sr. Luan Albuquerque,Cancelado,55.73093749039746,8.663627555325423,0.7730419523060726,Não
+PROJ-0883,A simplicidade de avançar mais facilmente,15/08/2023,25/12/2023,11/12/2023,1336296,Théo da Rosa,Concluído,100.0,1.0575631821171139,1.0788273673142026,Não
+PROJ-0884,A liberdade de ganhar antes de tudo,05/10/2023,09/03/2024,24/02/2024,4122292,Vitória Vargas,Em andamento,99.9,1.1016133046505154,0.955362770381309,Não
+PROJ-0885,A certeza de mudar antes de tudo,21/01/2024,02/08/2024,19/07/2024,2666068,Rael Farias,Concluído,100.0,1.000598066135964,1.0970370688696869,Não
+PROJ-0886,A vantagem de concretizar seus projetos com confiança,02/09/2024,14/08/2025,19/12/2025,4195889,Dra. Maria Clara Pinto,Atrasado,61.932117000032484,0.6802702375241663,0.7446495504873019,Não
+PROJ-0887,A liberdade de conseguir com força total,07/11/2023,22/04/2024,03/09/2024,4413699,Lívia Duarte,Atrasado,62.17161444022792,0.6217161444022792,0.8136188108543514,Não
+PROJ-0888,A vantagem de conseguir de maneira eficaz,04/08/2023,01/05/2024,20/05/2024,3894847,Maria Vargas,Em andamento,91.73431944034668,1.1070909482288727,1.2441527139995339,Não
+PROJ-0889,A liberdade de realizar seus sonhos em estado puro,30/11/2023,13/03/2024,16/06/2024,2584334,Maria Alice Aparecida,Atrasado,52.00087216292242,0.5200087216292242,0.6767540925840385,Sim
+PROJ-0890,O direito de realizar seus sonhos mais rapidamente,05/06/2025,15/10/2025,08/10/2025,2550874,Oliver Fernandes,Em andamento,30.58806699393684,1.1029109392097904,1.1563210198592508,Não
+PROJ-0891,A vantagem de ganhar sem preocupação,19/12/2024,21/05/2025,10/05/2025,4565922,Apollo Nogueira,Concluído,100.0,1.045445809487377,1.2037063385243123,Não
+PROJ-0892,A certeza de conseguir antes de tudo,29/10/2023,08/07/2024,22/06/2024,61987,Maria Flor Pimenta,Concluído,100.0,1.0301452979629517,0.9138701793978437,Não
+PROJ-0893,O prazer de evoluir sem preocupação,03/10/2023,14/12/2023,05/12/2023,3714229,Dra. Nina Albuquerque,Concluído,100.0,1.0623522110983123,1.0578628066299718,Não
+PROJ-0894,A certeza de ganhar mais rapidamente,20/02/2024,22/12/2024,08/02/2025,2542085,Elisa Brito,Atrasado,60.25338693106017,0.6025338693106017,0.9864434763180597,Sim
+PROJ-0895,A segurança de evoluir mais facilmente,29/09/2023,30/01/2024,08/01/2024,3836127,Sr. Levi Pimenta,Concluído,100.0,1.0104187369655881,1.1741317806979952,Não
+PROJ-0896,O prazer de evoluir de maneira eficaz,29/03/2024,12/08/2024,03/09/2024,4960507,Daniel Cirino,Em andamento,99.9,0.8742712394892385,0.8964700414839905,Não
+PROJ-0897,A segurança de inovar mais facilmente,29/09/2024,23/09/2025,13/09/2025,4452136,Srta. Ana Luiza Novaes,Em andamento,69.71669504051337,0.9772070660933468,0.9090391073323884,Não
+PROJ-0898,A vantagem de ganhar em estado puro,26/07/2023,15/05/2024,31/05/2024,266651,Sophia da Rocha,Em andamento,99.05095566569237,0.9352103040475599,0.9219262370212392,Não
+PROJ-0899,A simplicidade de mudar sem preocupação,15/11/2023,15/03/2024,07/03/2024,4812534,Nicole Sousa,Em andamento,94.17044817065481,1.0973133588989765,0.8446363691278337,Sim
+PROJ-0900,O prazer de evoluir sem preocupação,17/04/2024,17/09/2024,13/10/2024,935839,Sophie Sales,Em andamento,99.9,1.0515210916984572,0.9680754361855533,Sim
+PROJ-0901,A possibilidade de mudar direto da fonte,07/08/2024,02/01/2025,21/01/2025,2820094,Maria Vitória da Costa,Em andamento,84.07798571053749,0.9607165510257328,0.9498423186132223,Não
+PROJ-0902,O conforto de evoluir mais rapidamente,14/03/2025,28/09/2025,24/10/2025,3708143,Isaque Monteiro,Atrasado,51.18857918202205,0.8307654654131448,0.7323731703618461,Sim
+PROJ-0903,A simplicidade de inovar com força total,20/02/2025,23/07/2025,18/08/2025,1221060,Srta. Lívia Aparecida,Concluído,100.0,1.087147453003199,1.0442541825094813,Não
+PROJ-0904,O conforto de inovar sem preocupação,15/07/2023,24/11/2023,05/12/2023,4273024,Matheus Duarte,Em andamento,99.9,1.0779383064427426,1.080099091101343,Sim
+PROJ-0905,A possibilidade de mudar com toda a tranquilidade,28/10/2023,21/12/2023,14/01/2024,1285389,Ian Marques,Concluído,100.0,1.080186752488286,1.0674091616701449,Não
+PROJ-0906,A certeza de concretizar seus projetos em estado puro,26/10/2023,16/04/2024,01/08/2024,2960754,Agatha Jesus,Atrasado,61.449464716981396,0.614494647169814,0.867324986510479,Sim
+PROJ-0907,A liberdade de evoluir simplesmente,15/01/2024,27/10/2024,05/11/2024,4871856,Ana Mendonça,Em andamento,91.64559092848016,1.010529003513835,0.8601616642468422,Não
+PROJ-0908,A segurança de atingir seus objetivos sem preocupação,27/09/2023,14/01/2024,14/01/2024,4703403,Cecilia Fernandes,Em andamento,99.72142001213828,1.0907323238912696,1.1046334447857762,Sim
+PROJ-0909,A certeza de concretizar seus projetos com força total,18/12/2024,31/01/2025,02/03/2025,1531739,Erick Rocha,Atrasado,69.75588719841504,0.6975588719841503,0.6788489027627531,Não
+PROJ-0910,A liberdade de inovar simplesmente,23/07/2023,02/02/2024,17/02/2024,3620679,Luiz Henrique Sá,Em andamento,99.9,0.9353753738984047,0.848605684260706,Não
+PROJ-0911,A possibilidade de avançar antes de tudo,26/04/2025,06/07/2025,14/10/2025,4230557,Nina Pimenta,Atrasado,54.15638599950062,0.5415638599950062,0.6873626667002615,Sim
+PROJ-0912,O prazer de conseguir simplesmente,28/08/2024,03/10/2024,17/10/2024,94553,Yago Guerra,Em andamento,99.9,0.9091652594767488,1.11298906529742,Não
+PROJ-0913,O prazer de conseguir em estado puro,09/06/2024,23/10/2024,21/11/2024,714803,Lunna Moura,Em andamento,99.9,1.0305982507229932,0.9773633914406644,Sim
+PROJ-0914,O conforto de ganhar mais rapidamente,20/06/2025,09/02/2026,01/01/2026,4040882,Sr. Rafael Aparecida,Cancelado,83.55799848882583,8.14690485266052,0.8848162439697234,Não
+PROJ-0915,A liberdade de ganhar com toda a tranquilidade,26/09/2024,06/12/2024,27/12/2024,3253919,Jade Vargas,Em andamento,99.9,0.9368142753971836,0.859065674642871,Não
+PROJ-0916,O direito de avançar naturalmente,07/08/2024,13/11/2024,27/11/2024,4312953,Sara Campos,Em andamento,92.06095661042472,1.0774041735468918,0.9576476625238344,Não
+PROJ-0917,A liberdade de conseguir simplesmente,01/03/2024,28/09/2024,04/10/2024,2577843,Lunna da Cunha,Em andamento,99.9,0.9690015624670736,0.8578175837109205,Sim
+PROJ-0918,O prazer de avançar antes de tudo,06/06/2025,30/03/2026,25/01/2026,2625048,Srta. Ana Cassiano,Cancelado,78.66081703382206,6.147963857643461,0.8292346468119948,Sim
+PROJ-0919,A segurança de conseguir direto da fonte,16/12/2024,25/05/2025,11/06/2025,4743254,Rafaela Albuquerque,Em andamento,99.9,1.1394678126638573,0.8881912624495093,Sim
+PROJ-0920,O direito de ganhar simplesmente,05/10/2024,12/12/2024,28/02/2025,4963601,Juan Câmara,Atrasado,81.94955573292425,0.8194955573292425,0.9112954657704695,Não
+PROJ-0921,O conforto de inovar antes de tudo,11/05/2025,15/06/2025,14/07/2025,2371697,Sarah Melo,Concluído,100.0,1.0508006241886485,1.0525750728239354,Não
+PROJ-0922,O prazer de avançar sem preocupação,06/04/2024,29/09/2024,06/10/2024,2448137,Sra. Amanda Siqueira,Em andamento,95.26270721415328,1.064845238490701,1.2305911985334754,Sim
+PROJ-0923,A liberdade de realizar seus sonhos direto da fonte,11/04/2024,12/12/2024,27/12/2024,3053912,Samuel da Costa,Concluído,100.0,0.986990309112807,1.017213421831885,Sim
+PROJ-0924,O prazer de realizar seus sonhos de maneira eficaz,25/01/2025,25/02/2025,03/03/2025,2369133,Sra. Laís Cassiano,Em andamento,94.96148799322481,0.9682263634156937,0.8608570327610058,Não
+PROJ-0925,O prazer de realizar seus sonhos simplesmente,14/05/2024,11/03/2025,20/03/2025,497017,Dra. Alexia Silva,Em andamento,99.9,1.098134626535345,1.1401793529203734,Não
+PROJ-0926,A possibilidade de mudar antes de tudo,27/09/2023,29/10/2023,24/11/2023,3735642,Isabelly Costa,Em andamento,84.43903903116575,0.8543794859232124,1.1617970351829492,Não
+PROJ-0927,O poder de atingir seus objetivos antes de tudo,08/10/2024,30/06/2025,15/06/2025,785122,Ana Julia Abreu,Em andamento,98.93221179480057,1.0744237026910461,0.9865790902455247,Sim
+PROJ-0928,O prazer de realizar seus sonhos sem preocupação,21/03/2025,01/05/2025,23/07/2025,3269020,Srta. Raquel Mendonça,Atrasado,62.65363115782614,0.6265363115782614,0.698913001551762,Não
+PROJ-0929,O poder de atingir seus objetivos antes de tudo,30/12/2023,03/08/2024,15/08/2024,1530598,Emanuelly Caldeira,Em andamento,88.39125242857861,0.9396531309703096,0.9367228332197919,Não
+PROJ-0930,A possibilidade de realizar seus sonhos sem preocupação,05/06/2024,22/08/2024,19/08/2024,1286905,Asafe Leão,Em andamento,92.67497698326315,1.1206852480657914,1.022414194945864,Não
+PROJ-0931,O conforto de conseguir de maneira eficaz,20/01/2025,12/06/2025,19/06/2025,4562866,Nina Moura,Em andamento,99.9,0.9305203895084246,1.1624729203055808,Não
+PROJ-0932,O poder de avançar com toda a tranquilidade,07/01/2024,12/03/2024,24/03/2024,4857872,Matheus Farias,Em andamento,99.9,1.0890269380469724,0.8861993551217475,Sim
+PROJ-0933,A possibilidade de concretizar seus projetos naturalmente,24/01/2025,15/12/2025,08/01/2026,2794044,Dante Ferreira,Em andamento,53.113283530182485,0.973797801587748,1.036374349916996,Sim
+PROJ-0934,O direito de realizar seus sonhos antes de tudo,17/11/2023,01/06/2024,20/06/2024,3868748,Rhavi Viana,Em andamento,98.56010797946546,1.1046582734206556,0.9274517170488055,Não
+PROJ-0935,A simplicidade de realizar seus sonhos sem preocupação,04/01/2025,03/05/2025,28/04/2025,1731903,Nicole Brito,Em andamento,88.23403138225022,1.0440040626049039,0.8675858473450401,Não
+PROJ-0936,A arte de concretizar seus projetos antes de tudo,05/08/2024,28/09/2024,23/11/2024,2330360,Ana Cecília Leão,Atrasado,63.672632506756344,0.6367263250675634,0.6837602092078171,Não
+PROJ-0937,A liberdade de mudar com força total,28/07/2023,03/01/2024,19/03/2024,1176935,Breno Carvalho,Atrasado,51.27810404152123,0.5127810404152123,0.8408220351006127,Não
+PROJ-0938,A vantagem de atingir seus objetivos de maneira eficaz,27/02/2025,13/08/2025,30/07/2025,3283540,Joaquim Montenegro,Em andamento,77.15053222328983,1.0909771624364368,1.2109443340607555,Sim
+PROJ-0939,O poder de avançar simplesmente,12/12/2024,30/03/2025,17/03/2025,2961396,Gustavo Henrique da Rocha,Concluído,100.0,1.0314017452203776,1.1532672008856348,Sim
+PROJ-0940,O poder de inovar naturalmente,31/10/2023,12/05/2024,13/03/2024,3523816,Liz Almeida,Cancelado,69.2407913365887,0.692407913365887,0.9825289408274848,Não
+PROJ-0941,A vantagem de mudar com força total,31/01/2025,01/07/2025,18/06/2025,2986637,Antonella Sá,Em andamento,94.63523010402794,0.9217216539321433,1.189625426791948,Não
+PROJ-0942,A certeza de conseguir com confiança,07/06/2025,14/12/2025,11/01/2026,4472405,Eduarda Casa Grande,Atrasado,12.956205706677185,0.6653186714239635,0.7263267247874208,Não
+PROJ-0943,A vantagem de mudar em estado puro,31/03/2025,23/03/2026,13/03/2026,4378247,Brenda Azevedo,Em andamento,25.60721495678571,1.043486645369747,0.9884121723643307,Sim
+PROJ-0944,O direito de realizar seus sonhos com força total,18/04/2025,14/06/2025,18/06/2025,356178,Maria das Neves,Concluído,100.0,0.9787024763833636,1.2088692382667918,Sim
+PROJ-0945,O direito de mudar direto da fonte,26/12/2023,15/04/2024,29/06/2024,627567,Isadora Pacheco,Atrasado,62.624298301133344,0.6262429830113334,0.8560114056962692,Não
+PROJ-0946,O direito de realizar seus sonhos mais rapidamente,06/07/2025,06/02/2026,31/03/2026,3384655,Bianca Viana,Atrasado,2.7001103369064476,0.7256546530436078,0.9016135282326478,Sim
+PROJ-0947,A certeza de inovar mais facilmente,20/09/2024,12/03/2025,10/03/2025,1239697,Ana Julia Mendes,Concluído,100.0,0.9562863041033346,1.0393920544244943,Não
+PROJ-0948,O prazer de avançar sem preocupação,10/01/2024,19/12/2024,24/12/2024,3392930,Bella Lima,Em andamento,99.9,1.0493786227497452,0.8809202683039206,Não
+PROJ-0949,A certeza de evoluir antes de tudo,09/06/2025,11/12/2025,07/01/2026,1692287,Enrico Mendonça,Em andamento,17.032320540769078,1.038776661873067,1.0187151431702193,Não
+PROJ-0950,A simplicidade de inovar mais rapidamente,18/10/2023,12/03/2024,29/04/2024,4712535,Thiago Andrade,Atrasado,67.30308183544447,0.6730308183544448,0.8543557710517674,Não
+PROJ-0951,A simplicidade de conseguir direto da fonte,13/11/2024,20/08/2025,08/02/2026,1101920,Sofia Azevedo,Atrasado,56.33413034127335,0.6491175512574706,0.7764663266242464,Sim
+PROJ-0952,A simplicidade de concretizar seus projetos simplesmente,19/07/2023,02/10/2023,26/03/2024,3995324,Agatha da Luz,Atrasado,70.19963017770901,0.7019963017770902,0.7140971503912277,Não
+PROJ-0953,O conforto de mudar em estado puro,02/03/2025,07/07/2025,28/06/2025,2184668,Léo Brito,Em andamento,99.9,1.1137665412900035,0.8606555341324278,Sim
+PROJ-0954,A liberdade de inovar mais facilmente,31/01/2024,15/12/2024,04/01/2025,3971491,Luiz Miguel Martins,Em andamento,99.9,0.89156598001391,1.0051812474040118,Não
+PROJ-0955,A possibilidade de conseguir direto da fonte,09/09/2023,10/01/2024,23/06/2024,256688,João Pedro Sousa,Atrasado,70.30012831900402,0.7030012831900402,0.6758385081969365,Não
+PROJ-0956,A liberdade de ganhar com força total,19/06/2025,04/05/2026,03/06/2026,1061819,Arthur Miguel Cunha,Em andamento,7.442300023433599,0.9698902930151002,1.1846003217491916,Não
+PROJ-0957,A certeza de conseguir direto da fonte,29/09/2023,16/02/2024,18/01/2024,3276411,Felipe Lima,Concluído,100.0,1.0713263924974252,1.18081005428352,Não
+PROJ-0958,A possibilidade de atingir seus objetivos em estado puro,09/10/2024,23/08/2025,20/08/2025,4982509,Anthony Gabriel Pinto,Em andamento,97.26687812367616,1.0166424649286219,0.8413394218829137,Sim
+PROJ-0959,A possibilidade de atingir seus objetivos com força total,25/04/2024,10/02/2025,07/02/2025,1670024,Juliana Cunha,Em andamento,90.10844319727039,1.039730689231782,1.0161730314408641,Sim
+PROJ-0960,O direito de inovar com confiança,28/06/2024,07/10/2024,05/01/2025,2936263,Esther Farias,Atrasado,57.92865061829984,0.5792865061829984,0.9702333099805458,Não
+PROJ-0961,A vantagem de conseguir com força total,16/11/2023,10/09/2024,31/08/2024,1701845,Maria Liz Câmara,Em andamento,92.62275689458235,1.030516116319818,1.0437925923281877,Não
+PROJ-0962,A certeza de mudar de maneira eficaz,16/06/2024,13/05/2025,23/05/2025,4219689,Isadora Fogaça,Atrasado,71.33697248840272,0.7133697248840272,0.6896905641422088,Sim
+PROJ-0963,O conforto de concretizar seus projetos com força total,16/10/2024,13/12/2024,03/01/2025,4874199,Ana Costela,Em andamento,84.14676070272004,1.1434776146353371,1.1271760159588866,Sim
+PROJ-0964,A certeza de ganhar com toda a tranquilidade,27/09/2024,27/05/2025,10/10/2025,4747162,José Miguel Peixoto,Atrasado,68.73387091882257,0.6873387091882257,0.90439156478119,Não
+PROJ-0965,O conforto de atingir seus objetivos direto da fonte,18/12/2023,07/08/2024,20/12/2024,647397,Raquel Leão,Atrasado,59.85247467046351,0.5985247467046351,0.7957315839601848,Sim
+PROJ-0966,O conforto de ganhar sem preocupação,12/05/2025,15/03/2026,07/03/2026,658889,Bárbara Pereira,Em andamento,23.324917504451776,1.106807130450775,0.93295162272996,Não
+PROJ-0967,O prazer de avançar com confiança,26/08/2024,02/02/2025,30/06/2025,1492806,Ana Clara Novaes,Atrasado,78.23300000876712,0.7823300000876712,0.809116466744683,Não
+PROJ-0968,A certeza de avançar com força total,15/10/2023,21/04/2024,07/05/2024,4848241,Theo Teixeira,Em andamento,83.1256070423755,0.8752990717637608,1.0550301579685208,Não
+PROJ-0969,A arte de inovar mais rapidamente,11/01/2025,11/08/2025,06/09/2025,3630442,Bruna Sá,Em andamento,91.20048878403388,1.0167282877926471,1.2310442283547238,Sim
+PROJ-0970,A possibilidade de avançar mais facilmente,22/01/2025,19/09/2025,07/10/2025,2490944,Sr. Luiz Miguel Vieira,Em andamento,79.32597591667736,1.0131025403564904,1.1512466004420188,Não
+PROJ-0971,O direito de mudar de maneira eficaz,02/01/2025,11/10/2025,16/03/2026,1471296,Lucca Lima,Atrasado,54.79450151525535,0.8006243226581351,0.7120836652694329,Não
+PROJ-0972,A simplicidade de inovar antes de tudo,12/11/2024,06/11/2025,24/10/2025,2863956,Ana Cirino,Concluído,100.0,1.0243445809418963,1.0937349634915756,Não
+PROJ-0973,A vantagem de atingir seus objetivos simplesmente,19/07/2023,20/04/2024,06/04/2024,1309905,José Pedro Caldeira,Em andamento,93.75532486573867,0.9170142782111734,1.0390222003433394,Sim
+PROJ-0974,A segurança de concretizar seus projetos de maneira eficaz,29/11/2024,16/06/2025,19/06/2025,827986,Daniela Alves,Em andamento,86.37253337776792,1.0073851461954826,1.0173659383757994,Não
+PROJ-0975,O prazer de mudar simplesmente,03/10/2023,04/02/2024,20/01/2024,3160274,Allana Sales,Cancelado,88.17190839923244,0.8817190839923243,0.6906178608144545,Não
+PROJ-0976,A vantagem de conseguir com toda a tranquilidade,12/06/2025,30/09/2025,25/10/2025,4309517,Ísis Nunes,Concluído,100.0,1.0045421839976678,0.8671475293575005,Não
+PROJ-0977,A liberdade de inovar mais rapidamente,12/05/2024,17/01/2025,05/01/2025,2674767,Miguel Pereira,Em andamento,99.9,0.9947503337500567,0.9776748377664689,Sim
+PROJ-0978,O direito de realizar seus sonhos naturalmente,31/12/2024,19/03/2025,24/03/2025,2404305,José Pedro Duarte,Concluído,100.0,1.0953026962467205,0.9996497611090398,Não
+PROJ-0979,A liberdade de conseguir mais facilmente,28/12/2024,13/09/2025,10/09/2025,3209755,Srta. Maria Alice Macedo,Concluído,100.0,1.027619353028414,1.1963622150928568,Não
+PROJ-0980,A segurança de avançar com confiança,26/08/2024,01/04/2025,26/04/2025,3878441,Luiz Felipe Marques,Concluído,100.0,0.9500176514687055,0.9276884476204639,Sim
+PROJ-0981,O poder de realizar seus sonhos com força total,06/01/2024,04/07/2024,21/08/2024,1197026,Pietra Santos,Atrasado,58.0058386476252,0.580058386476252,0.8420606421425749,Não
+PROJ-0982,A vantagem de concretizar seus projetos direto da fonte,11/08/2024,31/07/2025,22/08/2025,4826561,Ana Carolina Mendonça,Concluído,100.0,1.0052358318535708,0.9132753724435486,Não
+PROJ-0983,O prazer de mudar com confiança,24/01/2025,04/04/2025,01/04/2025,498126,Antony Correia,Em andamento,84.08381898973609,1.0921703710097548,0.9809055456553484,Sim
+PROJ-0984,A possibilidade de mudar mais facilmente,21/08/2024,16/07/2025,09/07/2025,1750559,Theodoro Ramos,Concluído,100.0,0.9772958828827336,1.0091350305580178,Não
+PROJ-0985,O poder de realizar seus sonhos sem preocupação,18/07/2023,27/10/2023,13/11/2023,2216145,Emanuel Martins,Em andamento,99.9,0.9899209238146459,0.8620069241655747,Não
+PROJ-0986,O conforto de conseguir com força total,21/12/2023,30/01/2024,21/01/2024,4255549,Rafael Dias,Em andamento,81.73917313779184,0.8504879663704952,1.0344233229283522,Sim
+PROJ-0987,A possibilidade de inovar simplesmente,25/11/2023,09/01/2024,11/12/2023,2078836,Lorena Pacheco,Concluído,100.0,1.050698872937847,1.1496341938593098,Não
+PROJ-0988,O prazer de avançar simplesmente,15/11/2023,15/08/2024,03/09/2024,1667793,Nina da Cunha,Em andamento,99.9,1.1451193727587818,1.2429345877326987,Não
+PROJ-0989,A possibilidade de concretizar seus projetos mais facilmente,26/04/2025,04/04/2026,18/04/2026,4282439,Marcelo Sá,Em andamento,19.993192972475384,0.9619501619230625,1.1609962130493439,Não
+PROJ-0990,A possibilidade de mudar com força total,04/07/2025,11/01/2026,09/01/2026,2353417,Ana Mendonça,Em andamento,6.056764284204738,1.0728074022867036,0.8502597699079879,Não
+PROJ-0991,O direito de conseguir com confiança,22/01/2025,30/10/2025,16/11/2025,1699795,Dr. Benicio Moura,Em andamento,57.180376053148095,1.1098293202463645,1.0777330146958817,Não
+PROJ-0992,O conforto de evoluir simplesmente,03/01/2025,16/06/2025,28/09/2025,1555820,Marcela Cassiano,Atrasado,71.8838464056198,0.7188384640561981,0.7222711695833711,Sim
+PROJ-0993,A simplicidade de avançar antes de tudo,23/01/2025,15/12/2025,08/12/2025,3812147,João Felipe Farias,Em andamento,44.71901315845794,0.8592097572590964,1.1685948018934509,Não
+PROJ-0994,A simplicidade de mudar sem preocupação,07/01/2025,23/09/2025,17/03/2025,1309617,Dr. Vinicius Aragão,Cancelado,26.99229568118625,0.3718619458205978,0.8271127875660801,Não
+PROJ-0995,A possibilidade de evoluir mais rapidamente,08/12/2024,06/02/2025,13/05/2025,923082,Bernardo Aragão,Atrasado,66.02742583769742,0.6602742583769742,0.959702592492298,Sim
+PROJ-0996,O poder de evoluir antes de tudo,12/01/2025,10/12/2025,07/01/2026,215431,Rodrigo Dias,Em andamento,51.22761603076902,1.1054617869711505,0.9449874461315009,Sim
+PROJ-0997,A liberdade de realizar seus sonhos de maneira eficaz,05/03/2025,29/05/2025,23/09/2025,4428833,Sr. Benjamim Albuquerque,Atrasado,72.36223474691779,0.723622347469178,0.7942800743970274,Não
+PROJ-0998,O prazer de realizar seus sonhos com confiança,27/07/2023,07/11/2023,15/10/2023,1227576,Arthur Sá,Concluído,100.0,0.9850021767387643,0.8845765178384118,Sim
+PROJ-0999,A segurança de concretizar seus projetos antes de tudo,27/06/2025,21/12/2025,13/01/2026,1991402,Sra. Mariane Novais,Em andamento,8.018447476170573,1.078705031814942,1.214979031064316,Não
+PROJ-1000,A arte de concretizar seus projetos naturalmente,09/08/2023,31/01/2024,24/01/2024,3472624,Sra. Valentina Carvalho,Concluído,100.0,0.9704757295373835,1.0988373268789486,Não

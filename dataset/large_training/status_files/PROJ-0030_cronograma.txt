@@ -1,0 +1,24 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A arte de evoluir sem preocupação (PROJ-0030)
+Data: 14/07/2025
+Gerente: Maria Alice Aragão
+
+Status atual: Em andamento
+Percentual de conclusão: 98.2%
+Data de início: 03/06/2024
+Data de término planejada: 08/09/2024
+Data de término real/prevista: 03/10/2024
+Atraso atual: 309 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.02
+Valor Planejado (PV): R$ 3057372.00
+Valor Agregado (EV): R$ 3001791.58
+
+Tarefas críticas:
+- Implementação do módulo de análise de dados
+- Desenvolvimento do módulo de autenticação
+- Desenvolvimento do módulo de autenticação
+- Configuração da infraestrutura
+- Testes de segurança
+
+Tarefas atrasadas:

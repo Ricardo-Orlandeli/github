@@ -1,0 +1,23 @@
+RELATÓRIO DE STATUS DE RISCOS
+Projeto: O prazer de atingir seus objetivos mais facilmente (PROJ-0780)
+Data: 14/07/2025
+Gerente: Bárbara Mendonça
+
+Riscos identificados:
+- R01: Problemas de comunicação com stakeholders
+  Probabilidade: 5/5, Impacto: 2/5, Nível: Médio
+  Mitigação: Gerenciar dependências ativamente
+
+- R02: Dependências externas não cumpridas
+  Probabilidade: 1/5, Impacto: 4/5, Nível: Baixo
+  Mitigação: Fortalecer medidas de segurança
+
+- R03: Dependências externas não cumpridas
+  Probabilidade: 1/5, Impacto: 4/5, Nível: Baixo
+  Mitigação: Melhorar a documentação de requisitos
+
+- R04: Falhas de infraestrutura
+  Probabilidade: 3/5, Impacto: 3/5, Nível: Médio
+  Mitigação: Comunicar benefícios da mudança
+
+Riscos ocorridos:

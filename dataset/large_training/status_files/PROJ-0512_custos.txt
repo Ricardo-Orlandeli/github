@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A vantagem de mudar mais facilmente (PROJ-0512)
+Data: 14/07/2025
+Gerente: Liz Peixoto
+
+Orçamento inicial: R$ 3279804.00
+Custo real atual: R$ 1032726.95
+Desvio orçamentário: -5.84%
+Índice de Desempenho de Custo (CPI): 0.87
+Valor Agregado (EV): R$ 896595.41
+Estimativa para conclusão: R$ 2745055.04
+Estimativa no término (EAC): R$ 3777781.99
+Variação no término (VAC): R$ -497977.99
+
+Detalhamento por categoria:
+- Pessoal: R$ 502567.10 (48.7%)
+- Equipamentos: R$ 181000.77 (17.5%)
+- Software: R$ 92350.57 (8.9%)
+- Serviços: R$ 173778.74 (16.8%)
+- Outros: R$ 83029.77 (8.0%)

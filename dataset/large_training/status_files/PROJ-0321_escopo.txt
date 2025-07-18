@@ -1,0 +1,21 @@
+RELATÓRIO DE STATUS DE ESCOPO
+Projeto: A possibilidade de evoluir em estado puro (PROJ-0321)
+Data: 14/07/2025
+Gerente: Luna Garcia
+
+Escopo original: Sistema para a possibilidade de evoluir em estado puro
+Houve mudança de escopo: Sim
+Descrição das mudanças: Mudança na plataforma de implementação
+Impacto no cronograma: 44 dias
+Impacto no custo: R$ 395512.56
+
+Solicitações de mudança:
+- SCM-01: Implementação de módulo de exportação de dados
+- SCM-02: Alteração nos requisitos de desempenho
+
+Requisitos atuais:
+- REQ-01: O sistema deve processar transações em menos de 2 seconds
+- REQ-02: O sistema deve permitir integração com APIs externas
+- REQ-03: O sistema deve ter documentação completa
+- REQ-04: O sistema deve permitir integração com APIs externas
+- REQ-05: O sistema deve ter controle de acesso baseado em perfis

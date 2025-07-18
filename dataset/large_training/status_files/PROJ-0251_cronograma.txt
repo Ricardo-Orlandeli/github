@@ -1,0 +1,23 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A possibilidade de evoluir com confiança (PROJ-0251)
+Data: 14/07/2025
+Gerente: Caio da Rosa
+
+Status atual: Em andamento
+Percentual de conclusão: 26.2%
+Data de início: 21/04/2025
+Data de término planejada: 05/04/2026
+Data de término real/prevista: 18/04/2026
+Atraso atual: 0 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 0.93
+Valor Planejado (PV): R$ 807607.53
+Valor Agregado (EV): R$ 879703.14
+
+Tarefas críticas:
+- Desenvolvimento da interface do usuário
+- Migração de dados legados
+- Integração com sistema de pagamentos
+- Configuração da infraestrutura
+
+Tarefas atrasadas:

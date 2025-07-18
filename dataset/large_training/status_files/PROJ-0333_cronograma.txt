@@ -1,0 +1,25 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: O prazer de inovar com toda a tranquilidade (PROJ-0333)
+Data: 14/07/2025
+Gerente: Dr. José Miguel Castro
+
+Status atual: Atrasado
+Percentual de conclusão: 86.9%
+Data de início: 16/01/2025
+Data de término planejada: 02/05/2025
+Data de término real/prevista: 18/05/2025
+Atraso atual: 73 dias
+Motivo do atraso: Dependências externas não cumpridas
+Índice de Desempenho de Cronograma (SPI): 0.87
+Valor Planejado (PV): R$ 2166373.00
+Valor Agregado (EV): R$ 1882886.34
+
+Tarefas críticas:
+- Implementação do módulo de exportação de dados
+- Desenvolvimento do módulo de autenticação
+- Implementação do módulo de notificações
+- Desenvolvimento da interface do usuário
+- Configuração da infraestrutura
+
+Tarefas atrasadas:
+- Desenvolvimento do módulo de autenticação

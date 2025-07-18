@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O direito de realizar seus sonhos com força total (PROJ-0944)
+Data: 14/07/2025
+Gerente: Maria das Neves
+
+Orçamento inicial: R$ 356178.00
+Custo real atual: R$ 294637.33
+Desvio orçamentário: -17.28%
+Índice de Desempenho de Custo (CPI): 1.21
+Valor Agregado (EV): R$ 356178.00
+Estimativa para conclusão: R$ 0.00
+Estimativa no término (EAC): R$ 294637.33
+Variação no término (VAC): R$ 61540.67
+
+Detalhamento por categoria:
+- Pessoal: R$ 155034.16 (52.6%)
+- Equipamentos: R$ 52426.14 (17.8%)
+- Software: R$ 26359.86 (8.9%)
+- Serviços: R$ 33558.74 (11.4%)
+- Outros: R$ 27258.42 (9.3%)

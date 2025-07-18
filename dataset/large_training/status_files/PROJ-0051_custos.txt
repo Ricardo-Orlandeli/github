@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A certeza de inovar simplesmente (PROJ-0051)
+Data: 14/07/2025
+Gerente: Sra. Maria Sophia Barros
+
+Orçamento inicial: R$ 2875605.00
+Custo real atual: R$ 2925441.15
+Desvio orçamentário: 1.73%
+Índice de Desempenho de Custo (CPI): 0.98
+Valor Agregado (EV): R$ 2875605.00
+Estimativa para conclusão: R$ 0.00
+Estimativa no término (EAC): R$ 2925441.15
+Variação no término (VAC): R$ -49836.15
+
+Detalhamento por categoria:
+- Pessoal: R$ 1236326.73 (42.3%)
+- Equipamentos: R$ 550584.41 (18.8%)
+- Software: R$ 418523.69 (14.3%)
+- Serviços: R$ 423130.20 (14.5%)
+- Outros: R$ 296876.13 (10.1%)

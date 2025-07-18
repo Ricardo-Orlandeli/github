@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A possibilidade de atingir seus objetivos com força total (PROJ-0258)
+Data: 14/07/2025
+Gerente: Sarah Casa Grande
+
+Orçamento inicial: R$ 2458627.00
+Custo real atual: R$ 2199564.14
+Desvio orçamentário: -10.54%
+Índice de Desempenho de Custo (CPI): 1.12
+Valor Agregado (EV): R$ 2456168.37
+Estimativa para conclusão: R$ 2201.77
+Estimativa no término (EAC): R$ 2201765.91
+Variação no término (VAC): R$ 256861.09
+
+Detalhamento por categoria:
+- Pessoal: R$ 961408.22 (43.7%)
+- Equipamentos: R$ 366151.06 (16.6%)
+- Software: R$ 289067.20 (13.1%)
+- Serviços: R$ 457887.94 (20.8%)
+- Outros: R$ 125049.73 (5.7%)

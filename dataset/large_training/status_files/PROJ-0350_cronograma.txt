@@ -1,0 +1,22 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A vantagem de avançar sem preocupação (PROJ-0350)
+Data: 14/07/2025
+Gerente: Ana Luiza Marques
+
+Status atual: Em andamento
+Percentual de conclusão: 84.0%
+Data de início: 19/08/2024
+Data de término planejada: 15/10/2024
+Data de término real/prevista: 08/11/2024
+Atraso atual: 272 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 0.91
+Valor Planejado (PV): R$ 4262832.00
+Valor Agregado (EV): R$ 3581191.44
+
+Tarefas críticas:
+- Implementação da API REST
+- Migração de dados legados
+- Testes de aceitação do usuário
+
+Tarefas atrasadas:

@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A liberdade de concretizar seus projetos sem preocupação (PROJ-0011)
+Data: 14/07/2025
+Gerente: João Guilherme Camargo
+
+Orçamento inicial: R$ 2045748.00
+Custo real atual: R$ 1761526.30
+Desvio orçamentário: -13.89%
+Índice de Desempenho de Custo (CPI): 0.96
+Valor Agregado (EV): R$ 1685182.18
+Estimativa para conclusão: R$ 376900.60
+Estimativa no término (EAC): R$ 2138426.90
+Variação no término (VAC): R$ -92678.90
+
+Detalhamento por categoria:
+- Pessoal: R$ 970195.57 (55.1%)
+- Equipamentos: R$ 221976.40 (12.6%)
+- Software: R$ 109246.56 (6.2%)
+- Serviços: R$ 338916.57 (19.2%)
+- Outros: R$ 121191.19 (6.9%)

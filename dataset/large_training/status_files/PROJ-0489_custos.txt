@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A segurança de mudar com força total (PROJ-0489)
+Data: 14/07/2025
+Gerente: Mirella Ribeiro
+
+Orçamento inicial: R$ 2988881.00
+Custo real atual: R$ 2956523.38
+Desvio orçamentário: -1.08%
+Índice de Desempenho de Custo (CPI): 0.88
+Valor Agregado (EV): R$ 2605775.83
+Estimativa para conclusão: R$ 434672.62
+Estimativa no término (EAC): R$ 3391196.00
+Variação no término (VAC): R$ -402315.00
+
+Detalhamento por categoria:
+- Pessoal: R$ 1626179.50 (55.0%)
+- Equipamentos: R$ 375466.66 (12.7%)
+- Software: R$ 179028.39 (6.1%)
+- Serviços: R$ 492120.30 (16.6%)
+- Outros: R$ 283728.52 (9.6%)

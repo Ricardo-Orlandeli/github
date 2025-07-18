@@ -1,0 +1,47 @@
+RELATÓRIO DE STATUS DE RISCOS
+Projeto: O direito de mudar naturalmente (PROJ-0697)
+Data: 14/07/2025
+Gerente: Melina da Mota
+
+Riscos identificados:
+- R01: Problemas de desempenho
+  Probabilidade: 1/5, Impacto: 3/5, Nível: Baixo
+  Mitigação: Fortalecer medidas de segurança
+
+- R02: Resistência dos usuários à mudança
+  Probabilidade: 5/5, Impacto: 4/5, Nível: Alto
+  Mitigação: Refinar estimativas com base em dados históricos
+
+- R03: Falhas de infraestrutura
+  Probabilidade: 2/5, Impacto: 4/5, Nível: Médio
+  Mitigação: Comunicar benefícios da mudança
+
+- R04: Indisponibilidade de recursos especializados
+  Probabilidade: 4/5, Impacto: 2/5, Nível: Médio
+  Mitigação: Melhorar a documentação de requisitos
+
+- R05: Indisponibilidade de recursos especializados
+  Probabilidade: 5/5, Impacto: 4/5, Nível: Alto
+  Mitigação: Gerenciar dependências ativamente
+
+- R06: Problemas de integração com sistemas legados
+  Probabilidade: 5/5, Impacto: 2/5, Nível: Médio
+  Mitigação: Gerenciar dependências ativamente
+
+- R07: Requisitos mal definidos
+  Probabilidade: 4/5, Impacto: 2/5, Nível: Médio
+  Mitigação: Estabelecer canais de comunicação claros
+
+- R08: Mudanças regulatórias
+  Probabilidade: 1/5, Impacto: 4/5, Nível: Baixo
+  Mitigação: Realizar testes de aceitação com usuários-chave
+
+- R09: Requisitos mal definidos
+  Probabilidade: 4/5, Impacto: 4/5, Nível: Alto
+  Mitigação: Implementar redundância de infraestrutura
+
+- R10: Mudanças regulatórias
+  Probabilidade: 5/5, Impacto: 5/5, Nível: Alto
+  Mitigação: Comunicar benefícios da mudança
+
+Riscos ocorridos:

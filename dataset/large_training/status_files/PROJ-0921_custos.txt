@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O conforto de inovar antes de tudo (PROJ-0921)
+Data: 14/07/2025
+Gerente: Sarah Melo
+
+Orçamento inicial: R$ 2371697.00
+Custo real atual: R$ 2253233.11
+Desvio orçamentário: -4.99%
+Índice de Desempenho de Custo (CPI): 1.05
+Valor Agregado (EV): R$ 2371697.00
+Estimativa para conclusão: R$ 0.00
+Estimativa no término (EAC): R$ 2253233.11
+Variação no término (VAC): R$ 118463.89
+
+Detalhamento por categoria:
+- Pessoal: R$ 1233939.97 (54.8%)
+- Equipamentos: R$ 267257.48 (11.9%)
+- Software: R$ 287831.58 (12.8%)
+- Serviços: R$ 267068.46 (11.9%)
+- Outros: R$ 197135.61 (8.7%)

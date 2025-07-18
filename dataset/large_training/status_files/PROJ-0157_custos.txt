@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O conforto de ganhar com toda a tranquilidade (PROJ-0157)
+Data: 14/07/2025
+Gerente: Arthur Gabriel Souza
+
+Orçamento inicial: R$ 2303748.00
+Custo real atual: R$ 2156350.30
+Desvio orçamentário: -6.40%
+Índice de Desempenho de Custo (CPI): 0.89
+Valor Agregado (EV): R$ 1910428.92
+Estimativa para conclusão: R$ 443949.38
+Estimativa no término (EAC): R$ 2600299.67
+Variação no término (VAC): R$ -296551.67
+
+Detalhamento por categoria:
+- Pessoal: R$ 1162023.72 (53.9%)
+- Equipamentos: R$ 246264.50 (11.4%)
+- Software: R$ 222310.92 (10.3%)
+- Serviços: R$ 313832.99 (14.6%)
+- Outros: R$ 211918.17 (9.8%)

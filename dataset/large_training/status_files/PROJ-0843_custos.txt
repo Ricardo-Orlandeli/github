@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A vantagem de evoluir direto da fonte (PROJ-0843)
+Data: 14/07/2025
+Gerente: Srta. Esther Souza
+
+Orçamento inicial: R$ 3711178.00
+Custo real atual: R$ 3685515.10
+Desvio orçamentário: 27.68%
+Índice de Desempenho de Custo (CPI): 1.01
+Valor Agregado (EV): R$ 3711178.00
+Estimativa para conclusão: R$ 0.00
+Estimativa no término (EAC): R$ 3685515.10
+Variação no término (VAC): R$ 25662.90
+
+Detalhamento por categoria:
+- Pessoal: R$ 1856183.88 (50.4%)
+- Equipamentos: R$ 722344.90 (19.6%)
+- Software: R$ 325929.46 (8.8%)
+- Serviços: R$ 588327.59 (16.0%)
+- Outros: R$ 192729.27 (5.2%)

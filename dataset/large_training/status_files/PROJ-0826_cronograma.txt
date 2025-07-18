@@ -1,0 +1,22 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A vantagem de evoluir sem preocupação (PROJ-0826)
+Data: 14/07/2025
+Gerente: Dr. Heitor Teixeira
+
+Status atual: Em andamento
+Percentual de conclusão: 92.1%
+Data de início: 10/08/2023
+Data de término planejada: 26/09/2023
+Data de término real/prevista: 10/10/2023
+Atraso atual: 657 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.00
+Valor Planejado (PV): R$ 3569625.00
+Valor Agregado (EV): R$ 3288178.45
+
+Tarefas críticas:
+- Configuração da infraestrutura
+- Implementação do módulo de relatórios
+- Implementação do sistema de backup
+
+Tarefas atrasadas:

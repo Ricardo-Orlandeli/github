@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A certeza de ganhar de maneira eficaz (PROJ-0080)
+Data: 14/07/2025
+Gerente: Apollo Marques
+
+Orçamento inicial: R$ 4052255.00
+Custo real atual: R$ 3750522.86
+Desvio orçamentário: 17.67%
+Índice de Desempenho de Custo (CPI): 0.92
+Valor Agregado (EV): R$ 3442479.51
+Estimativa para conclusão: R$ 664340.02
+Estimativa no término (EAC): R$ 4414862.88
+Variação no término (VAC): R$ -362607.88
+
+Detalhamento por categoria:
+- Pessoal: R$ 2202104.24 (58.7%)
+- Equipamentos: R$ 589303.87 (15.7%)
+- Software: R$ 254660.03 (6.8%)
+- Serviços: R$ 393468.33 (10.5%)
+- Outros: R$ 310986.39 (8.3%)

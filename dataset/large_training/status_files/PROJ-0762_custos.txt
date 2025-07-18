@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A simplicidade de atingir seus objetivos com força total (PROJ-0762)
+Data: 14/07/2025
+Gerente: Léo Alves
+
+Orçamento inicial: R$ 2068682.00
+Custo real atual: R$ 1972405.35
+Desvio orçamentário: -4.65%
+Índice de Desempenho de Custo (CPI): 0.82
+Valor Agregado (EV): R$ 1609210.12
+Estimativa para conclusão: R$ 563173.68
+Estimativa no término (EAC): R$ 2535579.03
+Variação no término (VAC): R$ -466897.03
+
+Detalhamento por categoria:
+- Pessoal: R$ 982447.81 (49.8%)
+- Equipamentos: R$ 366939.12 (18.6%)
+- Software: R$ 124330.84 (6.3%)
+- Serviços: R$ 328633.28 (16.7%)
+- Outros: R$ 170054.31 (8.6%)

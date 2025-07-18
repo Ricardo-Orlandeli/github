@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O poder de conseguir com força total (PROJ-0871)
+Data: 14/07/2025
+Gerente: Elisa Duarte
+
+Orçamento inicial: R$ 4724662.00
+Custo real atual: R$ 5834138.85
+Desvio orçamentário: 23.48%
+Índice de Desempenho de Custo (CPI): 0.71
+Valor Agregado (EV): R$ 4142505.87
+Estimativa para conclusão: R$ 819885.31
+Estimativa no término (EAC): R$ 6654024.15
+Variação no término (VAC): R$ -1929362.15
+
+Detalhamento por categoria:
+- Pessoal: R$ 2998437.71 (51.4%)
+- Equipamentos: R$ 1098902.16 (18.8%)
+- Software: R$ 381893.79 (6.5%)
+- Serviços: R$ 891960.48 (15.3%)
+- Outros: R$ 462944.70 (7.9%)

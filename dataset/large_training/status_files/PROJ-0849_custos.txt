@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A arte de realizar seus sonhos mais facilmente (PROJ-0849)
+Data: 14/07/2025
+Gerente: Allana Albuquerque
+
+Orçamento inicial: R$ 4308273.00
+Custo real atual: R$ 2405553.91
+Desvio orçamentário: -44.16%
+Índice de Desempenho de Custo (CPI): 0.99
+Valor Agregado (EV): R$ 2383370.76
+Estimativa para conclusão: R$ 1942818.21
+Estimativa no término (EAC): R$ 4348372.12
+Variação no término (VAC): R$ -40099.12
+
+Detalhamento por categoria:
+- Pessoal: R$ 1130030.99 (47.0%)
+- Equipamentos: R$ 356270.97 (14.8%)
+- Software: R$ 308594.24 (12.8%)
+- Serviços: R$ 462689.96 (19.2%)
+- Outros: R$ 147967.75 (6.2%)

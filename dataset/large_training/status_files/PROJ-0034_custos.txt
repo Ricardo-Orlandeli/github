@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O poder de ganhar antes de tudo (PROJ-0034)
+Data: 14/07/2025
+Gerente: Rebeca Montenegro
+
+Orçamento inicial: R$ 4137556.00
+Custo real atual: R$ 3656293.85
+Desvio orçamentário: -11.63%
+Índice de Desempenho de Custo (CPI): 1.13
+Valor Agregado (EV): R$ 4133418.44
+Estimativa para conclusão: R$ 3659.95
+Estimativa no término (EAC): R$ 3659953.80
+Variação no término (VAC): R$ 477602.20
+
+Detalhamento por categoria:
+- Pessoal: R$ 2004156.64 (54.8%)
+- Equipamentos: R$ 555802.02 (15.2%)
+- Software: R$ 222228.22 (6.1%)
+- Serviços: R$ 518099.62 (14.2%)
+- Outros: R$ 356007.34 (9.7%)

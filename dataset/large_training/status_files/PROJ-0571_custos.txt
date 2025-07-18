@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O direito de realizar seus sonhos naturalmente (PROJ-0571)
+Data: 14/07/2025
+Gerente: Ana Luiza Campos
+
+Orçamento inicial: R$ 2654598.00
+Custo real atual: R$ 2036226.16
+Desvio orçamentário: 16.53%
+Índice de Desempenho de Custo (CPI): 0.98
+Valor Agregado (EV): R$ 1994808.85
+Estimativa para conclusão: R$ 673488.06
+Estimativa no término (EAC): R$ 2709714.22
+Variação no término (VAC): R$ -55116.22
+
+Detalhamento por categoria:
+- Pessoal: R$ 977484.94 (48.0%)
+- Equipamentos: R$ 259102.90 (12.7%)
+- Software: R$ 260618.60 (12.8%)
+- Serviços: R$ 380278.19 (18.7%)
+- Outros: R$ 158741.54 (7.8%)

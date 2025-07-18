@@ -1,0 +1,26 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A liberdade de inovar antes de tudo (PROJ-0154)
+Data: 14/07/2025
+Gerente: Dra. Maria Alice Souza
+
+Status atual: Em andamento
+Percentual de conclusão: 99.9%
+Data de início: 27/07/2024
+Data de término planejada: 24/05/2025
+Data de término real/prevista: 07/06/2025
+Atraso atual: 51 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 0.96
+Valor Planejado (PV): R$ 2293428.00
+Valor Agregado (EV): R$ 2291134.57
+
+Tarefas críticas:
+- Implementação do módulo de análise de dados
+- Implementação do sistema de backup
+- Desenvolvimento da interface do usuário
+- Implementação do sistema de backup
+- Implementação do módulo de exportação de dados
+- Configuração do ambiente de produção
+- Implementação da API REST
+
+Tarefas atrasadas:

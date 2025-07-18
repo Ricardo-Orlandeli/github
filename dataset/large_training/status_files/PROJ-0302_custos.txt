@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O prazer de mudar naturalmente (PROJ-0302)
+Data: 14/07/2025
+Gerente: Anthony Gabriel Cassiano
+
+Orçamento inicial: R$ 3881514.00
+Custo real atual: R$ 1386434.66
+Desvio orçamentário: 25.92%
+Índice de Desempenho de Custo (CPI): 0.89
+Valor Agregado (EV): R$ 1240477.08
+Estimativa para conclusão: R$ 2951787.83
+Estimativa no término (EAC): R$ 4338222.49
+Variação no término (VAC): R$ -456708.49
+
+Detalhamento por categoria:
+- Pessoal: R$ 738262.19 (53.2%)
+- Equipamentos: R$ 221045.17 (15.9%)
+- Software: R$ 126509.88 (9.1%)
+- Serviços: R$ 185466.45 (13.4%)
+- Outros: R$ 115150.97 (8.3%)

@@ -1,0 +1,26 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A arte de mudar antes de tudo (PROJ-0024)
+Data: 14/07/2025
+Gerente: Marina Cavalcanti
+
+Status atual: Em andamento
+Percentual de conclusão: 99.9%
+Data de início: 20/07/2023
+Data de término planejada: 21/01/2024
+Data de término real/prevista: 18/02/2024
+Atraso atual: 540 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.11
+Valor Planejado (PV): R$ 4174000.00
+Valor Agregado (EV): R$ 4169826.00
+
+Tarefas críticas:
+- Desenvolvimento da interface do usuário
+- Implementação do módulo de análise de dados
+- Implementação da API REST
+- Implementação do módulo de análise de dados
+- Implementação do módulo de relatórios
+- Desenvolvimento do painel administrativo
+- Desenvolvimento do módulo de autenticação
+
+Tarefas atrasadas:

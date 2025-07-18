@@ -1,0 +1,39 @@
+RELATÓRIO DE STATUS DE RISCOS
+Projeto: A simplicidade de evoluir mais facilmente (PROJ-0383)
+Data: 14/07/2025
+Gerente: Dr. Kevin Cardoso
+
+Riscos identificados:
+- R01: Problemas de desempenho
+  Probabilidade: 2/5, Impacto: 2/5, Nível: Baixo
+  Mitigação: Fortalecer medidas de segurança
+
+- R02: Rotatividade de pessoal-chave
+  Probabilidade: 1/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Fortalecer medidas de segurança
+
+- R03: Problemas de integração com sistemas legados
+  Probabilidade: 3/5, Impacto: 2/5, Nível: Baixo
+  Mitigação: Estabelecer canais de comunicação claros
+
+- R04: Problemas de desempenho
+  Probabilidade: 1/5, Impacto: 3/5, Nível: Baixo
+  Mitigação: Melhorar a documentação de requisitos
+
+- R05: Estimativas imprecisas
+  Probabilidade: 4/5, Impacto: 3/5, Nível: Médio
+  Mitigação: Realizar testes de aceitação com usuários-chave
+
+- R06: Atraso na entrega de componentes críticos
+  Probabilidade: 4/5, Impacto: 4/5, Nível: Alto
+  Mitigação: Gerenciar dependências ativamente
+
+- R07: Falhas de infraestrutura
+  Probabilidade: 4/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Implementar redundância de infraestrutura
+
+Riscos ocorridos:
+- R02 (ocorrido em 05/09/2024)
+  Impacto real: Atraso de 2 semanas no cronograma
+  Ações tomadas: Comunicação intensificada com stakeholders
+

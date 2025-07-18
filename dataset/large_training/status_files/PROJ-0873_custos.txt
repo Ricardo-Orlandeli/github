@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O direito de concretizar seus projetos mais facilmente (PROJ-0873)
+Data: 14/07/2025
+Gerente: Enzo Gabriel Andrade
+
+Orçamento inicial: R$ 3304737.00
+Custo real atual: R$ 2772464.77
+Desvio orçamentário: -16.11%
+Índice de Desempenho de Custo (CPI): 1.19
+Valor Agregado (EV): R$ 3301432.26
+Estimativa para conclusão: R$ 2775.24
+Estimativa no término (EAC): R$ 2775240.01
+Variação no término (VAC): R$ 529496.99
+
+Detalhamento por categoria:
+- Pessoal: R$ 1602462.23 (57.8%)
+- Equipamentos: R$ 320192.14 (11.5%)
+- Software: R$ 184737.29 (6.7%)
+- Serviços: R$ 485295.30 (17.5%)
+- Outros: R$ 179777.80 (6.5%)

@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A vantagem de atingir seus objetivos com confiança (PROJ-0124)
+Data: 14/07/2025
+Gerente: Diego Aparecida
+
+Orçamento inicial: R$ 2035305.00
+Custo real atual: R$ 1872630.61
+Desvio orçamentário: -7.99%
+Índice de Desempenho de Custo (CPI): 1.09
+Valor Agregado (EV): R$ 2033269.70
+Estimativa para conclusão: R$ 1874.51
+Estimativa no término (EAC): R$ 1874505.11
+Variação no término (VAC): R$ 160799.89
+
+Detalhamento por categoria:
+- Pessoal: R$ 907402.05 (48.5%)
+- Equipamentos: R$ 283259.04 (15.1%)
+- Software: R$ 258469.15 (13.8%)
+- Serviços: R$ 316550.80 (16.9%)
+- Outros: R$ 106949.57 (5.7%)

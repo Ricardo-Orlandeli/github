@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A simplicidade de inovar mais rapidamente (PROJ-0846)
+Data: 14/07/2025
+Gerente: Gael Henrique Pacheco
+
+Orçamento inicial: R$ 3962159.00
+Custo real atual: R$ 3846060.73
+Desvio orçamentário: -2.93%
+Índice de Desempenho de Custo (CPI): 0.72
+Valor Agregado (EV): R$ 2769064.93
+Estimativa para conclusão: R$ 1657134.21
+Estimativa no término (EAC): R$ 5503194.94
+Variação no término (VAC): R$ -1541035.94
+
+Detalhamento por categoria:
+- Pessoal: R$ 2141232.02 (55.7%)
+- Equipamentos: R$ 566417.58 (14.7%)
+- Software: R$ 372043.81 (9.7%)
+- Serviços: R$ 542064.21 (14.1%)
+- Outros: R$ 224303.11 (5.8%)

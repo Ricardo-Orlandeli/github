@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A segurança de avançar antes de tudo (PROJ-0653)
+Data: 14/07/2025
+Gerente: Lara Fernandes
+
+Orçamento inicial: R$ 3172873.00
+Custo real atual: R$ 2202081.09
+Desvio orçamentário: -25.14%
+Índice de Desempenho de Custo (CPI): 0.71
+Valor Agregado (EV): R$ 1561849.36
+Estimativa para conclusão: R$ 2271412.86
+Estimativa no término (EAC): R$ 4473493.95
+Variação no término (VAC): R$ -1300620.95
+
+Detalhamento por categoria:
+- Pessoal: R$ 1176037.09 (53.4%)
+- Equipamentos: R$ 335454.88 (15.2%)
+- Software: R$ 175050.64 (7.9%)
+- Serviços: R$ 355478.15 (16.1%)
+- Outros: R$ 160060.33 (7.3%)

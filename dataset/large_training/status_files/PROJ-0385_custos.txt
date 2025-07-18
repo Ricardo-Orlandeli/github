@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O conforto de ganhar simplesmente (PROJ-0385)
+Data: 14/07/2025
+Gerente: Alana Cavalcanti
+
+Orçamento inicial: R$ 3311170.00
+Custo real atual: R$ 2257881.84
+Desvio orçamentário: -31.81%
+Índice de Desempenho de Custo (CPI): 1.22
+Valor Agregado (EV): R$ 2762073.82
+Estimativa para conclusão: R$ 448863.56
+Estimativa no término (EAC): R$ 2706745.40
+Variação no término (VAC): R$ 604424.60
+
+Detalhamento por categoria:
+- Pessoal: R$ 1105600.39 (49.0%)
+- Equipamentos: R$ 385074.05 (17.1%)
+- Software: R$ 313182.91 (13.9%)
+- Serviços: R$ 321093.38 (14.2%)
+- Outros: R$ 132931.11 (5.9%)

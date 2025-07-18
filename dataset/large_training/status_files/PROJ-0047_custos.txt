@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O poder de avançar com força total (PROJ-0047)
+Data: 14/07/2025
+Gerente: Raquel da Conceição
+
+Orçamento inicial: R$ 4939207.00
+Custo real atual: R$ 4100241.87
+Desvio orçamentário: -16.99%
+Índice de Desempenho de Custo (CPI): 0.78
+Valor Agregado (EV): R$ 3202013.13
+Estimativa para conclusão: R$ 2224511.50
+Estimativa no término (EAC): R$ 6324753.36
+Variação no término (VAC): R$ -1385546.36
+
+Detalhamento por categoria:
+- Pessoal: R$ 2115642.25 (51.6%)
+- Equipamentos: R$ 670646.67 (16.4%)
+- Software: R$ 511044.68 (12.5%)
+- Serviços: R$ 488526.77 (11.9%)
+- Outros: R$ 314381.50 (7.7%)

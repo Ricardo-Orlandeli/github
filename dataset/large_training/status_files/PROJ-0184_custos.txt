@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A vantagem de conseguir com toda a tranquilidade (PROJ-0184)
+Data: 14/07/2025
+Gerente: João Felipe Alves
+
+Orçamento inicial: R$ 3865587.00
+Custo real atual: R$ 3468427.56
+Desvio orçamentário: -10.27%
+Índice de Desempenho de Custo (CPI): 1.11
+Valor Agregado (EV): R$ 3861721.41
+Estimativa para conclusão: R$ 3471.90
+Estimativa no término (EAC): R$ 3471899.46
+Variação no término (VAC): R$ 393687.54
+
+Detalhamento por categoria:
+- Pessoal: R$ 1985033.71 (57.2%)
+- Equipamentos: R$ 381247.37 (11.0%)
+- Software: R$ 356708.37 (10.3%)
+- Serviços: R$ 459513.00 (13.2%)
+- Outros: R$ 285925.11 (8.2%)

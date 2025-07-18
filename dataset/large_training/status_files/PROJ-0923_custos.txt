@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A liberdade de realizar seus sonhos direto da fonte (PROJ-0923)
+Data: 14/07/2025
+Gerente: Samuel da Costa
+
+Orçamento inicial: R$ 3053912.00
+Custo real atual: R$ 3002233.29
+Desvio orçamentário: -1.69%
+Índice de Desempenho de Custo (CPI): 1.02
+Valor Agregado (EV): R$ 3053912.00
+Estimativa para conclusão: R$ 0.00
+Estimativa no término (EAC): R$ 3002233.29
+Variação no término (VAC): R$ 51678.71
+
+Detalhamento por categoria:
+- Pessoal: R$ 1433751.53 (47.8%)
+- Equipamentos: R$ 485404.49 (16.2%)
+- Software: R$ 367607.12 (12.2%)
+- Serviços: R$ 450285.81 (15.0%)
+- Outros: R$ 265184.34 (8.8%)

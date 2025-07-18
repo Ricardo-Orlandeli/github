@@ -1,0 +1,27 @@
+RELATÓRIO DE STATUS DE RISCOS
+Projeto: A simplicidade de evoluir mais rapidamente (PROJ-0355)
+Data: 14/07/2025
+Gerente: Ísis Andrade
+
+Riscos identificados:
+- R01: Atraso na entrega de componentes críticos
+  Probabilidade: 5/5, Impacto: 4/5, Nível: Alto
+  Mitigação: Melhorar a documentação de requisitos
+
+- R02: Resistência dos usuários à mudança
+  Probabilidade: 1/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Realizar testes de integração antecipados
+
+- R03: Requisitos mal definidos
+  Probabilidade: 4/5, Impacto: 4/5, Nível: Alto
+  Mitigação: Testar compatibilidade em diferentes ambientes
+
+- R04: Resistência dos usuários à mudança
+  Probabilidade: 1/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Contratar pessoal adicional
+
+- R05: Resistência dos usuários à mudança
+  Probabilidade: 5/5, Impacto: 5/5, Nível: Alto
+  Mitigação: Contratar pessoal adicional
+
+Riscos ocorridos:

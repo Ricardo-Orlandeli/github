@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A arte de evoluir direto da fonte (PROJ-0836)
+Data: 14/07/2025
+Gerente: Alícia Fernandes
+
+Orçamento inicial: R$ 2741637.00
+Custo real atual: R$ 2838546.21
+Desvio orçamentário: 365.91%
+Índice de Desempenho de Custo (CPI): 0.97
+Valor Agregado (EV): R$ 2741637.00
+Estimativa para conclusão: R$ 0.00
+Estimativa no término (EAC): R$ 2838546.21
+Variação no término (VAC): R$ -96909.21
+
+Detalhamento por categoria:
+- Pessoal: R$ 1368463.86 (48.2%)
+- Equipamentos: R$ 339938.05 (12.0%)
+- Software: R$ 434365.26 (15.3%)
+- Serviços: R$ 483794.41 (17.0%)
+- Outros: R$ 211984.62 (7.5%)

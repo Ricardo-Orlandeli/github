@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A liberdade de conseguir mais facilmente (PROJ-0979)
+Data: 14/07/2025
+Gerente: Srta. Maria Alice Macedo
+
+Orçamento inicial: R$ 3209755.00
+Custo real atual: R$ 2682929.10
+Desvio orçamentário: 9.34%
+Índice de Desempenho de Custo (CPI): 1.20
+Valor Agregado (EV): R$ 3209755.00
+Estimativa para conclusão: R$ 0.00
+Estimativa no término (EAC): R$ 2682929.10
+Variação no término (VAC): R$ 526825.90
+
+Detalhamento por categoria:
+- Pessoal: R$ 1238927.64 (46.2%)
+- Equipamentos: R$ 533499.48 (19.9%)
+- Software: R$ 309833.10 (11.5%)
+- Serviços: R$ 418017.20 (15.6%)
+- Outros: R$ 182651.69 (6.8%)

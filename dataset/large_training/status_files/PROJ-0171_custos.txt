@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A simplicidade de atingir seus objetivos com força total (PROJ-0171)
+Data: 14/07/2025
+Gerente: Catarina Silveira
+
+Orçamento inicial: R$ 4763732.00
+Custo real atual: R$ 4189941.15
+Desvio orçamentário: -1.00%
+Índice de Desempenho de Custo (CPI): 1.12
+Valor Agregado (EV): R$ 4697789.83
+Estimativa para conclusão: R$ 58813.57
+Estimativa no término (EAC): R$ 4248754.72
+Variação no término (VAC): R$ 514977.28
+
+Detalhamento por categoria:
+- Pessoal: R$ 2114446.40 (50.5%)
+- Equipamentos: R$ 641132.52 (15.3%)
+- Software: R$ 624565.63 (14.9%)
+- Serviços: R$ 600796.36 (14.3%)
+- Outros: R$ 209000.23 (5.0%)

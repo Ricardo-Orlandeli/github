@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O conforto de realizar seus sonhos em estado puro (PROJ-0626)
+Data: 14/07/2025
+Gerente: Mariane Cavalcante
+
+Orçamento inicial: R$ 4470945.00
+Custo real atual: R$ 2253842.19
+Desvio orçamentário: 8.38%
+Índice de Desempenho de Custo (CPI): 1.11
+Valor Agregado (EV): R$ 2494974.23
+Estimativa para conclusão: R$ 1784998.92
+Estimativa no término (EAC): R$ 4038841.11
+Variação no término (VAC): R$ 432103.89
+
+Detalhamento por categoria:
+- Pessoal: R$ 1243010.02 (55.2%)
+- Equipamentos: R$ 282666.80 (12.5%)
+- Software: R$ 168897.89 (7.5%)
+- Serviços: R$ 330369.15 (14.7%)
+- Outros: R$ 228898.33 (10.2%)

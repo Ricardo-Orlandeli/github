@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A possibilidade de realizar seus sonhos sem preocupação (PROJ-0930)
+Data: 14/07/2025
+Gerente: Asafe Leão
+
+Orçamento inicial: R$ 1286905.00
+Custo real atual: R$ 1166492.91
+Desvio orçamentário: -9.36%
+Índice de Desempenho de Custo (CPI): 1.02
+Valor Agregado (EV): R$ 1192638.91
+Estimativa para conclusão: R$ 92199.51
+Estimativa no término (EAC): R$ 1258692.42
+Variação no término (VAC): R$ 28212.58
+
+Detalhamento por categoria:
+- Pessoal: R$ 523015.88 (44.8%)
+- Equipamentos: R$ 225826.82 (19.4%)
+- Software: R$ 162325.01 (13.9%)
+- Serviços: R$ 186675.19 (16.0%)
+- Outros: R$ 68650.01 (5.9%)

@@ -1,0 +1,47 @@
+RELATÓRIO DE STATUS DE RISCOS
+Projeto: A segurança de ganhar antes de tudo (PROJ-0870)
+Data: 14/07/2025
+Gerente: Bella Porto
+
+Riscos identificados:
+- R01: Requisitos mal definidos
+  Probabilidade: 4/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Contratar pessoal adicional
+
+- R02: Problemas de comunicação com stakeholders
+  Probabilidade: 2/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Monitorar mudanças regulatórias
+
+- R03: Rotatividade de pessoal-chave
+  Probabilidade: 3/5, Impacto: 5/5, Nível: Médio
+  Mitigação: Refinar estimativas com base em dados históricos
+
+- R04: Falhas de infraestrutura
+  Probabilidade: 3/5, Impacto: 3/5, Nível: Médio
+  Mitigação: Implementar redundância de infraestrutura
+
+- R05: Dependências externas não cumpridas
+  Probabilidade: 3/5, Impacto: 2/5, Nível: Baixo
+  Mitigação: Gerenciar dependências ativamente
+
+- R06: Mudanças regulatórias
+  Probabilidade: 1/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Contratar pessoal adicional
+
+- R07: Indisponibilidade de recursos especializados
+  Probabilidade: 4/5, Impacto: 5/5, Nível: Alto
+  Mitigação: Gerenciar dependências ativamente
+
+- R08: Problemas de comunicação com stakeholders
+  Probabilidade: 4/5, Impacto: 4/5, Nível: Alto
+  Mitigação: Realizar testes de integração antecipados
+
+Riscos ocorridos:
+- R03 (ocorrido em 09/05/2025)
+  Impacto real: Problemas de qualidade
+  Ações tomadas: Revisão do orçamento
+
+- R08 (ocorrido em 05/01/2025)
+  Impacto real: Falhas de segurança
+  Ações tomadas: Ajuste no cronograma
+

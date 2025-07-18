@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O prazer de inovar simplesmente (PROJ-0090)
+Data: 14/07/2025
+Gerente: Pietra Nogueira
+
+Orçamento inicial: R$ 2793662.00
+Custo real atual: R$ 2601967.94
+Desvio orçamentário: -6.86%
+Índice de Desempenho de Custo (CPI): 0.88
+Valor Agregado (EV): R$ 2279781.85
+Estimativa para conclusão: R$ 586503.35
+Estimativa no término (EAC): R$ 3188471.28
+Variação no término (VAC): R$ -394809.28
+
+Detalhamento por categoria:
+- Pessoal: R$ 1484417.77 (57.0%)
+- Equipamentos: R$ 339375.37 (13.0%)
+- Software: R$ 183044.35 (7.0%)
+- Serviços: R$ 347337.00 (13.3%)
+- Outros: R$ 247793.44 (9.5%)

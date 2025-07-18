@@ -1,0 +1,23 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A segurança de evoluir com confiança (PROJ-0538)
+Data: 14/07/2025
+Gerente: Maria Vitória Melo
+
+Status atual: Em andamento
+Percentual de conclusão: 99.9%
+Data de início: 01/03/2024
+Data de término planejada: 08/04/2024
+Data de término real/prevista: 12/04/2024
+Atraso atual: 462 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.02
+Valor Planejado (PV): R$ 3023195.00
+Valor Agregado (EV): R$ 3020171.81
+
+Tarefas críticas:
+- Desenvolvimento da interface do usuário
+- Implementação da API REST
+- Integração com sistema de pagamentos
+- Configuração do ambiente de produção
+
+Tarefas atrasadas:

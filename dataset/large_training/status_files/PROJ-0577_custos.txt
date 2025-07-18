@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A possibilidade de mudar simplesmente (PROJ-0577)
+Data: 14/07/2025
+Gerente: Yago Montenegro
+
+Orçamento inicial: R$ 2797682.00
+Custo real atual: R$ 2872445.34
+Desvio orçamentário: 2.67%
+Índice de Desempenho de Custo (CPI): 0.97
+Valor Agregado (EV): R$ 2794884.32
+Estimativa para conclusão: R$ 2875.32
+Estimativa no término (EAC): R$ 2875320.66
+Variação no término (VAC): R$ -77638.66
+
+Detalhamento por categoria:
+- Pessoal: R$ 1391990.81 (48.5%)
+- Equipamentos: R$ 412136.00 (14.3%)
+- Software: R$ 285153.51 (9.9%)
+- Serviços: R$ 527349.81 (18.4%)
+- Outros: R$ 255815.21 (8.9%)

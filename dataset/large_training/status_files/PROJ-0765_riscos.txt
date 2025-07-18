@@ -1,0 +1,31 @@
+RELATÓRIO DE STATUS DE RISCOS
+Projeto: A arte de avançar com toda a tranquilidade (PROJ-0765)
+Data: 14/07/2025
+Gerente: João Felipe Viana
+
+Riscos identificados:
+- R01: Mudanças regulatórias
+  Probabilidade: 2/5, Impacto: 4/5, Nível: Médio
+  Mitigação: Otimizar código e infraestrutura
+
+- R02: Estimativas imprecisas
+  Probabilidade: 4/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Contratar pessoal adicional
+
+- R03: Dependências externas não cumpridas
+  Probabilidade: 3/5, Impacto: 5/5, Nível: Médio
+  Mitigação: Comunicar benefícios da mudança
+
+- R04: Mudanças regulatórias
+  Probabilidade: 5/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Implementar plano de contingência
+
+- R05: Falhas de infraestrutura
+  Probabilidade: 1/5, Impacto: 2/5, Nível: Baixo
+  Mitigação: Otimizar código e infraestrutura
+
+- R06: Estimativas imprecisas
+  Probabilidade: 3/5, Impacto: 3/5, Nível: Médio
+  Mitigação: Comunicar benefícios da mudança
+
+Riscos ocorridos:

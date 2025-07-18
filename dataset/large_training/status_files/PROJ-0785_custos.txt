@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A vantagem de avançar com confiança (PROJ-0785)
+Data: 14/07/2025
+Gerente: Dr. Cauê da Cunha
+
+Orçamento inicial: R$ 3180247.00
+Custo real atual: R$ 2360565.75
+Desvio orçamentário: -25.77%
+Índice de Desempenho de Custo (CPI): 1.10
+Valor Agregado (EV): R$ 2607756.31
+Estimativa para conclusão: R$ 518224.01
+Estimativa no término (EAC): R$ 2878789.76
+Variação no término (VAC): R$ 301457.24
+
+Detalhamento por categoria:
+- Pessoal: R$ 1156714.94 (49.0%)
+- Equipamentos: R$ 406356.48 (17.2%)
+- Software: R$ 221541.41 (9.4%)
+- Serviços: R$ 385705.63 (16.3%)
+- Outros: R$ 190247.28 (8.1%)

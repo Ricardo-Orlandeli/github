@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A possibilidade de concretizar seus projetos em estado puro (PROJ-0548)
+Data: 14/07/2025
+Gerente: Dr. Davi Lucca Costela
+
+Orçamento inicial: R$ 1464138.00
+Custo real atual: R$ 217341.70
+Desvio orçamentário: 8.58%
+Índice de Desempenho de Custo (CPI): 0.95
+Valor Agregado (EV): R$ 207498.92
+Estimativa para conclusão: R$ 1316248.12
+Estimativa no término (EAC): R$ 1533589.82
+Variação no término (VAC): R$ -69451.82
+
+Detalhamento por categoria:
+- Pessoal: R$ 122187.91 (56.2%)
+- Equipamentos: R$ 24782.28 (11.4%)
+- Software: R$ 14265.38 (6.6%)
+- Serviços: R$ 42057.57 (19.4%)
+- Outros: R$ 14048.55 (6.5%)

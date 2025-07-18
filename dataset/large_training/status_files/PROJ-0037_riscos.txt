@@ -1,0 +1,19 @@
+RELATÓRIO DE STATUS DE RISCOS
+Projeto: A certeza de concretizar seus projetos naturalmente (PROJ-0037)
+Data: 14/07/2025
+Gerente: Juliana da Paz
+
+Riscos identificados:
+- R01: Requisitos mal definidos
+  Probabilidade: 4/5, Impacto: 2/5, Nível: Médio
+  Mitigação: Estabelecer canais de comunicação claros
+
+- R02: Rotatividade de pessoal-chave
+  Probabilidade: 4/5, Impacto: 2/5, Nível: Médio
+  Mitigação: Melhorar a documentação de requisitos
+
+- R03: Atraso na entrega de componentes críticos
+  Probabilidade: 1/5, Impacto: 5/5, Nível: Baixo
+  Mitigação: Fortalecer medidas de segurança
+
+Riscos ocorridos:

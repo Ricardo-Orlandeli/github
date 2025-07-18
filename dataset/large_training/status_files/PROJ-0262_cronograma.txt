@@ -1,0 +1,23 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: O prazer de evoluir naturalmente (PROJ-0262)
+Data: 14/07/2025
+Gerente: Maria Luiza Castro
+
+Status atual: Em andamento
+Percentual de conclusão: 91.9%
+Data de início: 02/05/2024
+Data de término planejada: 25/06/2024
+Data de término real/prevista: 11/06/2024
+Atraso atual: 384 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 0.99
+Valor Planejado (PV): R$ 2365634.00
+Valor Agregado (EV): R$ 2173315.87
+
+Tarefas críticas:
+- Desenvolvimento do painel administrativo
+- Desenvolvimento do módulo de autenticação
+- Implementação da API REST
+- Testes de aceitação do usuário
+
+Tarefas atrasadas:

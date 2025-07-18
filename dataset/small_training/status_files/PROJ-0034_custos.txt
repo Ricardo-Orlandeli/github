@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O direito de realizar seus sonhos sem preocupação (PROJ-0034)
+Data: 14/07/2025
+Gerente: Ísis da Rocha
+
+Orçamento inicial: R$ 4537659.00
+Custo real atual: R$ 3350414.49
+Desvio orçamentário: -26.16%
+Índice de Desempenho de Custo (CPI): 1.10
+Valor Agregado (EV): R$ 3670296.16
+Estimativa para conclusão: R$ 791768.53
+Estimativa no término (EAC): R$ 4142183.03
+Variação no término (VAC): R$ 395475.97
+
+Detalhamento por categoria:
+- Pessoal: R$ 2017571.83 (60.2%)
+- Equipamentos: R$ 417099.39 (12.4%)
+- Software: R$ 244167.63 (7.3%)
+- Serviços: R$ 419797.06 (12.5%)
+- Outros: R$ 251778.59 (7.5%)

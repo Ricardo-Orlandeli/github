@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A simplicidade de inovar simplesmente (PROJ-0085)
+Data: 14/07/2025
+Gerente: Dra. Isabel Câmara
+
+Orçamento inicial: R$ 1383078.00
+Custo real atual: R$ 1176873.90
+Desvio orçamentário: -14.91%
+Índice de Desempenho de Custo (CPI): 1.03
+Valor Agregado (EV): R$ 1208298.68
+Estimativa para conclusão: R$ 170233.75
+Estimativa no término (EAC): R$ 1347107.65
+Variação no término (VAC): R$ 35970.35
+
+Detalhamento por categoria:
+- Pessoal: R$ 659185.28 (56.0%)
+- Equipamentos: R$ 123844.56 (10.5%)
+- Software: R$ 146874.99 (12.5%)
+- Serviços: R$ 146321.32 (12.4%)
+- Outros: R$ 100647.75 (8.6%)

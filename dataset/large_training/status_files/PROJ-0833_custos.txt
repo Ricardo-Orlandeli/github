@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O direito de ganhar simplesmente (PROJ-0833)
+Data: 14/07/2025
+Gerente: Igor Sales
+
+Orçamento inicial: R$ 2631513.00
+Custo real atual: R$ 2444084.30
+Desvio orçamentário: -7.12%
+Índice de Desempenho de Custo (CPI): 1.08
+Valor Agregado (EV): R$ 2628881.49
+Estimativa para conclusão: R$ 2446.53
+Estimativa no término (EAC): R$ 2446530.83
+Variação no término (VAC): R$ 184982.17
+
+Detalhamento por categoria:
+- Pessoal: R$ 1303912.67 (53.3%)
+- Equipamentos: R$ 357080.45 (14.6%)
+- Software: R$ 175607.44 (7.2%)
+- Serviços: R$ 473031.26 (19.4%)
+- Outros: R$ 134452.48 (5.5%)

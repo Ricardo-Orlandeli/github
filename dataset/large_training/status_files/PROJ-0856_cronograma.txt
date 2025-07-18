@@ -1,0 +1,27 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A arte de conseguir simplesmente (PROJ-0856)
+Data: 14/07/2025
+Gerente: Maria Alice Marques
+
+Status atual: Em andamento
+Percentual de conclusão: 82.5%
+Data de início: 06/02/2024
+Data de término planejada: 09/08/2024
+Data de término real/prevista: 28/07/2024
+Atraso atual: 339 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.05
+Valor Planejado (PV): R$ 4766533.00
+Valor Agregado (EV): R$ 3931426.29
+
+Tarefas críticas:
+- Testes de aceitação do usuário
+- Desenvolvimento da interface do usuário
+- Implementação do módulo de análise de dados
+- Desenvolvimento do painel administrativo
+- Implementação do módulo de análise de dados
+- Migração de dados legados
+- Implementação do módulo de notificações
+- Configuração da infraestrutura
+
+Tarefas atrasadas:

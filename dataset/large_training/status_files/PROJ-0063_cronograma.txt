@@ -1,0 +1,24 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A simplicidade de concretizar seus projetos mais rapidamente (PROJ-0063)
+Data: 14/07/2025
+Gerente: Clarice Gonçalves
+
+Status atual: Em andamento
+Percentual de conclusão: 99.9%
+Data de início: 03/12/2024
+Data de término planejada: 05/02/2025
+Data de término real/prevista: 04/03/2025
+Atraso atual: 159 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.13
+Valor Planejado (PV): R$ 466665.00
+Valor Agregado (EV): R$ 466198.34
+
+Tarefas críticas:
+- Implementação da API REST
+- Implementação do módulo de notificações
+- Desenvolvimento do painel administrativo
+- Integração com sistema de pagamentos
+- Desenvolvimento do painel administrativo
+
+Tarefas atrasadas:

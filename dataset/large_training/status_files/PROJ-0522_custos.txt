@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A arte de concretizar seus projetos com força total (PROJ-0522)
+Data: 14/07/2025
+Gerente: Dr. Juan Santos
+
+Orçamento inicial: R$ 2756559.00
+Custo real atual: R$ 2426067.99
+Desvio orçamentário: -11.99%
+Índice de Desempenho de Custo (CPI): 0.95
+Valor Agregado (EV): R$ 2312701.64
+Estimativa para conclusão: R$ 465614.81
+Estimativa no término (EAC): R$ 2891682.80
+Variação no término (VAC): R$ -135123.80
+
+Detalhamento por categoria:
+- Pessoal: R$ 1349837.42 (55.6%)
+- Equipamentos: R$ 402100.90 (16.6%)
+- Software: R$ 184719.12 (7.6%)
+- Serviços: R$ 335424.60 (13.8%)
+- Outros: R$ 153985.96 (6.3%)

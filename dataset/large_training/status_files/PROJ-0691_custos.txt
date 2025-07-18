@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A possibilidade de mudar com confiança (PROJ-0691)
+Data: 14/07/2025
+Gerente: Luiz Felipe Camargo
+
+Orçamento inicial: R$ 1411109.00
+Custo real atual: R$ 1378866.21
+Desvio orçamentário: -2.28%
+Índice de Desempenho de Custo (CPI): 1.02
+Valor Agregado (EV): R$ 1409697.89
+Estimativa para conclusão: R$ 1380.25
+Estimativa no término (EAC): R$ 1380246.46
+Variação no término (VAC): R$ 30862.54
+
+Detalhamento por categoria:
+- Pessoal: R$ 727638.18 (52.8%)
+- Equipamentos: R$ 240624.71 (17.5%)
+- Software: R$ 90405.49 (6.6%)
+- Serviços: R$ 224500.69 (16.3%)
+- Outros: R$ 95697.14 (6.9%)

@@ -1,0 +1,31 @@
+RELATÓRIO DE STATUS DE RISCOS
+Projeto: O direito de conseguir naturalmente (PROJ-0070)
+Data: 14/07/2025
+Gerente: Srta. Maria Helena Moreira
+
+Riscos identificados:
+- R01: Estimativas imprecisas
+  Probabilidade: 5/5, Impacto: 3/5, Nível: Médio
+  Mitigação: Implementar redundância de infraestrutura
+
+- R02: Dependências externas não cumpridas
+  Probabilidade: 5/5, Impacto: 4/5, Nível: Alto
+  Mitigação: Comunicar benefícios da mudança
+
+- R03: Problemas de compatibilidade
+  Probabilidade: 3/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Otimizar código e infraestrutura
+
+- R04: Falhas de infraestrutura
+  Probabilidade: 2/5, Impacto: 2/5, Nível: Baixo
+  Mitigação: Refinar estimativas com base em dados históricos
+
+- R05: Problemas de comunicação com stakeholders
+  Probabilidade: 2/5, Impacto: 2/5, Nível: Baixo
+  Mitigação: Otimizar código e infraestrutura
+
+Riscos ocorridos:
+- R02 (ocorrido em 31/05/2025)
+  Impacto real: Perda de recursos-chave
+  Ações tomadas: Revisão de processos
+

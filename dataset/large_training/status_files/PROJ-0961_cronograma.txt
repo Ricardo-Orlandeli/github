@@ -1,0 +1,22 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A vantagem de conseguir com força total (PROJ-0961)
+Data: 14/07/2025
+Gerente: Maria Liz Câmara
+
+Status atual: Em andamento
+Percentual de conclusão: 92.6%
+Data de início: 16/11/2023
+Data de término planejada: 10/09/2024
+Data de término real/prevista: 31/08/2024
+Atraso atual: 307 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.03
+Valor Planejado (PV): R$ 1701845.00
+Valor Agregado (EV): R$ 1576295.76
+
+Tarefas críticas:
+- Configuração da infraestrutura
+- Desenvolvimento da interface do usuário
+- Implementação do módulo de relatórios
+
+Tarefas atrasadas:

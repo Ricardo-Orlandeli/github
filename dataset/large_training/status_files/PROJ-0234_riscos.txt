@@ -1,0 +1,35 @@
+RELATÓRIO DE STATUS DE RISCOS
+Projeto: A simplicidade de realizar seus sonhos em estado puro (PROJ-0234)
+Data: 14/07/2025
+Gerente: Sra. Isabela da Mata
+
+Riscos identificados:
+- R01: Falhas em testes de aceitação
+  Probabilidade: 3/5, Impacto: 5/5, Nível: Médio
+  Mitigação: Buscar fornecedores alternativos
+
+- R02: Atraso na entrega de componentes críticos
+  Probabilidade: 5/5, Impacto: 3/5, Nível: Médio
+  Mitigação: Comunicar benefícios da mudança
+
+- R03: Estimativas imprecisas
+  Probabilidade: 2/5, Impacto: 3/5, Nível: Baixo
+  Mitigação: Estabelecer canais de comunicação claros
+
+- R04: Problemas de integração com sistemas legados
+  Probabilidade: 4/5, Impacto: 2/5, Nível: Médio
+  Mitigação: Monitorar mudanças regulatórias
+
+- R05: Atraso na entrega de componentes críticos
+  Probabilidade: 2/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Realizar testes de aceitação com usuários-chave
+
+- R06: Problemas de desempenho
+  Probabilidade: 1/5, Impacto: 5/5, Nível: Baixo
+  Mitigação: Melhorar a documentação de requisitos
+
+- R07: Problemas de desempenho
+  Probabilidade: 1/5, Impacto: 5/5, Nível: Baixo
+  Mitigação: Testar compatibilidade em diferentes ambientes
+
+Riscos ocorridos:

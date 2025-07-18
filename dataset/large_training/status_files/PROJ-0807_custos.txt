@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A arte de atingir seus objetivos mais facilmente (PROJ-0807)
+Data: 14/07/2025
+Gerente: Eduarda Gomes
+
+Orçamento inicial: R$ 4168397.00
+Custo real atual: R$ 928399.80
+Desvio orçamentário: -77.73%
+Índice de Desempenho de Custo (CPI): 0.69
+Valor Agregado (EV): R$ 643475.61
+Estimativa para conclusão: R$ 5085719.27
+Estimativa no término (EAC): R$ 6014119.07
+Variação no término (VAC): R$ -1845722.07
+
+Detalhamento por categoria:
+- Pessoal: R$ 401973.37 (43.3%)
+- Equipamentos: R$ 144376.50 (15.6%)
+- Software: R$ 119809.62 (12.9%)
+- Serviços: R$ 179243.93 (19.3%)
+- Outros: R$ 82996.37 (8.9%)

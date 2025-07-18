@@ -1,0 +1,23 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A certeza de ganhar direto da fonte (PROJ-0406)
+Data: 14/07/2025
+Gerente: Ravi Vieira
+
+Status atual: Concluído
+Percentual de conclusão: 100.0%
+Data de início: 11/08/2023
+Data de término planejada: 07/08/2024
+Data de término real/prevista: 14/08/2024
+Atraso atual: 341 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.03
+Valor Planejado (PV): R$ 795172.00
+Valor Agregado (EV): R$ 795172.00
+
+Tarefas críticas:
+- Testes de segurança
+- Migração de dados legados
+- Desenvolvimento do painel administrativo
+- Testes de segurança
+
+Tarefas atrasadas:

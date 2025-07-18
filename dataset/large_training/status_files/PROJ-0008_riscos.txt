@@ -1,0 +1,27 @@
+RELATÓRIO DE STATUS DE RISCOS
+Projeto: A arte de atingir seus objetivos com confiança (PROJ-0008)
+Data: 14/07/2025
+Gerente: Davi Sales
+
+Riscos identificados:
+- R01: Requisitos mal definidos
+  Probabilidade: 4/5, Impacto: 4/5, Nível: Alto
+  Mitigação: Otimizar código e infraestrutura
+
+- R02: Falhas em testes de aceitação
+  Probabilidade: 2/5, Impacto: 4/5, Nível: Médio
+  Mitigação: Implementar plano de contingência
+
+- R03: Rotatividade de pessoal-chave
+  Probabilidade: 3/5, Impacto: 3/5, Nível: Médio
+  Mitigação: Fortalecer medidas de segurança
+
+Riscos ocorridos:
+- R01 (ocorrido em 15/07/2024)
+  Impacto real: Aumento de 10% nos custos
+  Ações tomadas: Implementação do plano de contingência
+
+- R02 (ocorrido em 26/08/2024)
+  Impacto real: Atraso de 2 semanas no cronograma
+  Ações tomadas: Contratação de recursos adicionais
+

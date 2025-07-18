@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A possibilidade de avançar direto da fonte (PROJ-0429)
+Data: 14/07/2025
+Gerente: Eloá Camargo
+
+Orçamento inicial: R$ 3042524.00
+Custo real atual: R$ 3024252.71
+Desvio orçamentário: -0.60%
+Índice de Desempenho de Custo (CPI): 1.01
+Valor Agregado (EV): R$ 3042524.00
+Estimativa para conclusão: R$ 0.00
+Estimativa no término (EAC): R$ 3024252.71
+Variação no término (VAC): R$ 18271.29
+
+Detalhamento por categoria:
+- Pessoal: R$ 1620971.00 (53.6%)
+- Equipamentos: R$ 379595.53 (12.6%)
+- Software: R$ 338395.48 (11.2%)
+- Serviços: R$ 503292.12 (16.6%)
+- Outros: R$ 181998.58 (6.0%)

@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O prazer de avançar mais facilmente (PROJ-0459)
+Data: 14/07/2025
+Gerente: Aylla Vargas
+
+Orçamento inicial: R$ 4985115.00
+Custo real atual: R$ 3426203.20
+Desvio orçamentário: -31.27%
+Índice de Desempenho de Custo (CPI): 0.74
+Valor Agregado (EV): R$ 2529364.78
+Estimativa para conclusão: R$ 3326487.08
+Estimativa no término (EAC): R$ 6752690.29
+Variação no término (VAC): R$ -1767575.29
+
+Detalhamento por categoria:
+- Pessoal: R$ 1588522.87 (46.4%)
+- Equipamentos: R$ 456098.90 (13.3%)
+- Software: R$ 511657.59 (14.9%)
+- Serviços: R$ 524345.06 (15.3%)
+- Outros: R$ 345578.78 (10.1%)

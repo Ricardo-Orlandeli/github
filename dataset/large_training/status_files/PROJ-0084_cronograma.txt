@@ -1,0 +1,29 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: O poder de atingir seus objetivos em estado puro (PROJ-0084)
+Data: 14/07/2025
+Gerente: Gabriel da Paz
+
+Status atual: Atrasado
+Percentual de conclusão: 58.8%
+Data de início: 15/12/2023
+Data de término planejada: 03/09/2024
+Data de término real/prevista: 25/11/2024
+Atraso atual: 314 dias
+Motivo do atraso: Falhas em testes de aceitação
+Índice de Desempenho de Cronograma (SPI): 0.59
+Valor Planejado (PV): R$ 1755471.00
+Valor Agregado (EV): R$ 1032678.32
+
+Tarefas críticas:
+- Implementação do módulo de exportação de dados
+- Implementação do módulo de análise de dados
+- Implementação do módulo de análise de dados
+- Implementação da API REST
+- Desenvolvimento do módulo de autenticação
+- Integração com sistema de pagamentos
+- Desenvolvimento do painel administrativo
+
+Tarefas atrasadas:
+- Implementação da API REST
+- Integração com sistema de pagamentos
+- Implementação do módulo de análise de dados

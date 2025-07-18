@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A segurança de ganhar mais rapidamente (PROJ-0495)
+Data: 14/07/2025
+Gerente: Heloisa Cavalcante
+
+Orçamento inicial: R$ 880307.00
+Custo real atual: R$ 519607.73
+Desvio orçamentário: -40.97%
+Índice de Desempenho de Custo (CPI): 0.86
+Valor Agregado (EV): R$ 445928.37
+Estimativa para conclusão: R$ 506149.67
+Estimativa no término (EAC): R$ 1025757.40
+Variação no término (VAC): R$ -145450.40
+
+Detalhamento por categoria:
+- Pessoal: R$ 276370.68 (53.2%)
+- Equipamentos: R$ 69119.36 (13.3%)
+- Software: R$ 70398.05 (13.5%)
+- Serviços: R$ 56746.58 (10.9%)
+- Outros: R$ 46973.06 (9.0%)

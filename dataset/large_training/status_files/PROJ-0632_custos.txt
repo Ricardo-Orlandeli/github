@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A liberdade de inovar sem preocupação (PROJ-0632)
+Data: 14/07/2025
+Gerente: Lucca Moraes
+
+Orçamento inicial: R$ 1173877.00
+Custo real atual: R$ 1239540.86
+Desvio orçamentário: 5.59%
+Índice de Desempenho de Custo (CPI): 0.95
+Valor Agregado (EV): R$ 1172703.12
+Estimativa para conclusão: R$ 1240.78
+Estimativa no término (EAC): R$ 1240781.64
+Variação no término (VAC): R$ -66904.64
+
+Detalhamento por categoria:
+- Pessoal: R$ 642631.20 (51.8%)
+- Equipamentos: R$ 156555.66 (12.6%)
+- Software: R$ 175781.64 (14.2%)
+- Serviços: R$ 162709.34 (13.1%)
+- Outros: R$ 101863.01 (8.2%)

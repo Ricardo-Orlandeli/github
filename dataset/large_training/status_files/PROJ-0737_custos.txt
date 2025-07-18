@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A simplicidade de conseguir com confiança (PROJ-0737)
+Data: 14/07/2025
+Gerente: Maria Pimenta
+
+Orçamento inicial: R$ 1464803.00
+Custo real atual: R$ 1056870.22
+Desvio orçamentário: -27.85%
+Índice de Desempenho de Custo (CPI): 0.90
+Valor Agregado (EV): R$ 950094.82
+Estimativa para conclusão: R$ 572553.10
+Estimativa no término (EAC): R$ 1629423.32
+Variação no término (VAC): R$ -164620.32
+
+Detalhamento por categoria:
+- Pessoal: R$ 489356.41 (46.3%)
+- Equipamentos: R$ 152711.36 (14.4%)
+- Software: R$ 151492.42 (14.3%)
+- Serviços: R$ 177080.36 (16.8%)
+- Outros: R$ 86229.67 (8.2%)

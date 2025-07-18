@@ -1,0 +1,43 @@
+RELATÓRIO DE STATUS DE RISCOS
+Projeto: O conforto de concretizar seus projetos antes de tudo (PROJ-0361)
+Data: 14/07/2025
+Gerente: Dra. Aurora Ramos
+
+Riscos identificados:
+- R01: Mudanças regulatórias
+  Probabilidade: 4/5, Impacto: 5/5, Nível: Alto
+  Mitigação: Realizar testes de aceitação com usuários-chave
+
+- R02: Problemas de integração com sistemas legados
+  Probabilidade: 2/5, Impacto: 4/5, Nível: Médio
+  Mitigação: Gerenciar dependências ativamente
+
+- R03: Rotatividade de pessoal-chave
+  Probabilidade: 3/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Refinar estimativas com base em dados históricos
+
+- R04: Rotatividade de pessoal-chave
+  Probabilidade: 5/5, Impacto: 5/5, Nível: Alto
+  Mitigação: Fortalecer medidas de segurança
+
+- R05: Estimativas imprecisas
+  Probabilidade: 5/5, Impacto: 4/5, Nível: Alto
+  Mitigação: Gerenciar dependências ativamente
+
+- R06: Rotatividade de pessoal-chave
+  Probabilidade: 4/5, Impacto: 3/5, Nível: Médio
+  Mitigação: Comunicar benefícios da mudança
+
+- R07: Dependências externas não cumpridas
+  Probabilidade: 1/5, Impacto: 5/5, Nível: Baixo
+  Mitigação: Melhorar a documentação de requisitos
+
+- R08: Rotatividade de pessoal-chave
+  Probabilidade: 2/5, Impacto: 4/5, Nível: Médio
+  Mitigação: Implementar redundância de infraestrutura
+
+- R09: Estimativas imprecisas
+  Probabilidade: 3/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Realizar testes de integração antecipados
+
+Riscos ocorridos:

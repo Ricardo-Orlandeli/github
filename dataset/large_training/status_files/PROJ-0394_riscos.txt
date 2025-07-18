@@ -1,0 +1,27 @@
+RELATÓRIO DE STATUS DE RISCOS
+Projeto: O direito de realizar seus sonhos naturalmente (PROJ-0394)
+Data: 14/07/2025
+Gerente: Danilo da Cruz
+
+Riscos identificados:
+- R01: Atraso na entrega de componentes críticos
+  Probabilidade: 5/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Realizar testes de aceitação com usuários-chave
+
+- R02: Problemas de compatibilidade
+  Probabilidade: 2/5, Impacto: 5/5, Nível: Médio
+  Mitigação: Gerenciar dependências ativamente
+
+- R03: Mudanças regulatórias
+  Probabilidade: 4/5, Impacto: 4/5, Nível: Alto
+  Mitigação: Monitorar mudanças regulatórias
+
+Riscos ocorridos:
+- R01 (ocorrido em 11/07/2024)
+  Impacto real: Retrabalho significativo
+  Ações tomadas: Revisão do orçamento
+
+- R02 (ocorrido em 17/11/2024)
+  Impacto real: Perda de dados
+  Ações tomadas: Comunicação intensificada com stakeholders
+

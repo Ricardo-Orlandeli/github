@@ -1,0 +1,51 @@
+RELATÓRIO DE STATUS DE RISCOS
+Projeto: A liberdade de conseguir com força total (PROJ-0439)
+Data: 14/07/2025
+Gerente: Sra. Isis Alves
+
+Riscos identificados:
+- R01: Problemas de comunicação com stakeholders
+  Probabilidade: 1/5, Impacto: 3/5, Nível: Baixo
+  Mitigação: Implementar plano de contingência
+
+- R02: Resistência dos usuários à mudança
+  Probabilidade: 2/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Otimizar código e infraestrutura
+
+- R03: Problemas de compatibilidade
+  Probabilidade: 3/5, Impacto: 3/5, Nível: Médio
+  Mitigação: Comunicar benefícios da mudança
+
+- R04: Problemas de compatibilidade
+  Probabilidade: 2/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Fortalecer medidas de segurança
+
+- R05: Rotatividade de pessoal-chave
+  Probabilidade: 1/5, Impacto: 3/5, Nível: Baixo
+  Mitigação: Realizar testes de aceitação com usuários-chave
+
+- R06: Resistência dos usuários à mudança
+  Probabilidade: 4/5, Impacto: 2/5, Nível: Médio
+  Mitigação: Otimizar código e infraestrutura
+
+- R07: Falhas de infraestrutura
+  Probabilidade: 1/5, Impacto: 5/5, Nível: Baixo
+  Mitigação: Testar compatibilidade em diferentes ambientes
+
+- R08: Indisponibilidade de recursos especializados
+  Probabilidade: 1/5, Impacto: 5/5, Nível: Baixo
+  Mitigação: Fortalecer medidas de segurança
+
+Riscos ocorridos:
+- R03 (ocorrido em 07/02/2025)
+  Impacto real: Perda de recursos-chave
+  Ações tomadas: Revisão de processos
+
+- R08 (ocorrido em 16/07/2024)
+  Impacto real: Redução de funcionalidades
+  Ações tomadas: Ajuste no cronograma
+
+- R07 (ocorrido em 26/04/2025)
+  Impacto real: Problemas de qualidade
+  Ações tomadas: Implementação de soluções alternativas
+

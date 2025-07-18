@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A arte de ganhar sem preocupação (PROJ-0698)
+Data: 14/07/2025
+Gerente: Vitor Sá
+
+Orçamento inicial: R$ 1189738.00
+Custo real atual: R$ 997371.49
+Desvio orçamentário: -16.17%
+Índice de Desempenho de Custo (CPI): 1.19
+Valor Agregado (EV): R$ 1188548.26
+Estimativa para conclusão: R$ 998.37
+Estimativa no término (EAC): R$ 998369.86
+Variação no término (VAC): R$ 191368.14
+
+Detalhamento por categoria:
+- Pessoal: R$ 541445.55 (54.3%)
+- Equipamentos: R$ 152069.48 (15.2%)
+- Software: R$ 65973.88 (6.6%)
+- Serviços: R$ 177526.02 (17.8%)
+- Outros: R$ 60356.56 (6.1%)

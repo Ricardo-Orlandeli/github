@@ -1,0 +1,52 @@
+[
+  {
+    "id": "cronograma_001",
+    "title": "Gerenciamento do Cronograma - Visão Geral",
+    "content": "O gerenciamento do cronograma do projeto inclui os processos necessários para gerenciar o término pontual do projeto. Os processos de gerenciamento do cronograma são: Planejar o gerenciamento do cronograma, Definir as atividades, Sequenciar as atividades, Estimar as durações das atividades, Desenvolver o cronograma e Controlar o cronograma."
+  },
+  {
+    "id": "cronograma_002",
+    "title": "Método do Caminho Crítico (CPM)",
+    "content": "O método do caminho crítico (CPM) é usado para estimar a duração mínima do projeto e determinar o grau de flexibilidade nos caminhos lógicos da rede dentro do modelo do cronograma. Esta técnica de análise de rede do cronograma calcula as datas de início e término mais cedo e mais tarde, teóricas, para todas as atividades, sem considerar quaisquer limitações de recursos."
+  },
+  {
+    "id": "cronograma_003",
+    "title": "Técnica de Otimização de Recursos",
+    "content": "As técnicas de otimização de recursos incluem, mas não estão limitadas a: Nivelamento de recursos - técnica na qual as datas de início e término são ajustadas com base nas restrições de recursos, com o objetivo de equilibrar a demanda por recursos com a oferta disponível. Estabilização de recursos - técnica que ajusta as atividades de um modelo de cronograma, de modo que as necessidades de recursos do projeto não excedam certos limites predefinidos."
+  },
+  {
+    "id": "cronograma_004",
+    "title": "Compressão do Cronograma",
+    "content": "As técnicas de compressão do cronograma são usadas para encurtar a duração do cronograma sem reduzir o escopo do projeto. Incluem: Fast tracking - técnica de compressão do cronograma em que atividades ou fases normalmente executadas em sequência são realizadas em paralelo. Crashing - técnica de compressão do cronograma na qual os custos e recursos são aumentados para reduzir a duração."
+  },
+  {
+    "id": "cronograma_005",
+    "title": "Análise de Valor Agregado (EVA) para Cronograma",
+    "content": "A análise de valor agregado (EVA) compara a linha de base do cronograma com o progresso real para determinar se há variações. Métricas importantes incluem: Valor Planejado (PV) - orçamento autorizado para o trabalho planejado. Valor Agregado (EV) - medida do trabalho realizado expressa em termos do orçamento autorizado. Índice de Desempenho de Cronograma (SPI) - medida de eficiência do cronograma expressa como a razão entre o valor agregado e o valor planejado. SPI = EV/PV."
+  },
+  {
+    "id": "cronograma_006",
+    "title": "Interpretação do SPI",
+    "content": "O Índice de Desempenho de Cronograma (SPI) é interpretado da seguinte forma: SPI > 1,0: Mais trabalho foi concluído do que o planejado (adiantado). SPI = 1,0: O trabalho concluído é exatamente igual ao planejado (no prazo). SPI < 1,0: Menos trabalho foi concluído do que o planejado (atrasado). Um SPI < 0,8 é geralmente considerado crítico e requer ações corretivas imediatas."
+  },
+  {
+    "id": "cronograma_007",
+    "title": "Ações Corretivas para Atrasos no Cronograma",
+    "content": "Quando o projeto está atrasado (SPI < 1,0), as seguintes ações corretivas podem ser consideradas: Revisar o caminho crítico e identificar oportunidades de fast-tracking. Alocar recursos adicionais para atividades críticas. Reduzir o escopo, se aprovado pelos stakeholders. Revisar as dependências entre atividades para identificar oportunidades de otimização. Implementar horas extras para recuperar o atraso. Considerar a revisão da linha de base do cronograma se os atrasos forem significativos e não recuperáveis."
+  },
+  {
+    "id": "cronograma_008",
+    "title": "Monitoramento e Controle do Cronograma",
+    "content": "O processo de controle do cronograma envolve: Determinar o status atual do cronograma do projeto. Influenciar os fatores que criam mudanças no cronograma. Determinar se o cronograma do projeto mudou. Gerenciar as mudanças reais conforme ocorrem. Um sistema eficaz de controle de cronograma deve incluir procedimentos para registrar, analisar e relatar desvios do cronograma, bem como para implementar ações corretivas."
+  },
+  {
+    "id": "cronograma_009",
+    "title": "Ferramentas de Gerenciamento de Cronograma",
+    "content": "Ferramentas comuns para gerenciamento de cronograma incluem: Software de gerenciamento de projetos para criar e manter o modelo do cronograma. Sistemas de coleta de dados para registrar o progresso real. Reuniões de revisão de status para avaliar o progresso. Técnicas de previsão para estimar o término. Sistemas de gerenciamento de mudanças para controlar alterações no cronograma."
+  },
+  {
+    "id": "cronograma_010",
+    "title": "Melhores Práticas para Gerenciamento de Cronograma",
+    "content": "Melhores práticas para gerenciamento eficaz do cronograma incluem: Desenvolver um cronograma realista com a participação da equipe. Incluir reservas de contingência para riscos conhecidos. Manter o cronograma atualizado com o progresso real. Comunicar regularmente o status do cronograma aos stakeholders. Analisar tendências de desempenho para identificar problemas potenciais antecipadamente. Implementar ações corretivas rapidamente quando desvios são identificados. Documentar lições aprendidas para projetos futuros."
+  }
+]

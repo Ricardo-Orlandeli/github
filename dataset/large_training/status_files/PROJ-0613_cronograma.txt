@@ -1,0 +1,25 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: O conforto de atingir seus objetivos simplesmente (PROJ-0613)
+Data: 14/07/2025
+Gerente: Raquel das Neves
+
+Status atual: Em andamento
+Percentual de conclusão: 33.7%
+Data de início: 17/05/2025
+Data de término planejada: 10/10/2025
+Data de término real/prevista: 28/09/2025
+Atraso atual: 0 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 0.98
+Valor Planejado (PV): R$ 1378665.56
+Valor Agregado (EV): R$ 1170047.59
+
+Tarefas críticas:
+- Implementação do módulo de relatórios
+- Testes de segurança
+- Migração de dados legados
+- Configuração da infraestrutura
+- Integração com sistema de pagamentos
+- Implementação do módulo de análise de dados
+
+Tarefas atrasadas:

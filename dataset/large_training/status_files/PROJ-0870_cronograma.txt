@@ -1,0 +1,25 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A segurança de ganhar antes de tudo (PROJ-0870)
+Data: 14/07/2025
+Gerente: Bella Porto
+
+Status atual: Concluído
+Percentual de conclusão: 100.0%
+Data de início: 17/11/2024
+Data de término planejada: 30/03/2025
+Data de término real/prevista: 14/04/2025
+Atraso atual: 106 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.05
+Valor Planejado (PV): R$ 1897114.00
+Valor Agregado (EV): R$ 1897114.00
+
+Tarefas críticas:
+- Implementação do módulo de relatórios
+- Desenvolvimento do módulo de autenticação
+- Configuração da infraestrutura
+- Implementação do módulo de relatórios
+- Testes de segurança
+- Configuração do ambiente de produção
+
+Tarefas atrasadas:

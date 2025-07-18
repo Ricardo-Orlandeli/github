@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A vantagem de concretizar seus projetos com confiança (PROJ-0886)
+Data: 14/07/2025
+Gerente: Dra. Maria Clara Pinto
+
+Orçamento inicial: R$ 4195889.00
+Custo real atual: R$ 3489699.12
+Desvio orçamentário: -8.65%
+Índice de Desempenho de Custo (CPI): 0.74
+Valor Agregado (EV): R$ 2598602.88
+Estimativa para conclusão: R$ 2145017.23
+Estimativa no término (EAC): R$ 5634716.35
+Variação no término (VAC): R$ -1438827.35
+
+Detalhamento por categoria:
+- Pessoal: R$ 1981182.38 (56.8%)
+- Equipamentos: R$ 647921.21 (18.6%)
+- Software: R$ 173104.71 (5.0%)
+- Serviços: R$ 479589.07 (13.7%)
+- Outros: R$ 207901.75 (6.0%)

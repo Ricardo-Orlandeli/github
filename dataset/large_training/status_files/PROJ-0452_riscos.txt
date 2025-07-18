@@ -1,0 +1,51 @@
+RELATÓRIO DE STATUS DE RISCOS
+Projeto: A vantagem de realizar seus sonhos mais rapidamente (PROJ-0452)
+Data: 14/07/2025
+Gerente: Dra. Daniela Montenegro
+
+Riscos identificados:
+- R01: Falhas de infraestrutura
+  Probabilidade: 1/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Fortalecer medidas de segurança
+
+- R02: Atraso na entrega de componentes críticos
+  Probabilidade: 3/5, Impacto: 4/5, Nível: Médio
+  Mitigação: Implementar plano de contingência
+
+- R03: Requisitos mal definidos
+  Probabilidade: 3/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Contratar pessoal adicional
+
+- R04: Falhas de infraestrutura
+  Probabilidade: 4/5, Impacto: 2/5, Nível: Médio
+  Mitigação: Realizar testes de integração antecipados
+
+- R05: Problemas de compatibilidade
+  Probabilidade: 4/5, Impacto: 3/5, Nível: Médio
+  Mitigação: Contratar pessoal adicional
+
+- R06: Resistência dos usuários à mudança
+  Probabilidade: 1/5, Impacto: 2/5, Nível: Baixo
+  Mitigação: Implementar redundância de infraestrutura
+
+- R07: Problemas de integração com sistemas legados
+  Probabilidade: 4/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Contratar pessoal adicional
+
+- R08: Problemas de integração com sistemas legados
+  Probabilidade: 5/5, Impacto: 5/5, Nível: Alto
+  Mitigação: Testar compatibilidade em diferentes ambientes
+
+Riscos ocorridos:
+- R02 (ocorrido em 24/07/2024)
+  Impacto real: Perda de dados
+  Ações tomadas: Revisão do orçamento
+
+- R01 (ocorrido em 08/03/2025)
+  Impacto real: Perda de recursos-chave
+  Ações tomadas: Revisão de prioridades
+
+- R08 (ocorrido em 22/04/2025)
+  Impacto real: Perda de dados
+  Ações tomadas: Contratação de recursos adicionais
+

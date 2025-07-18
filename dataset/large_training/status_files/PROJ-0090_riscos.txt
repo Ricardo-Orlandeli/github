@@ -1,0 +1,51 @@
+RELATÓRIO DE STATUS DE RISCOS
+Projeto: O conforto de atingir seus objetivos antes de tudo (PROJ-0090)
+Data: 14/07/2025
+Gerente: João Miguel Fogaça
+
+Riscos identificados:
+- R01: Falhas em testes de aceitação
+  Probabilidade: 3/5, Impacto: 3/5, Nível: Médio
+  Mitigação: Melhorar a documentação de requisitos
+
+- R02: Rotatividade de pessoal-chave
+  Probabilidade: 2/5, Impacto: 4/5, Nível: Médio
+  Mitigação: Otimizar código e infraestrutura
+
+- R03: Problemas de compatibilidade
+  Probabilidade: 5/5, Impacto: 3/5, Nível: Médio
+  Mitigação: Otimizar código e infraestrutura
+
+- R04: Problemas de comunicação com stakeholders
+  Probabilidade: 2/5, Impacto: 4/5, Nível: Médio
+  Mitigação: Comunicar benefícios da mudança
+
+- R05: Rotatividade de pessoal-chave
+  Probabilidade: 5/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Testar compatibilidade em diferentes ambientes
+
+- R06: Requisitos mal definidos
+  Probabilidade: 2/5, Impacto: 5/5, Nível: Médio
+  Mitigação: Gerenciar dependências ativamente
+
+- R07: Problemas de comunicação com stakeholders
+  Probabilidade: 5/5, Impacto: 5/5, Nível: Alto
+  Mitigação: Testar compatibilidade em diferentes ambientes
+
+- R08: Resistência dos usuários à mudança
+  Probabilidade: 1/5, Impacto: 4/5, Nível: Baixo
+  Mitigação: Monitorar mudanças regulatórias
+
+- R09: Estimativas imprecisas
+  Probabilidade: 1/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Realizar testes de integração antecipados
+
+- R10: Rotatividade de pessoal-chave
+  Probabilidade: 1/5, Impacto: 4/5, Nível: Baixo
+  Mitigação: Otimizar código e infraestrutura
+
+Riscos ocorridos:
+- R10 (ocorrido em 10/09/2024)
+  Impacto real: Problemas de qualidade
+  Ações tomadas: Implementação do plano de contingência
+

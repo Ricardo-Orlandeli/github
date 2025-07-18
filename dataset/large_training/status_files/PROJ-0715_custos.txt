@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O prazer de concretizar seus projetos mais rapidamente (PROJ-0715)
+Data: 14/07/2025
+Gerente: Sr. Anthony Gabriel Sousa
+
+Orçamento inicial: R$ 1841455.00
+Custo real atual: R$ 1898735.88
+Desvio orçamentário: 3.11%
+Índice de Desempenho de Custo (CPI): 0.97
+Valor Agregado (EV): R$ 1839613.55
+Estimativa para conclusão: R$ 1900.64
+Estimativa no término (EAC): R$ 1900636.52
+Variação no término (VAC): R$ -59181.52
+
+Detalhamento por categoria:
+- Pessoal: R$ 977252.05 (51.5%)
+- Equipamentos: R$ 209949.63 (11.1%)
+- Software: R$ 249193.42 (13.1%)
+- Serviços: R$ 295172.79 (15.5%)
+- Outros: R$ 167167.99 (8.8%)

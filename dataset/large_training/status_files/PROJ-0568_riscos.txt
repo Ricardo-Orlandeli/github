@@ -1,0 +1,27 @@
+RELATÓRIO DE STATUS DE RISCOS
+Projeto: O conforto de atingir seus objetivos com toda a tranquilidade (PROJ-0568)
+Data: 14/07/2025
+Gerente: Hadassa Costela
+
+Riscos identificados:
+- R01: Estimativas imprecisas
+  Probabilidade: 2/5, Impacto: 5/5, Nível: Médio
+  Mitigação: Testar compatibilidade em diferentes ambientes
+
+- R02: Dependências externas não cumpridas
+  Probabilidade: 3/5, Impacto: 4/5, Nível: Médio
+  Mitigação: Refinar estimativas com base em dados históricos
+
+- R03: Problemas de comunicação com stakeholders
+  Probabilidade: 5/5, Impacto: 2/5, Nível: Médio
+  Mitigação: Implementar plano de contingência
+
+Riscos ocorridos:
+- R03 (ocorrido em 23/03/2024)
+  Impacto real: Atraso de 2 semanas no cronograma
+  Ações tomadas: Implementação do plano de contingência
+
+- R01 (ocorrido em 28/02/2024)
+  Impacto real: Indisponibilidade temporária
+  Ações tomadas: Ajuste no cronograma
+

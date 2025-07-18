@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A segurança de realizar seus sonhos com confiança (PROJ-0545)
+Data: 14/07/2025
+Gerente: Henry Camargo
+
+Orçamento inicial: R$ 1000203.00
+Custo real atual: R$ 1136828.69
+Desvio orçamentário: 13.66%
+Índice de Desempenho de Custo (CPI): 0.88
+Valor Agregado (EV): R$ 1000203.00
+Estimativa para conclusão: R$ 0.00
+Estimativa no término (EAC): R$ 1136828.69
+Variação no término (VAC): R$ -136625.69
+
+Detalhamento por categoria:
+- Pessoal: R$ 574966.68 (50.6%)
+- Equipamentos: R$ 172249.21 (15.2%)
+- Software: R$ 92265.32 (8.1%)
+- Serviços: R$ 170593.81 (15.0%)
+- Outros: R$ 126753.67 (11.1%)

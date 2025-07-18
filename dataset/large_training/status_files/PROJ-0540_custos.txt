@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A liberdade de ganhar naturalmente (PROJ-0540)
+Data: 14/07/2025
+Gerente: Antônio Peixoto
+
+Orçamento inicial: R$ 4615371.00
+Custo real atual: R$ 2513186.77
+Desvio orçamentário: -9.72%
+Índice de Desempenho de Custo (CPI): 0.77
+Valor Agregado (EV): R$ 1932551.66
+Estimativa para conclusão: R$ 3488872.34
+Estimativa no término (EAC): R$ 6002059.11
+Variação no término (VAC): R$ -1386688.11
+
+Detalhamento por categoria:
+- Pessoal: R$ 1536335.85 (61.1%)
+- Equipamentos: R$ 346998.92 (13.8%)
+- Software: R$ 180378.02 (7.2%)
+- Serviços: R$ 276321.48 (11.0%)
+- Outros: R$ 173152.50 (6.9%)

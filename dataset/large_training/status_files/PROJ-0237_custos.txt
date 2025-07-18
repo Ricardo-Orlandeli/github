@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A vantagem de evoluir de maneira eficaz (PROJ-0237)
+Data: 14/07/2025
+Gerente: Yago Caldeira
+
+Orçamento inicial: R$ 4384014.00
+Custo real atual: R$ 1504779.32
+Desvio orçamentário: -12.25%
+Índice de Desempenho de Custo (CPI): 1.02
+Valor Agregado (EV): R$ 1532039.34
+Estimativa para conclusão: R$ 2801228.64
+Estimativa no término (EAC): R$ 4306007.97
+Variação no término (VAC): R$ 78006.03
+
+Detalhamento por categoria:
+- Pessoal: R$ 726552.46 (48.3%)
+- Equipamentos: R$ 181143.01 (12.0%)
+- Software: R$ 215116.40 (14.3%)
+- Serviços: R$ 204928.53 (13.6%)
+- Outros: R$ 177038.92 (11.8%)

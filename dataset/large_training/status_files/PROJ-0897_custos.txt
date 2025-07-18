@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A segurança de inovar mais facilmente (PROJ-0897)
+Data: 14/07/2025
+Gerente: Srta. Ana Luiza Novaes
+
+Orçamento inicial: R$ 4452136.00
+Custo real atual: R$ 3414464.85
+Desvio orçamentário: -4.40%
+Índice de Desempenho de Custo (CPI): 0.91
+Valor Agregado (EV): R$ 3103882.08
+Estimativa para conclusão: R$ 1483163.83
+Estimativa no término (EAC): R$ 4897628.68
+Variação no término (VAC): R$ -445492.68
+
+Detalhamento por categoria:
+- Pessoal: R$ 1764900.05 (51.7%)
+- Equipamentos: R$ 540747.81 (15.8%)
+- Software: R$ 279811.01 (8.2%)
+- Serviços: R$ 572908.37 (16.8%)
+- Outros: R$ 256097.60 (7.5%)

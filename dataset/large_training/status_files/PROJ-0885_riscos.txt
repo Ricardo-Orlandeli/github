@@ -1,0 +1,31 @@
+RELATÓRIO DE STATUS DE RISCOS
+Projeto: A certeza de mudar antes de tudo (PROJ-0885)
+Data: 14/07/2025
+Gerente: Rael Farias
+
+Riscos identificados:
+- R01: Atraso na entrega de componentes críticos
+  Probabilidade: 3/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Implementar redundância de infraestrutura
+
+- R02: Resistência dos usuários à mudança
+  Probabilidade: 4/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Melhorar a documentação de requisitos
+
+- R03: Problemas de comunicação com stakeholders
+  Probabilidade: 2/5, Impacto: 4/5, Nível: Médio
+  Mitigação: Otimizar código e infraestrutura
+
+- R04: Resistência dos usuários à mudança
+  Probabilidade: 3/5, Impacto: 4/5, Nível: Médio
+  Mitigação: Gerenciar dependências ativamente
+
+- R05: Indisponibilidade de recursos especializados
+  Probabilidade: 1/5, Impacto: 4/5, Nível: Baixo
+  Mitigação: Gerenciar dependências ativamente
+
+- R06: Problemas de desempenho
+  Probabilidade: 1/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Monitorar mudanças regulatórias
+
+Riscos ocorridos:

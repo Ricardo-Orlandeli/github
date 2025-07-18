@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O prazer de inovar mais rapidamente (PROJ-0654)
+Data: 14/07/2025
+Gerente: Ravi Lucca Macedo
+
+Orçamento inicial: R$ 3007854.00
+Custo real atual: R$ 2299161.56
+Desvio orçamentário: -23.56%
+Índice de Desempenho de Custo (CPI): 1.07
+Valor Agregado (EV): R$ 2462156.00
+Estimativa para conclusão: R$ 509572.86
+Estimativa no término (EAC): R$ 2808734.42
+Variação no término (VAC): R$ 199119.58
+
+Detalhamento por categoria:
+- Pessoal: R$ 1112819.50 (48.4%)
+- Equipamentos: R$ 382731.47 (16.6%)
+- Software: R$ 269111.04 (11.7%)
+- Serviços: R$ 363349.84 (15.8%)
+- Outros: R$ 171149.71 (7.4%)

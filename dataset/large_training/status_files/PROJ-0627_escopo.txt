@@ -1,0 +1,19 @@
+RELATÓRIO DE STATUS DE ESCOPO
+Projeto: O conforto de mudar sem preocupação (PROJ-0627)
+Data: 14/07/2025
+Gerente: Dra. Stephany Sampaio
+
+Escopo original: Sistema para o conforto de mudar sem preocupação
+Houve mudança de escopo: Não
+Descrição das mudanças: N/A
+Impacto no cronograma: 0 dias
+Impacto no custo: R$ 0.00
+
+Solicitações de mudança:
+
+Requisitos atuais:
+- REQ-01: O sistema deve passar por testes de segurança
+- REQ-02: O sistema deve ter alta disponibilidade (99.9%)
+- REQ-03: O sistema deve ter controle de acesso baseado em perfis
+- REQ-04: O sistema deve ter documentação completa
+- REQ-05: O sistema deve ter interface responsiva

@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O poder de concretizar seus projetos direto da fonte (PROJ-0185)
+Data: 14/07/2025
+Gerente: Eloah Sousa
+
+Orçamento inicial: R$ 153140.00
+Custo real atual: R$ 15570.41
+Desvio orçamentário: 1.67%
+Índice de Desempenho de Custo (CPI): 0.91
+Valor Agregado (EV): R$ 14209.49
+Estimativa para conclusão: R$ 152236.65
+Estimativa no término (EAC): R$ 167807.06
+Variação no término (VAC): R$ -14667.06
+
+Detalhamento por categoria:
+- Pessoal: R$ 8054.71 (51.7%)
+- Equipamentos: R$ 2623.99 (16.9%)
+- Software: R$ 1327.43 (8.5%)
+- Serviços: R$ 2238.12 (14.4%)
+- Outros: R$ 1326.16 (8.5%)

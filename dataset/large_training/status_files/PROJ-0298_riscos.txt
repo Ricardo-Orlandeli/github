@@ -1,0 +1,19 @@
+RELATÓRIO DE STATUS DE RISCOS
+Projeto: A segurança de avançar simplesmente (PROJ-0298)
+Data: 14/07/2025
+Gerente: Alexandre Duarte
+
+Riscos identificados:
+- R01: Rotatividade de pessoal-chave
+  Probabilidade: 5/5, Impacto: 3/5, Nível: Médio
+  Mitigação: Fortalecer medidas de segurança
+
+- R02: Rotatividade de pessoal-chave
+  Probabilidade: 4/5, Impacto: 4/5, Nível: Alto
+  Mitigação: Refinar estimativas com base em dados históricos
+
+- R03: Mudanças regulatórias
+  Probabilidade: 4/5, Impacto: 5/5, Nível: Alto
+  Mitigação: Comunicar benefícios da mudança
+
+Riscos ocorridos:

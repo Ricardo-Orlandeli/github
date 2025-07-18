@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A possibilidade de conseguir com toda a tranquilidade (PROJ-0752)
+Data: 14/07/2025
+Gerente: Nina Fonseca
+
+Orçamento inicial: R$ 1331468.00
+Custo real atual: R$ 1330629.76
+Desvio orçamentário: 33.11%
+Índice de Desempenho de Custo (CPI): 1.00
+Valor Agregado (EV): R$ 1331468.00
+Estimativa para conclusão: R$ 0.00
+Estimativa no término (EAC): R$ 1330629.76
+Variação no término (VAC): R$ 838.24
+
+Detalhamento por categoria:
+- Pessoal: R$ 723706.81 (54.4%)
+- Equipamentos: R$ 216689.37 (16.3%)
+- Software: R$ 83400.29 (6.3%)
+- Serviços: R$ 175588.14 (13.2%)
+- Outros: R$ 131245.14 (9.9%)

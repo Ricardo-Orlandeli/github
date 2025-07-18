@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A segurança de conseguir naturalmente (PROJ-0341)
+Data: 14/07/2025
+Gerente: Fernando Ramos
+
+Orçamento inicial: R$ 4141999.00
+Custo real atual: R$ 3900407.68
+Desvio orçamentário: -5.83%
+Índice de Desempenho de Custo (CPI): 1.06
+Valor Agregado (EV): R$ 4141999.00
+Estimativa para conclusão: R$ 0.00
+Estimativa no término (EAC): R$ 3900407.68
+Variação no término (VAC): R$ 241591.32
+
+Detalhamento por categoria:
+- Pessoal: R$ 1851589.69 (47.5%)
+- Equipamentos: R$ 779206.09 (20.0%)
+- Software: R$ 350070.01 (9.0%)
+- Serviços: R$ 637283.14 (16.3%)
+- Outros: R$ 282258.75 (7.2%)

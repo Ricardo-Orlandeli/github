@@ -1,0 +1,35 @@
+RELATÓRIO DE STATUS DE RISCOS
+Projeto: O conforto de ganhar com toda a tranquilidade (PROJ-0157)
+Data: 14/07/2025
+Gerente: Arthur Gabriel Souza
+
+Riscos identificados:
+- R01: Requisitos mal definidos
+  Probabilidade: 2/5, Impacto: 2/5, Nível: Baixo
+  Mitigação: Realizar testes de aceitação com usuários-chave
+
+- R02: Estimativas imprecisas
+  Probabilidade: 1/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Fortalecer medidas de segurança
+
+- R03: Dependências externas não cumpridas
+  Probabilidade: 5/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Melhorar a documentação de requisitos
+
+- R04: Problemas de comunicação com stakeholders
+  Probabilidade: 4/5, Impacto: 3/5, Nível: Médio
+  Mitigação: Fortalecer medidas de segurança
+
+- R05: Resistência dos usuários à mudança
+  Probabilidade: 2/5, Impacto: 4/5, Nível: Médio
+  Mitigação: Realizar testes de aceitação com usuários-chave
+
+- R06: Problemas de integração com sistemas legados
+  Probabilidade: 1/5, Impacto: 4/5, Nível: Baixo
+  Mitigação: Comunicar benefícios da mudança
+
+- R07: Mudanças regulatórias
+  Probabilidade: 4/5, Impacto: 4/5, Nível: Alto
+  Mitigação: Melhorar a documentação de requisitos
+
+Riscos ocorridos:

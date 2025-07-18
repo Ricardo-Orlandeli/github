@@ -1,0 +1,39 @@
+RELATÓRIO DE STATUS DE RISCOS
+Projeto: O conforto de ganhar simplesmente (PROJ-0589)
+Data: 14/07/2025
+Gerente: Camila da Cruz
+
+Riscos identificados:
+- R01: Falhas de segurança
+  Probabilidade: 5/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Realizar testes de aceitação com usuários-chave
+
+- R02: Problemas de integração com sistemas legados
+  Probabilidade: 4/5, Impacto: 4/5, Nível: Alto
+  Mitigação: Testar compatibilidade em diferentes ambientes
+
+- R03: Dependências externas não cumpridas
+  Probabilidade: 1/5, Impacto: 3/5, Nível: Baixo
+  Mitigação: Otimizar código e infraestrutura
+
+- R04: Problemas de compatibilidade
+  Probabilidade: 3/5, Impacto: 2/5, Nível: Baixo
+  Mitigação: Buscar fornecedores alternativos
+
+- R05: Problemas de integração com sistemas legados
+  Probabilidade: 2/5, Impacto: 4/5, Nível: Médio
+  Mitigação: Buscar fornecedores alternativos
+
+- R06: Falhas de segurança
+  Probabilidade: 5/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Realizar testes de integração antecipados
+
+- R07: Atraso na entrega de componentes críticos
+  Probabilidade: 3/5, Impacto: 2/5, Nível: Baixo
+  Mitigação: Realizar testes de aceitação com usuários-chave
+
+Riscos ocorridos:
+- R03 (ocorrido em 05/04/2024)
+  Impacto real: Insatisfação dos stakeholders
+  Ações tomadas: Revisão de prioridades
+

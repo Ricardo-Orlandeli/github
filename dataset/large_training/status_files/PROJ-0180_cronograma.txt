@@ -1,0 +1,26 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: O direito de atingir seus objetivos em estado puro (PROJ-0180)
+Data: 14/07/2025
+Gerente: Sr. João Guilherme Marques
+
+Status atual: Cancelado
+Percentual de conclusão: 49.6%
+Data de início: 22/06/2024
+Data de término planejada: 20/02/2025
+Data de término real/prevista: 20/10/2024
+Atraso atual: 144 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 0.50
+Valor Planejado (PV): R$ 3019160.00
+Valor Agregado (EV): R$ 1498557.08
+
+Tarefas críticas:
+- Desenvolvimento da interface do usuário
+- Configuração do ambiente de produção
+- Implementação do módulo de análise de dados
+- Desenvolvimento do painel administrativo
+- Desenvolvimento da interface do usuário
+- Configuração da infraestrutura
+- Configuração do ambiente de produção
+
+Tarefas atrasadas:

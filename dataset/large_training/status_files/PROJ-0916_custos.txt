@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O direito de avançar naturalmente (PROJ-0916)
+Data: 14/07/2025
+Gerente: Sara Campos
+
+Orçamento inicial: R$ 4312953.00
+Custo real atual: R$ 4146144.71
+Desvio orçamentário: -3.87%
+Índice de Desempenho de Custo (CPI): 0.96
+Valor Agregado (EV): R$ 3970545.79
+Estimativa para conclusão: R$ 357550.30
+Estimativa no término (EAC): R$ 4503695.01
+Variação no término (VAC): R$ -190742.01
+
+Detalhamento por categoria:
+- Pessoal: R$ 2049460.36 (49.4%)
+- Equipamentos: R$ 598408.61 (14.4%)
+- Software: R$ 429574.27 (10.4%)
+- Serviços: R$ 750785.28 (18.1%)
+- Outros: R$ 317916.20 (7.7%)

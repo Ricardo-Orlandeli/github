@@ -1,0 +1,35 @@
+RELATÓRIO DE STATUS DE RISCOS
+Projeto: O poder de ganhar de maneira eficaz (PROJ-0524)
+Data: 14/07/2025
+Gerente: Vinicius Pereira
+
+Riscos identificados:
+- R01: Resistência dos usuários à mudança
+  Probabilidade: 3/5, Impacto: 2/5, Nível: Baixo
+  Mitigação: Otimizar código e infraestrutura
+
+- R02: Rotatividade de pessoal-chave
+  Probabilidade: 1/5, Impacto: 5/5, Nível: Baixo
+  Mitigação: Realizar testes de aceitação com usuários-chave
+
+- R03: Falhas de segurança
+  Probabilidade: 2/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Estabelecer canais de comunicação claros
+
+- R04: Problemas de compatibilidade
+  Probabilidade: 2/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Melhorar a documentação de requisitos
+
+- R05: Atraso na entrega de componentes críticos
+  Probabilidade: 1/5, Impacto: 2/5, Nível: Baixo
+  Mitigação: Otimizar código e infraestrutura
+
+Riscos ocorridos:
+- R02 (ocorrido em 07/10/2023)
+  Impacto real: Atraso de 2 semanas no cronograma
+  Ações tomadas: Ajuste no cronograma
+
+- R01 (ocorrido em 23/02/2024)
+  Impacto real: Indisponibilidade temporária
+  Ações tomadas: Revisão do orçamento
+

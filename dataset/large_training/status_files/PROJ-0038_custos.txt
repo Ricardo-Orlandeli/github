@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O direito de atingir seus objetivos antes de tudo (PROJ-0038)
+Data: 14/07/2025
+Gerente: Ana Laura Mendonça
+
+Orçamento inicial: R$ 1574117.00
+Custo real atual: R$ 1337803.77
+Desvio orçamentário: -15.01%
+Índice de Desempenho de Custo (CPI): 1.18
+Valor Agregado (EV): R$ 1574117.00
+Estimativa para conclusão: R$ 0.00
+Estimativa no término (EAC): R$ 1337803.77
+Variação no término (VAC): R$ 236313.23
+
+Detalhamento por categoria:
+- Pessoal: R$ 618791.76 (46.3%)
+- Equipamentos: R$ 155971.00 (11.7%)
+- Software: R$ 195780.40 (14.6%)
+- Serviços: R$ 258858.70 (19.3%)
+- Outros: R$ 108401.90 (8.1%)

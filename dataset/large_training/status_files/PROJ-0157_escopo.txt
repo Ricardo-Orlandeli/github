@@ -1,0 +1,23 @@
+RELATÓRIO DE STATUS DE ESCOPO
+Projeto: O conforto de ganhar com toda a tranquilidade (PROJ-0157)
+Data: 14/07/2025
+Gerente: Arthur Gabriel Souza
+
+Escopo original: Sistema para o conforto de ganhar com toda a tranquilidade
+Houve mudança de escopo: Sim
+Descrição das mudanças: Mudança na plataforma de implementação
+Impacto no cronograma: 59 dias
+Impacto no custo: R$ 268550.82
+
+Solicitações de mudança:
+- SCM-01: Adição de funcionalidade de autenticação biométrica
+- SCM-02: Mudança na arquitetura do sistema
+- SCM-03: Adição de funcionalidade de autenticação biométrica
+- SCM-04: Alteração nos requisitos de desempenho
+
+Requisitos atuais:
+- REQ-01: O sistema deve permitir autenticação de usuários
+- REQ-02: O sistema deve ter backup automático diário
+- REQ-03: O sistema deve implementar criptografia de dados sensíveis
+- REQ-04: O sistema deve permitir integração com APIs externas
+- REQ-05: O sistema deve processar transações em menos de 2 seconds

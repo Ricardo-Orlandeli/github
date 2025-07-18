@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O prazer de evoluir com confiança (PROJ-0284)
+Data: 14/07/2025
+Gerente: Renan Aparecida
+
+Orçamento inicial: R$ 3092029.00
+Custo real atual: R$ 3155712.37
+Desvio orçamentário: 2.06%
+Índice de Desempenho de Custo (CPI): 0.74
+Valor Agregado (EV): R$ 2335634.81
+Estimativa para conclusão: R$ 1021975.91
+Estimativa no término (EAC): R$ 4177688.28
+Variação no término (VAC): R$ -1085659.28
+
+Detalhamento por categoria:
+- Pessoal: R$ 1680821.77 (53.3%)
+- Equipamentos: R$ 504765.24 (16.0%)
+- Software: R$ 190466.51 (6.0%)
+- Serviços: R$ 484475.19 (15.4%)
+- Outros: R$ 295183.66 (9.4%)

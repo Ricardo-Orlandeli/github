@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A certeza de evoluir antes de tudo (PROJ-0949)
+Data: 14/07/2025
+Gerente: Enrico Mendonça
+
+Orçamento inicial: R$ 1692287.00
+Custo real atual: R$ 282940.47
+Desvio orçamentário: -11.63%
+Índice de Desempenho de Custo (CPI): 1.02
+Valor Agregado (EV): R$ 288235.75
+Estimativa para conclusão: R$ 1378256.98
+Estimativa no término (EAC): R$ 1661197.45
+Variação no término (VAC): R$ 31089.55
+
+Detalhamento por categoria:
+- Pessoal: R$ 132507.11 (46.8%)
+- Equipamentos: R$ 61569.26 (21.8%)
+- Software: R$ 17305.00 (6.1%)
+- Serviços: R$ 40396.16 (14.3%)
+- Outros: R$ 31162.95 (11.0%)

@@ -1,0 +1,25 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A liberdade de avançar mais facilmente (PROJ-0139)
+Data: 14/07/2025
+Gerente: Clarice da Paz
+
+Status atual: Atrasado
+Percentual de conclusão: 67.7%
+Data de início: 30/11/2023
+Data de término planejada: 12/04/2024
+Data de término real/prevista: 29/06/2024
+Atraso atual: 458 dias
+Motivo do atraso: Recursos insuficientes
+Índice de Desempenho de Cronograma (SPI): 0.68
+Valor Planejado (PV): R$ 2578248.00
+Valor Agregado (EV): R$ 1744305.91
+
+Tarefas críticas:
+- Implementação do módulo de exportação de dados
+- Implementação da API REST
+- Testes de segurança
+
+Tarefas atrasadas:
+- Implementação da API REST
+- Testes de segurança
+- Implementação do módulo de exportação de dados

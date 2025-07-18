@@ -1,0 +1,29 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: O poder de evoluir em estado puro (PROJ-0266)
+Data: 14/07/2025
+Gerente: Maria Luiza Câmara
+
+Status atual: Atrasado
+Percentual de conclusão: 79.9%
+Data de início: 10/12/2024
+Data de término planejada: 08/03/2025
+Data de término real/prevista: 31/07/2025
+Atraso atual: 128 dias
+Motivo do atraso: Dependências externas não cumpridas
+Índice de Desempenho de Cronograma (SPI): 0.80
+Valor Planejado (PV): R$ 3037481.00
+Valor Agregado (EV): R$ 2428399.06
+
+Tarefas críticas:
+- Testes de segurança
+- Configuração da infraestrutura
+- Implementação do módulo de exportação de dados
+- Implementação da API REST
+- Implementação do módulo de relatórios
+- Implementação do sistema de backup
+- Implementação do módulo de notificações
+
+Tarefas atrasadas:
+- Implementação da API REST
+- Configuração da infraestrutura
+- Implementação do módulo de exportação de dados

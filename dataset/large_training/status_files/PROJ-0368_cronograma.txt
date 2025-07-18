@@ -1,0 +1,26 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: O conforto de mudar naturalmente (PROJ-0368)
+Data: 14/07/2025
+Gerente: Theo da Rosa
+
+Status atual: Em andamento
+Percentual de conclusão: 13.0%
+Data de início: 24/06/2025
+Data de término planejada: 31/10/2025
+Data de término real/prevista: 27/10/2025
+Atraso atual: 0 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.15
+Valor Planejado (PV): R$ 588880.00
+Valor Agregado (EV): R$ 491935.23
+
+Tarefas críticas:
+- Configuração do ambiente de produção
+- Implementação do módulo de relatórios
+- Implementação da API REST
+- Implementação do módulo de análise de dados
+- Configuração da infraestrutura
+- Desenvolvimento do módulo de autenticação
+- Testes de segurança
+
+Tarefas atrasadas:

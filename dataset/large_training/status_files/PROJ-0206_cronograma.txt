@@ -1,0 +1,24 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A certeza de inovar naturalmente (PROJ-0206)
+Data: 14/07/2025
+Gerente: Maria Almeida
+
+Status atual: Em andamento
+Percentual de conclusão: 99.0%
+Data de início: 16/07/2023
+Data de término planejada: 20/12/2023
+Data de término real/prevista: 07/01/2024
+Atraso atual: 572 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.11
+Valor Planejado (PV): R$ 856028.00
+Valor Agregado (EV): R$ 847320.62
+
+Tarefas críticas:
+- Implementação do módulo de análise de dados
+- Implementação do sistema de backup
+- Testes de segurança
+- Migração de dados legados
+- Migração de dados legados
+
+Tarefas atrasadas:

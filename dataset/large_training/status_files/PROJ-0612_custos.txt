@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A vantagem de avançar com confiança (PROJ-0612)
+Data: 14/07/2025
+Gerente: Marcela Viana
+
+Orçamento inicial: R$ 3928516.00
+Custo real atual: R$ 3115580.85
+Desvio orçamentário: -18.88%
+Índice de Desempenho de Custo (CPI): 1.00
+Valor Agregado (EV): R$ 3105072.50
+Estimativa para conclusão: R$ 826230.24
+Estimativa no término (EAC): R$ 3941811.09
+Variação no término (VAC): R$ -13295.09
+
+Detalhamento por categoria:
+- Pessoal: R$ 1570023.61 (50.4%)
+- Equipamentos: R$ 634701.98 (20.4%)
+- Software: R$ 311655.82 (10.0%)
+- Serviços: R$ 406565.75 (13.0%)
+- Outros: R$ 192633.68 (6.2%)

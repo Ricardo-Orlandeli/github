@@ -1,0 +1,23 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A certeza de inovar com força total (PROJ-0384)
+Data: 14/07/2025
+Gerente: Benicio Freitas
+
+Status atual: Em andamento
+Percentual de conclusão: 99.9%
+Data de início: 11/12/2024
+Data de término planejada: 26/02/2025
+Data de término real/prevista: 23/02/2025
+Atraso atual: 138 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.00
+Valor Planejado (PV): R$ 796216.00
+Valor Agregado (EV): R$ 795419.78
+
+Tarefas críticas:
+- Testes de segurança
+- Testes de segurança
+- Testes de aceitação do usuário
+- Desenvolvimento do painel administrativo
+
+Tarefas atrasadas:

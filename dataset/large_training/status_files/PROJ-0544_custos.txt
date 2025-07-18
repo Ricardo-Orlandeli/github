@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A vantagem de evoluir de maneira eficaz (PROJ-0544)
+Data: 14/07/2025
+Gerente: Asafe Rios
+
+Orçamento inicial: R$ 3707165.00
+Custo real atual: R$ 3449045.90
+Desvio orçamentário: -6.96%
+Índice de Desempenho de Custo (CPI): 0.91
+Valor Agregado (EV): R$ 3146493.07
+Estimativa para conclusão: R$ 614583.66
+Estimativa no término (EAC): R$ 4063629.55
+Variação no término (VAC): R$ -356464.55
+
+Detalhamento por categoria:
+- Pessoal: R$ 1569125.06 (45.5%)
+- Equipamentos: R$ 541871.55 (15.7%)
+- Software: R$ 462154.09 (13.4%)
+- Serviços: R$ 646538.94 (18.7%)
+- Outros: R$ 229356.26 (6.6%)

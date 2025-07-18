@@ -1,0 +1,26 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A liberdade de conseguir mais rapidamente (PROJ-0455)
+Data: 14/07/2025
+Gerente: Dra. Liz Macedo
+
+Status atual: Em andamento
+Percentual de conclusão: 99.9%
+Data de início: 26/12/2023
+Data de término planejada: 05/03/2024
+Data de término real/prevista: 18/03/2024
+Atraso atual: 496 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.10
+Valor Planejado (PV): R$ 4840794.00
+Valor Agregado (EV): R$ 4835953.21
+
+Tarefas críticas:
+- Integração com sistema de pagamentos
+- Implementação do módulo de exportação de dados
+- Implementação do módulo de relatórios
+- Testes de segurança
+- Desenvolvimento do módulo de autenticação
+- Integração com sistema de pagamentos
+- Implementação do sistema de backup
+
+Tarefas atrasadas:

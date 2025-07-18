@@ -1,0 +1,39 @@
+RELATÓRIO DE STATUS DE RISCOS
+Projeto: O poder de ganhar com força total (PROJ-0777)
+Data: 14/07/2025
+Gerente: Gustavo Henrique Mendonça
+
+Riscos identificados:
+- R01: Mudanças regulatórias
+  Probabilidade: 3/5, Impacto: 4/5, Nível: Médio
+  Mitigação: Estabelecer canais de comunicação claros
+
+- R02: Resistência dos usuários à mudança
+  Probabilidade: 2/5, Impacto: 2/5, Nível: Baixo
+  Mitigação: Buscar fornecedores alternativos
+
+- R03: Requisitos mal definidos
+  Probabilidade: 1/5, Impacto: 2/5, Nível: Baixo
+  Mitigação: Monitorar mudanças regulatórias
+
+- R04: Problemas de compatibilidade
+  Probabilidade: 5/5, Impacto: 5/5, Nível: Alto
+  Mitigação: Fortalecer medidas de segurança
+
+- R05: Falhas em testes de aceitação
+  Probabilidade: 2/5, Impacto: 2/5, Nível: Baixo
+  Mitigação: Testar compatibilidade em diferentes ambientes
+
+Riscos ocorridos:
+- R02 (ocorrido em 27/07/2024)
+  Impacto real: Insatisfação dos stakeholders
+  Ações tomadas: Contratação de recursos adicionais
+
+- R01 (ocorrido em 22/04/2024)
+  Impacto real: Redução de funcionalidades
+  Ações tomadas: Revisão do orçamento
+
+- R04 (ocorrido em 06/05/2024)
+  Impacto real: Falhas de segurança
+  Ações tomadas: Implementação de controles adicionais
+

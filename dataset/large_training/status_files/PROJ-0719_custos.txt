@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O direito de avançar simplesmente (PROJ-0719)
+Data: 14/07/2025
+Gerente: Srta. Liz Ribeiro
+
+Orçamento inicial: R$ 717684.00
+Custo real atual: R$ 780332.28
+Desvio orçamentário: 8.73%
+Índice de Desempenho de Custo (CPI): 0.92
+Valor Agregado (EV): R$ 717684.00
+Estimativa para conclusão: R$ 0.00
+Estimativa no término (EAC): R$ 780332.28
+Variação no término (VAC): R$ -62648.28
+
+Detalhamento por categoria:
+- Pessoal: R$ 393054.08 (50.4%)
+- Equipamentos: R$ 137922.84 (17.7%)
+- Software: R$ 110693.31 (14.2%)
+- Serviços: R$ 98944.44 (12.7%)
+- Outros: R$ 39717.62 (5.1%)

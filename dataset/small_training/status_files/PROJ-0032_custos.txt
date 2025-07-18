@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O conforto de atingir seus objetivos em estado puro (PROJ-0032)
+Data: 14/07/2025
+Gerente: Sra. Gabriela Campos
+
+Orçamento inicial: R$ 1547246.00
+Custo real atual: R$ 1360190.66
+Desvio orçamentário: -12.09%
+Índice de Desempenho de Custo (CPI): 1.13
+Valor Agregado (EV): R$ 1532736.21
+Estimativa para conclusão: R$ 12876.37
+Estimativa no término (EAC): R$ 1373067.03
+Variação no término (VAC): R$ 174178.97
+
+Detalhamento por categoria:
+- Pessoal: R$ 618496.94 (45.5%)
+- Equipamentos: R$ 247388.67 (18.2%)
+- Software: R$ 202633.04 (14.9%)
+- Serviços: R$ 168618.33 (12.4%)
+- Outros: R$ 123053.68 (9.0%)

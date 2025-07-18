@@ -1,0 +1,27 @@
+RELATÓRIO DE STATUS DE RISCOS
+Projeto: O conforto de ganhar mais rapidamente (PROJ-0914)
+Data: 14/07/2025
+Gerente: Sr. Rafael Aparecida
+
+Riscos identificados:
+- R01: Indisponibilidade de recursos especializados
+  Probabilidade: 5/5, Impacto: 2/5, Nível: Médio
+  Mitigação: Fortalecer medidas de segurança
+
+- R02: Rotatividade de pessoal-chave
+  Probabilidade: 3/5, Impacto: 3/5, Nível: Médio
+  Mitigação: Comunicar benefícios da mudança
+
+- R03: Requisitos mal definidos
+  Probabilidade: 5/5, Impacto: 4/5, Nível: Alto
+  Mitigação: Realizar testes de integração antecipados
+
+Riscos ocorridos:
+- R02 (ocorrido em 10/07/2025)
+  Impacto real: Retrabalho significativo
+  Ações tomadas: Realocação de recursos
+
+- R03 (ocorrido em 24/06/2025)
+  Impacto real: Indisponibilidade temporária
+  Ações tomadas: Ajuste no cronograma
+

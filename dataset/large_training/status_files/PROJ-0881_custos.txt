@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A liberdade de evoluir com força total (PROJ-0881)
+Data: 14/07/2025
+Gerente: Luiz Felipe Rodrigues
+
+Orçamento inicial: R$ 4703290.00
+Custo real atual: R$ 5567602.84
+Desvio orçamentário: 18.38%
+Índice de Desempenho de Custo (CPI): 0.67
+Valor Agregado (EV): R$ 3725439.47
+Estimativa para conclusão: R$ 1461380.17
+Estimativa no término (EAC): R$ 7028983.01
+Variação no término (VAC): R$ -2325693.01
+
+Detalhamento por categoria:
+- Pessoal: R$ 3064711.73 (55.0%)
+- Equipamentos: R$ 618044.02 (11.1%)
+- Software: R$ 684645.40 (12.3%)
+- Serviços: R$ 932301.73 (16.7%)
+- Outros: R$ 267899.96 (4.8%)

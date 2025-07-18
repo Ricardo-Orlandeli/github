@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O direito de avançar simplesmente (PROJ-0389)
+Data: 14/07/2025
+Gerente: Mariah Mendes
+
+Orçamento inicial: R$ 868733.00
+Custo real atual: R$ 755774.11
+Desvio orçamentário: -13.00%
+Índice de Desempenho de Custo (CPI): 1.15
+Valor Agregado (EV): R$ 868733.00
+Estimativa para conclusão: R$ 0.00
+Estimativa no término (EAC): R$ 755774.11
+Variação no término (VAC): R$ 112958.89
+
+Detalhamento por categoria:
+- Pessoal: R$ 356620.50 (47.2%)
+- Equipamentos: R$ 130474.74 (17.3%)
+- Software: R$ 109810.20 (14.5%)
+- Serviços: R$ 92618.45 (12.3%)
+- Outros: R$ 66250.22 (8.8%)

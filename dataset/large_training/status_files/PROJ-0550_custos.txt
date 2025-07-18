@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O conforto de atingir seus objetivos mais facilmente (PROJ-0550)
+Data: 14/07/2025
+Gerente: Gael Henrique Souza
+
+Orçamento inicial: R$ 1005931.00
+Custo real atual: R$ 157917.27
+Desvio orçamentário: -83.76%
+Índice de Desempenho de Custo (CPI): 0.69
+Valor Agregado (EV): R$ 108181.92
+Estimativa para conclusão: R$ 1310478.53
+Estimativa no término (EAC): R$ 1468395.80
+Variação no término (VAC): R$ -462464.80
+
+Detalhamento por categoria:
+- Pessoal: R$ 82356.54 (52.2%)
+- Equipamentos: R$ 17909.84 (11.3%)
+- Software: R$ 18568.21 (11.8%)
+- Serviços: R$ 26796.27 (17.0%)
+- Outros: R$ 12286.40 (7.8%)

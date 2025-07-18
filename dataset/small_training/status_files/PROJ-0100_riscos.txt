@@ -1,0 +1,59 @@
+RELATÓRIO DE STATUS DE RISCOS
+Projeto: A simplicidade de atingir seus objetivos com toda a tranquilidade (PROJ-0100)
+Data: 14/07/2025
+Gerente: Caleb Oliveira
+
+Riscos identificados:
+- R01: Estimativas imprecisas
+  Probabilidade: 5/5, Impacto: 2/5, Nível: Médio
+  Mitigação: Fortalecer medidas de segurança
+
+- R02: Indisponibilidade de recursos especializados
+  Probabilidade: 3/5, Impacto: 4/5, Nível: Médio
+  Mitigação: Testar compatibilidade em diferentes ambientes
+
+- R03: Requisitos mal definidos
+  Probabilidade: 5/5, Impacto: 2/5, Nível: Médio
+  Mitigação: Refinar estimativas com base em dados históricos
+
+- R04: Problemas de compatibilidade
+  Probabilidade: 2/5, Impacto: 5/5, Nível: Médio
+  Mitigação: Contratar pessoal adicional
+
+- R05: Dependências externas não cumpridas
+  Probabilidade: 3/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Estabelecer canais de comunicação claros
+
+- R06: Estimativas imprecisas
+  Probabilidade: 2/5, Impacto: 5/5, Nível: Médio
+  Mitigação: Comunicar benefícios da mudança
+
+- R07: Estimativas imprecisas
+  Probabilidade: 3/5, Impacto: 2/5, Nível: Baixo
+  Mitigação: Otimizar código e infraestrutura
+
+- R08: Falhas de segurança
+  Probabilidade: 4/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Fortalecer medidas de segurança
+
+- R09: Falhas de segurança
+  Probabilidade: 2/5, Impacto: 2/5, Nível: Baixo
+  Mitigação: Implementar plano de contingência
+
+- R10: Rotatividade de pessoal-chave
+  Probabilidade: 1/5, Impacto: 4/5, Nível: Baixo
+  Mitigação: Buscar fornecedores alternativos
+
+Riscos ocorridos:
+- R01 (ocorrido em 05/07/2025)
+  Impacto real: Perda de recursos-chave
+  Ações tomadas: Comunicação intensificada com stakeholders
+
+- R04 (ocorrido em 29/11/2024)
+  Impacto real: Atraso de 2 semanas no cronograma
+  Ações tomadas: Implementação de controles adicionais
+
+- R09 (ocorrido em 09/01/2025)
+  Impacto real: Aumento de 10% nos custos
+  Ações tomadas: Implementação de soluções alternativas
+

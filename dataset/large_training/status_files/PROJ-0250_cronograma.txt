@@ -1,0 +1,27 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: O poder de conseguir com força total (PROJ-0250)
+Data: 14/07/2025
+Gerente: Dom Azevedo
+
+Status atual: Atrasado
+Percentual de conclusão: 83.6%
+Data de início: 14/08/2024
+Data de término planejada: 23/01/2025
+Data de término real/prevista: 15/06/2025
+Atraso atual: 172 dias
+Motivo do atraso: Atraso na entrega de componentes por fornecedores
+Índice de Desempenho de Cronograma (SPI): 0.84
+Valor Planejado (PV): R$ 3103791.00
+Valor Agregado (EV): R$ 2595579.15
+
+Tarefas críticas:
+- Configuração do ambiente de produção
+- Implementação do sistema de backup
+- Desenvolvimento do módulo de autenticação
+- Testes de aceitação do usuário
+- Implementação do módulo de notificações
+- Implementação do módulo de notificações
+- Desenvolvimento do painel administrativo
+
+Tarefas atrasadas:
+- Desenvolvimento do módulo de autenticação

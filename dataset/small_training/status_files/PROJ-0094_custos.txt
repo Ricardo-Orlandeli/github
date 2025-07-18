@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A certeza de evoluir com confiança (PROJ-0094)
+Data: 14/07/2025
+Gerente: Alexandre Moreira
+
+Orçamento inicial: R$ 739640.00
+Custo real atual: R$ 887401.99
+Desvio orçamentário: 19.98%
+Índice de Desempenho de Custo (CPI): 0.83
+Valor Agregado (EV): R$ 739640.00
+Estimativa para conclusão: R$ 0.00
+Estimativa no término (EAC): R$ 887401.99
+Variação no término (VAC): R$ -147761.99
+
+Detalhamento por categoria:
+- Pessoal: R$ 410743.39 (46.3%)
+- Equipamentos: R$ 155780.57 (17.6%)
+- Software: R$ 117492.66 (13.2%)
+- Serviços: R$ 128186.76 (14.4%)
+- Outros: R$ 75198.61 (8.5%)

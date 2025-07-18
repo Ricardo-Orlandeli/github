@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O conforto de conseguir mais facilmente (PROJ-0379)
+Data: 14/07/2025
+Gerente: Nathan Nunes
+
+Orçamento inicial: R$ 4552787.00
+Custo real atual: R$ 4335421.83
+Desvio orçamentário: 0.10%
+Índice de Desempenho de Custo (CPI): 1.05
+Valor Agregado (EV): R$ 4552787.00
+Estimativa para conclusão: R$ 0.00
+Estimativa no término (EAC): R$ 4335421.83
+Variação no término (VAC): R$ 217365.17
+
+Detalhamento por categoria:
+- Pessoal: R$ 2159937.00 (49.8%)
+- Equipamentos: R$ 592441.50 (13.7%)
+- Software: R$ 539730.04 (12.4%)
+- Serviços: R$ 701272.81 (16.2%)
+- Outros: R$ 342040.49 (7.9%)

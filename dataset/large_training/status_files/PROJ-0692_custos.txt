@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A certeza de mudar direto da fonte (PROJ-0692)
+Data: 14/07/2025
+Gerente: Eduardo Ferreira
+
+Orçamento inicial: R$ 4207258.00
+Custo real atual: R$ 4922394.21
+Desvio orçamentário: 17.00%
+Índice de Desempenho de Custo (CPI): 0.85
+Valor Agregado (EV): R$ 4203050.74
+Estimativa para conclusão: R$ 4927.32
+Estimativa no término (EAC): R$ 4927321.53
+Variação no término (VAC): R$ -720063.53
+
+Detalhamento por categoria:
+- Pessoal: R$ 2507473.73 (50.9%)
+- Equipamentos: R$ 912326.10 (18.5%)
+- Software: R$ 485056.68 (9.9%)
+- Serviços: R$ 656886.66 (13.3%)
+- Outros: R$ 360651.04 (7.3%)

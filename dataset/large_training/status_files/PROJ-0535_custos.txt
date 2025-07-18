@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A segurança de inovar simplesmente (PROJ-0535)
+Data: 14/07/2025
+Gerente: João Gabriel Martins
+
+Orçamento inicial: R$ 3496362.00
+Custo real atual: R$ 4151675.83
+Desvio orçamentário: 30.15%
+Índice de Desempenho de Custo (CPI): 0.84
+Valor Agregado (EV): R$ 3496362.00
+Estimativa para conclusão: R$ 0.00
+Estimativa no término (EAC): R$ 4151675.83
+Variação no término (VAC): R$ -655313.83
+
+Detalhamento por categoria:
+- Pessoal: R$ 2491839.20 (60.0%)
+- Equipamentos: R$ 461672.25 (11.1%)
+- Software: R$ 390976.05 (9.4%)
+- Serviços: R$ 515950.18 (12.4%)
+- Outros: R$ 291238.15 (7.0%)

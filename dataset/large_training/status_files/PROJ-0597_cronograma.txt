@@ -1,0 +1,26 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A arte de realizar seus sonhos antes de tudo (PROJ-0597)
+Data: 14/07/2025
+Gerente: Heloisa Pimenta
+
+Status atual: Atrasado
+Percentual de conclusão: 79.4%
+Data de início: 31/08/2024
+Data de término planejada: 20/03/2025
+Data de término real/prevista: 04/06/2025
+Atraso atual: 116 dias
+Motivo do atraso: Rotatividade de pessoal-chave
+Índice de Desempenho de Cronograma (SPI): 0.79
+Valor Planejado (PV): R$ 1416060.00
+Valor Agregado (EV): R$ 1124469.98
+
+Tarefas críticas:
+- Implementação do sistema de backup
+- Integração com sistema de pagamentos
+- Implementação do módulo de relatórios
+- Implementação do módulo de relatórios
+- Migração de dados legados
+- Testes de aceitação do usuário
+
+Tarefas atrasadas:
+- Migração de dados legados

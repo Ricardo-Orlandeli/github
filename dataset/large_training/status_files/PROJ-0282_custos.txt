@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O conforto de evoluir simplesmente (PROJ-0282)
+Data: 14/07/2025
+Gerente: Melina da Conceição
+
+Orçamento inicial: R$ 2338061.00
+Custo real atual: R$ 2511414.83
+Desvio orçamentário: 7.41%
+Índice de Desempenho de Custo (CPI): 0.93
+Valor Agregado (EV): R$ 2335722.94
+Estimativa para conclusão: R$ 2513.93
+Estimativa no término (EAC): R$ 2513928.75
+Variação no término (VAC): R$ -175867.75
+
+Detalhamento por categoria:
+- Pessoal: R$ 1385876.24 (55.2%)
+- Equipamentos: R$ 312329.69 (12.4%)
+- Software: R$ 345775.29 (13.8%)
+- Serviços: R$ 291693.22 (11.6%)
+- Outros: R$ 175740.37 (7.0%)

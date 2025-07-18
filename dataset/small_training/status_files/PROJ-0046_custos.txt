@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O poder de evoluir com confiança (PROJ-0046)
+Data: 14/07/2025
+Gerente: Isaque Correia
+
+Orçamento inicial: R$ 3524509.00
+Custo real atual: R$ 2544700.79
+Desvio orçamentário: -27.80%
+Índice de Desempenho de Custo (CPI): 0.77
+Valor Agregado (EV): R$ 1959017.53
+Estimativa para conclusão: R$ 2033523.10
+Estimativa no término (EAC): R$ 4578223.89
+Variação no término (VAC): R$ -1053714.89
+
+Detalhamento por categoria:
+- Pessoal: R$ 1176656.28 (46.2%)
+- Equipamentos: R$ 357675.64 (14.1%)
+- Software: R$ 408490.96 (16.1%)
+- Serviços: R$ 418623.38 (16.5%)
+- Outros: R$ 183254.54 (7.2%)

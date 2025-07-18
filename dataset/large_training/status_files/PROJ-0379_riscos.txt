@@ -1,0 +1,55 @@
+RELATÓRIO DE STATUS DE RISCOS
+Projeto: O conforto de conseguir mais facilmente (PROJ-0379)
+Data: 14/07/2025
+Gerente: Nathan Nunes
+
+Riscos identificados:
+- R01: Problemas de compatibilidade
+  Probabilidade: 3/5, Impacto: 5/5, Nível: Médio
+  Mitigação: Implementar plano de contingência
+
+- R02: Resistência dos usuários à mudança
+  Probabilidade: 3/5, Impacto: 5/5, Nível: Médio
+  Mitigação: Fortalecer medidas de segurança
+
+- R03: Estimativas imprecisas
+  Probabilidade: 1/5, Impacto: 5/5, Nível: Baixo
+  Mitigação: Implementar redundância de infraestrutura
+
+- R04: Mudanças regulatórias
+  Probabilidade: 3/5, Impacto: 5/5, Nível: Médio
+  Mitigação: Fortalecer medidas de segurança
+
+- R05: Falhas de infraestrutura
+  Probabilidade: 4/5, Impacto: 3/5, Nível: Médio
+  Mitigação: Estabelecer canais de comunicação claros
+
+- R06: Requisitos mal definidos
+  Probabilidade: 1/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Comunicar benefícios da mudança
+
+- R07: Requisitos mal definidos
+  Probabilidade: 5/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Realizar testes de integração antecipados
+
+- R08: Falhas em testes de aceitação
+  Probabilidade: 3/5, Impacto: 4/5, Nível: Médio
+  Mitigação: Implementar plano de contingência
+
+- R09: Rotatividade de pessoal-chave
+  Probabilidade: 1/5, Impacto: 4/5, Nível: Baixo
+  Mitigação: Refinar estimativas com base em dados históricos
+
+- R10: Problemas de integração com sistemas legados
+  Probabilidade: 4/5, Impacto: 5/5, Nível: Alto
+  Mitigação: Comunicar benefícios da mudança
+
+Riscos ocorridos:
+- R01 (ocorrido em 13/05/2025)
+  Impacto real: Redução de funcionalidades
+  Ações tomadas: Ajuste no cronograma
+
+- R04 (ocorrido em 14/03/2025)
+  Impacto real: Redução de funcionalidades
+  Ações tomadas: Comunicação intensificada com stakeholders
+

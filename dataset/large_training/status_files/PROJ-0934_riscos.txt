@@ -1,0 +1,47 @@
+RELATÓRIO DE STATUS DE RISCOS
+Projeto: O direito de realizar seus sonhos antes de tudo (PROJ-0934)
+Data: 14/07/2025
+Gerente: Rhavi Viana
+
+Riscos identificados:
+- R01: Rotatividade de pessoal-chave
+  Probabilidade: 5/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Contratar pessoal adicional
+
+- R02: Falhas de segurança
+  Probabilidade: 5/5, Impacto: 4/5, Nível: Alto
+  Mitigação: Implementar redundância de infraestrutura
+
+- R03: Problemas de desempenho
+  Probabilidade: 4/5, Impacto: 2/5, Nível: Médio
+  Mitigação: Refinar estimativas com base em dados históricos
+
+- R04: Problemas de comunicação com stakeholders
+  Probabilidade: 4/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Contratar pessoal adicional
+
+- R05: Falhas de infraestrutura
+  Probabilidade: 3/5, Impacto: 2/5, Nível: Baixo
+  Mitigação: Gerenciar dependências ativamente
+
+- R06: Requisitos mal definidos
+  Probabilidade: 1/5, Impacto: 2/5, Nível: Baixo
+  Mitigação: Testar compatibilidade em diferentes ambientes
+
+- R07: Falhas de infraestrutura
+  Probabilidade: 1/5, Impacto: 4/5, Nível: Baixo
+  Mitigação: Implementar plano de contingência
+
+- R08: Mudanças regulatórias
+  Probabilidade: 4/5, Impacto: 2/5, Nível: Médio
+  Mitigação: Fortalecer medidas de segurança
+
+- R09: Falhas em testes de aceitação
+  Probabilidade: 1/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Realizar testes de integração antecipados
+
+- R10: Problemas de integração com sistemas legados
+  Probabilidade: 1/5, Impacto: 5/5, Nível: Baixo
+  Mitigação: Testar compatibilidade em diferentes ambientes
+
+Riscos ocorridos:

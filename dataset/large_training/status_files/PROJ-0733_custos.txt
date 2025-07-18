@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A arte de mudar mais rapidamente (PROJ-0733)
+Data: 14/07/2025
+Gerente: Sr. João Felipe da Rosa
+
+Orçamento inicial: R$ 1549830.00
+Custo real atual: R$ 1002885.05
+Desvio orçamentário: 14.26%
+Índice de Desempenho de Custo (CPI): 0.99
+Valor Agregado (EV): R$ 988800.03
+Estimativa para conclusão: R$ 569021.60
+Estimativa no término (EAC): R$ 1571906.64
+Variação no término (VAC): R$ -22076.64
+
+Detalhamento por categoria:
+- Pessoal: R$ 461013.71 (46.0%)
+- Equipamentos: R$ 179985.66 (17.9%)
+- Software: R$ 67866.27 (6.8%)
+- Serviços: R$ 196323.99 (19.6%)
+- Outros: R$ 97695.41 (9.7%)

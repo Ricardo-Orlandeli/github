@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A vantagem de evoluir mais rapidamente (PROJ-0555)
+Data: 14/07/2025
+Gerente: Mariana Barbosa
+
+Orçamento inicial: R$ 329213.00
+Custo real atual: R$ 319415.83
+Desvio orçamentário: 70.40%
+Índice de Desempenho de Custo (CPI): 1.03
+Valor Agregado (EV): R$ 329213.00
+Estimativa para conclusão: R$ 0.00
+Estimativa no término (EAC): R$ 319415.83
+Variação no término (VAC): R$ 9797.17
+
+Detalhamento por categoria:
+- Pessoal: R$ 148949.40 (46.6%)
+- Equipamentos: R$ 36416.83 (11.4%)
+- Software: R$ 41844.45 (13.1%)
+- Serviços: R$ 65993.80 (20.7%)
+- Outros: R$ 26211.36 (8.2%)

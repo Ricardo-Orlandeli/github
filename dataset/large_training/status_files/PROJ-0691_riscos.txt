@@ -1,0 +1,35 @@
+RELATÓRIO DE STATUS DE RISCOS
+Projeto: A possibilidade de mudar com confiança (PROJ-0691)
+Data: 14/07/2025
+Gerente: Luiz Felipe Camargo
+
+Riscos identificados:
+- R01: Problemas de compatibilidade
+  Probabilidade: 1/5, Impacto: 4/5, Nível: Baixo
+  Mitigação: Buscar fornecedores alternativos
+
+- R02: Resistência dos usuários à mudança
+  Probabilidade: 4/5, Impacto: 3/5, Nível: Médio
+  Mitigação: Contratar pessoal adicional
+
+- R03: Problemas de desempenho
+  Probabilidade: 1/5, Impacto: 5/5, Nível: Baixo
+  Mitigação: Realizar testes de integração antecipados
+
+- R04: Falhas de infraestrutura
+  Probabilidade: 4/5, Impacto: 5/5, Nível: Alto
+  Mitigação: Melhorar a documentação de requisitos
+
+- R05: Problemas de desempenho
+  Probabilidade: 1/5, Impacto: 4/5, Nível: Baixo
+  Mitigação: Otimizar código e infraestrutura
+
+- R06: Problemas de integração com sistemas legados
+  Probabilidade: 5/5, Impacto: 5/5, Nível: Alto
+  Mitigação: Implementar redundância de infraestrutura
+
+- R07: Estimativas imprecisas
+  Probabilidade: 4/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Realizar testes de aceitação com usuários-chave
+
+Riscos ocorridos:

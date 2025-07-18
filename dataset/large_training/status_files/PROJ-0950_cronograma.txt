@@ -1,0 +1,26 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A simplicidade de inovar mais rapidamente (PROJ-0950)
+Data: 14/07/2025
+Gerente: Thiago Andrade
+
+Status atual: Atrasado
+Percentual de conclusão: 67.3%
+Data de início: 18/10/2023
+Data de término planejada: 12/03/2024
+Data de término real/prevista: 29/04/2024
+Atraso atual: 489 dias
+Motivo do atraso: Mudanças de requisitos não planejadas
+Índice de Desempenho de Cronograma (SPI): 0.67
+Valor Planejado (PV): R$ 4712535.00
+Valor Agregado (EV): R$ 3171681.29
+
+Tarefas críticas:
+- Desenvolvimento da interface do usuário
+- Implementação da API REST
+- Integração com sistema de pagamentos
+- Desenvolvimento da interface do usuário
+
+Tarefas atrasadas:
+- Desenvolvimento da interface do usuário
+- Desenvolvimento da interface do usuário
+- Implementação da API REST

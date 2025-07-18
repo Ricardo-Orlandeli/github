@@ -1,0 +1,24 @@
+RELATÓRIO DE STATUS DE ESCOPO
+Projeto: O direito de concretizar seus projetos de maneira eficaz (PROJ-0119)
+Data: 14/07/2025
+Gerente: Mateus Cirino
+
+Escopo original: Sistema para o direito de concretizar seus projetos de maneira eficaz
+Houve mudança de escopo: Sim
+Descrição das mudanças: Redução do escopo devido a restrições orçamentárias
+Impacto no cronograma: 57 dias
+Impacto no custo: R$ 464010.56
+
+Solicitações de mudança:
+- SCM-01: Implementação de módulo de exportação de dados
+- SCM-02: Mudança na arquitetura do sistema
+
+Requisitos atuais:
+- REQ-01: O sistema deve ter backup automático diário
+- REQ-02: O sistema deve ter controle de acesso baseado em perfis
+- REQ-03: O sistema deve ter backup automático diário
+- REQ-04: O sistema deve ser escalável para suportar até 10.000 usuários simultâneos
+- REQ-05: O sistema deve implementar criptografia de dados sensíveis
+- REQ-06: O sistema deve ter backup automático diário
+- REQ-07: O sistema deve ter backup automático diário
+- REQ-08: O sistema deve ter controle de acesso baseado em perfis

@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O prazer de mudar naturalmente (PROJ-0203)
+Data: 14/07/2025
+Gerente: Ana Luiza Melo
+
+Orçamento inicial: R$ 633163.00
+Custo real atual: R$ 507489.30
+Desvio orçamentário: -19.85%
+Índice de Desempenho de Custo (CPI): 0.69
+Valor Agregado (EV): R$ 350768.36
+Estimativa para conclusão: R$ 408566.66
+Estimativa no término (EAC): R$ 916055.97
+Variação no término (VAC): R$ -282892.97
+
+Detalhamento por categoria:
+- Pessoal: R$ 268357.82 (52.9%)
+- Equipamentos: R$ 72282.76 (14.2%)
+- Software: R$ 38730.81 (7.6%)
+- Serviços: R$ 72862.06 (14.4%)
+- Outros: R$ 55255.86 (10.9%)

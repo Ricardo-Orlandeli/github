@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A possibilidade de mudar de maneira eficaz (PROJ-0019)
+Data: 14/07/2025
+Gerente: Rafael da Mota
+
+Orçamento inicial: R$ 2272214.00
+Custo real atual: R$ 31737.95
+Desvio orçamentário: -9.56%
+Índice de Desempenho de Custo (CPI): 0.73
+Valor Agregado (EV): R$ 23230.06
+Estimativa para conclusão: R$ 3072662.67
+Estimativa no término (EAC): R$ 3104400.61
+Variação no término (VAC): R$ -832186.61
+
+Detalhamento por categoria:
+- Pessoal: R$ 15948.46 (50.3%)
+- Equipamentos: R$ 5594.93 (17.6%)
+- Software: R$ 2131.07 (6.7%)
+- Serviços: R$ 6263.80 (19.7%)
+- Outros: R$ 1799.68 (5.7%)

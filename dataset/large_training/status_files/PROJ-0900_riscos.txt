@@ -1,0 +1,27 @@
+RELATÓRIO DE STATUS DE RISCOS
+Projeto: O prazer de evoluir sem preocupação (PROJ-0900)
+Data: 14/07/2025
+Gerente: Sophie Sales
+
+Riscos identificados:
+- R01: Estimativas imprecisas
+  Probabilidade: 3/5, Impacto: 5/5, Nível: Médio
+  Mitigação: Realizar testes de aceitação com usuários-chave
+
+- R02: Estimativas imprecisas
+  Probabilidade: 2/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Comunicar benefícios da mudança
+
+- R03: Falhas de infraestrutura
+  Probabilidade: 2/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Monitorar mudanças regulatórias
+
+- R04: Mudanças regulatórias
+  Probabilidade: 1/5, Impacto: 3/5, Nível: Baixo
+  Mitigação: Gerenciar dependências ativamente
+
+- R05: Resistência dos usuários à mudança
+  Probabilidade: 4/5, Impacto: 5/5, Nível: Alto
+  Mitigação: Refinar estimativas com base em dados históricos
+
+Riscos ocorridos:

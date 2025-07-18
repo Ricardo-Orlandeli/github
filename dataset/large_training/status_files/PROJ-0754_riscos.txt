@@ -1,0 +1,59 @@
+RELATÓRIO DE STATUS DE RISCOS
+Projeto: O poder de atingir seus objetivos mais facilmente (PROJ-0754)
+Data: 14/07/2025
+Gerente: João Pedro Barros
+
+Riscos identificados:
+- R01: Problemas de integração com sistemas legados
+  Probabilidade: 2/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Monitorar mudanças regulatórias
+
+- R02: Requisitos mal definidos
+  Probabilidade: 1/5, Impacto: 3/5, Nível: Baixo
+  Mitigação: Realizar testes de integração antecipados
+
+- R03: Requisitos mal definidos
+  Probabilidade: 3/5, Impacto: 3/5, Nível: Médio
+  Mitigação: Buscar fornecedores alternativos
+
+- R04: Resistência dos usuários à mudança
+  Probabilidade: 1/5, Impacto: 5/5, Nível: Baixo
+  Mitigação: Monitorar mudanças regulatórias
+
+- R05: Falhas de infraestrutura
+  Probabilidade: 2/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Implementar redundância de infraestrutura
+
+- R06: Estimativas imprecisas
+  Probabilidade: 4/5, Impacto: 4/5, Nível: Alto
+  Mitigação: Monitorar mudanças regulatórias
+
+- R07: Falhas de infraestrutura
+  Probabilidade: 4/5, Impacto: 2/5, Nível: Médio
+  Mitigação: Monitorar mudanças regulatórias
+
+- R08: Problemas de comunicação com stakeholders
+  Probabilidade: 3/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Realizar testes de integração antecipados
+
+- R09: Atraso na entrega de componentes críticos
+  Probabilidade: 2/5, Impacto: 3/5, Nível: Baixo
+  Mitigação: Realizar testes de aceitação com usuários-chave
+
+- R10: Rotatividade de pessoal-chave
+  Probabilidade: 2/5, Impacto: 4/5, Nível: Médio
+  Mitigação: Comunicar benefícios da mudança
+
+Riscos ocorridos:
+- R05 (ocorrido em 11/04/2025)
+  Impacto real: Perda de recursos-chave
+  Ações tomadas: Revisão do orçamento
+
+- R02 (ocorrido em 03/07/2025)
+  Impacto real: Indisponibilidade temporária
+  Ações tomadas: Implementação do plano de contingência
+
+- R01 (ocorrido em 29/03/2025)
+  Impacto real: Problemas de qualidade
+  Ações tomadas: Implementação do plano de contingência
+

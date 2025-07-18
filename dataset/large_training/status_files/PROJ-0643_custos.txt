@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A arte de mudar com confiança (PROJ-0643)
+Data: 14/07/2025
+Gerente: Srta. Luísa Barbosa
+
+Orçamento inicial: R$ 1352177.00
+Custo real atual: R$ 1374529.31
+Desvio orçamentário: 1060.04%
+Índice de Desempenho de Custo (CPI): 0.70
+Valor Agregado (EV): R$ 963044.53
+Estimativa para conclusão: R$ 555399.01
+Estimativa no término (EAC): R$ 1929928.33
+Variação no término (VAC): R$ -577751.33
+
+Detalhamento por categoria:
+- Pessoal: R$ 676471.39 (49.2%)
+- Equipamentos: R$ 195527.02 (14.2%)
+- Software: R$ 137527.07 (10.0%)
+- Serviços: R$ 256812.88 (18.7%)
+- Outros: R$ 108190.96 (7.9%)

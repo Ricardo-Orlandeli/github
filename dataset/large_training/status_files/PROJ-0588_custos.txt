@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A possibilidade de evoluir sem preocupação (PROJ-0588)
+Data: 14/07/2025
+Gerente: Bruna Ramos
+
+Orçamento inicial: R$ 4863034.00
+Custo real atual: R$ 3888597.50
+Desvio orçamentário: -20.04%
+Índice de Desempenho de Custo (CPI): 1.10
+Valor Agregado (EV): R$ 4286524.53
+Estimativa para conclusão: R$ 522990.90
+Estimativa no término (EAC): R$ 4411588.39
+Variação no término (VAC): R$ 451445.61
+
+Detalhamento por categoria:
+- Pessoal: R$ 2168378.11 (55.8%)
+- Equipamentos: R$ 397797.58 (10.2%)
+- Software: R$ 292335.70 (7.5%)
+- Serviços: R$ 663906.19 (17.1%)
+- Outros: R$ 366179.92 (9.4%)

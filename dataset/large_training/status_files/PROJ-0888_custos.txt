@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A vantagem de conseguir de maneira eficaz (PROJ-0888)
+Data: 14/07/2025
+Gerente: Maria Vargas
+
+Orçamento inicial: R$ 3894847.00
+Custo real atual: R$ 2871762.73
+Desvio orçamentário: -26.27%
+Índice de Desempenho de Custo (CPI): 1.24
+Valor Agregado (EV): R$ 3572911.39
+Estimativa para conclusão: R$ 258758.92
+Estimativa no término (EAC): R$ 3130521.64
+Variação no término (VAC): R$ 764325.36
+
+Detalhamento por categoria:
+- Pessoal: R$ 1494517.74 (52.0%)
+- Equipamentos: R$ 451729.05 (15.7%)
+- Software: R$ 314062.76 (10.9%)
+- Serviços: R$ 409026.99 (14.2%)
+- Outros: R$ 202426.18 (7.0%)

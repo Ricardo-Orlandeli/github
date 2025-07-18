@@ -1,0 +1,23 @@
+RELATÓRIO DE STATUS DE RISCOS
+Projeto: A simplicidade de concretizar seus projetos com toda a tranquilidade (PROJ-0722)
+Data: 14/07/2025
+Gerente: Ana Júlia Gonçalves
+
+Riscos identificados:
+- R01: Requisitos mal definidos
+  Probabilidade: 1/5, Impacto: 3/5, Nível: Baixo
+  Mitigação: Melhorar a documentação de requisitos
+
+- R02: Falhas de infraestrutura
+  Probabilidade: 2/5, Impacto: 3/5, Nível: Baixo
+  Mitigação: Otimizar código e infraestrutura
+
+- R03: Falhas de infraestrutura
+  Probabilidade: 3/5, Impacto: 4/5, Nível: Médio
+  Mitigação: Fortalecer medidas de segurança
+
+- R04: Dependências externas não cumpridas
+  Probabilidade: 1/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Refinar estimativas com base em dados históricos
+
+Riscos ocorridos:

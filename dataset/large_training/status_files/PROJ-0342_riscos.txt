@@ -1,0 +1,47 @@
+RELATÓRIO DE STATUS DE RISCOS
+Projeto: A liberdade de avançar simplesmente (PROJ-0342)
+Data: 14/07/2025
+Gerente: Cecília Martins
+
+Riscos identificados:
+- R01: Atraso na entrega de componentes críticos
+  Probabilidade: 5/5, Impacto: 3/5, Nível: Médio
+  Mitigação: Implementar plano de contingência
+
+- R02: Problemas de compatibilidade
+  Probabilidade: 3/5, Impacto: 5/5, Nível: Médio
+  Mitigação: Refinar estimativas com base em dados históricos
+
+- R03: Problemas de desempenho
+  Probabilidade: 4/5, Impacto: 3/5, Nível: Médio
+  Mitigação: Implementar plano de contingência
+
+- R04: Problemas de desempenho
+  Probabilidade: 5/5, Impacto: 3/5, Nível: Médio
+  Mitigação: Testar compatibilidade em diferentes ambientes
+
+- R05: Falhas de infraestrutura
+  Probabilidade: 3/5, Impacto: 3/5, Nível: Médio
+  Mitigação: Fortalecer medidas de segurança
+
+- R06: Problemas de comunicação com stakeholders
+  Probabilidade: 5/5, Impacto: 3/5, Nível: Médio
+  Mitigação: Otimizar código e infraestrutura
+
+- R07: Falhas em testes de aceitação
+  Probabilidade: 5/5, Impacto: 4/5, Nível: Alto
+  Mitigação: Buscar fornecedores alternativos
+
+- R08: Problemas de comunicação com stakeholders
+  Probabilidade: 3/5, Impacto: 4/5, Nível: Médio
+  Mitigação: Estabelecer canais de comunicação claros
+
+Riscos ocorridos:
+- R02 (ocorrido em 22/12/2024)
+  Impacto real: Problemas de qualidade
+  Ações tomadas: Revisão de processos
+
+- R03 (ocorrido em 20/11/2023)
+  Impacto real: Atraso de 2 semanas no cronograma
+  Ações tomadas: Contratação de recursos adicionais
+

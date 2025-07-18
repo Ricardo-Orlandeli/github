@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A segurança de realizar seus sonhos naturalmente (PROJ-0410)
+Data: 14/07/2025
+Gerente: Giovanna Rios
+
+Orçamento inicial: R$ 2391791.00
+Custo real atual: R$ 2490807.73
+Desvio orçamentário: 4.14%
+Índice de Desempenho de Custo (CPI): 0.96
+Valor Agregado (EV): R$ 2389399.21
+Estimativa para conclusão: R$ 2493.30
+Estimativa no término (EAC): R$ 2493301.03
+Variação no término (VAC): R$ -101510.03
+
+Detalhamento por categoria:
+- Pessoal: R$ 1307800.65 (52.5%)
+- Equipamentos: R$ 360450.84 (14.5%)
+- Software: R$ 255699.55 (10.3%)
+- Serviços: R$ 323585.57 (13.0%)
+- Outros: R$ 243271.13 (9.8%)

@@ -1,0 +1,26 @@
+RELATÓRIO DE STATUS DE ESCOPO
+Projeto: O prazer de conseguir simplesmente (PROJ-0079)
+Data: 14/07/2025
+Gerente: Camila Sá
+
+Escopo original: Sistema para o prazer de conseguir simplesmente
+Houve mudança de escopo: Sim
+Descrição das mudanças: Redução do escopo devido a restrições orçamentárias
+Impacto no cronograma: 16 dias
+Impacto no custo: R$ 319968.12
+
+Solicitações de mudança:
+- SCM-01: Adição de funcionalidade de autenticação biométrica
+- SCM-02: Adição de funcionalidade de autenticação biométrica
+- SCM-03: Adição de relatórios gerenciais
+- SCM-04: Alteração na interface do usuário
+- SCM-05: Mudança na arquitetura do sistema
+
+Requisitos atuais:
+- REQ-01: O sistema deve implementar criptografia de dados sensíveis
+- REQ-02: O sistema deve processar transações em menos de 2 seconds
+- REQ-03: O sistema deve ser escalável para suportar até 10.000 usuários simultâneos
+- REQ-04: O sistema deve ter interface responsiva
+- REQ-05: O sistema deve ter interface responsiva
+- REQ-06: O sistema deve permitir exportação de dados em formato CSV
+- REQ-07: O sistema deve passar por testes de segurança

@@ -1,0 +1,23 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A possibilidade de realizar seus sonhos com confiança (PROJ-0078)
+Data: 14/07/2025
+Gerente: Théo Rezende
+
+Status atual: Em andamento
+Percentual de conclusão: 81.3%
+Data de início: 23/08/2023
+Data de término planejada: 29/12/2023
+Data de término real/prevista: 31/12/2023
+Atraso atual: 563 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.07
+Valor Planejado (PV): R$ 2542760.00
+Valor Agregado (EV): R$ 2066704.25
+
+Tarefas críticas:
+- Implementação do módulo de análise de dados
+- Testes de aceitação do usuário
+- Configuração do ambiente de produção
+- Desenvolvimento da interface do usuário
+
+Tarefas atrasadas:

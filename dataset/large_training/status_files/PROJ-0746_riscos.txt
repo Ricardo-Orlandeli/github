@@ -1,0 +1,51 @@
+RELATÓRIO DE STATUS DE RISCOS
+Projeto: A certeza de concretizar seus projetos com força total (PROJ-0746)
+Data: 14/07/2025
+Gerente: Sr. Marcos Vinicius Moraes
+
+Riscos identificados:
+- R01: Mudanças regulatórias
+  Probabilidade: 4/5, Impacto: 3/5, Nível: Médio
+  Mitigação: Realizar testes de aceitação com usuários-chave
+
+- R02: Requisitos mal definidos
+  Probabilidade: 4/5, Impacto: 3/5, Nível: Médio
+  Mitigação: Implementar redundância de infraestrutura
+
+- R03: Problemas de comunicação com stakeholders
+  Probabilidade: 2/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Melhorar a documentação de requisitos
+
+- R04: Requisitos mal definidos
+  Probabilidade: 3/5, Impacto: 2/5, Nível: Baixo
+  Mitigação: Monitorar mudanças regulatórias
+
+- R05: Indisponibilidade de recursos especializados
+  Probabilidade: 5/5, Impacto: 5/5, Nível: Alto
+  Mitigação: Realizar testes de aceitação com usuários-chave
+
+- R06: Estimativas imprecisas
+  Probabilidade: 2/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Otimizar código e infraestrutura
+
+- R07: Resistência dos usuários à mudança
+  Probabilidade: 1/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Implementar plano de contingência
+
+- R08: Rotatividade de pessoal-chave
+  Probabilidade: 2/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Comunicar benefícios da mudança
+
+- R09: Indisponibilidade de recursos especializados
+  Probabilidade: 1/5, Impacto: 2/5, Nível: Baixo
+  Mitigação: Fortalecer medidas de segurança
+
+Riscos ocorridos:
+- R09 (ocorrido em 10/07/2025)
+  Impacto real: Perda de dados
+  Ações tomadas: Ajuste no cronograma
+
+- R02 (ocorrido em 12/03/2025)
+  Impacto real: Perda de dados
+  Ações tomadas: Revisão do orçamento
+

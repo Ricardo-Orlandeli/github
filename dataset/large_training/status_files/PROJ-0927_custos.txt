@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O poder de atingir seus objetivos antes de tudo (PROJ-0927)
+Data: 14/07/2025
+Gerente: Ana Julia Abreu
+
+Orçamento inicial: R$ 785122.00
+Custo real atual: R$ 787304.91
+Desvio orçamentário: 0.28%
+Índice de Desempenho de Custo (CPI): 0.99
+Valor Agregado (EV): R$ 776738.56
+Estimativa para conclusão: R$ 8497.48
+Estimativa no término (EAC): R$ 795802.39
+Variação no término (VAC): R$ -10680.39
+
+Detalhamento por categoria:
+- Pessoal: R$ 407325.41 (51.7%)
+- Equipamentos: R$ 141857.95 (18.0%)
+- Software: R$ 56757.04 (7.2%)
+- Serviços: R$ 108604.51 (13.8%)
+- Outros: R$ 72759.99 (9.2%)

@@ -1,0 +1,24 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A possibilidade de inovar simplesmente (PROJ-0500)
+Data: 14/07/2025
+Gerente: Heloísa Abreu
+
+Status atual: Em andamento
+Percentual de conclusão: 96.3%
+Data de início: 04/10/2024
+Data de término planejada: 20/02/2025
+Data de término real/prevista: 14/02/2025
+Atraso atual: 144 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 0.85
+Valor Planejado (PV): R$ 2799555.00
+Valor Agregado (EV): R$ 2696100.50
+
+Tarefas críticas:
+- Desenvolvimento da interface do usuário
+- Integração com sistema de pagamentos
+- Implementação do módulo de análise de dados
+- Implementação do módulo de relatórios
+- Integração com sistema de pagamentos
+
+Tarefas atrasadas:

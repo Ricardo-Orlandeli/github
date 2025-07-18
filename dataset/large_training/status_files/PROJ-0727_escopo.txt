@@ -1,0 +1,29 @@
+RELATÓRIO DE STATUS DE ESCOPO
+Projeto: O prazer de avançar com força total (PROJ-0727)
+Data: 14/07/2025
+Gerente: Vitor da Mota
+
+Escopo original: Sistema para o prazer de avançar com força total
+Houve mudança de escopo: Não
+Descrição das mudanças: N/A
+Impacto no cronograma: 0 dias
+Impacto no custo: R$ 0.00
+
+Solicitações de mudança:
+
+Requisitos atuais:
+- REQ-01: O sistema deve ser compatível com navegadores modernos
+- REQ-02: O sistema deve ter controle de acesso baseado em perfis
+- REQ-03: O sistema deve ter documentação completa
+- REQ-04: O sistema deve ter controle de acesso baseado em perfis
+- REQ-05: O sistema deve ter documentação completa
+- REQ-06: O sistema deve ser escalável para suportar até 10.000 usuários simultâneos
+- REQ-07: O sistema deve ser compatível com dispositivos móveis
+- REQ-08: O sistema deve ter backup automático diário
+- REQ-09: O sistema deve ter interface responsiva
+- REQ-10: O sistema deve permitir autenticação de usuários
+- REQ-11: O sistema deve ter alta disponibilidade (99.9%)
+- REQ-12: O sistema deve ter controle de acesso baseado em perfis
+- REQ-13: O sistema deve passar por testes de segurança
+- REQ-14: O sistema deve passar por testes de segurança
+- REQ-15: O sistema deve permitir integração com APIs externas

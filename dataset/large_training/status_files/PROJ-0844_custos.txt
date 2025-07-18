@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A vantagem de realizar seus sonhos de maneira eficaz (PROJ-0844)
+Data: 14/07/2025
+Gerente: Pietra Gonçalves
+
+Orçamento inicial: R$ 3532828.00
+Custo real atual: R$ 1568521.58
+Desvio orçamentário: -43.85%
+Índice de Desempenho de Custo (CPI): 0.94
+Valor Agregado (EV): R$ 1472815.43
+Estimativa para conclusão: R$ 2193875.82
+Estimativa no término (EAC): R$ 3762397.40
+Variação no término (VAC): R$ -229569.40
+
+Detalhamento por categoria:
+- Pessoal: R$ 806672.37 (51.4%)
+- Equipamentos: R$ 273407.99 (17.4%)
+- Software: R$ 128120.30 (8.2%)
+- Serviços: R$ 245727.19 (15.7%)
+- Outros: R$ 114593.71 (7.3%)

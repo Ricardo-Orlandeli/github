@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A vantagem de mudar de maneira eficaz (PROJ-0039)
+Data: 14/07/2025
+Gerente: Beatriz Castro
+
+Orçamento inicial: R$ 4522626.00
+Custo real atual: R$ 4002205.50
+Desvio orçamentário: -11.51%
+Índice de Desempenho de Custo (CPI): 0.69
+Valor Agregado (EV): R$ 2777056.06
+Estimativa para conclusão: R$ 2515660.27
+Estimativa no término (EAC): R$ 6517865.78
+Variação no término (VAC): R$ -1995239.78
+
+Detalhamento por categoria:
+- Pessoal: R$ 2100829.92 (52.5%)
+- Equipamentos: R$ 786501.52 (19.7%)
+- Software: R$ 243935.10 (6.1%)
+- Serviços: R$ 470859.22 (11.8%)
+- Outros: R$ 400079.75 (10.0%)

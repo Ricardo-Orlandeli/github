@@ -1,0 +1,47 @@
+RELATÓRIO DE STATUS DE RISCOS
+Projeto: A arte de evoluir em estado puro (PROJ-0747)
+Data: 14/07/2025
+Gerente: Luara Souza
+
+Riscos identificados:
+- R01: Resistência dos usuários à mudança
+  Probabilidade: 5/5, Impacto: 5/5, Nível: Alto
+  Mitigação: Otimizar código e infraestrutura
+
+- R02: Mudanças regulatórias
+  Probabilidade: 3/5, Impacto: 2/5, Nível: Baixo
+  Mitigação: Realizar testes de integração antecipados
+
+- R03: Estimativas imprecisas
+  Probabilidade: 1/5, Impacto: 2/5, Nível: Baixo
+  Mitigação: Testar compatibilidade em diferentes ambientes
+
+- R04: Problemas de integração com sistemas legados
+  Probabilidade: 5/5, Impacto: 5/5, Nível: Alto
+  Mitigação: Refinar estimativas com base em dados históricos
+
+- R05: Indisponibilidade de recursos especializados
+  Probabilidade: 4/5, Impacto: 4/5, Nível: Alto
+  Mitigação: Otimizar código e infraestrutura
+
+- R06: Problemas de integração com sistemas legados
+  Probabilidade: 5/5, Impacto: 4/5, Nível: Alto
+  Mitigação: Contratar pessoal adicional
+
+- R07: Falhas em testes de aceitação
+  Probabilidade: 4/5, Impacto: 2/5, Nível: Médio
+  Mitigação: Testar compatibilidade em diferentes ambientes
+
+- R08: Atraso na entrega de componentes críticos
+  Probabilidade: 1/5, Impacto: 3/5, Nível: Baixo
+  Mitigação: Contratar pessoal adicional
+
+Riscos ocorridos:
+- R03 (ocorrido em 11/02/2024)
+  Impacto real: Retrabalho significativo
+  Ações tomadas: Contratação de recursos adicionais
+
+- R07 (ocorrido em 11/01/2024)
+  Impacto real: Indisponibilidade temporária
+  Ações tomadas: Implementação do plano de contingência
+

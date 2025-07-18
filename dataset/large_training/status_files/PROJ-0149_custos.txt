@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A arte de concretizar seus projetos com toda a tranquilidade (PROJ-0149)
+Data: 14/07/2025
+Gerente: Olivia Monteiro
+
+Orçamento inicial: R$ 1263335.00
+Custo real atual: R$ 508413.84
+Desvio orçamentário: -59.76%
+Índice de Desempenho de Custo (CPI): 0.81
+Valor Agregado (EV): R$ 413016.85
+Estimativa para conclusão: R$ 1046721.25
+Estimativa no término (EAC): R$ 1555135.09
+Variação no término (VAC): R$ -291800.09
+
+Detalhamento por categoria:
+- Pessoal: R$ 294636.73 (58.0%)
+- Equipamentos: R$ 66594.56 (13.1%)
+- Software: R$ 33818.00 (6.7%)
+- Serviços: R$ 66678.25 (13.1%)
+- Outros: R$ 46686.30 (9.2%)

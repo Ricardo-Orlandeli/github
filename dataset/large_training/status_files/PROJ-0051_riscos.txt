@@ -1,0 +1,47 @@
+RELATÓRIO DE STATUS DE RISCOS
+Projeto: A certeza de inovar simplesmente (PROJ-0051)
+Data: 14/07/2025
+Gerente: Sra. Maria Sophia Barros
+
+Riscos identificados:
+- R01: Problemas de desempenho
+  Probabilidade: 2/5, Impacto: 2/5, Nível: Baixo
+  Mitigação: Contratar pessoal adicional
+
+- R02: Falhas em testes de aceitação
+  Probabilidade: 1/5, Impacto: 2/5, Nível: Baixo
+  Mitigação: Contratar pessoal adicional
+
+- R03: Problemas de comunicação com stakeholders
+  Probabilidade: 1/5, Impacto: 5/5, Nível: Baixo
+  Mitigação: Contratar pessoal adicional
+
+- R04: Falhas de infraestrutura
+  Probabilidade: 3/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Testar compatibilidade em diferentes ambientes
+
+- R05: Dependências externas não cumpridas
+  Probabilidade: 5/5, Impacto: 3/5, Nível: Médio
+  Mitigação: Fortalecer medidas de segurança
+
+- R06: Mudanças regulatórias
+  Probabilidade: 3/5, Impacto: 5/5, Nível: Médio
+  Mitigação: Refinar estimativas com base em dados históricos
+
+- R07: Mudanças regulatórias
+  Probabilidade: 5/5, Impacto: 3/5, Nível: Médio
+  Mitigação: Implementar plano de contingência
+
+Riscos ocorridos:
+- R06 (ocorrido em 04/07/2025)
+  Impacto real: Redução de funcionalidades
+  Ações tomadas: Implementação de soluções alternativas
+
+- R02 (ocorrido em 03/02/2025)
+  Impacto real: Perda de dados
+  Ações tomadas: Realocação de recursos
+
+- R07 (ocorrido em 26/09/2024)
+  Impacto real: Retrabalho significativo
+  Ações tomadas: Realocação de recursos
+

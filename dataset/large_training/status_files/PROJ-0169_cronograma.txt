@@ -1,0 +1,25 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A liberdade de mudar de maneira eficaz (PROJ-0169)
+Data: 14/07/2025
+Gerente: Benjamin Gonçalves
+
+Status atual: Em andamento
+Percentual de conclusão: 84.7%
+Data de início: 06/07/2024
+Data de término planejada: 10/02/2025
+Data de término real/prevista: 30/01/2025
+Atraso atual: 154 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.03
+Valor Planejado (PV): R$ 3517185.00
+Valor Agregado (EV): R$ 2977743.23
+
+Tarefas críticas:
+- Implementação do sistema de backup
+- Testes de aceitação do usuário
+- Desenvolvimento do módulo de autenticação
+- Implementação do sistema de backup
+- Migração de dados legados
+- Implementação do módulo de análise de dados
+
+Tarefas atrasadas:

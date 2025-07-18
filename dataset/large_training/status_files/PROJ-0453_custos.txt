@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A liberdade de conseguir mais rapidamente (PROJ-0453)
+Data: 14/07/2025
+Gerente: Maria Fernanda Freitas
+
+Orçamento inicial: R$ 2894903.00
+Custo real atual: R$ 2731674.83
+Desvio orçamentário: -5.64%
+Índice de Desempenho de Custo (CPI): 1.06
+Valor Agregado (EV): R$ 2892008.10
+Estimativa para conclusão: R$ 2734.41
+Estimativa no término (EAC): R$ 2734409.24
+Variação no término (VAC): R$ 160493.76
+
+Detalhamento por categoria:
+- Pessoal: R$ 1551000.67 (56.8%)
+- Equipamentos: R$ 313176.51 (11.5%)
+- Software: R$ 310899.77 (11.4%)
+- Serviços: R$ 344526.09 (12.6%)
+- Outros: R$ 212071.79 (7.8%)

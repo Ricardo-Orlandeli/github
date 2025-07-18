@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A liberdade de conseguir mais rapidamente (PROJ-0688)
+Data: 14/07/2025
+Gerente: Dom Dias
+
+Orçamento inicial: R$ 1304351.00
+Custo real atual: R$ 864113.02
+Desvio orçamentário: -33.19%
+Índice de Desempenho de Custo (CPI): 0.98
+Valor Agregado (EV): R$ 847351.00
+Estimativa para conclusão: R$ 466040.22
+Estimativa no término (EAC): R$ 1330153.25
+Variação no término (VAC): R$ -25802.25
+
+Detalhamento por categoria:
+- Pessoal: R$ 463627.68 (53.7%)
+- Equipamentos: R$ 110529.69 (12.8%)
+- Software: R$ 55391.16 (6.4%)
+- Serviços: R$ 155492.05 (18.0%)
+- Outros: R$ 79072.43 (9.2%)

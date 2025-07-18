@@ -1,0 +1,22 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: O conforto de inovar sem preocupação (PROJ-0904)
+Data: 14/07/2025
+Gerente: Matheus Duarte
+
+Status atual: Em andamento
+Percentual de conclusão: 99.9%
+Data de início: 15/07/2023
+Data de término planejada: 24/11/2023
+Data de término real/prevista: 05/12/2023
+Atraso atual: 598 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.08
+Valor Planejado (PV): R$ 4273024.00
+Valor Agregado (EV): R$ 4268750.98
+
+Tarefas críticas:
+- Configuração da infraestrutura
+- Desenvolvimento da interface do usuário
+- Desenvolvimento do painel administrativo
+
+Tarefas atrasadas:

@@ -1,0 +1,24 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: O poder de conseguir com toda a tranquilidade (PROJ-0513)
+Data: 14/07/2025
+Gerente: Luiz Henrique Oliveira
+
+Status atual: Em andamento
+Percentual de conclusão: 93.9%
+Data de início: 11/09/2023
+Data de término planejada: 06/08/2024
+Data de término real/prevista: 14/08/2024
+Atraso atual: 342 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.07
+Valor Planejado (PV): R$ 3264141.00
+Valor Agregado (EV): R$ 3066041.59
+
+Tarefas críticas:
+- Testes de segurança
+- Desenvolvimento da interface do usuário
+- Desenvolvimento do painel administrativo
+- Configuração da infraestrutura
+- Implementação da API REST
+
+Tarefas atrasadas:

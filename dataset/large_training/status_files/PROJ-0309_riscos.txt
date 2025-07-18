@@ -1,0 +1,43 @@
+RELATÓRIO DE STATUS DE RISCOS
+Projeto: A possibilidade de evoluir com força total (PROJ-0309)
+Data: 14/07/2025
+Gerente: Vicente Gonçalves
+
+Riscos identificados:
+- R01: Problemas de integração com sistemas legados
+  Probabilidade: 1/5, Impacto: 5/5, Nível: Baixo
+  Mitigação: Implementar plano de contingência
+
+- R02: Problemas de integração com sistemas legados
+  Probabilidade: 4/5, Impacto: 4/5, Nível: Alto
+  Mitigação: Otimizar código e infraestrutura
+
+- R03: Estimativas imprecisas
+  Probabilidade: 4/5, Impacto: 4/5, Nível: Alto
+  Mitigação: Buscar fornecedores alternativos
+
+- R04: Problemas de compatibilidade
+  Probabilidade: 5/5, Impacto: 3/5, Nível: Médio
+  Mitigação: Comunicar benefícios da mudança
+
+- R05: Rotatividade de pessoal-chave
+  Probabilidade: 4/5, Impacto: 4/5, Nível: Alto
+  Mitigação: Gerenciar dependências ativamente
+
+- R06: Requisitos mal definidos
+  Probabilidade: 3/5, Impacto: 4/5, Nível: Médio
+  Mitigação: Realizar testes de integração antecipados
+
+- R07: Indisponibilidade de recursos especializados
+  Probabilidade: 2/5, Impacto: 2/5, Nível: Baixo
+  Mitigação: Realizar testes de integração antecipados
+
+- R08: Falhas em testes de aceitação
+  Probabilidade: 5/5, Impacto: 2/5, Nível: Médio
+  Mitigação: Refinar estimativas com base em dados históricos
+
+- R09: Mudanças regulatórias
+  Probabilidade: 5/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Realizar testes de integração antecipados
+
+Riscos ocorridos:

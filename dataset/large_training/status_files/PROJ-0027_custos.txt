@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A segurança de evoluir direto da fonte (PROJ-0027)
+Data: 14/07/2025
+Gerente: Dra. Daniela Castro
+
+Orçamento inicial: R$ 2638065.00
+Custo real atual: R$ 2446997.61
+Desvio orçamentário: -7.24%
+Índice de Desempenho de Custo (CPI): 1.08
+Valor Agregado (EV): R$ 2638065.00
+Estimativa para conclusão: R$ 0.00
+Estimativa no término (EAC): R$ 2446997.61
+Variação no término (VAC): R$ 191067.39
+
+Detalhamento por categoria:
+- Pessoal: R$ 1367155.79 (55.9%)
+- Equipamentos: R$ 443697.90 (18.1%)
+- Software: R$ 129990.90 (5.3%)
+- Serviços: R$ 277941.72 (11.4%)
+- Outros: R$ 228211.30 (9.3%)

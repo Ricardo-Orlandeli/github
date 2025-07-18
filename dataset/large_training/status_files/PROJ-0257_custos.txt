@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A vantagem de mudar antes de tudo (PROJ-0257)
+Data: 14/07/2025
+Gerente: Leandro Rezende
+
+Orçamento inicial: R$ 3551583.00
+Custo real atual: R$ 3340675.72
+Desvio orçamentário: -5.94%
+Índice de Desempenho de Custo (CPI): 1.06
+Valor Agregado (EV): R$ 3548031.42
+Estimativa para conclusão: R$ 3344.02
+Estimativa no término (EAC): R$ 3344019.74
+Variação no término (VAC): R$ 207563.26
+
+Detalhamento por categoria:
+- Pessoal: R$ 1673585.75 (50.1%)
+- Equipamentos: R$ 542135.55 (16.2%)
+- Software: R$ 332183.23 (9.9%)
+- Serviços: R$ 491600.77 (14.7%)
+- Outros: R$ 301170.42 (9.0%)

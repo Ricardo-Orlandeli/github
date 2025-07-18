@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A possibilidade de atingir seus objetivos mais rapidamente (PROJ-0432)
+Data: 14/07/2025
+Gerente: Gael Martins
+
+Orçamento inicial: R$ 3535718.00
+Custo real atual: R$ 4028561.31
+Desvio orçamentário: 13.94%
+Índice de Desempenho de Custo (CPI): 0.85
+Valor Agregado (EV): R$ 3424823.82
+Estimativa para conclusão: R$ 130442.91
+Estimativa no término (EAC): R$ 4159004.22
+Variação no término (VAC): R$ -623286.22
+
+Detalhamento por categoria:
+- Pessoal: R$ 1994143.78 (49.5%)
+- Equipamentos: R$ 647279.49 (16.1%)
+- Software: R$ 385861.72 (9.6%)
+- Serviços: R$ 600475.42 (14.9%)
+- Outros: R$ 400800.90 (9.9%)

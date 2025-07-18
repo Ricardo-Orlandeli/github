@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A vantagem de mudar naturalmente (PROJ-0220)
+Data: 14/07/2025
+Gerente: Thales Cunha
+
+Orçamento inicial: R$ 3472721.00
+Custo real atual: R$ 3581435.07
+Desvio orçamentário: 13.24%
+Índice de Desempenho de Custo (CPI): 0.75
+Valor Agregado (EV): R$ 2692817.07
+Estimativa para conclusão: R$ 1037268.86
+Estimativa no término (EAC): R$ 4618703.92
+Variação no término (VAC): R$ -1145982.92
+
+Detalhamento por categoria:
+- Pessoal: R$ 1913327.33 (53.4%)
+- Equipamentos: R$ 470677.01 (13.1%)
+- Software: R$ 383099.34 (10.7%)
+- Serviços: R$ 445191.49 (12.4%)
+- Outros: R$ 369139.90 (10.3%)

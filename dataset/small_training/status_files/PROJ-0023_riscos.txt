@@ -1,0 +1,43 @@
+RELATÓRIO DE STATUS DE RISCOS
+Projeto: A certeza de ganhar mais rapidamente (PROJ-0023)
+Data: 14/07/2025
+Gerente: Henry Gabriel Lima
+
+Riscos identificados:
+- R01: Indisponibilidade de recursos especializados
+  Probabilidade: 1/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Monitorar mudanças regulatórias
+
+- R02: Dependências externas não cumpridas
+  Probabilidade: 4/5, Impacto: 2/5, Nível: Médio
+  Mitigação: Contratar pessoal adicional
+
+- R03: Indisponibilidade de recursos especializados
+  Probabilidade: 5/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Testar compatibilidade em diferentes ambientes
+
+- R04: Dependências externas não cumpridas
+  Probabilidade: 5/5, Impacto: 4/5, Nível: Alto
+  Mitigação: Implementar plano de contingência
+
+- R05: Problemas de compatibilidade
+  Probabilidade: 4/5, Impacto: 2/5, Nível: Médio
+  Mitigação: Estabelecer canais de comunicação claros
+
+- R06: Atraso na entrega de componentes críticos
+  Probabilidade: 4/5, Impacto: 2/5, Nível: Médio
+  Mitigação: Contratar pessoal adicional
+
+- R07: Problemas de integração com sistemas legados
+  Probabilidade: 3/5, Impacto: 2/5, Nível: Baixo
+  Mitigação: Otimizar código e infraestrutura
+
+Riscos ocorridos:
+- R02 (ocorrido em 25/01/2024)
+  Impacto real: Perda de recursos-chave
+  Ações tomadas: Revisão de processos
+
+- R05 (ocorrido em 26/05/2025)
+  Impacto real: Atraso de 2 semanas no cronograma
+  Ações tomadas: Revisão de processos
+

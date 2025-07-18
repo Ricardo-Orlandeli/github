@@ -1,0 +1,24 @@
+RELATÓRIO DE STATUS DE ESCOPO
+Projeto: A arte de inovar com toda a tranquilidade (PROJ-0496)
+Data: 14/07/2025
+Gerente: Bruna Pinto
+
+Escopo original: Sistema para a arte de inovar com toda a tranquilidade
+Houve mudança de escopo: Sim
+Descrição das mudanças: Adição de novos requisitos de segurança
+Impacto no cronograma: 37 dias
+Impacto no custo: R$ 276883.84
+
+Solicitações de mudança:
+- SCM-01: Implementação de módulo de exportação de dados
+- SCM-02: Adição de relatórios gerenciais
+- SCM-03: Adição de funcionalidade de autenticação biométrica
+- SCM-04: Adição de funcionalidade de autenticação biométrica
+- SCM-05: Alteração na interface do usuário
+
+Requisitos atuais:
+- REQ-01: O sistema deve ser compatível com dispositivos móveis
+- REQ-02: O sistema deve ser compatível com dispositivos móveis
+- REQ-03: O sistema deve permitir exportação de dados em formato CSV
+- REQ-04: O sistema deve ser compatível com dispositivos móveis
+- REQ-05: O sistema deve ter controle de acesso baseado em perfis

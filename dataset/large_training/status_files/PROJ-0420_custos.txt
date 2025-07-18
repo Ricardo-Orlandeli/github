@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O prazer de ganhar com toda a tranquilidade (PROJ-0420)
+Data: 14/07/2025
+Gerente: Bryan Pereira
+
+Orçamento inicial: R$ 1614885.00
+Custo real atual: R$ 2029268.64
+Desvio orçamentário: 25.66%
+Índice de Desempenho de Custo (CPI): 0.69
+Valor Agregado (EV): R$ 1404801.08
+Estimativa para conclusão: R$ 303471.24
+Estimativa no término (EAC): R$ 2332739.87
+Variação no término (VAC): R$ -717854.87
+
+Detalhamento por categoria:
+- Pessoal: R$ 1010356.29 (49.8%)
+- Equipamentos: R$ 376242.00 (18.5%)
+- Software: R$ 184013.29 (9.1%)
+- Serviços: R$ 316914.45 (15.6%)
+- Outros: R$ 141742.60 (7.0%)

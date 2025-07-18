@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A arte de concretizar seus projetos mais rapidamente (PROJ-0050)
+Data: 14/07/2025
+Gerente: Dra. Carolina Moreira
+
+Orçamento inicial: R$ 1155154.00
+Custo real atual: R$ 693194.09
+Desvio orçamentário: -39.99%
+Índice de Desempenho de Custo (CPI): 0.96
+Valor Agregado (EV): R$ 662442.53
+Estimativa para conclusão: R$ 515583.87
+Estimativa no término (EAC): R$ 1208777.96
+Variação no término (VAC): R$ -53623.96
+
+Detalhamento por categoria:
+- Pessoal: R$ 362597.98 (52.3%)
+- Equipamentos: R$ 86521.45 (12.5%)
+- Software: R$ 51507.61 (7.4%)
+- Serviços: R$ 144549.16 (20.9%)
+- Outros: R$ 48017.88 (6.9%)

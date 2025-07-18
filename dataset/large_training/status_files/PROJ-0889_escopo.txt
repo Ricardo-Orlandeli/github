@@ -1,0 +1,31 @@
+RELATÓRIO DE STATUS DE ESCOPO
+Projeto: A liberdade de realizar seus sonhos em estado puro (PROJ-0889)
+Data: 14/07/2025
+Gerente: Maria Alice Aparecida
+
+Escopo original: Sistema para a liberdade de realizar seus sonhos em estado puro
+Houve mudança de escopo: Sim
+Descrição das mudanças: Alteração nas especificações técnicas
+Impacto no cronograma: 6 dias
+Impacto no custo: R$ 224460.20
+
+Solicitações de mudança:
+- SCM-01: Adição de relatórios gerenciais
+- SCM-02: Alteração na interface do usuário
+- SCM-03: Alteração na interface do usuário
+- SCM-04: Alteração na interface do usuário
+
+Requisitos atuais:
+- REQ-01: O sistema deve ser escalável para suportar até 10.000 usuários simultâneos
+- REQ-02: O sistema deve permitir autenticação de usuários
+- REQ-03: O sistema deve permitir exportação de dados em formato CSV
+- REQ-04: O sistema deve permitir autenticação de usuários
+- REQ-05: O sistema deve ter interface responsiva
+- REQ-06: O sistema deve ter controle de acesso baseado em perfis
+- REQ-07: O sistema deve permitir autenticação de usuários
+- REQ-08: O sistema deve ser compatível com navegadores modernos
+- REQ-09: O sistema deve permitir exportação de dados em formato CSV
+- REQ-10: O sistema deve registrar logs de auditoria
+- REQ-11: O sistema deve ter alta disponibilidade (99.9%)
+- REQ-12: O sistema deve ser escalável para suportar até 10.000 usuários simultâneos
+- REQ-13: O sistema deve ter alta disponibilidade (99.9%)

@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A segurança de evoluir mais rapidamente (PROJ-0547)
+Data: 14/07/2025
+Gerente: Yasmin da Paz
+
+Orçamento inicial: R$ 1623567.00
+Custo real atual: R$ 1761100.14
+Desvio orçamentário: 8.47%
+Índice de Desempenho de Custo (CPI): 0.92
+Valor Agregado (EV): R$ 1621943.43
+Estimativa para conclusão: R$ 1762.86
+Estimativa no término (EAC): R$ 1762863.00
+Variação no término (VAC): R$ -139296.00
+
+Detalhamento por categoria:
+- Pessoal: R$ 949697.36 (53.9%)
+- Equipamentos: R$ 187877.41 (10.7%)
+- Software: R$ 188110.75 (10.7%)
+- Serviços: R$ 300076.19 (17.0%)
+- Outros: R$ 135338.43 (7.7%)

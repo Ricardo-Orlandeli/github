@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A segurança de atingir seus objetivos sem preocupação (PROJ-0838)
+Data: 14/07/2025
+Gerente: Rhavi Barbosa
+
+Orçamento inicial: R$ 729880.00
+Custo real atual: R$ 679984.99
+Desvio orçamentário: -6.84%
+Índice de Desempenho de Custo (CPI): 1.07
+Valor Agregado (EV): R$ 729150.12
+Estimativa para conclusão: R$ 680.67
+Estimativa no término (EAC): R$ 680665.65
+Variação no término (VAC): R$ 49214.35
+
+Detalhamento por categoria:
+- Pessoal: R$ 370859.61 (54.5%)
+- Equipamentos: R$ 107136.70 (15.8%)
+- Software: R$ 60652.29 (8.9%)
+- Serviços: R$ 101612.83 (14.9%)
+- Outros: R$ 39723.56 (5.8%)

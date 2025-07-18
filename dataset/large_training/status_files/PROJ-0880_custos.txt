@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O conforto de mudar naturalmente (PROJ-0880)
+Data: 14/07/2025
+Gerente: Sr. Henry Gabriel Costa
+
+Orçamento inicial: R$ 4633347.00
+Custo real atual: R$ 2029511.81
+Desvio orçamentário: 13.24%
+Índice de Desempenho de Custo (CPI): 0.88
+Valor Agregado (EV): R$ 1796012.04
+Estimativa para conclusão: R$ 3206217.27
+Estimativa no término (EAC): R$ 5235729.08
+Variação no término (VAC): R$ -602382.08
+
+Detalhamento por categoria:
+- Pessoal: R$ 985480.11 (48.6%)
+- Equipamentos: R$ 378606.41 (18.7%)
+- Software: R$ 213965.11 (10.5%)
+- Serviços: R$ 327207.21 (16.1%)
+- Outros: R$ 124252.97 (6.1%)

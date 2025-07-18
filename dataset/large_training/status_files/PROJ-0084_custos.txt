@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O poder de atingir seus objetivos em estado puro (PROJ-0084)
+Data: 14/07/2025
+Gerente: Gabriel da Paz
+
+Orçamento inicial: R$ 1755471.00
+Custo real atual: R$ 1294772.13
+Desvio orçamentário: -26.24%
+Índice de Desempenho de Custo (CPI): 0.80
+Valor Agregado (EV): R$ 1032678.32
+Estimativa para conclusão: R$ 906237.49
+Estimativa no término (EAC): R$ 2201009.62
+Variação no término (VAC): R$ -445538.62
+
+Detalhamento por categoria:
+- Pessoal: R$ 680015.19 (52.5%)
+- Equipamentos: R$ 170165.63 (13.1%)
+- Software: R$ 174710.49 (13.5%)
+- Serviços: R$ 200481.99 (15.5%)
+- Outros: R$ 69398.83 (5.4%)

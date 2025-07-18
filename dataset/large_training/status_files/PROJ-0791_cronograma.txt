@@ -1,0 +1,24 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: O direito de realizar seus sonhos mais rapidamente (PROJ-0791)
+Data: 14/07/2025
+Gerente: Yasmin da Cruz
+
+Status atual: Em andamento
+Percentual de conclusão: 99.9%
+Data de início: 29/12/2024
+Data de término planejada: 27/05/2025
+Data de término real/prevista: 15/06/2025
+Atraso atual: 48 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.05
+Valor Planejado (PV): R$ 1628809.00
+Valor Agregado (EV): R$ 1627180.19
+
+Tarefas críticas:
+- Implementação do módulo de notificações
+- Testes de segurança
+- Migração de dados legados
+- Configuração da infraestrutura
+- Implementação da API REST
+
+Tarefas atrasadas:

@@ -1,0 +1,23 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: O direito de concretizar seus projetos de maneira eficaz (PROJ-0751)
+Data: 14/07/2025
+Gerente: Ana Cecília Monteiro
+
+Status atual: Em andamento
+Percentual de conclusão: 99.9%
+Data de início: 05/03/2024
+Data de término planejada: 16/05/2024
+Data de término real/prevista: 04/05/2024
+Atraso atual: 424 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 0.95
+Valor Planejado (PV): R$ 4814413.00
+Valor Agregado (EV): R$ 4809598.59
+
+Tarefas críticas:
+- Implementação do módulo de relatórios
+- Testes de aceitação do usuário
+- Implementação da API REST
+- Implementação do sistema de backup
+
+Tarefas atrasadas:

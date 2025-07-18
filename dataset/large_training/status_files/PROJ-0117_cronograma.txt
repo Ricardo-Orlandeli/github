@@ -1,0 +1,25 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A certeza de evoluir com força total (PROJ-0117)
+Data: 14/07/2025
+Gerente: Apollo Vasconcelos
+
+Status atual: Em andamento
+Percentual de conclusão: 2.5%
+Data de início: 06/07/2025
+Data de término planejada: 31/03/2026
+Data de término real/prevista: 28/04/2026
+Atraso atual: 0 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 0.91
+Valor Planejado (PV): R$ 98632.48
+Valor Agregado (EV): R$ 82611.38
+
+Tarefas críticas:
+- Implementação do sistema de backup
+- Implementação do módulo de notificações
+- Testes de aceitação do usuário
+- Implementação do sistema de backup
+- Implementação do módulo de análise de dados
+- Testes de segurança
+
+Tarefas atrasadas:

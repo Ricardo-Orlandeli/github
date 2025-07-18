@@ -1,0 +1,22 @@
+RELATÓRIO DE STATUS DE ESCOPO
+Projeto: A segurança de inovar antes de tudo (PROJ-0029)
+Data: 14/07/2025
+Gerente: Nicole Santos
+
+Escopo original: Sistema para a segurança de inovar antes de tudo
+Houve mudança de escopo: Sim
+Descrição das mudanças: Expansão do escopo para incluir funcionalidades adicionais
+Impacto no cronograma: 12 dias
+Impacto no custo: R$ 77588.55
+
+Solicitações de mudança:
+- SCM-01: Adição de funcionalidade de autenticação biométrica
+
+Requisitos atuais:
+- REQ-01: O sistema deve permitir exportação de dados em formato CSV
+- REQ-02: O sistema deve ser compatível com navegadores modernos
+- REQ-03: O sistema deve ser compatível com dispositivos móveis
+- REQ-04: O sistema deve permitir autenticação de usuários
+- REQ-05: O sistema deve permitir autenticação de usuários
+- REQ-06: O sistema deve processar transações em menos de 2 seconds
+- REQ-07: O sistema deve ser escalável para suportar até 10.000 usuários simultâneos

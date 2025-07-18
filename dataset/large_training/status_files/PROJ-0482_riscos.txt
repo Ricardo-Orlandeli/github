@@ -1,0 +1,47 @@
+RELATÓRIO DE STATUS DE RISCOS
+Projeto: A certeza de avançar em estado puro (PROJ-0482)
+Data: 14/07/2025
+Gerente: Lorena Pinto
+
+Riscos identificados:
+- R01: Estimativas imprecisas
+  Probabilidade: 2/5, Impacto: 5/5, Nível: Médio
+  Mitigação: Realizar testes de aceitação com usuários-chave
+
+- R02: Estimativas imprecisas
+  Probabilidade: 5/5, Impacto: 2/5, Nível: Médio
+  Mitigação: Otimizar código e infraestrutura
+
+- R03: Atraso na entrega de componentes críticos
+  Probabilidade: 3/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Melhorar a documentação de requisitos
+
+- R04: Dependências externas não cumpridas
+  Probabilidade: 2/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Monitorar mudanças regulatórias
+
+- R05: Requisitos mal definidos
+  Probabilidade: 2/5, Impacto: 3/5, Nível: Baixo
+  Mitigação: Fortalecer medidas de segurança
+
+- R06: Problemas de desempenho
+  Probabilidade: 5/5, Impacto: 2/5, Nível: Médio
+  Mitigação: Otimizar código e infraestrutura
+
+- R07: Problemas de integração com sistemas legados
+  Probabilidade: 2/5, Impacto: 3/5, Nível: Baixo
+  Mitigação: Testar compatibilidade em diferentes ambientes
+
+- R08: Rotatividade de pessoal-chave
+  Probabilidade: 4/5, Impacto: 4/5, Nível: Alto
+  Mitigação: Comunicar benefícios da mudança
+
+- R09: Estimativas imprecisas
+  Probabilidade: 2/5, Impacto: 2/5, Nível: Baixo
+  Mitigação: Realizar testes de integração antecipados
+
+- R10: Problemas de integração com sistemas legados
+  Probabilidade: 5/5, Impacto: 3/5, Nível: Médio
+  Mitigação: Implementar plano de contingência
+
+Riscos ocorridos:

@@ -1,0 +1,23 @@
+RELATÓRIO DE STATUS DE RISCOS
+Projeto: A simplicidade de conseguir direto da fonte (PROJ-0951)
+Data: 14/07/2025
+Gerente: Sofia Azevedo
+
+Riscos identificados:
+- R01: Rotatividade de pessoal-chave
+  Probabilidade: 3/5, Impacto: 2/5, Nível: Baixo
+  Mitigação: Gerenciar dependências ativamente
+
+- R02: Requisitos mal definidos
+  Probabilidade: 5/5, Impacto: 2/5, Nível: Médio
+  Mitigação: Implementar plano de contingência
+
+- R03: Problemas de desempenho
+  Probabilidade: 3/5, Impacto: 4/5, Nível: Médio
+  Mitigação: Implementar plano de contingência
+
+Riscos ocorridos:
+- R01 (ocorrido em 25/03/2025)
+  Impacto real: Perda de dados
+  Ações tomadas: Revisão do orçamento
+

@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A segurança de avançar com força total (PROJ-0405)
+Data: 14/07/2025
+Gerente: Ana Júlia Camargo
+
+Orçamento inicial: R$ 2837153.00
+Custo real atual: R$ 1413188.44
+Desvio orçamentário: -50.19%
+Índice de Desempenho de Custo (CPI): 0.68
+Valor Agregado (EV): R$ 957357.38
+Estimativa para conclusão: R$ 2774831.54
+Estimativa no término (EAC): R$ 4188019.98
+Variação no término (VAC): R$ -1350866.98
+
+Detalhamento por categoria:
+- Pessoal: R$ 798672.38 (56.5%)
+- Equipamentos: R$ 214965.91 (15.2%)
+- Software: R$ 145688.64 (10.3%)
+- Serviços: R$ 184160.95 (13.0%)
+- Outros: R$ 69700.57 (4.9%)

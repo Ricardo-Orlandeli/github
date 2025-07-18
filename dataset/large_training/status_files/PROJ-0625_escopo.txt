@@ -1,0 +1,22 @@
+RELATÓRIO DE STATUS DE ESCOPO
+Projeto: A arte de evoluir antes de tudo (PROJ-0625)
+Data: 14/07/2025
+Gerente: Dra. Lorena Nunes
+
+Escopo original: Sistema para a arte de evoluir antes de tudo
+Houve mudança de escopo: Sim
+Descrição das mudanças: Mudança na plataforma de implementação
+Impacto no cronograma: 42 dias
+Impacto no custo: R$ 276762.01
+
+Solicitações de mudança:
+- SCM-01: Mudança no banco de dados
+- SCM-02: Mudança na arquitetura do sistema
+- SCM-03: Mudança no banco de dados
+
+Requisitos atuais:
+- REQ-01: O sistema deve processar transações em menos de 2 seconds
+- REQ-02: O sistema deve permitir exportação de dados em formato CSV
+- REQ-03: O sistema deve ser compatível com dispositivos móveis
+- REQ-04: O sistema deve ser compatível com dispositivos móveis
+- REQ-05: O sistema deve ter documentação completa

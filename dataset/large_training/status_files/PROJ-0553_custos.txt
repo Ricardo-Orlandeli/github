@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O prazer de evoluir com toda a tranquilidade (PROJ-0553)
+Data: 14/07/2025
+Gerente: Milena Garcia
+
+Orçamento inicial: R$ 876844.00
+Custo real atual: R$ 926886.09
+Desvio orçamentário: 5.71%
+Índice de Desempenho de Custo (CPI): 0.92
+Valor Agregado (EV): R$ 854738.79
+Estimativa para conclusão: R$ 23971.07
+Estimativa no término (EAC): R$ 950857.17
+Variação no término (VAC): R$ -74013.17
+
+Detalhamento por categoria:
+- Pessoal: R$ 499147.56 (53.9%)
+- Equipamentos: R$ 147081.42 (15.9%)
+- Software: R$ 107674.21 (11.6%)
+- Serviços: R$ 121885.49 (13.1%)
+- Outros: R$ 51097.42 (5.5%)

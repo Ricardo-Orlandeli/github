@@ -1,0 +1,19 @@
+RELATÓRIO DE STATUS DE ESCOPO
+Projeto: A liberdade de atingir seus objetivos com confiança (PROJ-0810)
+Data: 14/07/2025
+Gerente: Kaique Garcia
+
+Escopo original: Sistema para a liberdade de atingir seus objetivos com confiança
+Houve mudança de escopo: Não
+Descrição das mudanças: N/A
+Impacto no cronograma: 0 dias
+Impacto no custo: R$ 0.00
+
+Solicitações de mudança:
+
+Requisitos atuais:
+- REQ-01: O sistema deve implementar criptografia de dados sensíveis
+- REQ-02: O sistema deve ter backup automático diário
+- REQ-03: O sistema deve permitir integração com APIs externas
+- REQ-04: O sistema deve ter alta disponibilidade (99.9%)
+- REQ-05: O sistema deve ser compatível com dispositivos móveis

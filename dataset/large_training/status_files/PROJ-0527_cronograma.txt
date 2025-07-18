@@ -1,0 +1,26 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: O prazer de inovar naturalmente (PROJ-0527)
+Data: 14/07/2025
+Gerente: Gabrielly Novaes
+
+Status atual: Em andamento
+Percentual de conclusão: 97.8%
+Data de início: 07/09/2024
+Data de término planejada: 05/08/2025
+Data de término real/prevista: 26/07/2025
+Atraso atual: 0 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 0.92
+Valor Planejado (PV): R$ 1409584.01
+Valor Agregado (EV): R$ 1476567.21
+
+Tarefas críticas:
+- Desenvolvimento da interface do usuário
+- Implementação do módulo de exportação de dados
+- Testes de aceitação do usuário
+- Desenvolvimento da interface do usuário
+- Configuração da infraestrutura
+- Implementação da API REST
+- Configuração do ambiente de produção
+
+Tarefas atrasadas:

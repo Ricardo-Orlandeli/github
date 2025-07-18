@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A segurança de inovar com confiança (PROJ-0775)
+Data: 14/07/2025
+Gerente: Luan Gomes
+
+Orçamento inicial: R$ 2340464.00
+Custo real atual: R$ 1906097.60
+Desvio orçamentário: -18.56%
+Índice de Desempenho de Custo (CPI): 1.23
+Valor Agregado (EV): R$ 2338123.54
+Estimativa para conclusão: R$ 1908.01
+Estimativa no término (EAC): R$ 1908005.60
+Variação no término (VAC): R$ 432458.40
+
+Detalhamento por categoria:
+- Pessoal: R$ 931003.73 (48.8%)
+- Equipamentos: R$ 235184.52 (12.3%)
+- Software: R$ 269200.50 (14.1%)
+- Serviços: R$ 290908.81 (15.3%)
+- Outros: R$ 179800.04 (9.4%)

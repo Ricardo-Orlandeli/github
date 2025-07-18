@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A simplicidade de realizar seus sonhos naturalmente (PROJ-0315)
+Data: 14/07/2025
+Gerente: Marina Brito
+
+Orçamento inicial: R$ 4143735.00
+Custo real atual: R$ 3902278.27
+Desvio orçamentário: -5.83%
+Índice de Desempenho de Custo (CPI): 0.87
+Valor Agregado (EV): R$ 3411263.21
+Estimativa para conclusão: R$ 837903.31
+Estimativa no término (EAC): R$ 4740181.58
+Variação no término (VAC): R$ -596446.58
+
+Detalhamento por categoria:
+- Pessoal: R$ 1984302.42 (50.8%)
+- Equipamentos: R$ 698690.26 (17.9%)
+- Software: R$ 448663.97 (11.5%)
+- Serviços: R$ 529433.85 (13.6%)
+- Outros: R$ 241187.76 (6.2%)

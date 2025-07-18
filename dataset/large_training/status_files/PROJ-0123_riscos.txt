@@ -1,0 +1,51 @@
+RELATÓRIO DE STATUS DE RISCOS
+Projeto: A certeza de ganhar naturalmente (PROJ-0123)
+Data: 14/07/2025
+Gerente: Sr. Augusto Barbosa
+
+Riscos identificados:
+- R01: Falhas de infraestrutura
+  Probabilidade: 4/5, Impacto: 5/5, Nível: Alto
+  Mitigação: Estabelecer canais de comunicação claros
+
+- R02: Falhas em testes de aceitação
+  Probabilidade: 3/5, Impacto: 3/5, Nível: Médio
+  Mitigação: Buscar fornecedores alternativos
+
+- R03: Problemas de compatibilidade
+  Probabilidade: 5/5, Impacto: 3/5, Nível: Médio
+  Mitigação: Testar compatibilidade em diferentes ambientes
+
+- R04: Atraso na entrega de componentes críticos
+  Probabilidade: 3/5, Impacto: 3/5, Nível: Médio
+  Mitigação: Estabelecer canais de comunicação claros
+
+- R05: Problemas de comunicação com stakeholders
+  Probabilidade: 3/5, Impacto: 3/5, Nível: Médio
+  Mitigação: Implementar redundância de infraestrutura
+
+- R06: Mudanças regulatórias
+  Probabilidade: 2/5, Impacto: 4/5, Nível: Médio
+  Mitigação: Testar compatibilidade em diferentes ambientes
+
+- R07: Rotatividade de pessoal-chave
+  Probabilidade: 1/5, Impacto: 4/5, Nível: Baixo
+  Mitigação: Fortalecer medidas de segurança
+
+- R08: Problemas de comunicação com stakeholders
+  Probabilidade: 5/5, Impacto: 3/5, Nível: Médio
+  Mitigação: Estabelecer canais de comunicação claros
+
+Riscos ocorridos:
+- R03 (ocorrido em 03/07/2025)
+  Impacto real: Perda de recursos-chave
+  Ações tomadas: Implementação de controles adicionais
+
+- R08 (ocorrido em 26/06/2025)
+  Impacto real: Perda de recursos-chave
+  Ações tomadas: Implementação de soluções alternativas
+
+- R04 (ocorrido em 12/06/2025)
+  Impacto real: Atraso de 2 semanas no cronograma
+  Ações tomadas: Implementação do plano de contingência
+

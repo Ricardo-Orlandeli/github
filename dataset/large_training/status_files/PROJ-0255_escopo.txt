@@ -1,0 +1,27 @@
+RELATÓRIO DE STATUS DE ESCOPO
+Projeto: O conforto de atingir seus objetivos mais rapidamente (PROJ-0255)
+Data: 14/07/2025
+Gerente: Mariana Castro
+
+Escopo original: Sistema para o conforto de atingir seus objetivos mais rapidamente
+Houve mudança de escopo: Sim
+Descrição das mudanças: Expansão do escopo para incluir funcionalidades adicionais
+Impacto no cronograma: 57 dias
+Impacto no custo: R$ 804120.43
+
+Solicitações de mudança:
+- SCM-01: Adição de relatórios gerenciais
+- SCM-02: Alteração nos requisitos de desempenho
+- SCM-03: Implementação de módulo de exportação de dados
+- SCM-04: Alteração na interface do usuário
+- SCM-05: Adição de funcionalidade de autenticação biométrica
+
+Requisitos atuais:
+- REQ-01: O sistema deve ser escalável para suportar até 10.000 usuários simultâneos
+- REQ-02: O sistema deve implementar criptografia de dados sensíveis
+- REQ-03: O sistema deve ter controle de acesso baseado em perfis
+- REQ-04: O sistema deve permitir exportação de dados em formato CSV
+- REQ-05: O sistema deve ter documentação completa
+- REQ-06: O sistema deve permitir autenticação de usuários
+- REQ-07: O sistema deve ter controle de acesso baseado em perfis
+- REQ-08: O sistema deve ser compatível com navegadores modernos

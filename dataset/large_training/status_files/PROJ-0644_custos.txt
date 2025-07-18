@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A vantagem de avançar sem preocupação (PROJ-0644)
+Data: 14/07/2025
+Gerente: Sr. Guilherme Rocha
+
+Orçamento inicial: R$ 1459763.00
+Custo real atual: R$ 1179345.50
+Desvio orçamentário: -19.21%
+Índice de Desempenho de Custo (CPI): 1.11
+Valor Agregado (EV): R$ 1303710.71
+Estimativa para conclusão: R$ 141165.95
+Estimativa no término (EAC): R$ 1320511.45
+Variação no término (VAC): R$ 139251.55
+
+Detalhamento por categoria:
+- Pessoal: R$ 555647.69 (47.1%)
+- Equipamentos: R$ 228530.94 (19.4%)
+- Software: R$ 142197.53 (12.1%)
+- Serviços: R$ 168776.00 (14.3%)
+- Outros: R$ 84193.34 (7.1%)

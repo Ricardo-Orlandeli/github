@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O conforto de evoluir sem preocupação (PROJ-0158)
+Data: 14/07/2025
+Gerente: Antonella Montenegro
+
+Orçamento inicial: R$ 570287.00
+Custo real atual: R$ 529599.39
+Desvio orçamentário: -7.13%
+Índice de Desempenho de Custo (CPI): 0.99
+Valor Agregado (EV): R$ 521816.74
+Estimativa para conclusão: R$ 49193.17
+Estimativa no término (EAC): R$ 578792.56
+Variação no término (VAC): R$ -8505.56
+
+Detalhamento por categoria:
+- Pessoal: R$ 261699.73 (49.4%)
+- Equipamentos: R$ 95534.44 (18.0%)
+- Software: R$ 60549.28 (11.4%)
+- Serviços: R$ 70109.44 (13.2%)
+- Outros: R$ 41706.51 (7.9%)

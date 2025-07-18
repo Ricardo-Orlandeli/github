@@ -1,0 +1,23 @@
+RELATÓRIO DE STATUS DE RISCOS
+Projeto: O prazer de conseguir simplesmente (PROJ-0912)
+Data: 14/07/2025
+Gerente: Yago Guerra
+
+Riscos identificados:
+- R01: Falhas de infraestrutura
+  Probabilidade: 5/5, Impacto: 5/5, Nível: Alto
+  Mitigação: Fortalecer medidas de segurança
+
+- R02: Dependências externas não cumpridas
+  Probabilidade: 4/5, Impacto: 4/5, Nível: Alto
+  Mitigação: Melhorar a documentação de requisitos
+
+- R03: Resistência dos usuários à mudança
+  Probabilidade: 5/5, Impacto: 2/5, Nível: Médio
+  Mitigação: Refinar estimativas com base em dados históricos
+
+Riscos ocorridos:
+- R01 (ocorrido em 04/04/2025)
+  Impacto real: Perda de recursos-chave
+  Ações tomadas: Revisão do orçamento
+

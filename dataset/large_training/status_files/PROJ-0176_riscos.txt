@@ -1,0 +1,55 @@
+RELATÓRIO DE STATUS DE RISCOS
+Projeto: A possibilidade de mudar simplesmente (PROJ-0176)
+Data: 14/07/2025
+Gerente: Esther Sampaio
+
+Riscos identificados:
+- R01: Falhas em testes de aceitação
+  Probabilidade: 5/5, Impacto: 3/5, Nível: Médio
+  Mitigação: Realizar testes de aceitação com usuários-chave
+
+- R02: Dependências externas não cumpridas
+  Probabilidade: 3/5, Impacto: 2/5, Nível: Baixo
+  Mitigação: Estabelecer canais de comunicação claros
+
+- R03: Resistência dos usuários à mudança
+  Probabilidade: 4/5, Impacto: 4/5, Nível: Alto
+  Mitigação: Fortalecer medidas de segurança
+
+- R04: Problemas de integração com sistemas legados
+  Probabilidade: 5/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Implementar redundância de infraestrutura
+
+- R05: Problemas de integração com sistemas legados
+  Probabilidade: 1/5, Impacto: 4/5, Nível: Baixo
+  Mitigação: Otimizar código e infraestrutura
+
+- R06: Rotatividade de pessoal-chave
+  Probabilidade: 4/5, Impacto: 5/5, Nível: Alto
+  Mitigação: Realizar testes de aceitação com usuários-chave
+
+- R07: Falhas de segurança
+  Probabilidade: 3/5, Impacto: 2/5, Nível: Baixo
+  Mitigação: Melhorar a documentação de requisitos
+
+- R08: Problemas de integração com sistemas legados
+  Probabilidade: 5/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Buscar fornecedores alternativos
+
+- R09: Problemas de desempenho
+  Probabilidade: 2/5, Impacto: 4/5, Nível: Médio
+  Mitigação: Estabelecer canais de comunicação claros
+
+Riscos ocorridos:
+- R06 (ocorrido em 22/06/2024)
+  Impacto real: Perda de dados
+  Ações tomadas: Comunicação intensificada com stakeholders
+
+- R08 (ocorrido em 16/06/2025)
+  Impacto real: Aumento de 10% nos custos
+  Ações tomadas: Ajuste no cronograma
+
+- R05 (ocorrido em 15/11/2024)
+  Impacto real: Perda de dados
+  Ações tomadas: Implementação de controles adicionais
+

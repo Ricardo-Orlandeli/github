@@ -1,0 +1,31 @@
+RELATÓRIO DE STATUS DE RISCOS
+Projeto: A possibilidade de mudar direto da fonte (PROJ-0901)
+Data: 14/07/2025
+Gerente: Maria Vitória da Costa
+
+Riscos identificados:
+- R01: Falhas em testes de aceitação
+  Probabilidade: 4/5, Impacto: 5/5, Nível: Alto
+  Mitigação: Contratar pessoal adicional
+
+- R02: Requisitos mal definidos
+  Probabilidade: 5/5, Impacto: 4/5, Nível: Alto
+  Mitigação: Refinar estimativas com base em dados históricos
+
+- R03: Falhas de infraestrutura
+  Probabilidade: 2/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Implementar plano de contingência
+
+- R04: Falhas de infraestrutura
+  Probabilidade: 5/5, Impacto: 5/5, Nível: Alto
+  Mitigação: Realizar testes de integração antecipados
+
+- R05: Resistência dos usuários à mudança
+  Probabilidade: 5/5, Impacto: 4/5, Nível: Alto
+  Mitigação: Monitorar mudanças regulatórias
+
+Riscos ocorridos:
+- R03 (ocorrido em 23/08/2024)
+  Impacto real: Insatisfação dos stakeholders
+  Ações tomadas: Implementação de soluções alternativas
+

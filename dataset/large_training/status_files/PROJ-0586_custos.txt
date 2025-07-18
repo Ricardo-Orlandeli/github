@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O conforto de conseguir mais facilmente (PROJ-0586)
+Data: 14/07/2025
+Gerente: Srta. Cecília Ribeiro
+
+Orçamento inicial: R$ 3258460.00
+Custo real atual: R$ 1644863.64
+Desvio orçamentário: -30.28%
+Índice de Desempenho de Custo (CPI): 1.23
+Valor Agregado (EV): R$ 2025687.92
+Estimativa para conclusão: R$ 1001014.00
+Estimativa no término (EAC): R$ 2645877.64
+Variação no término (VAC): R$ 612582.36
+
+Detalhamento por categoria:
+- Pessoal: R$ 861902.18 (52.4%)
+- Equipamentos: R$ 297961.37 (18.1%)
+- Software: R$ 189671.46 (11.5%)
+- Serviços: R$ 187005.38 (11.4%)
+- Outros: R$ 108323.26 (6.6%)

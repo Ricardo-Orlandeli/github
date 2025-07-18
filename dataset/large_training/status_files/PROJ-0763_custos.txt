@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A certeza de ganhar em estado puro (PROJ-0763)
+Data: 14/07/2025
+Gerente: Valentim da Rosa
+
+Orçamento inicial: R$ 457097.00
+Custo real atual: R$ 497280.23
+Desvio orçamentário: 8.79%
+Índice de Desempenho de Custo (CPI): 0.92
+Valor Agregado (EV): R$ 456639.90
+Estimativa para conclusão: R$ 497.78
+Estimativa no término (EAC): R$ 497778.01
+Variação no término (VAC): R$ -40681.01
+
+Detalhamento por categoria:
+- Pessoal: R$ 233552.43 (47.0%)
+- Equipamentos: R$ 83104.10 (16.7%)
+- Software: R$ 54758.55 (11.0%)
+- Serviços: R$ 86458.83 (17.4%)
+- Outros: R$ 39406.33 (7.9%)

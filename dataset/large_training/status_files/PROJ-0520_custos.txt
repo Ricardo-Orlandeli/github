@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O poder de ganhar com força total (PROJ-0520)
+Data: 14/07/2025
+Gerente: Julia Dias
+
+Orçamento inicial: R$ 1430071.00
+Custo real atual: R$ 1271585.34
+Desvio orçamentário: -11.08%
+Índice de Desempenho de Custo (CPI): 0.97
+Valor Agregado (EV): R$ 1228563.99
+Estimativa para conclusão: R$ 208563.30
+Estimativa no término (EAC): R$ 1480148.64
+Variação no término (VAC): R$ -50077.64
+
+Detalhamento por categoria:
+- Pessoal: R$ 650160.15 (51.1%)
+- Equipamentos: R$ 266676.50 (21.0%)
+- Software: R$ 116303.27 (9.1%)
+- Serviços: R$ 148205.06 (11.7%)
+- Outros: R$ 90240.36 (7.1%)

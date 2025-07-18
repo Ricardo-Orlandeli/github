@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A arte de conseguir com toda a tranquilidade (PROJ-0720)
+Data: 14/07/2025
+Gerente: Lavínia Ramos
+
+Orçamento inicial: R$ 884065.00
+Custo real atual: R$ 831866.93
+Desvio orçamentário: -5.90%
+Índice de Desempenho de Custo (CPI): 1.06
+Valor Agregado (EV): R$ 884065.00
+Estimativa para conclusão: R$ 0.00
+Estimativa no término (EAC): R$ 831866.93
+Variação no término (VAC): R$ 52198.07
+
+Detalhamento por categoria:
+- Pessoal: R$ 446928.70 (53.7%)
+- Equipamentos: R$ 170558.74 (20.5%)
+- Software: R$ 63860.41 (7.7%)
+- Serviços: R$ 105429.50 (12.7%)
+- Outros: R$ 45089.59 (5.4%)

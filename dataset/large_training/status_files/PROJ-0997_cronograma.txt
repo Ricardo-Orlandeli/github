@@ -1,0 +1,24 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A liberdade de realizar seus sonhos de maneira eficaz (PROJ-0997)
+Data: 14/07/2025
+Gerente: Sr. Benjamim Albuquerque
+
+Status atual: Atrasado
+Percentual de conclusão: 72.4%
+Data de início: 05/03/2025
+Data de término planejada: 29/05/2025
+Data de término real/prevista: 23/09/2025
+Atraso atual: 46 dias
+Motivo do atraso: Problemas técnicos inesperados
+Índice de Desempenho de Cronograma (SPI): 0.72
+Valor Planejado (PV): R$ 4428833.00
+Valor Agregado (EV): R$ 3204802.53
+
+Tarefas críticas:
+- Testes de aceitação do usuário
+- Configuração do ambiente de produção
+- Implementação do módulo de notificações
+
+Tarefas atrasadas:
+- Configuração do ambiente de produção
+- Testes de aceitação do usuário

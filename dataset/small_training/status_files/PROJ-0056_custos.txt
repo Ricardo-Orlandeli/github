@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A simplicidade de conseguir simplesmente (PROJ-0056)
+Data: 14/07/2025
+Gerente: Brenda da Costa
+
+Orçamento inicial: R$ 4790739.00
+Custo real atual: R$ 3957841.48
+Desvio orçamentário: -17.39%
+Índice de Desempenho de Custo (CPI): 1.21
+Valor Agregado (EV): R$ 4790739.00
+Estimativa para conclusão: R$ 0.00
+Estimativa no término (EAC): R$ 3957841.48
+Variação no término (VAC): R$ 832897.52
+
+Detalhamento por categoria:
+- Pessoal: R$ 1934669.33 (48.9%)
+- Equipamentos: R$ 590048.10 (14.9%)
+- Software: R$ 501176.67 (12.7%)
+- Serviços: R$ 575217.87 (14.5%)
+- Outros: R$ 356729.50 (9.0%)

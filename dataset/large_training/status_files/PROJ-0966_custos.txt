@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O conforto de ganhar sem preocupação (PROJ-0966)
+Data: 14/07/2025
+Gerente: Bárbara Pereira
+
+Orçamento inicial: R$ 658889.00
+Custo real atual: R$ 164730.21
+Desvio orçamentário: 21.83%
+Índice de Desempenho de Custo (CPI): 0.93
+Valor Agregado (EV): R$ 153685.32
+Estimativa para conclusão: R$ 541511.13
+Estimativa no término (EAC): R$ 706241.34
+Variação no término (VAC): R$ -47352.34
+
+Detalhamento por categoria:
+- Pessoal: R$ 85707.03 (52.0%)
+- Equipamentos: R$ 24396.72 (14.8%)
+- Software: R$ 9260.26 (5.6%)
+- Serviços: R$ 31199.67 (18.9%)
+- Outros: R$ 14166.52 (8.6%)

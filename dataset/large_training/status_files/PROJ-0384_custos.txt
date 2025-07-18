@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A certeza de inovar com força total (PROJ-0384)
+Data: 14/07/2025
+Gerente: Benicio Freitas
+
+Orçamento inicial: R$ 796216.00
+Custo real atual: R$ 693762.06
+Desvio orçamentário: -12.87%
+Índice de Desempenho de Custo (CPI): 1.15
+Valor Agregado (EV): R$ 795419.78
+Estimativa para conclusão: R$ 694.46
+Estimativa no término (EAC): R$ 694456.52
+Variação no término (VAC): R$ 101759.48
+
+Detalhamento por categoria:
+- Pessoal: R$ 338615.51 (48.8%)
+- Equipamentos: R$ 136087.20 (19.6%)
+- Software: R$ 81536.63 (11.8%)
+- Serviços: R$ 100498.36 (14.5%)
+- Outros: R$ 37024.36 (5.3%)

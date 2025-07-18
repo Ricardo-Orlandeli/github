@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A certeza de realizar seus sonhos mais facilmente (PROJ-0261)
+Data: 14/07/2025
+Gerente: Arthur Gabriel Abreu
+
+Orçamento inicial: R$ 463532.00
+Custo real atual: R$ 489371.03
+Desvio orçamentário: 25.26%
+Índice de Desempenho de Custo (CPI): 0.70
+Valor Agregado (EV): R$ 342709.01
+Estimativa para conclusão: R$ 172529.09
+Estimativa no término (EAC): R$ 661900.11
+Variação no término (VAC): R$ -198368.11
+
+Detalhamento por categoria:
+- Pessoal: R$ 228932.25 (46.8%)
+- Equipamentos: R$ 63203.42 (12.9%)
+- Software: R$ 72534.58 (14.8%)
+- Serviços: R$ 82111.62 (16.8%)
+- Outros: R$ 42589.15 (8.7%)

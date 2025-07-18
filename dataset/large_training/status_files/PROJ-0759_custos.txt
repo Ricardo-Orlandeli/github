@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A liberdade de inovar mais rapidamente (PROJ-0759)
+Data: 14/07/2025
+Gerente: Sabrina Dias
+
+Orçamento inicial: R$ 2562457.00
+Custo real atual: R$ 1544256.21
+Desvio orçamentário: -39.74%
+Índice de Desempenho de Custo (CPI): 0.74
+Valor Agregado (EV): R$ 1143304.48
+Estimativa para conclusão: R$ 1916842.92
+Estimativa no término (EAC): R$ 3461099.13
+Variação no término (VAC): R$ -898642.13
+
+Detalhamento por categoria:
+- Pessoal: R$ 808609.12 (52.4%)
+- Equipamentos: R$ 284342.58 (18.4%)
+- Software: R$ 184693.78 (12.0%)
+- Serviços: R$ 149347.63 (9.7%)
+- Outros: R$ 117263.10 (7.6%)

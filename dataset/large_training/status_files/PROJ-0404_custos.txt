@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A possibilidade de ganhar naturalmente (PROJ-0404)
+Data: 14/07/2025
+Gerente: Dra. Stella da Rocha
+
+Orçamento inicial: R$ 389084.00
+Custo real atual: R$ 56166.92
+Desvio orçamentário: -22.64%
+Índice de Desempenho de Custo (CPI): 1.24
+Valor Agregado (EV): R$ 69869.67
+Estimativa para conclusão: R$ 256610.43
+Estimativa no término (EAC): R$ 312777.35
+Variação no término (VAC): R$ 76306.65
+
+Detalhamento por categoria:
+- Pessoal: R$ 32609.32 (58.1%)
+- Equipamentos: R$ 5833.34 (10.4%)
+- Software: R$ 5900.60 (10.5%)
+- Serviços: R$ 7992.68 (14.2%)
+- Outros: R$ 3830.99 (6.8%)

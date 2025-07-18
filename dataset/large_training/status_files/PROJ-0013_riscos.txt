@@ -1,0 +1,19 @@
+RELATÓRIO DE STATUS DE RISCOS
+Projeto: O prazer de conseguir com força total (PROJ-0013)
+Data: 14/07/2025
+Gerente: Pedro Viana
+
+Riscos identificados:
+- R01: Falhas de segurança
+  Probabilidade: 2/5, Impacto: 4/5, Nível: Médio
+  Mitigação: Otimizar código e infraestrutura
+
+- R02: Problemas de comunicação com stakeholders
+  Probabilidade: 5/5, Impacto: 4/5, Nível: Alto
+  Mitigação: Contratar pessoal adicional
+
+- R03: Estimativas imprecisas
+  Probabilidade: 5/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Gerenciar dependências ativamente
+
+Riscos ocorridos:

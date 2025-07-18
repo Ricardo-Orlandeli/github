@@ -1,0 +1,24 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: O prazer de avançar antes de tudo (PROJ-0294)
+Data: 14/07/2025
+Gerente: Anthony Freitas
+
+Status atual: Em andamento
+Percentual de conclusão: 94.4%
+Data de início: 30/07/2023
+Data de término planejada: 12/05/2024
+Data de término real/prevista: 12/05/2024
+Atraso atual: 428 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.00
+Valor Planejado (PV): R$ 1890242.00
+Valor Agregado (EV): R$ 1785179.00
+
+Tarefas críticas:
+- Testes de segurança
+- Migração de dados legados
+- Implementação do módulo de análise de dados
+- Configuração da infraestrutura
+- Desenvolvimento do painel administrativo
+
+Tarefas atrasadas:

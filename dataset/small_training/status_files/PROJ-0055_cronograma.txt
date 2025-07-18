@@ -1,0 +1,26 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A liberdade de conseguir simplesmente (PROJ-0055)
+Data: 14/07/2025
+Gerente: Davi Lucca Pastor
+
+Status atual: Em andamento
+Percentual de conclusão: 99.9%
+Data de início: 18/07/2024
+Data de término planejada: 03/11/2024
+Data de término real/prevista: 22/10/2024
+Atraso atual: 253 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 0.95
+Valor Planejado (PV): R$ 3466482.00
+Valor Agregado (EV): R$ 3463015.52
+
+Tarefas críticas:
+- Implementação do módulo de notificações
+- Configuração da infraestrutura
+- Implementação do módulo de relatórios
+- Implementação do módulo de notificações
+- Migração de dados legados
+- Implementação do módulo de análise de dados
+- Desenvolvimento do painel administrativo
+
+Tarefas atrasadas:

@@ -1,0 +1,23 @@
+RELATÓRIO DE STATUS DE RISCOS
+Projeto: O poder de avançar com força total (PROJ-0101)
+Data: 14/07/2025
+Gerente: Ana Beatriz Campos
+
+Riscos identificados:
+- R01: Rotatividade de pessoal-chave
+  Probabilidade: 1/5, Impacto: 5/5, Nível: Baixo
+  Mitigação: Refinar estimativas com base em dados históricos
+
+- R02: Rotatividade de pessoal-chave
+  Probabilidade: 5/5, Impacto: 3/5, Nível: Médio
+  Mitigação: Realizar testes de integração antecipados
+
+- R03: Problemas de integração com sistemas legados
+  Probabilidade: 4/5, Impacto: 4/5, Nível: Alto
+  Mitigação: Comunicar benefícios da mudança
+
+- R04: Mudanças regulatórias
+  Probabilidade: 1/5, Impacto: 3/5, Nível: Baixo
+  Mitigação: Implementar plano de contingência
+
+Riscos ocorridos:

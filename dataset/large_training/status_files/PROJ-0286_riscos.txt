@@ -1,0 +1,23 @@
+RELATÓRIO DE STATUS DE RISCOS
+Projeto: O direito de concretizar seus projetos mais rapidamente (PROJ-0286)
+Data: 14/07/2025
+Gerente: Sr. Luiz Fernando Mendonça
+
+Riscos identificados:
+- R01: Problemas de compatibilidade
+  Probabilidade: 5/5, Impacto: 4/5, Nível: Alto
+  Mitigação: Otimizar código e infraestrutura
+
+- R02: Problemas de integração com sistemas legados
+  Probabilidade: 5/5, Impacto: 2/5, Nível: Médio
+  Mitigação: Refinar estimativas com base em dados históricos
+
+- R03: Problemas de comunicação com stakeholders
+  Probabilidade: 3/5, Impacto: 3/5, Nível: Médio
+  Mitigação: Fortalecer medidas de segurança
+
+- R04: Indisponibilidade de recursos especializados
+  Probabilidade: 1/5, Impacto: 3/5, Nível: Baixo
+  Mitigação: Realizar testes de aceitação com usuários-chave
+
+Riscos ocorridos:

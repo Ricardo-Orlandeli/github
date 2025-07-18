@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A simplicidade de evoluir antes de tudo (PROJ-0790)
+Data: 14/07/2025
+Gerente: Antonella Correia
+
+Orçamento inicial: R$ 2127471.00
+Custo real atual: R$ 1966612.76
+Desvio orçamentário: -7.56%
+Índice de Desempenho de Custo (CPI): 1.08
+Valor Agregado (EV): R$ 2125343.53
+Estimativa para conclusão: R$ 1968.58
+Estimativa no término (EAC): R$ 1968581.34
+Variação no término (VAC): R$ 158889.66
+
+Detalhamento por categoria:
+- Pessoal: R$ 944528.64 (48.0%)
+- Equipamentos: R$ 271960.95 (13.8%)
+- Software: R$ 215565.18 (11.0%)
+- Serviços: R$ 344618.95 (17.5%)
+- Outros: R$ 189939.05 (9.7%)

@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A vantagem de evoluir com força total (PROJ-0505)
+Data: 14/07/2025
+Gerente: Melina Freitas
+
+Orçamento inicial: R$ 2763358.00
+Custo real atual: R$ 2381600.16
+Desvio orçamentário: -13.81%
+Índice de Desempenho de Custo (CPI): 1.16
+Valor Agregado (EV): R$ 2763358.00
+Estimativa para conclusão: R$ 0.00
+Estimativa no término (EAC): R$ 2381600.16
+Variação no término (VAC): R$ 381757.84
+
+Detalhamento por categoria:
+- Pessoal: R$ 1230136.36 (51.7%)
+- Equipamentos: R$ 316145.81 (13.3%)
+- Software: R$ 174279.69 (7.3%)
+- Serviços: R$ 450510.35 (18.9%)
+- Outros: R$ 210527.95 (8.8%)

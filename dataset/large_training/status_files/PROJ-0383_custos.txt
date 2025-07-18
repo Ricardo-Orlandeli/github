@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A simplicidade de evoluir mais facilmente (PROJ-0383)
+Data: 14/07/2025
+Gerente: Dr. Kevin Cardoso
+
+Orçamento inicial: R$ 3754853.00
+Custo real atual: R$ 3784282.17
+Desvio orçamentário: 0.78%
+Índice de Desempenho de Custo (CPI): 0.99
+Valor Agregado (EV): R$ 3754853.00
+Estimativa para conclusão: R$ 0.00
+Estimativa no término (EAC): R$ 3784282.17
+Variação no término (VAC): R$ -29429.17
+
+Detalhamento por categoria:
+- Pessoal: R$ 1850477.26 (48.9%)
+- Equipamentos: R$ 669007.00 (17.7%)
+- Software: R$ 253453.15 (6.7%)
+- Serviços: R$ 687592.95 (18.2%)
+- Outros: R$ 323751.81 (8.6%)

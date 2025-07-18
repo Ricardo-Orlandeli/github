@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O direito de ganhar antes de tudo (PROJ-0493)
+Data: 14/07/2025
+Gerente: Srta. Allana Silva
+
+Orçamento inicial: R$ 4977258.00
+Custo real atual: R$ 5174777.33
+Desvio orçamentário: 3.97%
+Índice de Desempenho de Custo (CPI): 0.96
+Valor Agregado (EV): R$ 4977258.00
+Estimativa para conclusão: R$ 0.00
+Estimativa no término (EAC): R$ 5174777.33
+Variação no término (VAC): R$ -197519.33
+
+Detalhamento por categoria:
+- Pessoal: R$ 3009889.43 (58.2%)
+- Equipamentos: R$ 660660.81 (12.8%)
+- Software: R$ 398251.85 (7.7%)
+- Serviços: R$ 643116.76 (12.4%)
+- Outros: R$ 462858.48 (8.9%)

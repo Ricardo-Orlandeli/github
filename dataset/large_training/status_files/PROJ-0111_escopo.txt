@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE ESCOPO
+Projeto: A vantagem de mudar mais rapidamente (PROJ-0111)
+Data: 14/07/2025
+Gerente: Nina Leão
+
+Escopo original: Sistema para a vantagem de mudar mais rapidamente
+Houve mudança de escopo: Sim
+Descrição das mudanças: Alteração nas especificações técnicas
+Impacto no cronograma: 30 dias
+Impacto no custo: R$ 221611.12
+
+Solicitações de mudança:
+- SCM-01: Alteração na interface do usuário
+
+Requisitos atuais:
+- REQ-01: O sistema deve ter controle de acesso baseado em perfis
+- REQ-02: O sistema deve registrar logs de auditoria
+- REQ-03: O sistema deve permitir integração com APIs externas
+- REQ-04: O sistema deve ter alta disponibilidade (99.9%)
+- REQ-05: O sistema deve ter interface responsiva

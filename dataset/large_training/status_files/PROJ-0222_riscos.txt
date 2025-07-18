@@ -1,0 +1,27 @@
+RELATÓRIO DE STATUS DE RISCOS
+Projeto: A vantagem de mudar em estado puro (PROJ-0222)
+Data: 14/07/2025
+Gerente: Sr. Thales Gonçalves
+
+Riscos identificados:
+- R01: Problemas de integração com sistemas legados
+  Probabilidade: 1/5, Impacto: 3/5, Nível: Baixo
+  Mitigação: Melhorar a documentação de requisitos
+
+- R02: Atraso na entrega de componentes críticos
+  Probabilidade: 4/5, Impacto: 3/5, Nível: Médio
+  Mitigação: Fortalecer medidas de segurança
+
+- R03: Resistência dos usuários à mudança
+  Probabilidade: 3/5, Impacto: 4/5, Nível: Médio
+  Mitigação: Otimizar código e infraestrutura
+
+- R04: Problemas de compatibilidade
+  Probabilidade: 5/5, Impacto: 4/5, Nível: Alto
+  Mitigação: Implementar plano de contingência
+
+- R05: Problemas de compatibilidade
+  Probabilidade: 1/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Monitorar mudanças regulatórias
+
+Riscos ocorridos:

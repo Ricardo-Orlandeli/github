@@ -1,0 +1,26 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: O poder de conseguir mais rapidamente (PROJ-0650)
+Data: 14/07/2025
+Gerente: Bruno Casa Grande
+
+Status atual: Em andamento
+Percentual de conclusão: 97.7%
+Data de início: 16/10/2024
+Data de término planejada: 04/08/2025
+Data de término real/prevista: 28/08/2025
+Atraso atual: 0 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 0.90
+Valor Planejado (PV): R$ 4621335.16
+Valor Agregado (EV): R$ 4866988.35
+
+Tarefas críticas:
+- Implementação do módulo de análise de dados
+- Migração de dados legados
+- Configuração da infraestrutura
+- Implementação do módulo de notificações
+- Migração de dados legados
+- Implementação do módulo de relatórios
+- Integração com sistema de pagamentos
+
+Tarefas atrasadas:

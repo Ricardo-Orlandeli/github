@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A vantagem de mudar em estado puro (PROJ-0943)
+Data: 14/07/2025
+Gerente: Brenda Azevedo
+
+Orçamento inicial: R$ 4378247.00
+Custo real atual: R$ 1134291.09
+Desvio orçamentário: -11.91%
+Índice de Desempenho de Custo (CPI): 0.99
+Valor Agregado (EV): R$ 1121147.12
+Estimativa para conclusão: R$ 3295285.07
+Estimativa no término (EAC): R$ 4429576.17
+Variação no término (VAC): R$ -51329.17
+
+Detalhamento por categoria:
+- Pessoal: R$ 536648.24 (47.3%)
+- Equipamentos: R$ 195237.95 (17.2%)
+- Software: R$ 114439.24 (10.1%)
+- Serviços: R$ 199618.71 (17.6%)
+- Outros: R$ 88346.94 (7.8%)

@@ -1,0 +1,27 @@
+RELATÓRIO DE STATUS DE RISCOS
+Projeto: O conforto de inovar com confiança (PROJ-0072)
+Data: 14/07/2025
+Gerente: Maria Eduarda Sampaio
+
+Riscos identificados:
+- R01: Falhas de infraestrutura
+  Probabilidade: 5/5, Impacto: 2/5, Nível: Médio
+  Mitigação: Realizar testes de aceitação com usuários-chave
+
+- R02: Resistência dos usuários à mudança
+  Probabilidade: 2/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Otimizar código e infraestrutura
+
+- R03: Dependências externas não cumpridas
+  Probabilidade: 5/5, Impacto: 2/5, Nível: Médio
+  Mitigação: Implementar plano de contingência
+
+- R04: Requisitos mal definidos
+  Probabilidade: 2/5, Impacto: 5/5, Nível: Médio
+  Mitigação: Contratar pessoal adicional
+
+- R05: Indisponibilidade de recursos especializados
+  Probabilidade: 3/5, Impacto: 5/5, Nível: Médio
+  Mitigação: Estabelecer canais de comunicação claros
+
+Riscos ocorridos:

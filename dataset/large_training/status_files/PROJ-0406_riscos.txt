@@ -1,0 +1,39 @@
+RELATÓRIO DE STATUS DE RISCOS
+Projeto: A certeza de ganhar direto da fonte (PROJ-0406)
+Data: 14/07/2025
+Gerente: Ravi Vieira
+
+Riscos identificados:
+- R01: Requisitos mal definidos
+  Probabilidade: 2/5, Impacto: 2/5, Nível: Baixo
+  Mitigação: Otimizar código e infraestrutura
+
+- R02: Problemas de desempenho
+  Probabilidade: 2/5, Impacto: 5/5, Nível: Médio
+  Mitigação: Fortalecer medidas de segurança
+
+- R03: Problemas de desempenho
+  Probabilidade: 1/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Estabelecer canais de comunicação claros
+
+- R04: Falhas em testes de aceitação
+  Probabilidade: 5/5, Impacto: 2/5, Nível: Médio
+  Mitigação: Realizar testes de aceitação com usuários-chave
+
+- R05: Resistência dos usuários à mudança
+  Probabilidade: 1/5, Impacto: 2/5, Nível: Baixo
+  Mitigação: Testar compatibilidade em diferentes ambientes
+
+Riscos ocorridos:
+- R03 (ocorrido em 30/09/2024)
+  Impacto real: Perda de recursos-chave
+  Ações tomadas: Contratação de recursos adicionais
+
+- R04 (ocorrido em 19/01/2024)
+  Impacto real: Falhas de segurança
+  Ações tomadas: Comunicação intensificada com stakeholders
+
+- R01 (ocorrido em 28/05/2024)
+  Impacto real: Insatisfação dos stakeholders
+  Ações tomadas: Ajuste no cronograma
+

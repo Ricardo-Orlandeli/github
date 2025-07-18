@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A vantagem de concretizar seus projetos com força total (PROJ-0566)
+Data: 14/07/2025
+Gerente: Bruna Silva
+
+Orçamento inicial: R$ 4804365.00
+Custo real atual: R$ 3270070.44
+Desvio orçamentário: -31.94%
+Índice de Desempenho de Custo (CPI): 0.95
+Valor Agregado (EV): R$ 3093017.38
+Estimativa para conclusão: R$ 1809310.00
+Estimativa no término (EAC): R$ 5079380.45
+Variação no término (VAC): R$ -275015.45
+
+Detalhamento por categoria:
+- Pessoal: R$ 1474352.11 (45.1%)
+- Equipamentos: R$ 494016.09 (15.1%)
+- Software: R$ 407717.21 (12.5%)
+- Serviços: R$ 613044.56 (18.7%)
+- Outros: R$ 280940.48 (8.6%)

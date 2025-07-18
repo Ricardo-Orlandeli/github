@@ -1,0 +1,27 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A vantagem de evoluir mais rapidamente (PROJ-0348)
+Data: 14/07/2025
+Gerente: Thomas Pimenta
+
+Status atual: Em andamento
+Percentual de conclusão: 99.9%
+Data de início: 07/10/2024
+Data de término planejada: 31/05/2025
+Data de término real/prevista: 18/05/2025
+Atraso atual: 44 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.15
+Valor Planejado (PV): R$ 2264760.00
+Valor Agregado (EV): R$ 2262495.24
+
+Tarefas críticas:
+- Desenvolvimento da interface do usuário
+- Testes de segurança
+- Implementação do módulo de relatórios
+- Testes de aceitação do usuário
+- Implementação do sistema de backup
+- Desenvolvimento da interface do usuário
+- Desenvolvimento do painel administrativo
+- Integração com sistema de pagamentos
+
+Tarefas atrasadas:

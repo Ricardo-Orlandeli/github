@@ -1,0 +1,22 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: O prazer de evoluir direto da fonte (PROJ-0375)
+Data: 14/07/2025
+Gerente: Anna Liz Cassiano
+
+Status atual: Em andamento
+Percentual de conclusão: 99.9%
+Data de início: 20/07/2024
+Data de término planejada: 05/01/2025
+Data de término real/prevista: 04/02/2025
+Atraso atual: 190 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.03
+Valor Planejado (PV): R$ 445128.00
+Valor Agregado (EV): R$ 444682.87
+
+Tarefas críticas:
+- Testes de segurança
+- Testes de segurança
+- Implementação do módulo de exportação de dados
+
+Tarefas atrasadas:

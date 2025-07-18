@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O direito de concretizar seus projetos de maneira eficaz (PROJ-0119)
+Data: 14/07/2025
+Gerente: Mateus Cirino
+
+Orçamento inicial: R$ 2321230.00
+Custo real atual: R$ 2631792.92
+Desvio orçamentário: 13.38%
+Índice de Desempenho de Custo (CPI): 0.88
+Valor Agregado (EV): R$ 2312938.19
+Estimativa para conclusão: R$ 9434.89
+Estimativa no término (EAC): R$ 2641227.81
+Variação no término (VAC): R$ -319997.81
+
+Detalhamento por categoria:
+- Pessoal: R$ 1447057.62 (55.0%)
+- Equipamentos: R$ 273936.12 (10.4%)
+- Software: R$ 248982.31 (9.5%)
+- Serviços: R$ 491822.19 (18.7%)
+- Outros: R$ 169994.68 (6.5%)

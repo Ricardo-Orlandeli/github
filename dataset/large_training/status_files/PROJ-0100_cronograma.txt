@@ -1,0 +1,25 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A segurança de evoluir direto da fonte (PROJ-0100)
+Data: 14/07/2025
+Gerente: Sr. Caleb Borges
+
+Status atual: Atrasado
+Percentual de conclusão: 63.6%
+Data de início: 14/11/2023
+Data de término planejada: 09/06/2024
+Data de término real/prevista: 29/06/2024
+Atraso atual: 400 dias
+Motivo do atraso: Problemas de comunicação
+Índice de Desempenho de Cronograma (SPI): 0.64
+Valor Planejado (PV): R$ 4847492.00
+Valor Agregado (EV): R$ 3083093.42
+
+Tarefas críticas:
+- Implementação da API REST
+- Configuração do ambiente de produção
+- Implementação do módulo de relatórios
+- Implementação do sistema de backup
+
+Tarefas atrasadas:
+- Implementação da API REST
+- Implementação do sistema de backup

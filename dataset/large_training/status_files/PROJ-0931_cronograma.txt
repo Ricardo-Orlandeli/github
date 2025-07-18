@@ -1,0 +1,24 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: O conforto de conseguir de maneira eficaz (PROJ-0931)
+Data: 14/07/2025
+Gerente: Nina Moura
+
+Status atual: Em andamento
+Percentual de conclusão: 99.9%
+Data de início: 20/01/2025
+Data de término planejada: 12/06/2025
+Data de término real/prevista: 19/06/2025
+Atraso atual: 32 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 0.93
+Valor Planejado (PV): R$ 4562866.00
+Valor Agregado (EV): R$ 4558303.13
+
+Tarefas críticas:
+- Implementação do módulo de relatórios
+- Integração com sistema de pagamentos
+- Testes de aceitação do usuário
+- Implementação do módulo de notificações
+- Configuração do ambiente de produção
+
+Tarefas atrasadas:

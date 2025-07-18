@@ -1,0 +1,26 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A arte de ganhar direto da fonte (PROJ-0224)
+Data: 14/07/2025
+Gerente: Maria Clara Pacheco
+
+Status atual: Em andamento
+Percentual de conclusão: 81.8%
+Data de início: 03/11/2023
+Data de término planejada: 07/08/2024
+Data de término real/prevista: 17/08/2024
+Atraso atual: 341 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.03
+Valor Planejado (PV): R$ 1114292.00
+Valor Agregado (EV): R$ 911778.65
+
+Tarefas críticas:
+- Implementação do módulo de notificações
+- Implementação do módulo de exportação de dados
+- Testes de aceitação do usuário
+- Implementação do módulo de relatórios
+- Integração com sistema de pagamentos
+- Testes de segurança
+- Integração com sistema de pagamentos
+
+Tarefas atrasadas:

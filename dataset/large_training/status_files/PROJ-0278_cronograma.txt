@@ -1,0 +1,27 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A certeza de evoluir simplesmente (PROJ-0278)
+Data: 14/07/2025
+Gerente: Sra. Lívia Costa
+
+Status atual: Em andamento
+Percentual de conclusão: 99.9%
+Data de início: 17/01/2025
+Data de término planejada: 23/07/2025
+Data de término real/prevista: 20/07/2025
+Atraso atual: 0 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 0.90
+Valor Planejado (PV): R$ 268057.53
+Valor Agregado (EV): R$ 281329.39
+
+Tarefas críticas:
+- Desenvolvimento do módulo de autenticação
+- Testes de segurança
+- Implementação da API REST
+- Desenvolvimento do painel administrativo
+- Desenvolvimento do painel administrativo
+- Integração com sistema de pagamentos
+- Implementação do módulo de análise de dados
+- Testes de aceitação do usuário
+
+Tarefas atrasadas:

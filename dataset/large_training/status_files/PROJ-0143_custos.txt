@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A vantagem de atingir seus objetivos de maneira eficaz (PROJ-0143)
+Data: 14/07/2025
+Gerente: Lavínia Cavalcanti
+
+Orçamento inicial: R$ 4608562.00
+Custo real atual: R$ 4600879.21
+Desvio orçamentário: -0.17%
+Índice de Desempenho de Custo (CPI): 0.84
+Valor Agregado (EV): R$ 3848316.43
+Estimativa para conclusão: R$ 908916.44
+Estimativa no término (EAC): R$ 5509795.64
+Variação no término (VAC): R$ -901233.64
+
+Detalhamento por categoria:
+- Pessoal: R$ 2316174.96 (50.3%)
+- Equipamentos: R$ 698858.25 (15.2%)
+- Software: R$ 409079.15 (8.9%)
+- Serviços: R$ 788610.81 (17.1%)
+- Outros: R$ 388156.03 (8.4%)

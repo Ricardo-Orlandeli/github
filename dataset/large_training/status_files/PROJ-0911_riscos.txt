@@ -1,0 +1,55 @@
+RELATÓRIO DE STATUS DE RISCOS
+Projeto: A possibilidade de avançar antes de tudo (PROJ-0911)
+Data: 14/07/2025
+Gerente: Nina Pimenta
+
+Riscos identificados:
+- R01: Problemas de desempenho
+  Probabilidade: 5/5, Impacto: 5/5, Nível: Alto
+  Mitigação: Contratar pessoal adicional
+
+- R02: Dependências externas não cumpridas
+  Probabilidade: 5/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Buscar fornecedores alternativos
+
+- R03: Requisitos mal definidos
+  Probabilidade: 2/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Refinar estimativas com base em dados históricos
+
+- R04: Requisitos mal definidos
+  Probabilidade: 4/5, Impacto: 3/5, Nível: Médio
+  Mitigação: Melhorar a documentação de requisitos
+
+- R05: Requisitos mal definidos
+  Probabilidade: 5/5, Impacto: 4/5, Nível: Alto
+  Mitigação: Otimizar código e infraestrutura
+
+- R06: Mudanças regulatórias
+  Probabilidade: 1/5, Impacto: 3/5, Nível: Baixo
+  Mitigação: Implementar plano de contingência
+
+- R07: Mudanças regulatórias
+  Probabilidade: 5/5, Impacto: 2/5, Nível: Médio
+  Mitigação: Gerenciar dependências ativamente
+
+- R08: Rotatividade de pessoal-chave
+  Probabilidade: 1/5, Impacto: 4/5, Nível: Baixo
+  Mitigação: Monitorar mudanças regulatórias
+
+- R09: Estimativas imprecisas
+  Probabilidade: 2/5, Impacto: 4/5, Nível: Médio
+  Mitigação: Fortalecer medidas de segurança
+
+- R10: Problemas de compatibilidade
+  Probabilidade: 3/5, Impacto: 2/5, Nível: Baixo
+  Mitigação: Realizar testes de integração antecipados
+
+Riscos ocorridos:
+- R07 (ocorrido em 26/05/2025)
+  Impacto real: Falhas de segurança
+  Ações tomadas: Contratação de recursos adicionais
+
+- R01 (ocorrido em 18/05/2025)
+  Impacto real: Falhas de segurança
+  Ações tomadas: Contratação de recursos adicionais
+

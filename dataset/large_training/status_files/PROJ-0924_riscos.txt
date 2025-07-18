@@ -1,0 +1,43 @@
+RELATÓRIO DE STATUS DE RISCOS
+Projeto: O prazer de realizar seus sonhos de maneira eficaz (PROJ-0924)
+Data: 14/07/2025
+Gerente: Sra. Laís Cassiano
+
+Riscos identificados:
+- R01: Mudanças regulatórias
+  Probabilidade: 4/5, Impacto: 4/5, Nível: Alto
+  Mitigação: Comunicar benefícios da mudança
+
+- R02: Rotatividade de pessoal-chave
+  Probabilidade: 5/5, Impacto: 3/5, Nível: Médio
+  Mitigação: Buscar fornecedores alternativos
+
+- R03: Indisponibilidade de recursos especializados
+  Probabilidade: 3/5, Impacto: 4/5, Nível: Médio
+  Mitigação: Realizar testes de aceitação com usuários-chave
+
+- R04: Rotatividade de pessoal-chave
+  Probabilidade: 5/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Comunicar benefícios da mudança
+
+- R05: Estimativas imprecisas
+  Probabilidade: 1/5, Impacto: 3/5, Nível: Baixo
+  Mitigação: Realizar testes de aceitação com usuários-chave
+
+- R06: Problemas de compatibilidade
+  Probabilidade: 5/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Buscar fornecedores alternativos
+
+- R07: Problemas de comunicação com stakeholders
+  Probabilidade: 1/5, Impacto: 2/5, Nível: Baixo
+  Mitigação: Otimizar código e infraestrutura
+
+Riscos ocorridos:
+- R02 (ocorrido em 19/06/2025)
+  Impacto real: Falhas de segurança
+  Ações tomadas: Contratação de recursos adicionais
+
+- R06 (ocorrido em 07/07/2025)
+  Impacto real: Retrabalho significativo
+  Ações tomadas: Realocação de recursos
+

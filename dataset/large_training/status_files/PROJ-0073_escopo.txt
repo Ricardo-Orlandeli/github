@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE ESCOPO
+Projeto: A segurança de conseguir mais rapidamente (PROJ-0073)
+Data: 14/07/2025
+Gerente: Sra. Lorena Abreu
+
+Escopo original: Sistema para a segurança de conseguir mais rapidamente
+Houve mudança de escopo: Não
+Descrição das mudanças: N/A
+Impacto no cronograma: 0 dias
+Impacto no custo: R$ 0.00
+
+Solicitações de mudança:
+
+Requisitos atuais:
+- REQ-01: O sistema deve ter backup automático diário
+- REQ-02: O sistema deve passar por testes de segurança
+- REQ-03: O sistema deve ter backup automático diário
+- REQ-04: O sistema deve registrar logs de auditoria
+- REQ-05: O sistema deve processar transações em menos de 2 seconds
+- REQ-06: O sistema deve ter interface responsiva

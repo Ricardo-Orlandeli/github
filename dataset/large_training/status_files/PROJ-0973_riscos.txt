@@ -1,0 +1,27 @@
+RELATÓRIO DE STATUS DE RISCOS
+Projeto: A vantagem de atingir seus objetivos simplesmente (PROJ-0973)
+Data: 14/07/2025
+Gerente: José Pedro Caldeira
+
+Riscos identificados:
+- R01: Problemas de integração com sistemas legados
+  Probabilidade: 3/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Gerenciar dependências ativamente
+
+- R02: Dependências externas não cumpridas
+  Probabilidade: 4/5, Impacto: 3/5, Nível: Médio
+  Mitigação: Comunicar benefícios da mudança
+
+- R03: Falhas em testes de aceitação
+  Probabilidade: 5/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Refinar estimativas com base em dados históricos
+
+- R04: Dependências externas não cumpridas
+  Probabilidade: 5/5, Impacto: 3/5, Nível: Médio
+  Mitigação: Estabelecer canais de comunicação claros
+
+Riscos ocorridos:
+- R02 (ocorrido em 24/03/2025)
+  Impacto real: Redução de funcionalidades
+  Ações tomadas: Implementação de controles adicionais
+

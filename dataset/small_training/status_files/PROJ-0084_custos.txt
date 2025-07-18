@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O conforto de realizar seus sonhos de maneira eficaz (PROJ-0084)
+Data: 14/07/2025
+Gerente: Sr. Vicente Porto
+
+Orçamento inicial: R$ 189875.00
+Custo real atual: R$ 215490.92
+Desvio orçamentário: 13.49%
+Índice de Desempenho de Custo (CPI): 0.88
+Valor Agregado (EV): R$ 189875.00
+Estimativa para conclusão: R$ 0.00
+Estimativa no término (EAC): R$ 215490.92
+Variação no término (VAC): R$ -25615.92
+
+Detalhamento por categoria:
+- Pessoal: R$ 96862.49 (44.9%)
+- Equipamentos: R$ 35736.96 (16.6%)
+- Software: R$ 29389.85 (13.6%)
+- Serviços: R$ 33176.63 (15.4%)
+- Outros: R$ 20325.00 (9.4%)

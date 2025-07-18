@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A arte de mudar em estado puro (PROJ-0601)
+Data: 14/07/2025
+Gerente: Luiz Gustavo Garcia
+
+Orçamento inicial: R$ 4751978.00
+Custo real atual: R$ 3451083.61
+Desvio orçamentário: 21.92%
+Índice de Desempenho de Custo (CPI): 0.69
+Valor Agregado (EV): R$ 2375568.69
+Estimativa para conclusão: R$ 3452304.81
+Estimativa no término (EAC): R$ 6903388.42
+Variação no término (VAC): R$ -2151410.42
+
+Detalhamento por categoria:
+- Pessoal: R$ 2074980.36 (60.1%)
+- Equipamentos: R$ 374618.55 (10.9%)
+- Software: R$ 301471.85 (8.7%)
+- Serviços: R$ 434760.07 (12.6%)
+- Outros: R$ 265252.78 (7.7%)

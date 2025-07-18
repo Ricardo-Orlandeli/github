@@ -1,0 +1,26 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A possibilidade de concretizar seus projetos com toda a tranquilidade (PROJ-0064)
+Data: 14/07/2025
+Gerente: Milena Porto
+
+Status atual: Em andamento
+Percentual de conclusão: 90.4%
+Data de início: 25/03/2024
+Data de término planejada: 11/06/2024
+Data de término real/prevista: 11/07/2024
+Atraso atual: 398 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 0.97
+Valor Planejado (PV): R$ 3840742.00
+Valor Agregado (EV): R$ 3472909.58
+
+Tarefas críticas:
+- Implementação do módulo de exportação de dados
+- Configuração da infraestrutura
+- Implementação do módulo de análise de dados
+- Desenvolvimento do módulo de autenticação
+- Configuração da infraestrutura
+- Configuração da infraestrutura
+- Testes de segurança
+
+Tarefas atrasadas:

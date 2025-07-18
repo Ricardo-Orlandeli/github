@@ -1,0 +1,39 @@
+RELATÓRIO DE STATUS DE RISCOS
+Projeto: A liberdade de conseguir em estado puro (PROJ-0717)
+Data: 14/07/2025
+Gerente: Theo Fernandes
+
+Riscos identificados:
+- R01: Requisitos mal definidos
+  Probabilidade: 2/5, Impacto: 2/5, Nível: Baixo
+  Mitigação: Monitorar mudanças regulatórias
+
+- R02: Rotatividade de pessoal-chave
+  Probabilidade: 2/5, Impacto: 4/5, Nível: Médio
+  Mitigação: Implementar redundância de infraestrutura
+
+- R03: Problemas de compatibilidade
+  Probabilidade: 4/5, Impacto: 5/5, Nível: Alto
+  Mitigação: Refinar estimativas com base em dados históricos
+
+- R04: Falhas de segurança
+  Probabilidade: 4/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Contratar pessoal adicional
+
+- R05: Falhas de segurança
+  Probabilidade: 5/5, Impacto: 3/5, Nível: Médio
+  Mitigação: Otimizar código e infraestrutura
+
+- R06: Falhas de segurança
+  Probabilidade: 4/5, Impacto: 3/5, Nível: Médio
+  Mitigação: Buscar fornecedores alternativos
+
+- R07: Atraso na entrega de componentes críticos
+  Probabilidade: 2/5, Impacto: 4/5, Nível: Médio
+  Mitigação: Implementar redundância de infraestrutura
+
+Riscos ocorridos:
+- R06 (ocorrido em 29/06/2025)
+  Impacto real: Perda de recursos-chave
+  Ações tomadas: Implementação de soluções alternativas
+

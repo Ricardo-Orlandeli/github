@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A arte de avançar com confiança (PROJ-0484)
+Data: 14/07/2025
+Gerente: Kaique Fonseca
+
+Orçamento inicial: R$ 1322015.00
+Custo real atual: R$ 1046028.45
+Desvio orçamentário: -20.88%
+Índice de Desempenho de Custo (CPI): 0.94
+Valor Agregado (EV): R$ 985097.77
+Estimativa para conclusão: R$ 357756.38
+Estimativa no término (EAC): R$ 1403784.83
+Variação no término (VAC): R$ -81769.83
+
+Detalhamento por categoria:
+- Pessoal: R$ 528018.79 (50.5%)
+- Equipamentos: R$ 168422.87 (16.1%)
+- Software: R$ 104022.96 (9.9%)
+- Serviços: R$ 184445.96 (17.6%)
+- Outros: R$ 61117.87 (5.8%)

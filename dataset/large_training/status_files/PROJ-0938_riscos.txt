@@ -1,0 +1,47 @@
+RELATÓRIO DE STATUS DE RISCOS
+Projeto: A vantagem de atingir seus objetivos de maneira eficaz (PROJ-0938)
+Data: 14/07/2025
+Gerente: Joaquim Montenegro
+
+Riscos identificados:
+- R01: Falhas de segurança
+  Probabilidade: 1/5, Impacto: 3/5, Nível: Baixo
+  Mitigação: Comunicar benefícios da mudança
+
+- R02: Estimativas imprecisas
+  Probabilidade: 1/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Refinar estimativas com base em dados históricos
+
+- R03: Resistência dos usuários à mudança
+  Probabilidade: 3/5, Impacto: 3/5, Nível: Médio
+  Mitigação: Monitorar mudanças regulatórias
+
+- R04: Problemas de compatibilidade
+  Probabilidade: 3/5, Impacto: 4/5, Nível: Médio
+  Mitigação: Estabelecer canais de comunicação claros
+
+- R05: Rotatividade de pessoal-chave
+  Probabilidade: 4/5, Impacto: 3/5, Nível: Médio
+  Mitigação: Comunicar benefícios da mudança
+
+- R06: Resistência dos usuários à mudança
+  Probabilidade: 1/5, Impacto: 4/5, Nível: Baixo
+  Mitigação: Contratar pessoal adicional
+
+- R07: Problemas de compatibilidade
+  Probabilidade: 1/5, Impacto: 4/5, Nível: Baixo
+  Mitigação: Comunicar benefícios da mudança
+
+- R08: Requisitos mal definidos
+  Probabilidade: 5/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Realizar testes de aceitação com usuários-chave
+
+Riscos ocorridos:
+- R01 (ocorrido em 11/05/2025)
+  Impacto real: Problemas de qualidade
+  Ações tomadas: Implementação de soluções alternativas
+
+- R08 (ocorrido em 07/06/2025)
+  Impacto real: Indisponibilidade temporária
+  Ações tomadas: Implementação do plano de contingência
+

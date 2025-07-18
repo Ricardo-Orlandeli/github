@@ -1,0 +1,27 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: O prazer de inovar mais rapidamente (PROJ-0654)
+Data: 14/07/2025
+Gerente: Ravi Lucca Macedo
+
+Status atual: Em andamento
+Percentual de conclusão: 81.9%
+Data de início: 15/10/2023
+Data de término planejada: 22/09/2024
+Data de término real/prevista: 12/09/2024
+Atraso atual: 295 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.04
+Valor Planejado (PV): R$ 3007854.00
+Valor Agregado (EV): R$ 2462156.00
+
+Tarefas críticas:
+- Configuração do ambiente de produção
+- Configuração da infraestrutura
+- Implementação do módulo de exportação de dados
+- Configuração da infraestrutura
+- Desenvolvimento do módulo de autenticação
+- Desenvolvimento da interface do usuário
+- Configuração da infraestrutura
+- Implementação da API REST
+
+Tarefas atrasadas:

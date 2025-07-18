@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE ESCOPO
+Projeto: A vantagem de mudar sem preocupação (PROJ-0062)
+Data: 14/07/2025
+Gerente: Sr. Arthur Vasconcelos
+
+Escopo original: Sistema para a vantagem de mudar sem preocupação
+Houve mudança de escopo: Não
+Descrição das mudanças: N/A
+Impacto no cronograma: 0 dias
+Impacto no custo: R$ 0.00
+
+Solicitações de mudança:
+
+Requisitos atuais:
+- REQ-01: O sistema deve permitir exportação de dados em formato CSV
+- REQ-02: O sistema deve ter controle de acesso baseado em perfis
+- REQ-03: O sistema deve ter documentação completa
+- REQ-04: O sistema deve permitir autenticação de usuários
+- REQ-05: O sistema deve permitir integração com APIs externas
+- REQ-06: O sistema deve registrar logs de auditoria

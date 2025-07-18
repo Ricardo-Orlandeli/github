@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A segurança de atingir seus objetivos mais rapidamente (PROJ-0830)
+Data: 14/07/2025
+Gerente: Emanuelly Pastor
+
+Orçamento inicial: R$ 2111530.00
+Custo real atual: R$ 2073749.75
+Desvio orçamentário: -1.79%
+Índice de Desempenho de Custo (CPI): 0.73
+Valor Agregado (EV): R$ 1513127.38
+Estimativa para conclusão: R$ 820114.23
+Estimativa no término (EAC): R$ 2893863.98
+Variação no término (VAC): R$ -782333.98
+
+Detalhamento por categoria:
+- Pessoal: R$ 961015.01 (46.3%)
+- Equipamentos: R$ 310319.63 (15.0%)
+- Software: R$ 355147.73 (17.1%)
+- Serviços: R$ 309766.80 (14.9%)
+- Outros: R$ 137500.59 (6.6%)

@@ -1,0 +1,25 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A liberdade de concretizar seus projetos sem preocupação (PROJ-0011)
+Data: 14/07/2025
+Gerente: João Guilherme Camargo
+
+Status atual: Em andamento
+Percentual de conclusão: 82.4%
+Data de início: 06/11/2023
+Data de término planejada: 11/03/2024
+Data de término real/prevista: 09/03/2024
+Atraso atual: 490 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 0.97
+Valor Planejado (PV): R$ 2045748.00
+Valor Agregado (EV): R$ 1685182.18
+
+Tarefas críticas:
+- Testes de segurança
+- Desenvolvimento do painel administrativo
+- Implementação do sistema de backup
+- Testes de segurança
+- Testes de aceitação do usuário
+- Migração de dados legados
+
+Tarefas atrasadas:

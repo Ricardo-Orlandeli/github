@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O prazer de mudar mais facilmente (PROJ-0088)
+Data: 14/07/2025
+Gerente: Gabrielly Macedo
+
+Orçamento inicial: R$ 4153470.00
+Custo real atual: R$ 2647649.05
+Desvio orçamentário: -36.25%
+Índice de Desempenho de Custo (CPI): 0.93
+Valor Agregado (EV): R$ 2456508.38
+Estimativa para conclusão: R$ 1829002.03
+Estimativa no término (EAC): R$ 4476651.07
+Variação no término (VAC): R$ -323181.07
+
+Detalhamento por categoria:
+- Pessoal: R$ 1177299.66 (44.5%)
+- Equipamentos: R$ 434888.68 (16.4%)
+- Software: R$ 251702.93 (9.5%)
+- Serviços: R$ 533078.16 (20.1%)
+- Outros: R$ 250679.62 (9.5%)

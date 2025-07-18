@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A segurança de ganhar simplesmente (PROJ-0102)
+Data: 14/07/2025
+Gerente: Luana Cavalcante
+
+Orçamento inicial: R$ 1010434.00
+Custo real atual: R$ 989488.89
+Desvio orçamentário: -2.07%
+Índice de Desempenho de Custo (CPI): 1.02
+Valor Agregado (EV): R$ 1009423.57
+Estimativa para conclusão: R$ 990.48
+Estimativa no término (EAC): R$ 990479.37
+Variação no término (VAC): R$ 19954.63
+
+Detalhamento por categoria:
+- Pessoal: R$ 511047.30 (51.6%)
+- Equipamentos: R$ 173938.41 (17.6%)
+- Software: R$ 87476.51 (8.8%)
+- Serviços: R$ 157567.19 (15.9%)
+- Outros: R$ 59459.48 (6.0%)

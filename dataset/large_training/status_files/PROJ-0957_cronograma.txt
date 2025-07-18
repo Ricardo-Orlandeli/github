@@ -1,0 +1,22 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A certeza de conseguir direto da fonte (PROJ-0957)
+Data: 14/07/2025
+Gerente: Felipe Lima
+
+Status atual: Concluído
+Percentual de conclusão: 100.0%
+Data de início: 29/09/2023
+Data de término planejada: 16/02/2024
+Data de término real/prevista: 18/01/2024
+Atraso atual: 514 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.07
+Valor Planejado (PV): R$ 3276411.00
+Valor Agregado (EV): R$ 3276411.00
+
+Tarefas críticas:
+- Desenvolvimento da interface do usuário
+- Implementação do módulo de análise de dados
+- Desenvolvimento do módulo de autenticação
+
+Tarefas atrasadas:

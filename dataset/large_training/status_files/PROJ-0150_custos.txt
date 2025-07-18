@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A certeza de avançar sem preocupação (PROJ-0150)
+Data: 14/07/2025
+Gerente: Maria Júlia Teixeira
+
+Orçamento inicial: R$ 1496943.00
+Custo real atual: R$ 927283.86
+Desvio orçamentário: -38.05%
+Índice de Desempenho de Custo (CPI): 0.95
+Valor Agregado (EV): R$ 878094.38
+Estimativa para conclusão: R$ 653515.55
+Estimativa no término (EAC): R$ 1580799.41
+Variação no término (VAC): R$ -83856.41
+
+Detalhamento por categoria:
+- Pessoal: R$ 438480.70 (47.3%)
+- Equipamentos: R$ 125599.14 (13.5%)
+- Software: R$ 120849.54 (13.0%)
+- Serviços: R$ 163231.00 (17.6%)
+- Outros: R$ 79123.48 (8.5%)

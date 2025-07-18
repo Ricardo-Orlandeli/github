@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A liberdade de concretizar seus projetos simplesmente (PROJ-0423)
+Data: 14/07/2025
+Gerente: Ágatha Montenegro
+
+Orçamento inicial: R$ 2595063.00
+Custo real atual: R$ 2883860.07
+Desvio orçamentário: 11.13%
+Índice de Desempenho de Custo (CPI): 0.90
+Valor Agregado (EV): R$ 2592467.94
+Estimativa para conclusão: R$ 2886.75
+Estimativa no término (EAC): R$ 2886746.81
+Variação no término (VAC): R$ -291683.81
+
+Detalhamento por categoria:
+- Pessoal: R$ 1353244.50 (46.9%)
+- Equipamentos: R$ 630198.44 (21.9%)
+- Software: R$ 217755.64 (7.6%)
+- Serviços: R$ 500229.63 (17.3%)
+- Outros: R$ 182431.86 (6.3%)

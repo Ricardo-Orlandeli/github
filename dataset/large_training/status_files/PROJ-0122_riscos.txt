@@ -1,0 +1,59 @@
+RELATÓRIO DE STATUS DE RISCOS
+Projeto: A certeza de avançar antes de tudo (PROJ-0122)
+Data: 14/07/2025
+Gerente: Maria Cecília Barros
+
+Riscos identificados:
+- R01: Problemas de integração com sistemas legados
+  Probabilidade: 4/5, Impacto: 5/5, Nível: Alto
+  Mitigação: Melhorar a documentação de requisitos
+
+- R02: Rotatividade de pessoal-chave
+  Probabilidade: 3/5, Impacto: 4/5, Nível: Médio
+  Mitigação: Gerenciar dependências ativamente
+
+- R03: Mudanças regulatórias
+  Probabilidade: 1/5, Impacto: 4/5, Nível: Baixo
+  Mitigação: Implementar redundância de infraestrutura
+
+- R04: Requisitos mal definidos
+  Probabilidade: 5/5, Impacto: 2/5, Nível: Médio
+  Mitigação: Realizar testes de integração antecipados
+
+- R05: Requisitos mal definidos
+  Probabilidade: 3/5, Impacto: 3/5, Nível: Médio
+  Mitigação: Melhorar a documentação de requisitos
+
+- R06: Problemas de integração com sistemas legados
+  Probabilidade: 3/5, Impacto: 4/5, Nível: Médio
+  Mitigação: Buscar fornecedores alternativos
+
+- R07: Problemas de integração com sistemas legados
+  Probabilidade: 4/5, Impacto: 2/5, Nível: Médio
+  Mitigação: Implementar redundância de infraestrutura
+
+- R08: Falhas em testes de aceitação
+  Probabilidade: 2/5, Impacto: 4/5, Nível: Médio
+  Mitigação: Implementar redundância de infraestrutura
+
+- R09: Falhas de segurança
+  Probabilidade: 1/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Buscar fornecedores alternativos
+
+- R10: Resistência dos usuários à mudança
+  Probabilidade: 2/5, Impacto: 3/5, Nível: Baixo
+  Mitigação: Buscar fornecedores alternativos
+
+Riscos ocorridos:
+- R08 (ocorrido em 02/06/2025)
+  Impacto real: Redução de funcionalidades
+  Ações tomadas: Revisão de prioridades
+
+- R02 (ocorrido em 15/06/2025)
+  Impacto real: Problemas de qualidade
+  Ações tomadas: Revisão do orçamento
+
+- R07 (ocorrido em 29/06/2025)
+  Impacto real: Retrabalho significativo
+  Ações tomadas: Revisão de processos
+

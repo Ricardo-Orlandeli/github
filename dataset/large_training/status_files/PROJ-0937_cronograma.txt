@@ -1,0 +1,29 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A liberdade de mudar com força total (PROJ-0937)
+Data: 14/07/2025
+Gerente: Breno Carvalho
+
+Status atual: Atrasado
+Percentual de conclusão: 51.3%
+Data de início: 28/07/2023
+Data de término planejada: 03/01/2024
+Data de término real/prevista: 19/03/2024
+Atraso atual: 558 dias
+Motivo do atraso: Problemas técnicos inesperados
+Índice de Desempenho de Cronograma (SPI): 0.51
+Valor Planejado (PV): R$ 1176935.00
+Valor Agregado (EV): R$ 603509.95
+
+Tarefas críticas:
+- Configuração da infraestrutura
+- Implementação do módulo de análise de dados
+- Configuração do ambiente de produção
+- Implementação do módulo de relatórios
+- Implementação do módulo de exportação de dados
+- Implementação do módulo de exportação de dados
+- Integração com sistema de pagamentos
+- Testes de segurança
+
+Tarefas atrasadas:
+- Configuração da infraestrutura
+- Implementação do módulo de exportação de dados

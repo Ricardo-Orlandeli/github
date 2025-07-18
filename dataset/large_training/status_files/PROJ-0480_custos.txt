@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O conforto de ganhar com toda a tranquilidade (PROJ-0480)
+Data: 14/07/2025
+Gerente: Pedro Lucas Costela
+
+Orçamento inicial: R$ 1822097.00
+Custo real atual: R$ 1464287.63
+Desvio orçamentário: -19.64%
+Índice de Desempenho de Custo (CPI): 1.24
+Valor Agregado (EV): R$ 1820274.90
+Estimativa para conclusão: R$ 1465.75
+Estimativa no término (EAC): R$ 1465753.39
+Variação no término (VAC): R$ 356343.61
+
+Detalhamento por categoria:
+- Pessoal: R$ 763241.45 (52.1%)
+- Equipamentos: R$ 256056.61 (17.5%)
+- Software: R$ 172475.23 (11.8%)
+- Serviços: R$ 148290.85 (10.1%)
+- Outros: R$ 124223.50 (8.5%)

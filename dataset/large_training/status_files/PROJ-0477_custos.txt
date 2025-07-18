@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A vantagem de conseguir mais rapidamente (PROJ-0477)
+Data: 14/07/2025
+Gerente: Sra. Luara Fogaça
+
+Orçamento inicial: R$ 1413121.00
+Custo real atual: R$ 1236554.23
+Desvio orçamentário: -12.49%
+Índice de Desempenho de Custo (CPI): 0.95
+Valor Agregado (EV): R$ 1173389.00
+Estimativa para conclusão: R$ 252637.13
+Estimativa no término (EAC): R$ 1489191.36
+Variação no término (VAC): R$ -76070.36
+
+Detalhamento por categoria:
+- Pessoal: R$ 573281.66 (46.4%)
+- Equipamentos: R$ 172464.04 (13.9%)
+- Software: R$ 156016.32 (12.6%)
+- Serviços: R$ 223908.06 (18.1%)
+- Outros: R$ 110884.15 (9.0%)

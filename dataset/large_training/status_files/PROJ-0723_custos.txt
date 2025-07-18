@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O conforto de mudar em estado puro (PROJ-0723)
+Data: 14/07/2025
+Gerente: Leonardo Silveira
+
+Orçamento inicial: R$ 4704178.00
+Custo real atual: R$ 4311173.89
+Desvio orçamentário: -8.35%
+Índice de Desempenho de Custo (CPI): 1.09
+Valor Agregado (EV): R$ 4704178.00
+Estimativa para conclusão: R$ 0.00
+Estimativa no término (EAC): R$ 4311173.89
+Variação no término (VAC): R$ 393004.11
+
+Detalhamento por categoria:
+- Pessoal: R$ 2348413.58 (54.5%)
+- Equipamentos: R$ 522804.77 (12.1%)
+- Software: R$ 514307.96 (11.9%)
+- Serviços: R$ 506214.91 (11.7%)
+- Outros: R$ 419432.67 (9.7%)

@@ -1,0 +1,26 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: O direito de concretizar seus projetos mais rapidamente (PROJ-0286)
+Data: 14/07/2025
+Gerente: Sr. Luiz Fernando Mendonça
+
+Status atual: Em andamento
+Percentual de conclusão: 99.9%
+Data de início: 05/09/2023
+Data de término planejada: 08/10/2023
+Data de término real/prevista: 28/09/2023
+Atraso atual: 645 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 0.91
+Valor Planejado (PV): R$ 922352.00
+Valor Agregado (EV): R$ 921429.65
+
+Tarefas críticas:
+- Implementação do sistema de backup
+- Implementação do módulo de análise de dados
+- Implementação do módulo de notificações
+- Implementação do módulo de análise de dados
+- Testes de segurança
+- Implementação do módulo de notificações
+- Desenvolvimento do módulo de autenticação
+
+Tarefas atrasadas:

@@ -1,0 +1,19 @@
+RELATÓRIO DE STATUS DE RISCOS
+Projeto: A certeza de avançar direto da fonte (PROJ-0146)
+Data: 14/07/2025
+Gerente: Lorena Melo
+
+Riscos identificados:
+- R01: Falhas de infraestrutura
+  Probabilidade: 2/5, Impacto: 5/5, Nível: Médio
+  Mitigação: Fortalecer medidas de segurança
+
+- R02: Falhas de segurança
+  Probabilidade: 5/5, Impacto: 4/5, Nível: Alto
+  Mitigação: Realizar testes de aceitação com usuários-chave
+
+- R03: Rotatividade de pessoal-chave
+  Probabilidade: 5/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Monitorar mudanças regulatórias
+
+Riscos ocorridos:

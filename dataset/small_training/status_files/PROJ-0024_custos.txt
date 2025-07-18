@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A arte de mudar antes de tudo (PROJ-0024)
+Data: 14/07/2025
+Gerente: Marina Cavalcanti
+
+Orçamento inicial: R$ 4174000.00
+Custo real atual: R$ 3499680.57
+Desvio orçamentário: -16.16%
+Índice de Desempenho de Custo (CPI): 1.19
+Valor Agregado (EV): R$ 4169826.00
+Estimativa para conclusão: R$ 3503.18
+Estimativa no término (EAC): R$ 3503183.75
+Variação no término (VAC): R$ 670816.25
+
+Detalhamento por categoria:
+- Pessoal: R$ 1548657.74 (44.3%)
+- Equipamentos: R$ 716222.58 (20.5%)
+- Software: R$ 342148.96 (9.8%)
+- Serviços: R$ 662386.30 (18.9%)
+- Outros: R$ 230264.99 (6.6%)

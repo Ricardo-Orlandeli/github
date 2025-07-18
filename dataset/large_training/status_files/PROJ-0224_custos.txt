@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A arte de ganhar direto da fonte (PROJ-0224)
+Data: 14/07/2025
+Gerente: Maria Clara Pacheco
+
+Orçamento inicial: R$ 1114292.00
+Custo real atual: R$ 1018693.71
+Desvio orçamentário: -8.58%
+Índice de Desempenho de Custo (CPI): 0.90
+Valor Agregado (EV): R$ 911778.65
+Estimativa para conclusão: R$ 226260.04
+Estimativa no término (EAC): R$ 1244953.74
+Variação no término (VAC): R$ -130661.74
+
+Detalhamento por categoria:
+- Pessoal: R$ 477087.10 (46.8%)
+- Equipamentos: R$ 170454.78 (16.7%)
+- Software: R$ 91773.56 (9.0%)
+- Serviços: R$ 184241.06 (18.1%)
+- Outros: R$ 95137.20 (9.3%)

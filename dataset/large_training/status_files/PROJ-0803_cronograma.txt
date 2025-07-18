@@ -1,0 +1,27 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: O poder de inovar mais facilmente (PROJ-0803)
+Data: 14/07/2025
+Gerente: Bruno Peixoto
+
+Status atual: Em andamento
+Percentual de conclusão: 99.9%
+Data de início: 13/08/2023
+Data de término planejada: 26/06/2024
+Data de término real/prevista: 08/07/2024
+Atraso atual: 383 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 0.96
+Valor Planejado (PV): R$ 4253136.00
+Valor Agregado (EV): R$ 4248882.86
+
+Tarefas críticas:
+- Migração de dados legados
+- Desenvolvimento do painel administrativo
+- Configuração do ambiente de produção
+- Implementação do módulo de relatórios
+- Migração de dados legados
+- Implementação do sistema de backup
+- Desenvolvimento do painel administrativo
+- Implementação do sistema de backup
+
+Tarefas atrasadas:

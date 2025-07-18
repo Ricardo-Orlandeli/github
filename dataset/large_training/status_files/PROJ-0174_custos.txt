@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O prazer de evoluir antes de tudo (PROJ-0174)
+Data: 14/07/2025
+Gerente: Sr. João Gabriel Souza
+
+Orçamento inicial: R$ 3377137.00
+Custo real atual: R$ 3393871.07
+Desvio orçamentário: 0.50%
+Índice de Desempenho de Custo (CPI): 0.88
+Valor Agregado (EV): R$ 2975065.05
+Estimativa para conclusão: R$ 458672.44
+Estimativa no término (EAC): R$ 3852543.51
+Variação no término (VAC): R$ -475406.51
+
+Detalhamento por categoria:
+- Pessoal: R$ 1483812.12 (43.7%)
+- Equipamentos: R$ 533785.62 (15.7%)
+- Software: R$ 452080.45 (13.3%)
+- Serviços: R$ 714861.22 (21.1%)
+- Outros: R$ 209331.66 (6.2%)

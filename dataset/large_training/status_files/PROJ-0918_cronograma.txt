@@ -1,0 +1,22 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: O prazer de avançar antes de tudo (PROJ-0918)
+Data: 14/07/2025
+Gerente: Srta. Ana Cassiano
+
+Status atual: Cancelado
+Percentual de conclusão: 78.7%
+Data de início: 06/06/2025
+Data de término planejada: 30/03/2026
+Data de término real/prevista: 25/01/2026
+Atraso atual: 0 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 6.15
+Valor Planejado (PV): R$ 335864.73
+Valor Agregado (EV): R$ 2064884.20
+
+Tarefas críticas:
+- Implementação do módulo de análise de dados
+- Configuração da infraestrutura
+- Implementação do módulo de relatórios
+
+Tarefas atrasadas:

@@ -1,0 +1,25 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A liberdade de conseguir mais rapidamente (PROJ-0453)
+Data: 14/07/2025
+Gerente: Maria Fernanda Freitas
+
+Status atual: Em andamento
+Percentual de conclusão: 99.9%
+Data de início: 02/07/2024
+Data de término planejada: 06/04/2025
+Data de término real/prevista: 09/04/2025
+Atraso atual: 99 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.01
+Valor Planejado (PV): R$ 2894903.00
+Valor Agregado (EV): R$ 2892008.10
+
+Tarefas críticas:
+- Implementação do módulo de relatórios
+- Implementação do módulo de exportação de dados
+- Configuração da infraestrutura
+- Testes de segurança
+- Migração de dados legados
+- Implementação da API REST
+
+Tarefas atrasadas:

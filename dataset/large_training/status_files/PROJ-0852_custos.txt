@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A segurança de conseguir com confiança (PROJ-0852)
+Data: 14/07/2025
+Gerente: Sra. Rafaela Vieira
+
+Orçamento inicial: R$ 4883397.00
+Custo real atual: R$ 4642662.56
+Desvio orçamentário: -4.93%
+Índice de Desempenho de Custo (CPI): 1.05
+Valor Agregado (EV): R$ 4878513.60
+Estimativa para conclusão: R$ 4647.31
+Estimativa no término (EAC): R$ 4647309.87
+Variação no término (VAC): R$ 236087.13
+
+Detalhamento por categoria:
+- Pessoal: R$ 2364694.56 (50.9%)
+- Equipamentos: R$ 553089.40 (11.9%)
+- Software: R$ 748709.81 (16.1%)
+- Serviços: R$ 634137.19 (13.7%)
+- Outros: R$ 342031.61 (7.4%)

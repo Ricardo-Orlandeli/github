@@ -1,0 +1,19 @@
+RELATÓRIO DE STATUS DE RISCOS
+Projeto: A segurança de evoluir com toda a tranquilidade (PROJ-0796)
+Data: 14/07/2025
+Gerente: Dr. Fernando Fogaça
+
+Riscos identificados:
+- R01: Resistência dos usuários à mudança
+  Probabilidade: 5/5, Impacto: 2/5, Nível: Médio
+  Mitigação: Realizar testes de aceitação com usuários-chave
+
+- R02: Problemas de integração com sistemas legados
+  Probabilidade: 5/5, Impacto: 3/5, Nível: Médio
+  Mitigação: Monitorar mudanças regulatórias
+
+- R03: Indisponibilidade de recursos especializados
+  Probabilidade: 2/5, Impacto: 2/5, Nível: Baixo
+  Mitigação: Testar compatibilidade em diferentes ambientes
+
+Riscos ocorridos:

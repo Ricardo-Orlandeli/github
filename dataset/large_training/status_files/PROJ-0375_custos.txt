@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O prazer de evoluir direto da fonte (PROJ-0375)
+Data: 14/07/2025
+Gerente: Anna Liz Cassiano
+
+Orçamento inicial: R$ 445128.00
+Custo real atual: R$ 364858.55
+Desvio orçamentário: -18.03%
+Índice de Desempenho de Custo (CPI): 1.22
+Valor Agregado (EV): R$ 444682.87
+Estimativa para conclusão: R$ 365.22
+Estimativa no término (EAC): R$ 365223.78
+Variação no término (VAC): R$ 79904.22
+
+Detalhamento por categoria:
+- Pessoal: R$ 198522.45 (54.4%)
+- Equipamentos: R$ 41098.51 (11.3%)
+- Software: R$ 43479.28 (11.9%)
+- Serviços: R$ 56302.63 (15.4%)
+- Outros: R$ 25455.69 (7.0%)

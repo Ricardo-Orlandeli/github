@@ -1,0 +1,31 @@
+RELATÓRIO DE STATUS DE ESCOPO
+Projeto: O conforto de conseguir mais facilmente (PROJ-0586)
+Data: 14/07/2025
+Gerente: Srta. Cecília Ribeiro
+
+Escopo original: Sistema para o conforto de conseguir mais facilmente
+Houve mudança de escopo: Sim
+Descrição das mudanças: Alteração nas especificações técnicas
+Impacto no cronograma: 56 dias
+Impacto no custo: R$ 451215.93
+
+Solicitações de mudança:
+- SCM-01: Integração com sistema legado
+- SCM-02: Implementação de módulo de exportação de dados
+
+Requisitos atuais:
+- REQ-01: O sistema deve ter backup automático diário
+- REQ-02: O sistema deve ser compatível com navegadores modernos
+- REQ-03: O sistema deve permitir exportação de dados em formato CSV
+- REQ-04: O sistema deve ter alta disponibilidade (99.9%)
+- REQ-05: O sistema deve processar transações em menos de 2 seconds
+- REQ-06: O sistema deve ser compatível com navegadores modernos
+- REQ-07: O sistema deve processar transações em menos de 2 seconds
+- REQ-08: O sistema deve permitir autenticação de usuários
+- REQ-09: O sistema deve ter backup automático diário
+- REQ-10: O sistema deve ser compatível com navegadores modernos
+- REQ-11: O sistema deve ter documentação completa
+- REQ-12: O sistema deve permitir integração com APIs externas
+- REQ-13: O sistema deve ter documentação completa
+- REQ-14: O sistema deve ter documentação completa
+- REQ-15: O sistema deve passar por testes de segurança

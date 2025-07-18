@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A segurança de ganhar simplesmente (PROJ-0734)
+Data: 14/07/2025
+Gerente: Sara Albuquerque
+
+Orçamento inicial: R$ 4983634.00
+Custo real atual: R$ 3761052.56
+Desvio orçamentário: -24.53%
+Índice de Desempenho de Custo (CPI): 1.11
+Valor Agregado (EV): R$ 4160834.26
+Estimativa para conclusão: R$ 743743.42
+Estimativa no término (EAC): R$ 4504795.98
+Variação no término (VAC): R$ 478838.02
+
+Detalhamento por categoria:
+- Pessoal: R$ 1697712.95 (45.1%)
+- Equipamentos: R$ 707278.07 (18.8%)
+- Software: R$ 538409.55 (14.3%)
+- Serviços: R$ 564626.54 (15.0%)
+- Outros: R$ 253025.45 (6.7%)

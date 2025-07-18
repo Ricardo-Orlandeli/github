@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O conforto de evoluir antes de tudo (PROJ-0755)
+Data: 14/07/2025
+Gerente: Luana Albuquerque
+
+Orçamento inicial: R$ 4539831.00
+Custo real atual: R$ 4233421.43
+Desvio orçamentário: -6.75%
+Índice de Desempenho de Custo (CPI): 1.07
+Valor Agregado (EV): R$ 4535291.17
+Estimativa para conclusão: R$ 4237.66
+Estimativa no término (EAC): R$ 4237659.09
+Variação no término (VAC): R$ 302171.91
+
+Detalhamento por categoria:
+- Pessoal: R$ 2185113.84 (51.6%)
+- Equipamentos: R$ 619847.73 (14.6%)
+- Software: R$ 519288.64 (12.3%)
+- Serviços: R$ 608786.43 (14.4%)
+- Outros: R$ 300384.80 (7.1%)

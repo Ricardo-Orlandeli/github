@@ -1,0 +1,22 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: O poder de avançar mais rapidamente (PROJ-0457)
+Data: 14/07/2025
+Gerente: Luana Cavalcante
+
+Status atual: Em andamento
+Percentual de conclusão: 84.9%
+Data de início: 24/10/2024
+Data de término planejada: 18/03/2025
+Data de término real/prevista: 19/03/2025
+Atraso atual: 118 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.15
+Valor Planejado (PV): R$ 1693693.00
+Valor Agregado (EV): R$ 1438613.08
+
+Tarefas críticas:
+- Implementação do módulo de notificações
+- Implementação do módulo de exportação de dados
+- Configuração do ambiente de produção
+
+Tarefas atrasadas:

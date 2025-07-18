@@ -1,0 +1,27 @@
+RELATÓRIO DE STATUS DE ESCOPO
+Projeto: A possibilidade de ganhar com toda a tranquilidade (PROJ-0066)
+Data: 14/07/2025
+Gerente: Ana Liz Gomes
+
+Escopo original: Sistema para a possibilidade de ganhar com toda a tranquilidade
+Houve mudança de escopo: Sim
+Descrição das mudanças: Redução do escopo devido a restrições orçamentárias
+Impacto no cronograma: 32 dias
+Impacto no custo: R$ 668848.69
+
+Solicitações de mudança:
+- SCM-01: Alteração nos requisitos de desempenho
+
+Requisitos atuais:
+- REQ-01: O sistema deve implementar criptografia de dados sensíveis
+- REQ-02: O sistema deve implementar criptografia de dados sensíveis
+- REQ-03: O sistema deve ter backup automático diário
+- REQ-04: O sistema deve processar transações em menos de 2 seconds
+- REQ-05: O sistema deve ter documentação completa
+- REQ-06: O sistema deve permitir integração com APIs externas
+- REQ-07: O sistema deve permitir exportação de dados em formato CSV
+- REQ-08: O sistema deve registrar logs de auditoria
+- REQ-09: O sistema deve ser compatível com navegadores modernos
+- REQ-10: O sistema deve ser escalável para suportar até 10.000 usuários simultâneos
+- REQ-11: O sistema deve ter controle de acesso baseado em perfis
+- REQ-12: O sistema deve ser compatível com navegadores modernos

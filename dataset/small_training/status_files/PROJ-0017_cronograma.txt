@@ -1,0 +1,25 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A segurança de conseguir antes de tudo (PROJ-0017)
+Data: 14/07/2025
+Gerente: Maria Flor Marques
+
+Status atual: Em andamento
+Percentual de conclusão: 91.2%
+Data de início: 25/02/2025
+Data de término planejada: 11/08/2025
+Data de término real/prevista: 16/08/2025
+Atraso atual: 0 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 0.88
+Valor Planejado (PV): R$ 1118798.51
+Valor Agregado (EV): R$ 1226048.91
+
+Tarefas críticas:
+- Integração com sistema de pagamentos
+- Configuração da infraestrutura
+- Desenvolvimento do painel administrativo
+- Desenvolvimento do painel administrativo
+- Configuração da infraestrutura
+- Implementação da API REST
+
+Tarefas atrasadas:

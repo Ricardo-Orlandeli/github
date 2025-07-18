@@ -1,0 +1,27 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A possibilidade de atingir seus objetivos mais facilmente (PROJ-0354)
+Data: 14/07/2025
+Gerente: André Azevedo
+
+Status atual: Em andamento
+Percentual de conclusão: 99.9%
+Data de início: 21/07/2023
+Data de término planejada: 07/07/2024
+Data de término real/prevista: 27/07/2024
+Atraso atual: 372 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.07
+Valor Planejado (PV): R$ 1203177.00
+Valor Agregado (EV): R$ 1201973.82
+
+Tarefas críticas:
+- Implementação do sistema de backup
+- Testes de aceitação do usuário
+- Testes de segurança
+- Testes de aceitação do usuário
+- Migração de dados legados
+- Desenvolvimento do módulo de autenticação
+- Configuração da infraestrutura
+- Implementação do módulo de análise de dados
+
+Tarefas atrasadas:

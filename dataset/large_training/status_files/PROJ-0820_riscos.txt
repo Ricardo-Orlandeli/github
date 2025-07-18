@@ -1,0 +1,27 @@
+RELATÓRIO DE STATUS DE RISCOS
+Projeto: A vantagem de concretizar seus projetos naturalmente (PROJ-0820)
+Data: 14/07/2025
+Gerente: Ísis Alves
+
+Riscos identificados:
+- R01: Atraso na entrega de componentes críticos
+  Probabilidade: 4/5, Impacto: 4/5, Nível: Alto
+  Mitigação: Implementar plano de contingência
+
+- R02: Resistência dos usuários à mudança
+  Probabilidade: 2/5, Impacto: 5/5, Nível: Médio
+  Mitigação: Implementar plano de contingência
+
+- R03: Dependências externas não cumpridas
+  Probabilidade: 1/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Otimizar código e infraestrutura
+
+- R04: Problemas de comunicação com stakeholders
+  Probabilidade: 2/5, Impacto: 2/5, Nível: Baixo
+  Mitigação: Buscar fornecedores alternativos
+
+- R05: Problemas de integração com sistemas legados
+  Probabilidade: 2/5, Impacto: 3/5, Nível: Baixo
+  Mitigação: Implementar plano de contingência
+
+Riscos ocorridos:

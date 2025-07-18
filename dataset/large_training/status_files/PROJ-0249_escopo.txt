@@ -1,0 +1,30 @@
+RELATÓRIO DE STATUS DE ESCOPO
+Projeto: A segurança de inovar sem preocupação (PROJ-0249)
+Data: 14/07/2025
+Gerente: Mateus Nunes
+
+Escopo original: Sistema para a segurança de inovar sem preocupação
+Houve mudança de escopo: Sim
+Descrição das mudanças: Adição de novos requisitos de segurança
+Impacto no cronograma: 56 dias
+Impacto no custo: R$ 270296.92
+
+Solicitações de mudança:
+- SCM-01: Integração com sistema legado
+- SCM-02: Integração com sistema legado
+- SCM-03: Mudança no banco de dados
+
+Requisitos atuais:
+- REQ-01: O sistema deve permitir exportação de dados em formato CSV
+- REQ-02: O sistema deve ter interface responsiva
+- REQ-03: O sistema deve ser compatível com dispositivos móveis
+- REQ-04: O sistema deve ser compatível com navegadores modernos
+- REQ-05: O sistema deve ser compatível com navegadores modernos
+- REQ-06: O sistema deve permitir exportação de dados em formato CSV
+- REQ-07: O sistema deve ter backup automático diário
+- REQ-08: O sistema deve ter backup automático diário
+- REQ-09: O sistema deve ter interface responsiva
+- REQ-10: O sistema deve permitir autenticação de usuários
+- REQ-11: O sistema deve implementar criptografia de dados sensíveis
+- REQ-12: O sistema deve implementar criptografia de dados sensíveis
+- REQ-13: O sistema deve ter documentação completa

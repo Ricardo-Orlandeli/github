@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A liberdade de mudar de maneira eficaz (PROJ-0811)
+Data: 14/07/2025
+Gerente: Maria Eduarda Marques
+
+Orçamento inicial: R$ 2946192.00
+Custo real atual: R$ 2472642.32
+Desvio orçamentário: -16.07%
+Índice de Desempenho de Custo (CPI): 1.19
+Valor Agregado (EV): R$ 2946192.00
+Estimativa para conclusão: R$ 0.00
+Estimativa no término (EAC): R$ 2472642.32
+Variação no término (VAC): R$ 473549.68
+
+Detalhamento por categoria:
+- Pessoal: R$ 1248308.62 (50.5%)
+- Equipamentos: R$ 348290.30 (14.1%)
+- Software: R$ 231697.92 (9.4%)
+- Serviços: R$ 453846.48 (18.4%)
+- Outros: R$ 190499.01 (7.7%)

@@ -1,0 +1,24 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: O conforto de evoluir simplesmente (PROJ-0282)
+Data: 14/07/2025
+Gerente: Melina da Conceição
+
+Status atual: Em andamento
+Percentual de conclusão: 99.9%
+Data de início: 08/11/2023
+Data de término planejada: 22/04/2024
+Data de término real/prevista: 15/05/2024
+Atraso atual: 448 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.12
+Valor Planejado (PV): R$ 2338061.00
+Valor Agregado (EV): R$ 2335722.94
+
+Tarefas críticas:
+- Implementação do módulo de relatórios
+- Implementação do módulo de relatórios
+- Implementação do módulo de notificações
+- Implementação do sistema de backup
+- Implementação do módulo de análise de dados
+
+Tarefas atrasadas:

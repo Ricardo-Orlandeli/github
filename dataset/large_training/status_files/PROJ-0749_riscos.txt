@@ -1,0 +1,35 @@
+RELATÓRIO DE STATUS DE RISCOS
+Projeto: O prazer de inovar com confiança (PROJ-0749)
+Data: 14/07/2025
+Gerente: Hadassa Cunha
+
+Riscos identificados:
+- R01: Dependências externas não cumpridas
+  Probabilidade: 5/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Estabelecer canais de comunicação claros
+
+- R02: Resistência dos usuários à mudança
+  Probabilidade: 3/5, Impacto: 3/5, Nível: Médio
+  Mitigação: Realizar testes de aceitação com usuários-chave
+
+- R03: Estimativas imprecisas
+  Probabilidade: 3/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Comunicar benefícios da mudança
+
+- R04: Requisitos mal definidos
+  Probabilidade: 4/5, Impacto: 3/5, Nível: Médio
+  Mitigação: Monitorar mudanças regulatórias
+
+Riscos ocorridos:
+- R04 (ocorrido em 18/02/2025)
+  Impacto real: Atraso de 2 semanas no cronograma
+  Ações tomadas: Contratação de recursos adicionais
+
+- R01 (ocorrido em 26/06/2025)
+  Impacto real: Aumento de 10% nos custos
+  Ações tomadas: Contratação de recursos adicionais
+
+- R02 (ocorrido em 02/07/2025)
+  Impacto real: Insatisfação dos stakeholders
+  Ações tomadas: Implementação de soluções alternativas
+

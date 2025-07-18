@@ -1,0 +1,28 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A vantagem de inovar naturalmente (PROJ-0578)
+Data: 14/07/2025
+Gerente: Olivia Borges
+
+Status atual: Atrasado
+Percentual de conclusão: 6.7%
+Data de início: 27/06/2025
+Data de término planejada: 14/12/2025
+Data de término real/prevista: 26/02/2026
+Atraso atual: 0 dias
+Motivo do atraso: Estimativas imprecisas
+Índice de Desempenho de Cronograma (SPI): 0.67
+Valor Planejado (PV): R$ 341535.80
+Valor Agregado (EV): R$ 228547.39
+
+Tarefas críticas:
+- Testes de segurança
+- Configuração do ambiente de produção
+- Implementação do módulo de notificações
+- Migração de dados legados
+- Implementação do módulo de relatórios
+- Desenvolvimento da interface do usuário
+- Integração com sistema de pagamentos
+
+Tarefas atrasadas:
+- Migração de dados legados
+- Integração com sistema de pagamentos

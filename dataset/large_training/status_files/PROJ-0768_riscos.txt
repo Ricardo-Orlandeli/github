@@ -1,0 +1,35 @@
+RELATÓRIO DE STATUS DE RISCOS
+Projeto: O prazer de atingir seus objetivos antes de tudo (PROJ-0768)
+Data: 14/07/2025
+Gerente: Sofia Cassiano
+
+Riscos identificados:
+- R01: Requisitos mal definidos
+  Probabilidade: 5/5, Impacto: 2/5, Nível: Médio
+  Mitigação: Implementar plano de contingência
+
+- R02: Mudanças regulatórias
+  Probabilidade: 3/5, Impacto: 2/5, Nível: Baixo
+  Mitigação: Monitorar mudanças regulatórias
+
+- R03: Problemas de comunicação com stakeholders
+  Probabilidade: 4/5, Impacto: 3/5, Nível: Médio
+  Mitigação: Refinar estimativas com base em dados históricos
+
+- R04: Problemas de comunicação com stakeholders
+  Probabilidade: 4/5, Impacto: 4/5, Nível: Alto
+  Mitigação: Otimizar código e infraestrutura
+
+- R05: Problemas de compatibilidade
+  Probabilidade: 1/5, Impacto: 4/5, Nível: Baixo
+  Mitigação: Gerenciar dependências ativamente
+
+- R06: Estimativas imprecisas
+  Probabilidade: 4/5, Impacto: 3/5, Nível: Médio
+  Mitigação: Comunicar benefícios da mudança
+
+Riscos ocorridos:
+- R06 (ocorrido em 06/12/2024)
+  Impacto real: Aumento de 10% nos custos
+  Ações tomadas: Implementação do plano de contingência
+

@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A simplicidade de concretizar seus projetos antes de tudo (PROJ-0132)
+Data: 14/07/2025
+Gerente: Enzo Porto
+
+Orçamento inicial: R$ 1068702.00
+Custo real atual: R$ 327553.90
+Desvio orçamentário: 22.20%
+Índice de Desempenho de Custo (CPI): 0.87
+Valor Agregado (EV): R$ 285975.41
+Estimativa para conclusão: R$ 896528.65
+Estimativa no término (EAC): R$ 1224082.55
+Variação no término (VAC): R$ -155380.55
+
+Detalhamento por categoria:
+- Pessoal: R$ 169113.90 (51.6%)
+- Equipamentos: R$ 57026.06 (17.4%)
+- Software: R$ 33902.34 (10.4%)
+- Serviços: R$ 48932.03 (14.9%)
+- Outros: R$ 18579.57 (5.7%)

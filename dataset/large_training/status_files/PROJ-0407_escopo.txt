@@ -1,0 +1,22 @@
+RELATÓRIO DE STATUS DE ESCOPO
+Projeto: A possibilidade de inovar mais facilmente (PROJ-0407)
+Data: 14/07/2025
+Gerente: Luiz Fernando Lima
+
+Escopo original: Sistema para a possibilidade de inovar mais facilmente
+Houve mudança de escopo: Sim
+Descrição das mudanças: Redução do escopo devido a restrições orçamentárias
+Impacto no cronograma: 12 dias
+Impacto no custo: R$ 322861.23
+
+Solicitações de mudança:
+- SCM-01: Adição de relatórios gerenciais
+- SCM-02: Implementação de módulo de exportação de dados
+- SCM-03: Alteração nos requisitos de desempenho
+
+Requisitos atuais:
+- REQ-01: O sistema deve processar transações em menos de 2 seconds
+- REQ-02: O sistema deve registrar logs de auditoria
+- REQ-03: O sistema deve permitir exportação de dados em formato CSV
+- REQ-04: O sistema deve ter alta disponibilidade (99.9%)
+- REQ-05: O sistema deve ter backup automático diário

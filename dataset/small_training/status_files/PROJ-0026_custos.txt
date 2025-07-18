@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O conforto de avançar com toda a tranquilidade (PROJ-0026)
+Data: 14/07/2025
+Gerente: Luigi Silva
+
+Orçamento inicial: R$ 128052.00
+Custo real atual: R$ 123998.97
+Desvio orçamentário: -3.17%
+Índice de Desempenho de Custo (CPI): 1.03
+Valor Agregado (EV): R$ 128052.00
+Estimativa para conclusão: R$ 0.00
+Estimativa no término (EAC): R$ 123998.97
+Variação no término (VAC): R$ 4053.03
+
+Detalhamento por categoria:
+- Pessoal: R$ 61084.29 (49.3%)
+- Equipamentos: R$ 19665.73 (15.9%)
+- Software: R$ 14550.90 (11.7%)
+- Serviços: R$ 17193.91 (13.9%)
+- Outros: R$ 11504.14 (9.3%)

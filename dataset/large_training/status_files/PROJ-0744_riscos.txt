@@ -1,0 +1,35 @@
+RELATÓRIO DE STATUS DE RISCOS
+Projeto: A arte de atingir seus objetivos mais facilmente (PROJ-0744)
+Data: 14/07/2025
+Gerente: Felipe Novaes
+
+Riscos identificados:
+- R01: Problemas de comunicação com stakeholders
+  Probabilidade: 5/5, Impacto: 3/5, Nível: Médio
+  Mitigação: Fortalecer medidas de segurança
+
+- R02: Falhas em testes de aceitação
+  Probabilidade: 4/5, Impacto: 2/5, Nível: Médio
+  Mitigação: Refinar estimativas com base em dados históricos
+
+- R03: Resistência dos usuários à mudança
+  Probabilidade: 4/5, Impacto: 4/5, Nível: Alto
+  Mitigação: Comunicar benefícios da mudança
+
+- R04: Problemas de compatibilidade
+  Probabilidade: 4/5, Impacto: 2/5, Nível: Médio
+  Mitigação: Contratar pessoal adicional
+
+- R05: Rotatividade de pessoal-chave
+  Probabilidade: 1/5, Impacto: 2/5, Nível: Baixo
+  Mitigação: Fortalecer medidas de segurança
+
+- R06: Falhas em testes de aceitação
+  Probabilidade: 3/5, Impacto: 4/5, Nível: Médio
+  Mitigação: Buscar fornecedores alternativos
+
+Riscos ocorridos:
+- R06 (ocorrido em 26/06/2025)
+  Impacto real: Problemas de qualidade
+  Ações tomadas: Implementação de soluções alternativas
+

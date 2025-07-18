@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O poder de mudar com toda a tranquilidade (PROJ-0665)
+Data: 14/07/2025
+Gerente: Dr. Felipe Moreira
+
+Orçamento inicial: R$ 2346505.00
+Custo real atual: R$ 2009020.92
+Desvio orçamentário: -14.38%
+Índice de Desempenho de Custo (CPI): 1.17
+Valor Agregado (EV): R$ 2344158.50
+Estimativa para conclusão: R$ 2011.03
+Estimativa no término (EAC): R$ 2011031.95
+Variação no término (VAC): R$ 335473.05
+
+Detalhamento por categoria:
+- Pessoal: R$ 1008702.35 (50.2%)
+- Equipamentos: R$ 228493.47 (11.4%)
+- Software: R$ 268314.62 (13.4%)
+- Serviços: R$ 316226.09 (15.7%)
+- Outros: R$ 187284.38 (9.3%)

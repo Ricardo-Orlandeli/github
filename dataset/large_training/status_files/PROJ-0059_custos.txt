@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A segurança de ganhar de maneira eficaz (PROJ-0059)
+Data: 14/07/2025
+Gerente: Valentim Pastor
+
+Orçamento inicial: R$ 1712851.00
+Custo real atual: R$ 1320621.64
+Desvio orçamentário: -22.90%
+Índice de Desempenho de Custo (CPI): 0.95
+Valor Agregado (EV): R$ 1249011.92
+Estimativa para conclusão: R$ 490432.41
+Estimativa no término (EAC): R$ 1811054.05
+Variação no término (VAC): R$ -98203.05
+
+Detalhamento por categoria:
+- Pessoal: R$ 662770.82 (50.2%)
+- Equipamentos: R$ 224763.12 (17.0%)
+- Software: R$ 95165.15 (7.2%)
+- Serviços: R$ 214730.59 (16.3%)
+- Outros: R$ 123191.96 (9.3%)

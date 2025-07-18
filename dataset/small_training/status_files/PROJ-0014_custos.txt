@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O prazer de conseguir mais facilmente (PROJ-0014)
+Data: 14/07/2025
+Gerente: Murilo Mendonça
+
+Orçamento inicial: R$ 4152055.00
+Custo real atual: R$ 4118512.08
+Desvio orçamentário: -0.81%
+Índice de Desempenho de Custo (CPI): 1.01
+Valor Agregado (EV): R$ 4152055.00
+Estimativa para conclusão: R$ 0.00
+Estimativa no término (EAC): R$ 4118512.08
+Variação no término (VAC): R$ 33542.92
+
+Detalhamento por categoria:
+- Pessoal: R$ 2254062.04 (54.7%)
+- Equipamentos: R$ 661229.79 (16.1%)
+- Software: R$ 302561.76 (7.3%)
+- Serviços: R$ 604316.24 (14.7%)
+- Outros: R$ 296342.25 (7.2%)

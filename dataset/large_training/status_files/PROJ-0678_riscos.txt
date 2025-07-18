@@ -1,0 +1,39 @@
+RELATÓRIO DE STATUS DE RISCOS
+Projeto: A arte de ganhar de maneira eficaz (PROJ-0678)
+Data: 14/07/2025
+Gerente: Beatriz Mendonça
+
+Riscos identificados:
+- R01: Falhas de segurança
+  Probabilidade: 1/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Estabelecer canais de comunicação claros
+
+- R02: Estimativas imprecisas
+  Probabilidade: 5/5, Impacto: 4/5, Nível: Alto
+  Mitigação: Realizar testes de integração antecipados
+
+- R03: Falhas de segurança
+  Probabilidade: 3/5, Impacto: 3/5, Nível: Médio
+  Mitigação: Melhorar a documentação de requisitos
+
+- R04: Indisponibilidade de recursos especializados
+  Probabilidade: 4/5, Impacto: 2/5, Nível: Médio
+  Mitigação: Testar compatibilidade em diferentes ambientes
+
+- R05: Problemas de comunicação com stakeholders
+  Probabilidade: 4/5, Impacto: 3/5, Nível: Médio
+  Mitigação: Implementar plano de contingência
+
+Riscos ocorridos:
+- R05 (ocorrido em 09/05/2025)
+  Impacto real: Perda de dados
+  Ações tomadas: Contratação de recursos adicionais
+
+- R01 (ocorrido em 19/09/2024)
+  Impacto real: Retrabalho significativo
+  Ações tomadas: Realocação de recursos
+
+- R03 (ocorrido em 09/02/2025)
+  Impacto real: Perda de dados
+  Ações tomadas: Ajuste no cronograma
+

@@ -1,0 +1,26 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: O conforto de mudar simplesmente (PROJ-0163)
+Data: 14/07/2025
+Gerente: Srta. Luna Sampaio
+
+Status atual: Em andamento
+Percentual de conclusão: 87.5%
+Data de início: 11/09/2023
+Data de término planejada: 16/07/2024
+Data de término real/prevista: 29/07/2024
+Atraso atual: 363 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 0.96
+Valor Planejado (PV): R$ 2988556.00
+Valor Agregado (EV): R$ 2614271.93
+
+Tarefas críticas:
+- Desenvolvimento do módulo de autenticação
+- Implementação do módulo de exportação de dados
+- Integração com sistema de pagamentos
+- Integração com sistema de pagamentos
+- Implementação do sistema de backup
+- Configuração do ambiente de produção
+- Testes de segurança
+
+Tarefas atrasadas:

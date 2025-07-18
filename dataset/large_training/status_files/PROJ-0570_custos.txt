@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O poder de atingir seus objetivos direto da fonte (PROJ-0570)
+Data: 14/07/2025
+Gerente: Maria Luísa da Costa
+
+Orçamento inicial: R$ 616594.00
+Custo real atual: R$ 443959.27
+Desvio orçamentário: -28.00%
+Índice de Desempenho de Custo (CPI): 0.82
+Valor Agregado (EV): R$ 362462.43
+Estimativa para conclusão: R$ 311271.07
+Estimativa no término (EAC): R$ 755230.34
+Variação no término (VAC): R$ -138636.34
+
+Detalhamento por categoria:
+- Pessoal: R$ 216965.62 (48.9%)
+- Equipamentos: R$ 62966.56 (14.2%)
+- Software: R$ 62266.32 (14.0%)
+- Serviços: R$ 73446.47 (16.5%)
+- Outros: R$ 28314.31 (6.4%)

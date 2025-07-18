@@ -1,0 +1,24 @@
+RELATÓRIO DE STATUS DE ESCOPO
+Projeto: A possibilidade de atingir seus objetivos com força total (PROJ-0959)
+Data: 14/07/2025
+Gerente: Juliana Cunha
+
+Escopo original: Sistema para a possibilidade de atingir seus objetivos com força total
+Houve mudança de escopo: Sim
+Descrição das mudanças: Adição de novos requisitos de segurança
+Impacto no cronograma: 39 dias
+Impacto no custo: R$ 260381.76
+
+Solicitações de mudança:
+- SCM-01: Alteração na interface do usuário
+- SCM-02: Adição de funcionalidade de autenticação biométrica
+- SCM-03: Adição de funcionalidade de autenticação biométrica
+
+Requisitos atuais:
+- REQ-01: O sistema deve ter controle de acesso baseado em perfis
+- REQ-02: O sistema deve ser compatível com navegadores modernos
+- REQ-03: O sistema deve ter documentação completa
+- REQ-04: O sistema deve implementar criptografia de dados sensíveis
+- REQ-05: O sistema deve ser compatível com navegadores modernos
+- REQ-06: O sistema deve permitir exportação de dados em formato CSV
+- REQ-07: O sistema deve ter interface responsiva

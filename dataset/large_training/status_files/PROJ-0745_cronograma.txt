@@ -1,0 +1,27 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: O poder de conseguir mais facilmente (PROJ-0745)
+Data: 14/07/2025
+Gerente: Helena Leão
+
+Status atual: Em andamento
+Percentual de conclusão: 99.9%
+Data de início: 30/08/2023
+Data de término planejada: 06/08/2024
+Data de término real/prevista: 30/08/2024
+Atraso atual: 342 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.05
+Valor Planejado (PV): R$ 241477.00
+Valor Agregado (EV): R$ 241235.52
+
+Tarefas críticas:
+- Integração com sistema de pagamentos
+- Integração com sistema de pagamentos
+- Configuração da infraestrutura
+- Migração de dados legados
+- Implementação do sistema de backup
+- Desenvolvimento do painel administrativo
+- Configuração da infraestrutura
+- Integração com sistema de pagamentos
+
+Tarefas atrasadas:

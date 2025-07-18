@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A arte de realizar seus sonhos antes de tudo (PROJ-0597)
+Data: 14/07/2025
+Gerente: Heloisa Pimenta
+
+Orçamento inicial: R$ 1416060.00
+Custo real atual: R$ 1663084.69
+Desvio orçamentário: 17.44%
+Índice de Desempenho de Custo (CPI): 0.68
+Valor Agregado (EV): R$ 1124469.98
+Estimativa para conclusão: R$ 431259.98
+Estimativa no término (EAC): R$ 2094344.67
+Variação no término (VAC): R$ -678284.67
+
+Detalhamento por categoria:
+- Pessoal: R$ 882965.32 (53.1%)
+- Equipamentos: R$ 295219.64 (17.8%)
+- Software: R$ 151536.47 (9.1%)
+- Serviços: R$ 186453.01 (11.2%)
+- Outros: R$ 146910.26 (8.8%)

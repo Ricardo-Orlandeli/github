@@ -1,0 +1,26 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: O direito de mudar simplesmente (PROJ-0772)
+Data: 14/07/2025
+Gerente: Eloah Lima
+
+Status atual: Concluído
+Percentual de conclusão: 100.0%
+Data de início: 07/03/2024
+Data de término planejada: 08/08/2024
+Data de término real/prevista: 18/08/2024
+Atraso atual: 340 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.05
+Valor Planejado (PV): R$ 828187.00
+Valor Agregado (EV): R$ 828187.00
+
+Tarefas críticas:
+- Desenvolvimento do módulo de autenticação
+- Testes de aceitação do usuário
+- Implementação do módulo de análise de dados
+- Desenvolvimento da interface do usuário
+- Implementação do sistema de backup
+- Implementação do módulo de análise de dados
+- Implementação do módulo de notificações
+
+Tarefas atrasadas:

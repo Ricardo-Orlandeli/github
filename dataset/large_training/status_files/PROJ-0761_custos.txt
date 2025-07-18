@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O direito de concretizar seus projetos de maneira eficaz (PROJ-0761)
+Data: 14/07/2025
+Gerente: João Rocha
+
+Orçamento inicial: R$ 2862766.00
+Custo real atual: R$ 2494546.03
+Desvio orçamentário: -12.86%
+Índice de Desempenho de Custo (CPI): 0.92
+Valor Agregado (EV): R$ 2300402.62
+Estimativa para conclusão: R$ 609824.26
+Estimativa no término (EAC): R$ 3104370.29
+Variação no término (VAC): R$ -241604.29
+
+Detalhamento por categoria:
+- Pessoal: R$ 1137825.86 (45.6%)
+- Equipamentos: R$ 479955.71 (19.2%)
+- Software: R$ 222642.85 (8.9%)
+- Serviços: R$ 473667.85 (19.0%)
+- Outros: R$ 180453.76 (7.2%)

@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O prazer de concretizar seus projetos naturalmente (PROJ-0539)
+Data: 14/07/2025
+Gerente: Gabrielly Garcia
+
+Orçamento inicial: R$ 4353578.00
+Custo real atual: R$ 1922722.72
+Desvio orçamentário: -7.04%
+Índice de Desempenho de Custo (CPI): 0.69
+Valor Agregado (EV): R$ 1321491.95
+Estimativa para conclusão: R$ 4411574.89
+Estimativa no término (EAC): R$ 6334297.61
+Variação no término (VAC): R$ -1980719.61
+
+Detalhamento por categoria:
+- Pessoal: R$ 926082.83 (48.2%)
+- Equipamentos: R$ 320017.20 (16.6%)
+- Software: R$ 103721.43 (5.4%)
+- Serviços: R$ 384309.57 (20.0%)
+- Outros: R$ 188591.69 (9.8%)

@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A certeza de atingir seus objetivos simplesmente (PROJ-0035)
+Data: 14/07/2025
+Gerente: Sr. Joaquim da Cruz
+
+Orçamento inicial: R$ 1319243.00
+Custo real atual: R$ 1264223.13
+Desvio orçamentário: -4.17%
+Índice de Desempenho de Custo (CPI): 0.88
+Valor Agregado (EV): R$ 1108909.16
+Estimativa para conclusão: R$ 239793.23
+Estimativa no término (EAC): R$ 1504016.36
+Variação no término (VAC): R$ -184773.36
+
+Detalhamento por categoria:
+- Pessoal: R$ 655492.91 (51.8%)
+- Equipamentos: R$ 170120.02 (13.5%)
+- Software: R$ 110136.76 (8.7%)
+- Serviços: R$ 220311.69 (17.4%)
+- Outros: R$ 108161.74 (8.6%)

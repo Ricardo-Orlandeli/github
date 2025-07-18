@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O prazer de conseguir simplesmente (PROJ-0054)
+Data: 14/07/2025
+Gerente: Caleb Siqueira
+
+Orçamento inicial: R$ 4935265.00
+Custo real atual: R$ 4249231.11
+Desvio orçamentário: -13.90%
+Índice de Desempenho de Custo (CPI): 1.02
+Valor Agregado (EV): R$ 4328336.50
+Estimativa para conclusão: R$ 595836.18
+Estimativa no término (EAC): R$ 4845067.29
+Variação no término (VAC): R$ 90197.71
+
+Detalhamento por categoria:
+- Pessoal: R$ 2330496.87 (54.8%)
+- Equipamentos: R$ 678318.77 (16.0%)
+- Software: R$ 284503.03 (6.7%)
+- Serviços: R$ 684483.83 (16.1%)
+- Outros: R$ 271428.62 (6.4%)

@@ -1,0 +1,43 @@
+RELATÓRIO DE STATUS DE RISCOS
+Projeto: A vantagem de realizar seus sonhos antes de tudo (PROJ-0501)
+Data: 14/07/2025
+Gerente: Maria Laura Sampaio
+
+Riscos identificados:
+- R01: Problemas de compatibilidade
+  Probabilidade: 1/5, Impacto: 5/5, Nível: Baixo
+  Mitigação: Implementar plano de contingência
+
+- R02: Rotatividade de pessoal-chave
+  Probabilidade: 4/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Testar compatibilidade em diferentes ambientes
+
+- R03: Atraso na entrega de componentes críticos
+  Probabilidade: 3/5, Impacto: 2/5, Nível: Baixo
+  Mitigação: Buscar fornecedores alternativos
+
+- R04: Falhas em testes de aceitação
+  Probabilidade: 5/5, Impacto: 3/5, Nível: Médio
+  Mitigação: Contratar pessoal adicional
+
+- R05: Problemas de comunicação com stakeholders
+  Probabilidade: 4/5, Impacto: 2/5, Nível: Médio
+  Mitigação: Fortalecer medidas de segurança
+
+- R06: Indisponibilidade de recursos especializados
+  Probabilidade: 3/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Contratar pessoal adicional
+
+- R07: Estimativas imprecisas
+  Probabilidade: 2/5, Impacto: 4/5, Nível: Médio
+  Mitigação: Contratar pessoal adicional
+
+- R08: Requisitos mal definidos
+  Probabilidade: 2/5, Impacto: 3/5, Nível: Baixo
+  Mitigação: Implementar plano de contingência
+
+Riscos ocorridos:
+- R03 (ocorrido em 12/06/2025)
+  Impacto real: Problemas de qualidade
+  Ações tomadas: Revisão de processos
+

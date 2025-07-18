@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A segurança de inovar de maneira eficaz (PROJ-0209)
+Data: 14/07/2025
+Gerente: Otto da Cunha
+
+Orçamento inicial: R$ 4040705.00
+Custo real atual: R$ 3546825.47
+Desvio orçamentário: 283.86%
+Índice de Desempenho de Custo (CPI): 1.14
+Valor Agregado (EV): R$ 4040705.00
+Estimativa para conclusão: R$ 0.00
+Estimativa no término (EAC): R$ 3546825.47
+Variação no término (VAC): R$ 493879.53
+
+Detalhamento por categoria:
+- Pessoal: R$ 1994379.12 (56.2%)
+- Equipamentos: R$ 402616.50 (11.4%)
+- Software: R$ 263036.51 (7.4%)
+- Serviços: R$ 620510.27 (17.5%)
+- Outros: R$ 266283.07 (7.5%)

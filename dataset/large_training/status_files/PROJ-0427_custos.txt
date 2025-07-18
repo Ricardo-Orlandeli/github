@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O prazer de avançar com toda a tranquilidade (PROJ-0427)
+Data: 14/07/2025
+Gerente: Benício Aparecida
+
+Orçamento inicial: R$ 4913928.00
+Custo real atual: R$ 4222025.04
+Desvio orçamentário: -14.08%
+Índice de Desempenho de Custo (CPI): 1.16
+Valor Agregado (EV): R$ 4909014.07
+Estimativa para conclusão: R$ 4226.25
+Estimativa no término (EAC): R$ 4226251.30
+Variação no término (VAC): R$ 687676.70
+
+Detalhamento por categoria:
+- Pessoal: R$ 2382220.21 (56.4%)
+- Equipamentos: R$ 539021.35 (12.8%)
+- Software: R$ 446962.98 (10.6%)
+- Serviços: R$ 443547.12 (10.5%)
+- Outros: R$ 410273.40 (9.7%)

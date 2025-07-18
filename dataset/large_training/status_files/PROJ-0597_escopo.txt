@@ -1,0 +1,25 @@
+RELATÓRIO DE STATUS DE ESCOPO
+Projeto: A arte de realizar seus sonhos antes de tudo (PROJ-0597)
+Data: 14/07/2025
+Gerente: Heloisa Pimenta
+
+Escopo original: Sistema para a arte de realizar seus sonhos antes de tudo
+Houve mudança de escopo: Sim
+Descrição das mudanças: Redução do escopo devido a restrições orçamentárias
+Impacto no cronograma: 8 dias
+Impacto no custo: R$ 120703.84
+
+Solicitações de mudança:
+- SCM-01: Integração com sistema legado
+- SCM-02: Mudança na arquitetura do sistema
+- SCM-03: Adição de funcionalidade de autenticação biométrica
+
+Requisitos atuais:
+- REQ-01: O sistema deve ter alta disponibilidade (99.9%)
+- REQ-02: O sistema deve ter alta disponibilidade (99.9%)
+- REQ-03: O sistema deve ser compatível com navegadores modernos
+- REQ-04: O sistema deve permitir autenticação de usuários
+- REQ-05: O sistema deve permitir exportação de dados em formato CSV
+- REQ-06: O sistema deve permitir integração com APIs externas
+- REQ-07: O sistema deve ter alta disponibilidade (99.9%)
+- REQ-08: O sistema deve ser escalável para suportar até 10.000 usuários simultâneos

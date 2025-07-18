@@ -1,0 +1,27 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A segurança de inovar antes de tudo (PROJ-0029)
+Data: 14/07/2025
+Gerente: Nicole Santos
+
+Status atual: Atrasado
+Percentual de conclusão: 87.7%
+Data de início: 26/11/2023
+Data de término planejada: 13/07/2024
+Data de término real/prevista: 15/12/2024
+Atraso atual: 366 dias
+Motivo do atraso: Problemas técnicos inesperados
+Índice de Desempenho de Cronograma (SPI): 0.88
+Valor Planejado (PV): R$ 1367987.00
+Valor Agregado (EV): R$ 1200382.03
+
+Tarefas críticas:
+- Configuração da infraestrutura
+- Implementação do módulo de exportação de dados
+- Desenvolvimento da interface do usuário
+- Desenvolvimento do módulo de autenticação
+- Desenvolvimento do painel administrativo
+- Testes de aceitação do usuário
+- Migração de dados legados
+
+Tarefas atrasadas:
+- Configuração da infraestrutura

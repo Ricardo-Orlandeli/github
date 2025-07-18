@@ -1,0 +1,27 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A arte de concretizar seus projetos com toda a tranquilidade (PROJ-0149)
+Data: 14/07/2025
+Gerente: Olivia Monteiro
+
+Status atual: Cancelado
+Percentual de conclusão: 32.7%
+Data de início: 17/03/2024
+Data de término planejada: 24/12/2024
+Data de término real/prevista: 17/06/2024
+Atraso atual: 202 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 0.33
+Valor Planejado (PV): R$ 1263335.00
+Valor Agregado (EV): R$ 413016.85
+
+Tarefas críticas:
+- Configuração da infraestrutura
+- Configuração do ambiente de produção
+- Implementação do módulo de notificações
+- Implementação do sistema de backup
+- Implementação do sistema de backup
+- Configuração da infraestrutura
+- Configuração do ambiente de produção
+- Desenvolvimento do módulo de autenticação
+
+Tarefas atrasadas:

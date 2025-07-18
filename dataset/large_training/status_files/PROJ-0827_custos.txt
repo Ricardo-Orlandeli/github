@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A liberdade de ganhar mais facilmente (PROJ-0827)
+Data: 14/07/2025
+Gerente: Henry Gabriel Rodrigues
+
+Orçamento inicial: R$ 2680653.00
+Custo real atual: R$ 3150380.65
+Desvio orçamentário: 17.52%
+Índice de Desempenho de Custo (CPI): 0.85
+Valor Agregado (EV): R$ 2680653.00
+Estimativa para conclusão: R$ 0.00
+Estimativa no término (EAC): R$ 3150380.65
+Variação no término (VAC): R$ -469727.65
+
+Detalhamento por categoria:
+- Pessoal: R$ 1642402.32 (52.1%)
+- Equipamentos: R$ 570088.93 (18.1%)
+- Software: R$ 191728.35 (6.1%)
+- Serviços: R$ 584816.81 (18.6%)
+- Outros: R$ 161344.24 (5.1%)

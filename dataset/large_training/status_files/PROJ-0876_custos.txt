@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A possibilidade de concretizar seus projetos antes de tudo (PROJ-0876)
+Data: 14/07/2025
+Gerente: Nathan Dias
+
+Orçamento inicial: R$ 585863.00
+Custo real atual: R$ 492716.64
+Desvio orçamentário: -15.90%
+Índice de Desempenho de Custo (CPI): 1.19
+Valor Agregado (EV): R$ 585863.00
+Estimativa para conclusão: R$ 0.00
+Estimativa no término (EAC): R$ 492716.64
+Variação no término (VAC): R$ 93146.36
+
+Detalhamento por categoria:
+- Pessoal: R$ 219062.13 (44.5%)
+- Equipamentos: R$ 86713.84 (17.6%)
+- Software: R$ 32105.32 (6.5%)
+- Serviços: R$ 104624.70 (21.2%)
+- Outros: R$ 50210.64 (10.2%)

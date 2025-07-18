@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A vantagem de evoluir direto da fonte (PROJ-0533)
+Data: 14/07/2025
+Gerente: Ana Novaes
+
+Orçamento inicial: R$ 2832004.00
+Custo real atual: R$ 1798289.26
+Desvio orçamentário: -36.50%
+Índice de Desempenho de Custo (CPI): 0.93
+Valor Agregado (EV): R$ 1667194.37
+Estimativa para conclusão: R$ 1256400.99
+Estimativa no término (EAC): R$ 3054690.25
+Variação no término (VAC): R$ -222686.25
+
+Detalhamento por categoria:
+- Pessoal: R$ 869454.74 (48.3%)
+- Equipamentos: R$ 311143.22 (17.3%)
+- Software: R$ 242017.77 (13.5%)
+- Serviços: R$ 262230.38 (14.6%)
+- Outros: R$ 113443.14 (6.3%)

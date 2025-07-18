@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A segurança de concretizar seus projetos com confiança (PROJ-0668)
+Data: 14/07/2025
+Gerente: Maitê da Conceição
+
+Orçamento inicial: R$ 4969880.00
+Custo real atual: R$ 4795810.48
+Desvio orçamentário: -3.50%
+Índice de Desempenho de Custo (CPI): 1.04
+Valor Agregado (EV): R$ 4969880.00
+Estimativa para conclusão: R$ 0.00
+Estimativa no término (EAC): R$ 4795810.48
+Variação no término (VAC): R$ 174069.52
+
+Detalhamento por categoria:
+- Pessoal: R$ 2563665.51 (53.5%)
+- Equipamentos: R$ 800325.03 (16.7%)
+- Software: R$ 324827.81 (6.8%)
+- Serviços: R$ 660604.65 (13.8%)
+- Outros: R$ 446387.47 (9.3%)

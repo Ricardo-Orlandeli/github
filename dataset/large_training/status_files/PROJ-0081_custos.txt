@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O direito de realizar seus sonhos com toda a tranquilidade (PROJ-0081)
+Data: 14/07/2025
+Gerente: Ana Luiza Farias
+
+Orçamento inicial: R$ 304458.00
+Custo real atual: R$ 290798.22
+Desvio orçamentário: -4.49%
+Índice de Desempenho de Custo (CPI): 1.05
+Valor Agregado (EV): R$ 304458.00
+Estimativa para conclusão: R$ 0.00
+Estimativa no término (EAC): R$ 290798.22
+Variação no término (VAC): R$ 13659.78
+
+Detalhamento por categoria:
+- Pessoal: R$ 159942.08 (55.0%)
+- Equipamentos: R$ 41251.71 (14.2%)
+- Software: R$ 20256.54 (7.0%)
+- Serviços: R$ 42797.54 (14.7%)
+- Outros: R$ 26550.35 (9.1%)

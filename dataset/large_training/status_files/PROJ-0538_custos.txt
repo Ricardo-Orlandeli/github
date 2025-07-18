@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A segurança de evoluir com confiança (PROJ-0538)
+Data: 14/07/2025
+Gerente: Maria Vitória Melo
+
+Orçamento inicial: R$ 3023195.00
+Custo real atual: R$ 3216302.09
+Desvio orçamentário: 6.39%
+Índice de Desempenho de Custo (CPI): 0.94
+Valor Agregado (EV): R$ 3020171.81
+Estimativa para conclusão: R$ 3219.52
+Estimativa no término (EAC): R$ 3219521.61
+Variação no término (VAC): R$ -196326.61
+
+Detalhamento por categoria:
+- Pessoal: R$ 1836115.33 (57.1%)
+- Equipamentos: R$ 395756.17 (12.3%)
+- Software: R$ 297768.69 (9.3%)
+- Serviços: R$ 457078.72 (14.2%)
+- Outros: R$ 229583.17 (7.1%)

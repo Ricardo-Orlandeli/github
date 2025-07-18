@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O poder de ganhar com força total (PROJ-0426)
+Data: 14/07/2025
+Gerente: Cauã Freitas
+
+Orçamento inicial: R$ 1591371.00
+Custo real atual: R$ 1198181.28
+Desvio orçamentário: -24.71%
+Índice de Desempenho de Custo (CPI): 1.24
+Valor Agregado (EV): R$ 1481924.92
+Estimativa para conclusão: R$ 88490.48
+Estimativa no término (EAC): R$ 1286671.76
+Variação no término (VAC): R$ 304699.24
+
+Detalhamento por categoria:
+- Pessoal: R$ 609936.96 (50.9%)
+- Equipamentos: R$ 194601.73 (16.2%)
+- Software: R$ 64726.85 (5.4%)
+- Serviços: R$ 219634.96 (18.3%)
+- Outros: R$ 109280.77 (9.1%)

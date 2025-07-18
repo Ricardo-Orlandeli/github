@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O poder de concretizar seus projetos simplesmente (PROJ-0088)
+Data: 14/07/2025
+Gerente: Laura Correia
+
+Orçamento inicial: R$ 3160924.00
+Custo real atual: R$ 151046.18
+Desvio orçamentário: -6.02%
+Índice de Desempenho de Custo (CPI): 1.09
+Valor Agregado (EV): R$ 164809.90
+Estimativa para conclusão: R$ 2745900.58
+Estimativa no término (EAC): R$ 2896946.76
+Variação no término (VAC): R$ 263977.24
+
+Detalhamento por categoria:
+- Pessoal: R$ 72340.00 (47.9%)
+- Equipamentos: R$ 27381.69 (18.1%)
+- Software: R$ 16344.35 (10.8%)
+- Serviços: R$ 24129.99 (16.0%)
+- Outros: R$ 10850.15 (7.2%)

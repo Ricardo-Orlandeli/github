@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A possibilidade de realizar seus sonhos de maneira eficaz (PROJ-0349)
+Data: 14/07/2025
+Gerente: Dr. Gabriel Abreu
+
+Orçamento inicial: R$ 2374301.00
+Custo real atual: R$ 2758497.39
+Desvio orçamentário: 29.55%
+Índice de Desempenho de Custo (CPI): 0.86
+Valor Agregado (EV): R$ 2371926.70
+Estimativa para conclusão: R$ 2761.26
+Estimativa no término (EAC): R$ 2761258.64
+Variação no término (VAC): R$ -386957.64
+
+Detalhamento por categoria:
+- Pessoal: R$ 1444406.84 (52.4%)
+- Equipamentos: R$ 350268.51 (12.7%)
+- Software: R$ 296988.53 (10.8%)
+- Serviços: R$ 450814.89 (16.3%)
+- Outros: R$ 216018.61 (7.8%)

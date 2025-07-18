@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A possibilidade de avançar com força total (PROJ-0339)
+Data: 14/07/2025
+Gerente: Rodrigo Freitas
+
+Orçamento inicial: R$ 633051.00
+Custo real atual: R$ 729995.18
+Desvio orçamentário: 15.31%
+Índice de Desempenho de Custo (CPI): 0.69
+Valor Agregado (EV): R$ 500996.39
+Estimativa para conclusão: R$ 192415.02
+Estimativa no término (EAC): R$ 922410.20
+Variação no término (VAC): R$ -289359.20
+
+Detalhamento por categoria:
+- Pessoal: R$ 401166.13 (55.0%)
+- Equipamentos: R$ 92962.40 (12.7%)
+- Software: R$ 41729.88 (5.7%)
+- Serviços: R$ 128877.33 (17.7%)
+- Outros: R$ 65259.44 (8.9%)

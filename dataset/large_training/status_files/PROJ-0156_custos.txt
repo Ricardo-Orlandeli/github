@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A arte de atingir seus objetivos antes de tudo (PROJ-0156)
+Data: 14/07/2025
+Gerente: Jade Cardoso
+
+Orçamento inicial: R$ 1176870.00
+Custo real atual: R$ 1018125.77
+Desvio orçamentário: -13.49%
+Índice de Desempenho de Custo (CPI): 0.94
+Valor Agregado (EV): R$ 960024.70
+Estimativa para conclusão: R$ 229968.87
+Estimativa no término (EAC): R$ 1248094.64
+Variação no término (VAC): R$ -71224.64
+
+Detalhamento por categoria:
+- Pessoal: R$ 490050.39 (48.1%)
+- Equipamentos: R$ 176102.53 (17.3%)
+- Software: R$ 108790.57 (10.7%)
+- Serviços: R$ 155436.58 (15.3%)
+- Outros: R$ 87745.71 (8.6%)

@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A possibilidade de atingir seus objetivos naturalmente (PROJ-0434)
+Data: 14/07/2025
+Gerente: Luiz Felipe Castro
+
+Orçamento inicial: R$ 4555126.00
+Custo real atual: R$ 4788691.84
+Desvio orçamentário: 39.80%
+Índice de Desempenho de Custo (CPI): 0.69
+Valor Agregado (EV): R$ 3310946.29
+Estimativa para conclusão: R$ 1799483.51
+Estimativa no término (EAC): R$ 6588175.34
+Variação no término (VAC): R$ -2033049.34
+
+Detalhamento por categoria:
+- Pessoal: R$ 2193627.13 (45.8%)
+- Equipamentos: R$ 981389.23 (20.5%)
+- Software: R$ 498833.69 (10.4%)
+- Serviços: R$ 577106.11 (12.1%)
+- Outros: R$ 537735.69 (11.2%)

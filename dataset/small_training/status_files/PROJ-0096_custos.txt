@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A certeza de realizar seus sonhos mais facilmente (PROJ-0096)
+Data: 14/07/2025
+Gerente: Miguel Vieira
+
+Orçamento inicial: R$ 1238409.00
+Custo real atual: R$ 1320572.12
+Desvio orçamentário: 6.63%
+Índice de Desempenho de Custo (CPI): 0.94
+Valor Agregado (EV): R$ 1237170.59
+Estimativa para conclusão: R$ 1321.89
+Estimativa no término (EAC): R$ 1321894.02
+Variação no término (VAC): R$ -83485.02
+
+Detalhamento por categoria:
+- Pessoal: R$ 639357.76 (48.4%)
+- Equipamentos: R$ 207223.04 (15.7%)
+- Software: R$ 179937.53 (13.6%)
+- Serviços: R$ 214565.80 (16.2%)
+- Outros: R$ 79488.00 (6.0%)

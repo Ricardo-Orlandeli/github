@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A segurança de concretizar seus projetos de maneira eficaz (PROJ-0974)
+Data: 14/07/2025
+Gerente: Daniela Alves
+
+Orçamento inicial: R$ 827986.00
+Custo real atual: R$ 702945.18
+Desvio orçamentário: -15.10%
+Índice de Desempenho de Custo (CPI): 1.02
+Valor Agregado (EV): R$ 715152.48
+Estimativa para conclusão: R$ 110907.50
+Estimativa no término (EAC): R$ 813852.68
+Variação no término (VAC): R$ 14133.32
+
+Detalhamento por categoria:
+- Pessoal: R$ 342838.81 (48.8%)
+- Equipamentos: R$ 126551.80 (18.0%)
+- Software: R$ 83199.75 (11.8%)
+- Serviços: R$ 89039.79 (12.7%)
+- Outros: R$ 61315.03 (8.7%)

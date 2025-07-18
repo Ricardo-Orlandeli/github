@@ -1,0 +1,43 @@
+RELATÓRIO DE STATUS DE RISCOS
+Projeto: O direito de concretizar seus projetos em estado puro (PROJ-0376)
+Data: 14/07/2025
+Gerente: Carlos Eduardo Duarte
+
+Riscos identificados:
+- R01: Problemas de comunicação com stakeholders
+  Probabilidade: 1/5, Impacto: 3/5, Nível: Baixo
+  Mitigação: Buscar fornecedores alternativos
+
+- R02: Dependências externas não cumpridas
+  Probabilidade: 2/5, Impacto: 5/5, Nível: Médio
+  Mitigação: Melhorar a documentação de requisitos
+
+- R03: Falhas em testes de aceitação
+  Probabilidade: 5/5, Impacto: 2/5, Nível: Médio
+  Mitigação: Realizar testes de aceitação com usuários-chave
+
+- R04: Rotatividade de pessoal-chave
+  Probabilidade: 4/5, Impacto: 4/5, Nível: Alto
+  Mitigação: Realizar testes de integração antecipados
+
+- R05: Problemas de compatibilidade
+  Probabilidade: 3/5, Impacto: 5/5, Nível: Médio
+  Mitigação: Testar compatibilidade em diferentes ambientes
+
+- R06: Problemas de comunicação com stakeholders
+  Probabilidade: 4/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Refinar estimativas com base em dados históricos
+
+- R07: Atraso na entrega de componentes críticos
+  Probabilidade: 4/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Contratar pessoal adicional
+
+Riscos ocorridos:
+- R07 (ocorrido em 12/06/2025)
+  Impacto real: Insatisfação dos stakeholders
+  Ações tomadas: Contratação de recursos adicionais
+
+- R06 (ocorrido em 09/07/2025)
+  Impacto real: Indisponibilidade temporária
+  Ações tomadas: Realocação de recursos
+

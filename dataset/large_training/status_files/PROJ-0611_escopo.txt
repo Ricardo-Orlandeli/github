@@ -1,0 +1,30 @@
+RELATÓRIO DE STATUS DE ESCOPO
+Projeto: A possibilidade de ganhar sem preocupação (PROJ-0611)
+Data: 14/07/2025
+Gerente: Ana Júlia Barbosa
+
+Escopo original: Sistema para a possibilidade de ganhar sem preocupação
+Houve mudança de escopo: Sim
+Descrição das mudanças: Redução do escopo devido a restrições orçamentárias
+Impacto no cronograma: 7 dias
+Impacto no custo: R$ 40498.72
+
+Solicitações de mudança:
+- SCM-01: Mudança no banco de dados
+- SCM-02: Integração com sistema legado
+- SCM-03: Mudança no banco de dados
+- SCM-04: Alteração nos requisitos de desempenho
+
+Requisitos atuais:
+- REQ-01: O sistema deve ter backup automático diário
+- REQ-02: O sistema deve ser compatível com dispositivos móveis
+- REQ-03: O sistema deve ter interface responsiva
+- REQ-04: O sistema deve ter alta disponibilidade (99.9%)
+- REQ-05: O sistema deve passar por testes de segurança
+- REQ-06: O sistema deve ter documentação completa
+- REQ-07: O sistema deve ter backup automático diário
+- REQ-08: O sistema deve ser compatível com navegadores modernos
+- REQ-09: O sistema deve ser compatível com dispositivos móveis
+- REQ-10: O sistema deve registrar logs de auditoria
+- REQ-11: O sistema deve ter controle de acesso baseado em perfis
+- REQ-12: O sistema deve ser compatível com dispositivos móveis

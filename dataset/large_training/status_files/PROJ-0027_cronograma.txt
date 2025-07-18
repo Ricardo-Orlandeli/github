@@ -1,0 +1,24 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A segurança de evoluir direto da fonte (PROJ-0027)
+Data: 14/07/2025
+Gerente: Dra. Daniela Castro
+
+Status atual: Concluído
+Percentual de conclusão: 100.0%
+Data de início: 27/11/2023
+Data de término planejada: 10/01/2024
+Data de término real/prevista: 29/01/2024
+Atraso atual: 551 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 0.98
+Valor Planejado (PV): R$ 2638065.00
+Valor Agregado (EV): R$ 2638065.00
+
+Tarefas críticas:
+- Implementação do módulo de análise de dados
+- Configuração da infraestrutura
+- Implementação da API REST
+- Desenvolvimento do painel administrativo
+- Implementação do módulo de relatórios
+
+Tarefas atrasadas:

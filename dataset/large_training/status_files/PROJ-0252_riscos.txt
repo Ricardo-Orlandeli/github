@@ -1,0 +1,39 @@
+RELATÓRIO DE STATUS DE RISCOS
+Projeto: A vantagem de inovar com confiança (PROJ-0252)
+Data: 14/07/2025
+Gerente: Zoe Oliveira
+
+Riscos identificados:
+- R01: Rotatividade de pessoal-chave
+  Probabilidade: 4/5, Impacto: 2/5, Nível: Médio
+  Mitigação: Realizar testes de aceitação com usuários-chave
+
+- R02: Atraso na entrega de componentes críticos
+  Probabilidade: 3/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Implementar redundância de infraestrutura
+
+- R03: Problemas de comunicação com stakeholders
+  Probabilidade: 2/5, Impacto: 5/5, Nível: Médio
+  Mitigação: Buscar fornecedores alternativos
+
+- R04: Dependências externas não cumpridas
+  Probabilidade: 5/5, Impacto: 2/5, Nível: Médio
+  Mitigação: Comunicar benefícios da mudança
+
+- R05: Resistência dos usuários à mudança
+  Probabilidade: 3/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Gerenciar dependências ativamente
+
+- R06: Mudanças regulatórias
+  Probabilidade: 2/5, Impacto: 2/5, Nível: Baixo
+  Mitigação: Realizar testes de aceitação com usuários-chave
+
+- R07: Falhas de segurança
+  Probabilidade: 1/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Buscar fornecedores alternativos
+
+Riscos ocorridos:
+- R05 (ocorrido em 26/02/2025)
+  Impacto real: Perda de dados
+  Ações tomadas: Realocação de recursos
+

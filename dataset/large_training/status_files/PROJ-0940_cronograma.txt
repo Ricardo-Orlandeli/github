@@ -1,0 +1,25 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: O poder de inovar naturalmente (PROJ-0940)
+Data: 14/07/2025
+Gerente: Liz Almeida
+
+Status atual: Cancelado
+Percentual de conclusão: 69.2%
+Data de início: 31/10/2023
+Data de término planejada: 12/05/2024
+Data de término real/prevista: 13/03/2024
+Atraso atual: 428 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 0.69
+Valor Planejado (PV): R$ 3523816.00
+Valor Agregado (EV): R$ 2439918.08
+
+Tarefas críticas:
+- Integração com sistema de pagamentos
+- Desenvolvimento da interface do usuário
+- Implementação do sistema de backup
+- Desenvolvimento do módulo de autenticação
+- Testes de segurança
+- Integração com sistema de pagamentos
+
+Tarefas atrasadas:

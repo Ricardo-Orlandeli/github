@@ -1,0 +1,27 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A arte de realizar seus sonhos com toda a tranquilidade (PROJ-0216)
+Data: 14/07/2025
+Gerente: Lorenzo Cavalcante
+
+Status atual: Cancelado
+Percentual de conclusão: 75.0%
+Data de início: 06/08/2023
+Data de término planejada: 14/04/2024
+Data de término real/prevista: 10/02/2024
+Atraso atual: 456 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 0.75
+Valor Planejado (PV): R$ 1196034.00
+Valor Agregado (EV): R$ 896725.48
+
+Tarefas críticas:
+- Desenvolvimento da interface do usuário
+- Desenvolvimento do módulo de autenticação
+- Implementação do módulo de exportação de dados
+- Implementação da API REST
+- Implementação do sistema de backup
+- Desenvolvimento do painel administrativo
+- Implementação do módulo de análise de dados
+- Integração com sistema de pagamentos
+
+Tarefas atrasadas:

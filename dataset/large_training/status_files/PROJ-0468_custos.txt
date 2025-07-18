@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A simplicidade de evoluir em estado puro (PROJ-0468)
+Data: 14/07/2025
+Gerente: Dr. Arthur Mendes
+
+Orçamento inicial: R$ 1687145.00
+Custo real atual: R$ 1821246.20
+Desvio orçamentário: 7.95%
+Índice de Desempenho de Custo (CPI): 0.93
+Valor Agregado (EV): R$ 1687145.00
+Estimativa para conclusão: R$ 0.00
+Estimativa no término (EAC): R$ 1821246.20
+Variação no término (VAC): R$ -134101.20
+
+Detalhamento por categoria:
+- Pessoal: R$ 935410.35 (51.4%)
+- Equipamentos: R$ 265701.76 (14.6%)
+- Software: R$ 219198.32 (12.0%)
+- Serviços: R$ 252982.31 (13.9%)
+- Outros: R$ 147953.46 (8.1%)

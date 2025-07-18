@@ -1,0 +1,39 @@
+RELATÓRIO DE STATUS DE RISCOS
+Projeto: A certeza de avançar com força total (PROJ-0968)
+Data: 14/07/2025
+Gerente: Theo Teixeira
+
+Riscos identificados:
+- R01: Mudanças regulatórias
+  Probabilidade: 2/5, Impacto: 5/5, Nível: Médio
+  Mitigação: Contratar pessoal adicional
+
+- R02: Problemas de integração com sistemas legados
+  Probabilidade: 4/5, Impacto: 2/5, Nível: Médio
+  Mitigação: Buscar fornecedores alternativos
+
+- R03: Falhas de segurança
+  Probabilidade: 3/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Melhorar a documentação de requisitos
+
+- R04: Requisitos mal definidos
+  Probabilidade: 2/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Monitorar mudanças regulatórias
+
+- R05: Requisitos mal definidos
+  Probabilidade: 1/5, Impacto: 2/5, Nível: Baixo
+  Mitigação: Implementar redundância de infraestrutura
+
+Riscos ocorridos:
+- R03 (ocorrido em 16/04/2024)
+  Impacto real: Problemas de qualidade
+  Ações tomadas: Implementação do plano de contingência
+
+- R01 (ocorrido em 28/02/2025)
+  Impacto real: Perda de recursos-chave
+  Ações tomadas: Contratação de recursos adicionais
+
+- R04 (ocorrido em 01/04/2024)
+  Impacto real: Insatisfação dos stakeholders
+  Ações tomadas: Ajuste no cronograma
+

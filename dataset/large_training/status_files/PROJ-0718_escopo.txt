@@ -1,0 +1,24 @@
+RELATÓRIO DE STATUS DE ESCOPO
+Projeto: A certeza de mudar com toda a tranquilidade (PROJ-0718)
+Data: 14/07/2025
+Gerente: Alana Correia
+
+Escopo original: Sistema para a certeza de mudar com toda a tranquilidade
+Houve mudança de escopo: Sim
+Descrição das mudanças: Expansão do escopo para incluir funcionalidades adicionais
+Impacto no cronograma: 57 dias
+Impacto no custo: R$ 530460.41
+
+Solicitações de mudança:
+- SCM-01: Implementação de módulo de exportação de dados
+- SCM-02: Integração com sistema legado
+- SCM-03: Mudança no banco de dados
+
+Requisitos atuais:
+- REQ-01: O sistema deve permitir exportação de dados em formato CSV
+- REQ-02: O sistema deve ter controle de acesso baseado em perfis
+- REQ-03: O sistema deve ter interface responsiva
+- REQ-04: O sistema deve ser compatível com dispositivos móveis
+- REQ-05: O sistema deve processar transações em menos de 2 seconds
+- REQ-06: O sistema deve ser compatível com dispositivos móveis
+- REQ-07: O sistema deve permitir integração com APIs externas

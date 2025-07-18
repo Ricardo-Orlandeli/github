@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O poder de mudar em estado puro (PROJ-0210)
+Data: 14/07/2025
+Gerente: Eduarda Araújo
+
+Orçamento inicial: R$ 1297547.00
+Custo real atual: R$ 805942.48
+Desvio orçamentário: -37.89%
+Índice de Desempenho de Custo (CPI): 0.90
+Valor Agregado (EV): R$ 726405.47
+Estimativa para conclusão: R$ 633678.08
+Estimativa no término (EAC): R$ 1439620.56
+Variação no término (VAC): R$ -142073.56
+
+Detalhamento por categoria:
+- Pessoal: R$ 410680.34 (51.0%)
+- Equipamentos: R$ 143066.36 (17.8%)
+- Software: R$ 85061.96 (10.6%)
+- Serviços: R$ 107116.00 (13.3%)
+- Outros: R$ 60017.82 (7.4%)

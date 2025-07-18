@@ -1,0 +1,27 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A certeza de mudar direto da fonte (PROJ-0692)
+Data: 14/07/2025
+Gerente: Eduardo Ferreira
+
+Status atual: Em andamento
+Percentual de conclusão: 99.9%
+Data de início: 22/08/2023
+Data de término planejada: 29/06/2024
+Data de término real/prevista: 23/07/2024
+Atraso atual: 380 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 0.94
+Valor Planejado (PV): R$ 4207258.00
+Valor Agregado (EV): R$ 4203050.74
+
+Tarefas críticas:
+- Integração com sistema de pagamentos
+- Testes de aceitação do usuário
+- Integração com sistema de pagamentos
+- Implementação do módulo de notificações
+- Implementação do sistema de backup
+- Migração de dados legados
+- Implementação do módulo de notificações
+- Configuração da infraestrutura
+
+Tarefas atrasadas:

@@ -1,0 +1,35 @@
+RELATÓRIO DE STATUS DE RISCOS
+Projeto: A vantagem de mudar de maneira eficaz (PROJ-0082)
+Data: 14/07/2025
+Gerente: Isabela Brito
+
+Riscos identificados:
+- R01: Problemas de integração com sistemas legados
+  Probabilidade: 4/5, Impacto: 5/5, Nível: Alto
+  Mitigação: Contratar pessoal adicional
+
+- R02: Problemas de compatibilidade
+  Probabilidade: 2/5, Impacto: 4/5, Nível: Médio
+  Mitigação: Melhorar a documentação de requisitos
+
+- R03: Dependências externas não cumpridas
+  Probabilidade: 4/5, Impacto: 5/5, Nível: Alto
+  Mitigação: Melhorar a documentação de requisitos
+
+- R04: Atraso na entrega de componentes críticos
+  Probabilidade: 5/5, Impacto: 2/5, Nível: Médio
+  Mitigação: Refinar estimativas com base em dados históricos
+
+- R05: Problemas de desempenho
+  Probabilidade: 4/5, Impacto: 3/5, Nível: Médio
+  Mitigação: Fortalecer medidas de segurança
+
+- R06: Atraso na entrega de componentes críticos
+  Probabilidade: 3/5, Impacto: 2/5, Nível: Baixo
+  Mitigação: Buscar fornecedores alternativos
+
+Riscos ocorridos:
+- R01 (ocorrido em 28/12/2024)
+  Impacto real: Problemas de qualidade
+  Ações tomadas: Contratação de recursos adicionais
+

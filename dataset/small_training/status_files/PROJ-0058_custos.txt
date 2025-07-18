@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A possibilidade de mudar naturalmente (PROJ-0058)
+Data: 14/07/2025
+Gerente: Maria Clara Gomes
+
+Orçamento inicial: R$ 1752891.00
+Custo real atual: R$ 1647700.31
+Desvio orçamentário: -6.00%
+Índice de Desempenho de Custo (CPI): 1.04
+Valor Agregado (EV): R$ 1719291.63
+Estimativa para conclusão: R$ 32200.29
+Estimativa no término (EAC): R$ 1679900.60
+Variação no término (VAC): R$ 72990.40
+
+Detalhamento por categoria:
+- Pessoal: R$ 870654.85 (52.8%)
+- Equipamentos: R$ 236804.97 (14.4%)
+- Software: R$ 216329.18 (13.1%)
+- Serviços: R$ 207077.50 (12.6%)
+- Outros: R$ 116833.82 (7.1%)

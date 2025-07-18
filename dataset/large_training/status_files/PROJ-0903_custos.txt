@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A simplicidade de inovar com força total (PROJ-0903)
+Data: 14/07/2025
+Gerente: Srta. Lívia Aparecida
+
+Orçamento inicial: R$ 1221060.00
+Custo real atual: R$ 1169313.01
+Desvio orçamentário: 1.75%
+Índice de Desempenho de Custo (CPI): 1.04
+Valor Agregado (EV): R$ 1221060.00
+Estimativa para conclusão: R$ 0.00
+Estimativa no término (EAC): R$ 1169313.01
+Variação no término (VAC): R$ 51746.99
+
+Detalhamento por categoria:
+- Pessoal: R$ 528242.38 (45.2%)
+- Equipamentos: R$ 215194.56 (18.4%)
+- Software: R$ 108852.01 (9.3%)
+- Serviços: R$ 194247.00 (16.6%)
+- Outros: R$ 122777.05 (10.5%)

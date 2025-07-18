@@ -1,0 +1,35 @@
+RELATÓRIO DE STATUS DE RISCOS
+Projeto: A vantagem de conseguir de maneira eficaz (PROJ-0182)
+Data: 14/07/2025
+Gerente: José Miguel Farias
+
+Riscos identificados:
+- R01: Falhas em testes de aceitação
+  Probabilidade: 2/5, Impacto: 2/5, Nível: Baixo
+  Mitigação: Melhorar a documentação de requisitos
+
+- R02: Problemas de desempenho
+  Probabilidade: 3/5, Impacto: 5/5, Nível: Médio
+  Mitigação: Otimizar código e infraestrutura
+
+- R03: Problemas de compatibilidade
+  Probabilidade: 3/5, Impacto: 2/5, Nível: Baixo
+  Mitigação: Fortalecer medidas de segurança
+
+- R04: Requisitos mal definidos
+  Probabilidade: 5/5, Impacto: 2/5, Nível: Médio
+  Mitigação: Implementar plano de contingência
+
+- R05: Falhas em testes de aceitação
+  Probabilidade: 3/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Contratar pessoal adicional
+
+- R06: Mudanças regulatórias
+  Probabilidade: 5/5, Impacto: 4/5, Nível: Alto
+  Mitigação: Gerenciar dependências ativamente
+
+- R07: Mudanças regulatórias
+  Probabilidade: 3/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Implementar redundância de infraestrutura
+
+Riscos ocorridos:

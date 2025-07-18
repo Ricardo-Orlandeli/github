@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A arte de conseguir simplesmente (PROJ-0130)
+Data: 14/07/2025
+Gerente: Enzo Costa
+
+Orçamento inicial: R$ 3137017.00
+Custo real atual: R$ 1113297.51
+Desvio orçamentário: -40.38%
+Índice de Desempenho de Custo (CPI): 0.97
+Valor Agregado (EV): R$ 1081812.54
+Estimativa para conclusão: R$ 2115018.93
+Estimativa no término (EAC): R$ 3228316.44
+Variação no término (VAC): R$ -91299.44
+
+Detalhamento por categoria:
+- Pessoal: R$ 614660.28 (55.2%)
+- Equipamentos: R$ 127259.71 (11.4%)
+- Software: R$ 80160.15 (7.2%)
+- Serviços: R$ 228550.69 (20.5%)
+- Outros: R$ 62666.68 (5.6%)

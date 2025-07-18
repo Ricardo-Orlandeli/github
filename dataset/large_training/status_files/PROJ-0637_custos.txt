@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A vantagem de realizar seus sonhos sem preocupação (PROJ-0637)
+Data: 14/07/2025
+Gerente: Yuri Nascimento
+
+Orçamento inicial: R$ 1686060.00
+Custo real atual: R$ 1950544.30
+Desvio orçamentário: 15.69%
+Índice de Desempenho de Custo (CPI): 0.75
+Valor Agregado (EV): R$ 1461266.05
+Estimativa para conclusão: R$ 300062.10
+Estimativa no término (EAC): R$ 2250606.40
+Variação no término (VAC): R$ -564546.40
+
+Detalhamento por categoria:
+- Pessoal: R$ 1042226.32 (53.4%)
+- Equipamentos: R$ 341065.85 (17.5%)
+- Software: R$ 189782.83 (9.7%)
+- Serviços: R$ 240125.69 (12.3%)
+- Outros: R$ 137343.61 (7.0%)

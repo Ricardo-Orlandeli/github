@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O prazer de ganhar em estado puro (PROJ-0411)
+Data: 14/07/2025
+Gerente: Caio da Rosa
+
+Orçamento inicial: R$ 4008933.00
+Custo real atual: R$ 2119344.90
+Desvio orçamentário: -30.98%
+Índice de Desempenho de Custo (CPI): 0.80
+Valor Agregado (EV): R$ 1705703.79
+Estimativa para conclusão: R$ 2861773.01
+Estimativa no término (EAC): R$ 4981117.91
+Variação no término (VAC): R$ -972184.91
+
+Detalhamento por categoria:
+- Pessoal: R$ 914390.66 (43.1%)
+- Equipamentos: R$ 382211.99 (18.0%)
+- Software: R$ 306238.98 (14.4%)
+- Serviços: R$ 318212.05 (15.0%)
+- Outros: R$ 198291.22 (9.4%)

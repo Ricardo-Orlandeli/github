@@ -1,0 +1,27 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A liberdade de realizar seus sonhos simplesmente (PROJ-0114)
+Data: 14/07/2025
+Gerente: Dr. Bernardo Aparecida
+
+Status atual: Em andamento
+Percentual de conclusão: 78.7%
+Data de início: 07/10/2024
+Data de término planejada: 17/08/2025
+Data de término real/prevista: 03/08/2025
+Atraso atual: 0 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.01
+Valor Planejado (PV): R$ 1244181.78
+Valor Agregado (EV): R$ 1097510.81
+
+Tarefas críticas:
+- Desenvolvimento da interface do usuário
+- Migração de dados legados
+- Integração com sistema de pagamentos
+- Desenvolvimento da interface do usuário
+- Configuração do ambiente de produção
+- Implementação do módulo de exportação de dados
+- Implementação do sistema de backup
+- Desenvolvimento da interface do usuário
+
+Tarefas atrasadas:

@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O conforto de realizar seus sonhos naturalmente (PROJ-0648)
+Data: 14/07/2025
+Gerente: Ian Lima
+
+Orçamento inicial: R$ 2337594.00
+Custo real atual: R$ 2446333.49
+Desvio orçamentário: 4.65%
+Índice de Desempenho de Custo (CPI): 0.80
+Valor Agregado (EV): R$ 1957689.98
+Estimativa para conclusão: R$ 474728.86
+Estimativa no término (EAC): R$ 2921062.35
+Variação no término (VAC): R$ -583468.35
+
+Detalhamento por categoria:
+- Pessoal: R$ 1198639.84 (49.0%)
+- Equipamentos: R$ 372854.74 (15.2%)
+- Software: R$ 323704.09 (13.2%)
+- Serviços: R$ 331366.74 (13.5%)
+- Outros: R$ 219768.09 (9.0%)

@@ -1,0 +1,22 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A possibilidade de mudar naturalmente (PROJ-0003)
+Data: 14/07/2025
+Gerente: Mateus Moraes
+
+Status atual: Em andamento
+Percentual de conclusão: 99.9%
+Data de início: 09/05/2024
+Data de término planejada: 23/06/2024
+Data de término real/prevista: 02/07/2024
+Atraso atual: 386 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.08
+Valor Planejado (PV): R$ 4022823.00
+Valor Agregado (EV): R$ 4018800.18
+
+Tarefas críticas:
+- Implementação do sistema de backup
+- Implementação do módulo de análise de dados
+- Implementação do módulo de relatórios
+
+Tarefas atrasadas:

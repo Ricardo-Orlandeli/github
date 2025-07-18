@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O direito de avançar simplesmente (PROJ-0244)
+Data: 14/07/2025
+Gerente: Maria Cecília Guerra
+
+Orçamento inicial: R$ 675181.00
+Custo real atual: R$ 454234.42
+Desvio orçamentário: -32.72%
+Índice de Desempenho de Custo (CPI): 0.99
+Valor Agregado (EV): R$ 451168.25
+Estimativa para conclusão: R$ 225535.16
+Estimativa no término (EAC): R$ 679769.58
+Variação no término (VAC): R$ -4588.58
+
+Detalhamento por categoria:
+- Pessoal: R$ 227809.82 (50.2%)
+- Equipamentos: R$ 55388.99 (12.2%)
+- Software: R$ 61249.64 (13.5%)
+- Serviços: R$ 68667.04 (15.1%)
+- Outros: R$ 41118.93 (9.1%)

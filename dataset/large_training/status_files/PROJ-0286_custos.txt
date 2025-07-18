@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O direito de concretizar seus projetos mais rapidamente (PROJ-0286)
+Data: 14/07/2025
+Gerente: Sr. Luiz Fernando Mendonça
+
+Orçamento inicial: R$ 922352.00
+Custo real atual: R$ 982841.15
+Desvio orçamentário: 6.56%
+Índice de Desempenho de Custo (CPI): 0.94
+Valor Agregado (EV): R$ 921429.65
+Estimativa para conclusão: R$ 983.82
+Estimativa no término (EAC): R$ 983824.98
+Variação no término (VAC): R$ -61472.98
+
+Detalhamento por categoria:
+- Pessoal: R$ 457350.04 (46.5%)
+- Equipamentos: R$ 114833.92 (11.7%)
+- Software: R$ 142775.70 (14.5%)
+- Serviços: R$ 207991.43 (21.2%)
+- Outros: R$ 59890.06 (6.1%)

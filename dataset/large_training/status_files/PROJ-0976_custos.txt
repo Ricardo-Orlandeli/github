@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A vantagem de conseguir com toda a tranquilidade (PROJ-0976)
+Data: 14/07/2025
+Gerente: Ísis Nunes
+
+Orçamento inicial: R$ 4309517.00
+Custo real atual: R$ 4969762.18
+Desvio orçamentário: 296.41%
+Índice de Desempenho de Custo (CPI): 0.87
+Valor Agregado (EV): R$ 4309517.00
+Estimativa para conclusão: R$ 0.00
+Estimativa no término (EAC): R$ 4969762.18
+Variação no término (VAC): R$ -660245.18
+
+Detalhamento por categoria:
+- Pessoal: R$ 2083708.25 (41.9%)
+- Equipamentos: R$ 789299.00 (15.9%)
+- Software: R$ 705863.87 (14.2%)
+- Serviços: R$ 962699.80 (19.4%)
+- Outros: R$ 428191.26 (8.6%)

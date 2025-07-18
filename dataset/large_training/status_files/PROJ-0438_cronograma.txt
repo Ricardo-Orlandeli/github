@@ -1,0 +1,22 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A vantagem de ganhar simplesmente (PROJ-0438)
+Data: 14/07/2025
+Gerente: Rhavi Silva
+
+Status atual: Concluído
+Percentual de conclusão: 100.0%
+Data de início: 05/06/2024
+Data de término planejada: 15/12/2024
+Data de término real/prevista: 17/11/2024
+Atraso atual: 211 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.01
+Valor Planejado (PV): R$ 248690.00
+Valor Agregado (EV): R$ 248690.00
+
+Tarefas críticas:
+- Implementação do módulo de exportação de dados
+- Implementação do módulo de exportação de dados
+- Implementação do sistema de backup
+
+Tarefas atrasadas:

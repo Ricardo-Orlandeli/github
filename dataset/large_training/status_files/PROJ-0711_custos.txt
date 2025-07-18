@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A possibilidade de conseguir mais rapidamente (PROJ-0711)
+Data: 14/07/2025
+Gerente: Eduarda Siqueira
+
+Orçamento inicial: R$ 1207247.00
+Custo real atual: R$ 203164.65
+Desvio orçamentário: 8.62%
+Índice de Desempenho de Custo (CPI): 0.98
+Valor Agregado (EV): R$ 199493.46
+Estimativa para conclusão: R$ 1026298.78
+Estimativa no término (EAC): R$ 1229463.43
+Variação no término (VAC): R$ -22216.43
+
+Detalhamento por categoria:
+- Pessoal: R$ 95208.62 (46.9%)
+- Equipamentos: R$ 34832.73 (17.1%)
+- Software: R$ 31006.07 (15.3%)
+- Serviços: R$ 22768.50 (11.2%)
+- Outros: R$ 19348.72 (9.5%)

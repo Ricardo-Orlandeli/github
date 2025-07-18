@@ -1,0 +1,26 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: O prazer de inovar simplesmente (PROJ-0225)
+Data: 14/07/2025
+Gerente: Cecilia Ribeiro
+
+Status atual: Em andamento
+Percentual de conclusão: 98.4%
+Data de início: 19/01/2024
+Data de término planejada: 22/11/2024
+Data de término real/prevista: 15/12/2024
+Atraso atual: 234 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.05
+Valor Planejado (PV): R$ 553006.00
+Valor Agregado (EV): R$ 543965.83
+
+Tarefas críticas:
+- Integração com sistema de pagamentos
+- Desenvolvimento do módulo de autenticação
+- Testes de aceitação do usuário
+- Implementação do módulo de notificações
+- Implementação do módulo de exportação de dados
+- Integração com sistema de pagamentos
+- Configuração do ambiente de produção
+
+Tarefas atrasadas:

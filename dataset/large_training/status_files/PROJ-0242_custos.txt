@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A segurança de evoluir sem preocupação (PROJ-0242)
+Data: 14/07/2025
+Gerente: Antônio Vieira
+
+Orçamento inicial: R$ 821770.00
+Custo real atual: R$ 827074.40
+Desvio orçamentário: 0.65%
+Índice de Desempenho de Custo (CPI): 0.75
+Valor Agregado (EV): R$ 620556.39
+Estimativa para conclusão: R$ 268176.49
+Estimativa no término (EAC): R$ 1095250.89
+Variação no término (VAC): R$ -273480.89
+
+Detalhamento por categoria:
+- Pessoal: R$ 408868.61 (49.4%)
+- Equipamentos: R$ 139479.39 (16.9%)
+- Software: R$ 72264.70 (8.7%)
+- Serviços: R$ 133161.92 (16.1%)
+- Outros: R$ 73299.78 (8.9%)

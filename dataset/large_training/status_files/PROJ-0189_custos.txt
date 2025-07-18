@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A liberdade de evoluir simplesmente (PROJ-0189)
+Data: 14/07/2025
+Gerente: Vitória Albuquerque
+
+Orçamento inicial: R$ 1676404.00
+Custo real atual: R$ 1619181.31
+Desvio orçamentário: -3.41%
+Índice de Desempenho de Custo (CPI): 1.03
+Valor Agregado (EV): R$ 1674727.60
+Estimativa para conclusão: R$ 1620.80
+Estimativa no término (EAC): R$ 1620802.11
+Variação no término (VAC): R$ 55601.89
+
+Detalhamento por categoria:
+- Pessoal: R$ 852157.69 (52.6%)
+- Equipamentos: R$ 170882.43 (10.6%)
+- Software: R$ 201802.65 (12.5%)
+- Serviços: R$ 255173.01 (15.8%)
+- Outros: R$ 139165.54 (8.6%)

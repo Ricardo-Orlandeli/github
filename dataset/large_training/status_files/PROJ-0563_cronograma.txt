@@ -1,0 +1,30 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A simplicidade de evoluir de maneira eficaz (PROJ-0563)
+Data: 14/07/2025
+Gerente: Maria Julia da Cunha
+
+Status atual: Atrasado
+Percentual de conclusão: 32.3%
+Data de início: 20/03/2025
+Data de término planejada: 08/11/2025
+Data de término real/prevista: 24/12/2025
+Atraso atual: 0 dias
+Motivo do atraso: Falhas em testes de aceitação
+Índice de Desempenho de Cronograma (SPI): 0.65
+Valor Planejado (PV): R$ 525609.44
+Valor Agregado (EV): R$ 341521.09
+
+Tarefas críticas:
+- Configuração do ambiente de produção
+- Implementação do sistema de backup
+- Desenvolvimento da interface do usuário
+- Migração de dados legados
+- Integração com sistema de pagamentos
+- Implementação do módulo de relatórios
+- Implementação do sistema de backup
+- Implementação do módulo de exportação de dados
+
+Tarefas atrasadas:
+- Implementação do módulo de relatórios
+- Implementação do módulo de exportação de dados
+- Configuração do ambiente de produção

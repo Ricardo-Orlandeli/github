@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A certeza de mudar sem preocupação (PROJ-0016)
+Data: 14/07/2025
+Gerente: Lara Martins
+
+Orçamento inicial: R$ 200733.00
+Custo real atual: R$ 230598.40
+Desvio orçamentário: 14.88%
+Índice de Desempenho de Custo (CPI): 0.87
+Valor Agregado (EV): R$ 200532.27
+Estimativa para conclusão: R$ 230.83
+Estimativa no término (EAC): R$ 230829.23
+Variação no término (VAC): R$ -30096.23
+
+Detalhamento por categoria:
+- Pessoal: R$ 126169.34 (54.7%)
+- Equipamentos: R$ 29767.91 (12.9%)
+- Software: R$ 19632.78 (8.5%)
+- Serviços: R$ 35149.47 (15.2%)
+- Outros: R$ 19878.91 (8.6%)

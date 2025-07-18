@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A certeza de inovar direto da fonte (PROJ-0705)
+Data: 14/07/2025
+Gerente: Antony Santos
+
+Orçamento inicial: R$ 3810970.00
+Custo real atual: R$ 4012648.53
+Desvio orçamentário: 5.29%
+Índice de Desempenho de Custo (CPI): 0.95
+Valor Agregado (EV): R$ 3810970.00
+Estimativa para conclusão: R$ 0.00
+Estimativa no término (EAC): R$ 4012648.53
+Variação no término (VAC): R$ -201678.53
+
+Detalhamento por categoria:
+- Pessoal: R$ 2184923.32 (54.5%)
+- Equipamentos: R$ 628764.53 (15.7%)
+- Software: R$ 427573.54 (10.7%)
+- Serviços: R$ 442189.84 (11.0%)
+- Outros: R$ 329197.30 (8.2%)

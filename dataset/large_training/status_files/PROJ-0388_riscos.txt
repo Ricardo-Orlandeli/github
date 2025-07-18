@@ -1,0 +1,47 @@
+RELATÓRIO DE STATUS DE RISCOS
+Projeto: A certeza de inovar simplesmente (PROJ-0388)
+Data: 14/07/2025
+Gerente: Kaique Viana
+
+Riscos identificados:
+- R01: Problemas de integração com sistemas legados
+  Probabilidade: 3/5, Impacto: 5/5, Nível: Médio
+  Mitigação: Comunicar benefícios da mudança
+
+- R02: Indisponibilidade de recursos especializados
+  Probabilidade: 4/5, Impacto: 5/5, Nível: Alto
+  Mitigação: Testar compatibilidade em diferentes ambientes
+
+- R03: Resistência dos usuários à mudança
+  Probabilidade: 4/5, Impacto: 2/5, Nível: Médio
+  Mitigação: Implementar redundância de infraestrutura
+
+- R04: Problemas de integração com sistemas legados
+  Probabilidade: 3/5, Impacto: 3/5, Nível: Médio
+  Mitigação: Buscar fornecedores alternativos
+
+- R05: Resistência dos usuários à mudança
+  Probabilidade: 3/5, Impacto: 4/5, Nível: Médio
+  Mitigação: Estabelecer canais de comunicação claros
+
+- R06: Problemas de desempenho
+  Probabilidade: 1/5, Impacto: 5/5, Nível: Baixo
+  Mitigação: Otimizar código e infraestrutura
+
+- R07: Problemas de comunicação com stakeholders
+  Probabilidade: 2/5, Impacto: 2/5, Nível: Baixo
+  Mitigação: Melhorar a documentação de requisitos
+
+Riscos ocorridos:
+- R02 (ocorrido em 28/03/2025)
+  Impacto real: Aumento de 10% nos custos
+  Ações tomadas: Contratação de recursos adicionais
+
+- R05 (ocorrido em 19/04/2025)
+  Impacto real: Redução de funcionalidades
+  Ações tomadas: Implementação de soluções alternativas
+
+- R03 (ocorrido em 25/04/2025)
+  Impacto real: Atraso de 2 semanas no cronograma
+  Ações tomadas: Implementação do plano de contingência
+

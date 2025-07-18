@@ -1,0 +1,27 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: O direito de concretizar seus projetos mais rapidamente (PROJ-0676)
+Data: 14/07/2025
+Gerente: Valentina Sousa
+
+Status atual: Concluído
+Percentual de conclusão: 100.0%
+Data de início: 09/10/2024
+Data de término planejada: 02/10/2025
+Data de término real/prevista: 28/10/2025
+Atraso atual: 0 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.03
+Valor Planejado (PV): R$ 1720348.64
+Valor Agregado (EV): R$ 2215413.00
+
+Tarefas críticas:
+- Testes de segurança
+- Implementação do módulo de relatórios
+- Migração de dados legados
+- Implementação do sistema de backup
+- Implementação do módulo de relatórios
+- Implementação do sistema de backup
+- Integração com sistema de pagamentos
+- Implementação do módulo de notificações
+
+Tarefas atrasadas:

@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A vantagem de ganhar antes de tudo (PROJ-0031)
+Data: 14/07/2025
+Gerente: Stephany Teixeira
+
+Orçamento inicial: R$ 4279368.00
+Custo real atual: R$ 496144.37
+Desvio orçamentário: 5.50%
+Índice de Desempenho de Custo (CPI): 0.98
+Valor Agregado (EV): R$ 484180.39
+Estimativa para conclusão: R$ 3888965.75
+Estimativa no término (EAC): R$ 4385110.12
+Variação no término (VAC): R$ -105742.12
+
+Detalhamento por categoria:
+- Pessoal: R$ 243632.16 (49.1%)
+- Equipamentos: R$ 96193.80 (19.4%)
+- Software: R$ 34044.72 (6.9%)
+- Serviços: R$ 83271.76 (16.8%)
+- Outros: R$ 39001.93 (7.9%)

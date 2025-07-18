@@ -1,0 +1,24 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A vantagem de atingir seus objetivos com confiança (PROJ-0606)
+Data: 14/07/2025
+Gerente: Elisa Andrade
+
+Status atual: Em andamento
+Percentual de conclusão: 97.6%
+Data de início: 22/01/2025
+Data de término planejada: 09/03/2025
+Data de término real/prevista: 27/02/2025
+Atraso atual: 127 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.00
+Valor Planejado (PV): R$ 3965672.00
+Valor Agregado (EV): R$ 3869463.53
+
+Tarefas críticas:
+- Implementação do módulo de notificações
+- Implementação do sistema de backup
+- Testes de segurança
+- Implementação do módulo de exportação de dados
+- Implementação do módulo de notificações
+
+Tarefas atrasadas:

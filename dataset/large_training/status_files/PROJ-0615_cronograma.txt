@@ -1,0 +1,25 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A liberdade de inovar de maneira eficaz (PROJ-0615)
+Data: 14/07/2025
+Gerente: Maria Isis Guerra
+
+Status atual: Concluído
+Percentual de conclusão: 100.0%
+Data de início: 22/01/2025
+Data de término planejada: 15/07/2025
+Data de término real/prevista: 30/07/2025
+Atraso atual: 0 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.07
+Valor Planejado (PV): R$ 758652.72
+Valor Agregado (EV): R$ 763038.00
+
+Tarefas críticas:
+- Desenvolvimento da interface do usuário
+- Implementação do módulo de exportação de dados
+- Implementação da API REST
+- Integração com sistema de pagamentos
+- Integração com sistema de pagamentos
+- Implementação do módulo de exportação de dados
+
+Tarefas atrasadas:

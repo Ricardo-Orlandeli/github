@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A segurança de ganhar de maneira eficaz (PROJ-0360)
+Data: 14/07/2025
+Gerente: Maria Julia Jesus
+
+Orçamento inicial: R$ 3782424.00
+Custo real atual: R$ 932774.31
+Desvio orçamentário: -31.82%
+Índice de Desempenho de Custo (CPI): 1.21
+Valor Agregado (EV): R$ 1126341.49
+Estimativa para conclusão: R$ 2199622.02
+Estimativa no término (EAC): R$ 3132396.34
+Variação no término (VAC): R$ 650027.66
+
+Detalhamento por categoria:
+- Pessoal: R$ 458701.95 (49.2%)
+- Equipamentos: R$ 178114.28 (19.1%)
+- Software: R$ 106262.70 (11.4%)
+- Serviços: R$ 136868.34 (14.7%)
+- Outros: R$ 52827.03 (5.7%)

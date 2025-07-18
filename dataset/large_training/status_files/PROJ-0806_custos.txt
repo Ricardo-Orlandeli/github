@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A liberdade de mudar mais facilmente (PROJ-0806)
+Data: 14/07/2025
+Gerente: Daniela Farias
+
+Orçamento inicial: R$ 850990.00
+Custo real atual: R$ 1020658.08
+Desvio orçamentário: 19.94%
+Índice de Desempenho de Custo (CPI): 0.83
+Valor Agregado (EV): R$ 850990.00
+Estimativa para conclusão: R$ 0.00
+Estimativa no término (EAC): R$ 1020658.08
+Variação no término (VAC): R$ -169668.08
+
+Detalhamento por categoria:
+- Pessoal: R$ 604135.09 (59.2%)
+- Equipamentos: R$ 116373.25 (11.4%)
+- Software: R$ 87728.82 (8.6%)
+- Serviços: R$ 138317.52 (13.6%)
+- Outros: R$ 74103.40 (7.3%)

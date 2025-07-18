@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O conforto de atingir seus objetivos direto da fonte (PROJ-0965)
+Data: 14/07/2025
+Gerente: Raquel Leão
+
+Orçamento inicial: R$ 647397.00
+Custo real atual: R$ 486952.05
+Desvio orçamentário: -24.78%
+Índice de Desempenho de Custo (CPI): 0.80
+Valor Agregado (EV): R$ 387483.13
+Estimativa para conclusão: R$ 326635.11
+Estimativa no término (EAC): R$ 813587.16
+Variação no término (VAC): R$ -166190.16
+
+Detalhamento por categoria:
+- Pessoal: R$ 227631.21 (46.7%)
+- Equipamentos: R$ 84141.36 (17.3%)
+- Software: R$ 43629.32 (9.0%)
+- Serviços: R$ 85788.33 (17.6%)
+- Outros: R$ 45761.84 (9.4%)

@@ -1,0 +1,22 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A vantagem de realizar seus sonhos antes de tudo (PROJ-0501)
+Data: 14/07/2025
+Gerente: Maria Laura Sampaio
+
+Status atual: Concluído
+Percentual de conclusão: 100.0%
+Data de início: 02/10/2024
+Data de término planejada: 02/09/2025
+Data de término real/prevista: 09/09/2025
+Atraso atual: 0 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.00
+Valor Planejado (PV): R$ 4059969.63
+Valor Agregado (EV): R$ 4772245.00
+
+Tarefas críticas:
+- Implementação do módulo de notificações
+- Migração de dados legados
+- Implementação da API REST
+
+Tarefas atrasadas:

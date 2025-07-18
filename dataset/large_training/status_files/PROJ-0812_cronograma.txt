@@ -1,0 +1,24 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A liberdade de concretizar seus projetos naturalmente (PROJ-0812)
+Data: 14/07/2025
+Gerente: Sr. Caio Melo
+
+Status atual: Em andamento
+Percentual de conclusão: 99.9%
+Data de início: 10/12/2023
+Data de término planejada: 30/09/2024
+Data de término real/prevista: 17/09/2024
+Atraso atual: 287 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.03
+Valor Planejado (PV): R$ 2468161.00
+Valor Agregado (EV): R$ 2465692.84
+
+Tarefas críticas:
+- Migração de dados legados
+- Configuração do ambiente de produção
+- Desenvolvimento do módulo de autenticação
+- Configuração da infraestrutura
+- Migração de dados legados
+
+Tarefas atrasadas:

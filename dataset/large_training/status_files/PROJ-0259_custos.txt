@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A segurança de evoluir simplesmente (PROJ-0259)
+Data: 14/07/2025
+Gerente: Mariana Pastor
+
+Orçamento inicial: R$ 4377392.00
+Custo real atual: R$ 3932749.37
+Desvio orçamentário: -10.16%
+Índice de Desempenho de Custo (CPI): 0.93
+Valor Agregado (EV): R$ 3656990.92
+Estimativa para conclusão: R$ 774723.53
+Estimativa no término (EAC): R$ 4707472.90
+Variação no término (VAC): R$ -330080.90
+
+Detalhamento por categoria:
+- Pessoal: R$ 1873086.89 (47.6%)
+- Equipamentos: R$ 772086.49 (19.6%)
+- Software: R$ 329161.81 (8.4%)
+- Serviços: R$ 660995.00 (16.8%)
+- Outros: R$ 297419.19 (7.6%)

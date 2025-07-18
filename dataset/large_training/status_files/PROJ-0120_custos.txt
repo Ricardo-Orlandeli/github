@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O direito de inovar com força total (PROJ-0120)
+Data: 14/07/2025
+Gerente: Ravi Lucca Andrade
+
+Orçamento inicial: R$ 2213548.00
+Custo real atual: R$ 1818739.73
+Desvio orçamentário: -17.84%
+Índice de Desempenho de Custo (CPI): 1.22
+Valor Agregado (EV): R$ 2211334.45
+Estimativa para conclusão: R$ 1820.56
+Estimativa no término (EAC): R$ 1820560.29
+Variação no término (VAC): R$ 392987.71
+
+Detalhamento por categoria:
+- Pessoal: R$ 913360.76 (50.2%)
+- Equipamentos: R$ 269748.51 (14.8%)
+- Software: R$ 243673.14 (13.4%)
+- Serviços: R$ 288059.31 (15.8%)
+- Outros: R$ 103898.01 (5.7%)

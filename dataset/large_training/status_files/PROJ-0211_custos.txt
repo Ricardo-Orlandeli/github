@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A arte de conseguir antes de tudo (PROJ-0211)
+Data: 14/07/2025
+Gerente: Clara Camargo
+
+Orçamento inicial: R$ 3964092.00
+Custo real atual: R$ 3608953.29
+Desvio orçamentário: -8.96%
+Índice de Desempenho de Custo (CPI): 1.10
+Valor Agregado (EV): R$ 3960127.91
+Estimativa para conclusão: R$ 3612.57
+Estimativa no término (EAC): R$ 3612565.86
+Variação no término (VAC): R$ 351526.14
+
+Detalhamento por categoria:
+- Pessoal: R$ 1761103.50 (48.8%)
+- Equipamentos: R$ 681798.67 (18.9%)
+- Software: R$ 201076.08 (5.6%)
+- Serviços: R$ 719678.15 (19.9%)
+- Outros: R$ 245296.90 (6.8%)

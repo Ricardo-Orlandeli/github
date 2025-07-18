@@ -1,0 +1,35 @@
+RELATÓRIO DE STATUS DE RISCOS
+Projeto: A arte de mudar sem preocupação (PROJ-0735)
+Data: 14/07/2025
+Gerente: Rael Castro
+
+Riscos identificados:
+- R01: Problemas de compatibilidade
+  Probabilidade: 5/5, Impacto: 3/5, Nível: Médio
+  Mitigação: Estabelecer canais de comunicação claros
+
+- R02: Resistência dos usuários à mudança
+  Probabilidade: 2/5, Impacto: 4/5, Nível: Médio
+  Mitigação: Gerenciar dependências ativamente
+
+- R03: Falhas de infraestrutura
+  Probabilidade: 2/5, Impacto: 3/5, Nível: Baixo
+  Mitigação: Realizar testes de integração antecipados
+
+- R04: Rotatividade de pessoal-chave
+  Probabilidade: 3/5, Impacto: 2/5, Nível: Baixo
+  Mitigação: Comunicar benefícios da mudança
+
+- R05: Rotatividade de pessoal-chave
+  Probabilidade: 1/5, Impacto: 2/5, Nível: Baixo
+  Mitigação: Gerenciar dependências ativamente
+
+- R06: Problemas de comunicação com stakeholders
+  Probabilidade: 2/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Implementar redundância de infraestrutura
+
+- R07: Indisponibilidade de recursos especializados
+  Probabilidade: 5/5, Impacto: 2/5, Nível: Médio
+  Mitigação: Otimizar código e infraestrutura
+
+Riscos ocorridos:

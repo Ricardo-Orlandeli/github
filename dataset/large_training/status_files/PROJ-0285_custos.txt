@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O conforto de avançar com força total (PROJ-0285)
+Data: 14/07/2025
+Gerente: Dom das Neves
+
+Orçamento inicial: R$ 2856848.00
+Custo real atual: R$ 2590149.53
+Desvio orçamentário: 0.65%
+Índice de Desempenho de Custo (CPI): 0.74
+Valor Agregado (EV): R$ 1905416.43
+Estimativa para conclusão: R$ 1293339.34
+Estimativa no término (EAC): R$ 3883488.88
+Variação no término (VAC): R$ -1026640.88
+
+Detalhamento por categoria:
+- Pessoal: R$ 1176865.47 (45.4%)
+- Equipamentos: R$ 533832.93 (20.6%)
+- Software: R$ 358284.48 (13.8%)
+- Serviços: R$ 334581.99 (12.9%)
+- Outros: R$ 186584.66 (7.2%)

@@ -1,0 +1,23 @@
+RELATÓRIO DE STATUS DE ESCOPO
+Projeto: A vantagem de ganhar de maneira eficaz (PROJ-0624)
+Data: 14/07/2025
+Gerente: Alice Aparecida
+
+Escopo original: Sistema para a vantagem de ganhar de maneira eficaz
+Houve mudança de escopo: Sim
+Descrição das mudanças: Mudança na plataforma de implementação
+Impacto no cronograma: 34 dias
+Impacto no custo: R$ 367659.91
+
+Solicitações de mudança:
+- SCM-01: Adição de relatórios gerenciais
+- SCM-02: Adição de relatórios gerenciais
+- SCM-03: Adição de funcionalidade de autenticação biométrica
+- SCM-04: Adição de funcionalidade de autenticação biométrica
+
+Requisitos atuais:
+- REQ-01: O sistema deve permitir integração com APIs externas
+- REQ-02: O sistema deve ter alta disponibilidade (99.9%)
+- REQ-03: O sistema deve ser compatível com dispositivos móveis
+- REQ-04: O sistema deve permitir autenticação de usuários
+- REQ-05: O sistema deve ter alta disponibilidade (99.9%)

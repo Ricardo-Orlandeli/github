@@ -1,0 +1,23 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A liberdade de ganhar mais rapidamente (PROJ-0842)
+Data: 14/07/2025
+Gerente: Dr. Gael da Rosa
+
+Status atual: Em andamento
+Percentual de conclusão: 99.9%
+Data de início: 07/11/2023
+Data de término planejada: 26/02/2024
+Data de término real/prevista: 13/03/2024
+Atraso atual: 504 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.12
+Valor Planejado (PV): R$ 114919.00
+Valor Agregado (EV): R$ 114804.08
+
+Tarefas críticas:
+- Implementação do sistema de backup
+- Testes de aceitação do usuário
+- Implementação do módulo de análise de dados
+- Migração de dados legados
+
+Tarefas atrasadas:

@@ -1,0 +1,31 @@
+RELATÓRIO DE STATUS DE RISCOS
+Projeto: A certeza de conseguir antes de tudo (PROJ-0311)
+Data: 14/07/2025
+Gerente: Ayla Fonseca
+
+Riscos identificados:
+- R01: Mudanças regulatórias
+  Probabilidade: 2/5, Impacto: 2/5, Nível: Baixo
+  Mitigação: Buscar fornecedores alternativos
+
+- R02: Rotatividade de pessoal-chave
+  Probabilidade: 1/5, Impacto: 5/5, Nível: Baixo
+  Mitigação: Testar compatibilidade em diferentes ambientes
+
+- R03: Problemas de compatibilidade
+  Probabilidade: 2/5, Impacto: 2/5, Nível: Baixo
+  Mitigação: Implementar redundância de infraestrutura
+
+Riscos ocorridos:
+- R02 (ocorrido em 04/12/2024)
+  Impacto real: Indisponibilidade temporária
+  Ações tomadas: Revisão de prioridades
+
+- R03 (ocorrido em 08/05/2025)
+  Impacto real: Problemas de qualidade
+  Ações tomadas: Implementação do plano de contingência
+
+- R01 (ocorrido em 06/11/2024)
+  Impacto real: Problemas de qualidade
+  Ações tomadas: Realocação de recursos
+

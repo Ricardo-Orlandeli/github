@@ -1,0 +1,25 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A simplicidade de mudar antes de tudo (PROJ-0699)
+Data: 14/07/2025
+Gerente: Zoe Câmara
+
+Status atual: Atrasado
+Percentual de conclusão: 84.3%
+Data de início: 16/10/2024
+Data de término planejada: 17/03/2025
+Data de término real/prevista: 21/07/2025
+Atraso atual: 119 dias
+Motivo do atraso: Problemas técnicos inesperados
+Índice de Desempenho de Cronograma (SPI): 0.84
+Valor Planejado (PV): R$ 4641672.00
+Valor Agregado (EV): R$ 3911094.03
+
+Tarefas críticas:
+- Implementação da API REST
+- Testes de aceitação do usuário
+- Testes de segurança
+- Implementação do módulo de exportação de dados
+- Implementação do módulo de relatórios
+
+Tarefas atrasadas:
+- Testes de segurança

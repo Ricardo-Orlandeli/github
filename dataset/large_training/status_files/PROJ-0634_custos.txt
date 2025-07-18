@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O conforto de conseguir com força total (PROJ-0634)
+Data: 14/07/2025
+Gerente: Maria Liz Sousa
+
+Orçamento inicial: R$ 2908404.00
+Custo real atual: R$ 3030408.83
+Desvio orçamentário: 4.19%
+Índice de Desempenho de Custo (CPI): 0.96
+Valor Agregado (EV): R$ 2905495.60
+Estimativa para conclusão: R$ 3033.44
+Estimativa no término (EAC): R$ 3033442.27
+Variação no término (VAC): R$ -125038.27
+
+Detalhamento por categoria:
+- Pessoal: R$ 1762099.95 (58.1%)
+- Equipamentos: R$ 378121.38 (12.5%)
+- Software: R$ 287091.48 (9.5%)
+- Serviços: R$ 375815.19 (12.4%)
+- Outros: R$ 227280.83 (7.5%)

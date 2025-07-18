@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A vantagem de atingir seus objetivos em estado puro (PROJ-0816)
+Data: 14/07/2025
+Gerente: Emanuella Pacheco
+
+Orçamento inicial: R$ 2301164.00
+Custo real atual: R$ 2392361.92
+Desvio orçamentário: 3.96%
+Índice de Desempenho de Custo (CPI): 0.96
+Valor Agregado (EV): R$ 2301164.00
+Estimativa para conclusão: R$ 0.00
+Estimativa no término (EAC): R$ 2392361.92
+Variação no término (VAC): R$ -91197.92
+
+Detalhamento por categoria:
+- Pessoal: R$ 1128391.70 (47.2%)
+- Equipamentos: R$ 276585.16 (11.6%)
+- Software: R$ 275627.93 (11.5%)
+- Serviços: R$ 473037.71 (19.8%)
+- Outros: R$ 238719.43 (10.0%)

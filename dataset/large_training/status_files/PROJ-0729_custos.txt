@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A certeza de inovar mais facilmente (PROJ-0729)
+Data: 14/07/2025
+Gerente: Matheus Macedo
+
+Orçamento inicial: R$ 4647932.00
+Custo real atual: R$ 4083851.69
+Desvio orçamentário: -12.14%
+Índice de Desempenho de Custo (CPI): 1.14
+Valor Agregado (EV): R$ 4647932.00
+Estimativa para conclusão: R$ 0.00
+Estimativa no término (EAC): R$ 4083851.69
+Variação no término (VAC): R$ 564080.31
+
+Detalhamento por categoria:
+- Pessoal: R$ 2111119.16 (51.7%)
+- Equipamentos: R$ 451118.82 (11.0%)
+- Software: R$ 375089.22 (9.2%)
+- Serviços: R$ 801621.90 (19.6%)
+- Outros: R$ 344902.60 (8.4%)

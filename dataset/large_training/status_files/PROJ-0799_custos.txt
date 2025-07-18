@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O prazer de mudar direto da fonte (PROJ-0799)
+Data: 14/07/2025
+Gerente: João Miguel Brito
+
+Orçamento inicial: R$ 1717935.00
+Custo real atual: R$ 1831393.91
+Desvio orçamentário: 6.60%
+Índice de Desempenho de Custo (CPI): 0.94
+Valor Agregado (EV): R$ 1716217.07
+Estimativa para conclusão: R$ 1833.23
+Estimativa no término (EAC): R$ 1833227.14
+Variação no término (VAC): R$ -115292.14
+
+Detalhamento por categoria:
+- Pessoal: R$ 936560.46 (51.1%)
+- Equipamentos: R$ 281997.42 (15.4%)
+- Software: R$ 251923.52 (13.8%)
+- Serviços: R$ 252517.28 (13.8%)
+- Outros: R$ 108395.22 (5.9%)

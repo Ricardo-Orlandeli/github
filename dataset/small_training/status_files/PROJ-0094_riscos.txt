@@ -1,0 +1,23 @@
+RELATÓRIO DE STATUS DE RISCOS
+Projeto: A certeza de evoluir com confiança (PROJ-0094)
+Data: 14/07/2025
+Gerente: Alexandre Moreira
+
+Riscos identificados:
+- R01: Atraso na entrega de componentes críticos
+  Probabilidade: 3/5, Impacto: 2/5, Nível: Baixo
+  Mitigação: Melhorar a documentação de requisitos
+
+- R02: Requisitos mal definidos
+  Probabilidade: 5/5, Impacto: 4/5, Nível: Alto
+  Mitigação: Realizar testes de aceitação com usuários-chave
+
+- R03: Resistência dos usuários à mudança
+  Probabilidade: 4/5, Impacto: 5/5, Nível: Alto
+  Mitigação: Testar compatibilidade em diferentes ambientes
+
+Riscos ocorridos:
+- R03 (ocorrido em 23/05/2024)
+  Impacto real: Perda de dados
+  Ações tomadas: Contratação de recursos adicionais
+

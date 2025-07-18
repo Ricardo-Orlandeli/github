@@ -1,0 +1,27 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A segurança de ganhar com confiança (PROJ-0083)
+Data: 14/07/2025
+Gerente: Heitor Abreu
+
+Status atual: Em andamento
+Percentual de conclusão: 93.6%
+Data de início: 27/02/2024
+Data de término planejada: 31/03/2024
+Data de término real/prevista: 26/03/2024
+Atraso atual: 470 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 0.99
+Valor Planejado (PV): R$ 4373811.00
+Valor Agregado (EV): R$ 4095588.31
+
+Tarefas críticas:
+- Migração de dados legados
+- Implementação do módulo de análise de dados
+- Testes de segurança
+- Configuração do ambiente de produção
+- Configuração da infraestrutura
+- Implementação do módulo de exportação de dados
+- Implementação da API REST
+- Testes de aceitação do usuário
+
+Tarefas atrasadas:

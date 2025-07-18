@@ -1,0 +1,35 @@
+RELATÓRIO DE STATUS DE RISCOS
+Projeto: O poder de inovar mais facilmente (PROJ-0093)
+Data: 14/07/2025
+Gerente: Daniela Barros
+
+Riscos identificados:
+- R01: Problemas de compatibilidade
+  Probabilidade: 5/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Contratar pessoal adicional
+
+- R02: Indisponibilidade de recursos especializados
+  Probabilidade: 1/5, Impacto: 2/5, Nível: Baixo
+  Mitigação: Testar compatibilidade em diferentes ambientes
+
+- R03: Requisitos mal definidos
+  Probabilidade: 5/5, Impacto: 4/5, Nível: Alto
+  Mitigação: Otimizar código e infraestrutura
+
+- R04: Falhas de infraestrutura
+  Probabilidade: 1/5, Impacto: 3/5, Nível: Baixo
+  Mitigação: Refinar estimativas com base em dados históricos
+
+Riscos ocorridos:
+- R04 (ocorrido em 11/04/2024)
+  Impacto real: Retrabalho significativo
+  Ações tomadas: Revisão de prioridades
+
+- R02 (ocorrido em 10/01/2025)
+  Impacto real: Retrabalho significativo
+  Ações tomadas: Revisão de processos
+
+- R01 (ocorrido em 28/09/2024)
+  Impacto real: Redução de funcionalidades
+  Ações tomadas: Revisão de processos
+

@@ -1,0 +1,24 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: O poder de realizar seus sonhos com toda a tranquilidade (PROJ-0671)
+Data: 14/07/2025
+Gerente: Julia Caldeira
+
+Status atual: Concluído
+Percentual de conclusão: 100.0%
+Data de início: 05/05/2025
+Data de término planejada: 22/08/2025
+Data de término real/prevista: 06/08/2025
+Atraso atual: 0 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.05
+Valor Planejado (PV): R$ 680654.31
+Valor Agregado (EV): R$ 1059876.00
+
+Tarefas críticas:
+- Implementação da API REST
+- Implementação do módulo de exportação de dados
+- Migração de dados legados
+- Implementação do módulo de relatórios
+- Implementação do módulo de notificações
+
+Tarefas atrasadas:

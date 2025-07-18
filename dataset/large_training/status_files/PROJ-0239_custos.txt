@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A possibilidade de realizar seus sonhos em estado puro (PROJ-0239)
+Data: 14/07/2025
+Gerente: Lívia da Luz
+
+Orçamento inicial: R$ 360341.00
+Custo real atual: R$ 361721.58
+Desvio orçamentário: 0.38%
+Índice de Desempenho de Custo (CPI): 1.00
+Valor Agregado (EV): R$ 359980.66
+Estimativa para conclusão: R$ 362.08
+Estimativa no término (EAC): R$ 362083.67
+Variação no término (VAC): R$ -1742.67
+
+Detalhamento por categoria:
+- Pessoal: R$ 167394.78 (46.3%)
+- Equipamentos: R$ 65450.94 (18.1%)
+- Software: R$ 41528.17 (11.5%)
+- Serviços: R$ 54328.61 (15.0%)
+- Outros: R$ 33019.08 (9.1%)

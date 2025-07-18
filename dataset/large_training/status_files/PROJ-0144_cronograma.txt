@@ -1,0 +1,27 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: O poder de avançar naturalmente (PROJ-0144)
+Data: 14/07/2025
+Gerente: Isadora Cavalcante
+
+Status atual: Em andamento
+Percentual de conclusão: 98.1%
+Data de início: 22/03/2024
+Data de término planejada: 13/01/2025
+Data de término real/prevista: 11/02/2025
+Atraso atual: 182 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.09
+Valor Planejado (PV): R$ 3263436.00
+Valor Agregado (EV): R$ 3202918.83
+
+Tarefas críticas:
+- Testes de segurança
+- Implementação do módulo de exportação de dados
+- Configuração do ambiente de produção
+- Implementação da API REST
+- Configuração do ambiente de produção
+- Implementação do módulo de relatórios
+- Desenvolvimento do painel administrativo
+- Implementação da API REST
+
+Tarefas atrasadas:

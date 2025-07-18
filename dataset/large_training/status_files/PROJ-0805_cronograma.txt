@@ -1,0 +1,25 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A vantagem de concretizar seus projetos simplesmente (PROJ-0805)
+Data: 14/07/2025
+Gerente: Théo Pinto
+
+Status atual: Em andamento
+Percentual de conclusão: 99.9%
+Data de início: 23/08/2023
+Data de término planejada: 04/05/2024
+Data de término real/prevista: 24/04/2024
+Atraso atual: 436 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 0.89
+Valor Planejado (PV): R$ 4989234.00
+Valor Agregado (EV): R$ 4984244.77
+
+Tarefas críticas:
+- Implementação do sistema de backup
+- Desenvolvimento da interface do usuário
+- Migração de dados legados
+- Desenvolvimento do módulo de autenticação
+- Implementação do módulo de notificações
+- Implementação do módulo de exportação de dados
+
+Tarefas atrasadas:

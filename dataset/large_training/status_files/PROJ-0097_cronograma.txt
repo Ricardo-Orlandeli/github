@@ -1,0 +1,26 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A segurança de mudar com confiança (PROJ-0097)
+Data: 14/07/2025
+Gerente: Otávio da Mata
+
+Status atual: Cancelado
+Percentual de conclusão: 65.4%
+Data de início: 18/05/2025
+Data de término planejada: 02/02/2026
+Data de término real/prevista: 04/11/2025
+Atraso atual: 0 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 2.98
+Valor Planejado (PV): R$ 744995.04
+Valor Agregado (EV): R$ 2222682.65
+
+Tarefas críticas:
+- Implementação do módulo de análise de dados
+- Implementação do módulo de relatórios
+- Implementação do módulo de exportação de dados
+- Implementação do módulo de notificações
+- Desenvolvimento do painel administrativo
+- Testes de aceitação do usuário
+- Configuração da infraestrutura
+
+Tarefas atrasadas:

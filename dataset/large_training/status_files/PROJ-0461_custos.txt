@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A arte de realizar seus sonhos com força total (PROJ-0461)
+Data: 14/07/2025
+Gerente: Theodoro Gomes
+
+Orçamento inicial: R$ 2830005.00
+Custo real atual: R$ 1813895.04
+Desvio orçamentário: -35.90%
+Índice de Desempenho de Custo (CPI): 0.91
+Valor Agregado (EV): R$ 1657091.08
+Estimativa para conclusão: R$ 1283902.12
+Estimativa no término (EAC): R$ 3097797.16
+Variação no término (VAC): R$ -267792.16
+
+Detalhamento por categoria:
+- Pessoal: R$ 1093834.87 (60.3%)
+- Equipamentos: R$ 243124.97 (13.4%)
+- Software: R$ 136807.02 (7.5%)
+- Serviços: R$ 238782.81 (13.2%)
+- Outros: R$ 101345.37 (5.6%)

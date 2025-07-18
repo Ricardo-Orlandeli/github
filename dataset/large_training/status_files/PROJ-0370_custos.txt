@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A segurança de inovar com confiança (PROJ-0370)
+Data: 14/07/2025
+Gerente: Erick da Cunha
+
+Orçamento inicial: R$ 2002136.00
+Custo real atual: R$ 1783053.86
+Desvio orçamentário: -10.94%
+Índice de Desempenho de Custo (CPI): 1.05
+Valor Agregado (EV): R$ 1870168.38
+Estimativa para conclusão: R$ 125820.42
+Estimativa no término (EAC): R$ 1908874.28
+Variação no término (VAC): R$ 93261.72
+
+Detalhamento por categoria:
+- Pessoal: R$ 1004575.77 (56.3%)
+- Equipamentos: R$ 246948.33 (13.8%)
+- Software: R$ 221395.44 (12.4%)
+- Serviços: R$ 211009.71 (11.8%)
+- Outros: R$ 99124.61 (5.6%)

@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O prazer de evoluir com confiança (PROJ-0015)
+Data: 14/07/2025
+Gerente: Mirella Viana
+
+Orçamento inicial: R$ 1802692.00
+Custo real atual: R$ 1389168.23
+Desvio orçamentário: -2.58%
+Índice de Desempenho de Custo (CPI): 0.91
+Valor Agregado (EV): R$ 1266144.03
+Estimativa para conclusão: R$ 588681.36
+Estimativa no término (EAC): R$ 1977849.59
+Variação no término (VAC): R$ -175157.59
+
+Detalhamento por categoria:
+- Pessoal: R$ 701205.41 (50.5%)
+- Equipamentos: R$ 220270.11 (15.9%)
+- Software: R$ 192007.56 (13.8%)
+- Serviços: R$ 155742.83 (11.2%)
+- Outros: R$ 119942.32 (8.6%)

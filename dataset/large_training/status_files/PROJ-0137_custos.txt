@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O conforto de ganhar mais rapidamente (PROJ-0137)
+Data: 14/07/2025
+Gerente: Sra. Maitê Mendes
+
+Orçamento inicial: R$ 1505012.00
+Custo real atual: R$ 1386240.22
+Desvio orçamentário: -7.89%
+Índice de Desempenho de Custo (CPI): 0.89
+Valor Agregado (EV): R$ 1238405.05
+Estimativa para conclusão: R$ 298433.27
+Estimativa no término (EAC): R$ 1684673.49
+Variação no término (VAC): R$ -179661.49
+
+Detalhamento por categoria:
+- Pessoal: R$ 738327.48 (53.3%)
+- Equipamentos: R$ 175320.45 (12.6%)
+- Software: R$ 116093.64 (8.4%)
+- Serviços: R$ 206326.98 (14.9%)
+- Outros: R$ 150171.67 (10.8%)

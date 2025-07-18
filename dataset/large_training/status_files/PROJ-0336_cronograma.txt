@@ -1,0 +1,26 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A vantagem de mudar mais facilmente (PROJ-0336)
+Data: 14/07/2025
+Gerente: Emanuel Oliveira
+
+Status atual: Em andamento
+Percentual de conclusão: 94.1%
+Data de início: 06/09/2024
+Data de término planejada: 10/03/2025
+Data de término real/prevista: 17/03/2025
+Atraso atual: 126 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.09
+Valor Planejado (PV): R$ 4877817.00
+Valor Agregado (EV): R$ 4592339.62
+
+Tarefas críticas:
+- Implementação do módulo de relatórios
+- Implementação do módulo de relatórios
+- Implementação do módulo de relatórios
+- Configuração do ambiente de produção
+- Implementação do módulo de relatórios
+- Configuração do ambiente de produção
+- Desenvolvimento do painel administrativo
+
+Tarefas atrasadas:

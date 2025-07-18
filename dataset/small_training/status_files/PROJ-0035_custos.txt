@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A segurança de conseguir mais facilmente (PROJ-0035)
+Data: 14/07/2025
+Gerente: Theo Almeida
+
+Orçamento inicial: R$ 1901556.00
+Custo real atual: R$ 1529667.19
+Desvio orçamentário: -19.56%
+Índice de Desempenho de Custo (CPI): 1.24
+Valor Agregado (EV): R$ 1899654.44
+Estimativa para conclusão: R$ 1531.20
+Estimativa no término (EAC): R$ 1531198.39
+Variação no término (VAC): R$ 370357.61
+
+Detalhamento por categoria:
+- Pessoal: R$ 748176.90 (48.9%)
+- Equipamentos: R$ 271634.66 (17.8%)
+- Software: R$ 187636.26 (12.3%)
+- Serviços: R$ 206790.59 (13.5%)
+- Outros: R$ 115428.78 (7.5%)

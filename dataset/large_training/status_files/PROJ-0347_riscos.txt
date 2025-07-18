@@ -1,0 +1,31 @@
+RELATÓRIO DE STATUS DE RISCOS
+Projeto: O direito de mudar com força total (PROJ-0347)
+Data: 14/07/2025
+Gerente: Marina Farias
+
+Riscos identificados:
+- R01: Mudanças regulatórias
+  Probabilidade: 3/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Realizar testes de integração antecipados
+
+- R02: Estimativas imprecisas
+  Probabilidade: 5/5, Impacto: 4/5, Nível: Alto
+  Mitigação: Estabelecer canais de comunicação claros
+
+- R03: Falhas de infraestrutura
+  Probabilidade: 5/5, Impacto: 5/5, Nível: Alto
+  Mitigação: Realizar testes de integração antecipados
+
+- R04: Resistência dos usuários à mudança
+  Probabilidade: 1/5, Impacto: 2/5, Nível: Baixo
+  Mitigação: Contratar pessoal adicional
+
+- R05: Problemas de desempenho
+  Probabilidade: 3/5, Impacto: 4/5, Nível: Médio
+  Mitigação: Melhorar a documentação de requisitos
+
+Riscos ocorridos:
+- R05 (ocorrido em 29/01/2025)
+  Impacto real: Perda de recursos-chave
+  Ações tomadas: Revisão do orçamento
+

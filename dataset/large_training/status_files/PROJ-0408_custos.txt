@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A simplicidade de inovar com toda a tranquilidade (PROJ-0408)
+Data: 14/07/2025
+Gerente: Rodrigo Rezende
+
+Orçamento inicial: R$ 678931.00
+Custo real atual: R$ 560017.18
+Desvio orçamentário: -17.51%
+Índice de Desempenho de Custo (CPI): 1.21
+Valor Agregado (EV): R$ 678931.00
+Estimativa para conclusão: R$ 0.00
+Estimativa no término (EAC): R$ 560017.18
+Variação no término (VAC): R$ 118913.82
+
+Detalhamento por categoria:
+- Pessoal: R$ 261573.98 (46.7%)
+- Equipamentos: R$ 79089.99 (14.1%)
+- Software: R$ 72978.86 (13.0%)
+- Serviços: R$ 92475.50 (16.5%)
+- Outros: R$ 53898.85 (9.6%)

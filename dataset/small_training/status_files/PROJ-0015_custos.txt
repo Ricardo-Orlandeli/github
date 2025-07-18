@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O poder de realizar seus sonhos de maneira eficaz (PROJ-0015)
+Data: 14/07/2025
+Gerente: João Pedro Macedo
+
+Orçamento inicial: R$ 3534833.00
+Custo real atual: R$ 1574167.65
+Desvio orçamentário: 0.58%
+Índice de Desempenho de Custo (CPI): 0.98
+Valor Agregado (EV): R$ 1537995.71
+Estimativa para conclusão: R$ 2043800.67
+Estimativa no término (EAC): R$ 3617968.31
+Variação no término (VAC): R$ -83135.31
+
+Detalhamento por categoria:
+- Pessoal: R$ 907847.06 (57.7%)
+- Equipamentos: R$ 200940.89 (12.8%)
+- Software: R$ 148371.20 (9.4%)
+- Serviços: R$ 197252.55 (12.5%)
+- Outros: R$ 119755.95 (7.6%)

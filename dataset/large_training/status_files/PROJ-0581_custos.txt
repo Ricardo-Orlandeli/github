@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O poder de avançar mais facilmente (PROJ-0581)
+Data: 14/07/2025
+Gerente: Juliana Silveira
+
+Orçamento inicial: R$ 380995.00
+Custo real atual: R$ 442102.59
+Desvio orçamentário: 16.04%
+Índice de Desempenho de Custo (CPI): 0.86
+Valor Agregado (EV): R$ 380614.01
+Estimativa para conclusão: R$ 442.55
+Estimativa no término (EAC): R$ 442545.13
+Variação no término (VAC): R$ -61550.13
+
+Detalhamento por categoria:
+- Pessoal: R$ 219381.24 (49.6%)
+- Equipamentos: R$ 74639.25 (16.9%)
+- Software: R$ 58402.83 (13.2%)
+- Serviços: R$ 59160.49 (13.4%)
+- Outros: R$ 30518.78 (6.9%)

@@ -1,0 +1,24 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: O direito de concretizar seus projetos em estado puro (PROJ-0376)
+Data: 14/07/2025
+Gerente: Carlos Eduardo Duarte
+
+Status atual: Em andamento
+Percentual de conclusão: 16.2%
+Data de início: 11/06/2025
+Data de término planejada: 14/12/2025
+Data de término real/prevista: 06/01/2026
+Atraso atual: 0 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 0.97
+Valor Planejado (PV): R$ 399039.90
+Valor Agregado (EV): R$ 364037.35
+
+Tarefas críticas:
+- Implementação do módulo de exportação de dados
+- Desenvolvimento da interface do usuário
+- Implementação da API REST
+- Desenvolvimento do módulo de autenticação
+- Migração de dados legados
+
+Tarefas atrasadas:

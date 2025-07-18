@@ -1,0 +1,24 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: O poder de realizar seus sonhos de maneira eficaz (PROJ-0450)
+Data: 14/07/2025
+Gerente: Sr. Luiz Henrique Vasconcelos
+
+Status atual: Em andamento
+Percentual de conclusão: 44.9%
+Data de início: 16/03/2025
+Data de término planejada: 25/11/2025
+Data de término real/prevista: 10/12/2025
+Atraso atual: 0 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 0.90
+Valor Planejado (PV): R$ 49314.80
+Valor Agregado (EV): R$ 46897.03
+
+Tarefas críticas:
+- Implementação do módulo de análise de dados
+- Desenvolvimento do módulo de autenticação
+- Desenvolvimento do módulo de autenticação
+- Desenvolvimento do painel administrativo
+- Implementação do sistema de backup
+
+Tarefas atrasadas:

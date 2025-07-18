@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A possibilidade de avançar com força total (PROJ-0131)
+Data: 14/07/2025
+Gerente: Paulo Pacheco
+
+Orçamento inicial: R$ 2885594.00
+Custo real atual: R$ 2573857.97
+Desvio orçamentário: -10.80%
+Índice de Desempenho de Custo (CPI): 0.92
+Valor Agregado (EV): R$ 2359584.53
+Estimativa para conclusão: R$ 573776.29
+Estimativa no término (EAC): R$ 3147634.27
+Variação no término (VAC): R$ -262040.27
+
+Detalhamento por categoria:
+- Pessoal: R$ 1287227.59 (50.0%)
+- Equipamentos: R$ 351372.11 (13.7%)
+- Software: R$ 227774.11 (8.8%)
+- Serviços: R$ 478657.70 (18.6%)
+- Outros: R$ 228826.47 (8.9%)

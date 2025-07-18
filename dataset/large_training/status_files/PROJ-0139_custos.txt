@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A liberdade de avançar mais facilmente (PROJ-0139)
+Data: 14/07/2025
+Gerente: Clarice da Paz
+
+Orçamento inicial: R$ 2578248.00
+Custo real atual: R$ 2191101.42
+Desvio orçamentário: -15.02%
+Índice de Desempenho de Custo (CPI): 0.80
+Valor Agregado (EV): R$ 1744305.91
+Estimativa para conclusão: R$ 1047552.32
+Estimativa no término (EAC): R$ 3238653.75
+Variação no término (VAC): R$ -660405.75
+
+Detalhamento por categoria:
+- Pessoal: R$ 1109513.93 (50.6%)
+- Equipamentos: R$ 255274.67 (11.7%)
+- Software: R$ 190529.67 (8.7%)
+- Serviços: R$ 465124.87 (21.2%)
+- Outros: R$ 170658.29 (7.8%)

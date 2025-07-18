@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O direito de realizar seus sonhos sem preocupação (PROJ-0105)
+Data: 14/07/2025
+Gerente: Sra. Heloisa Borges
+
+Orçamento inicial: R$ 1482859.00
+Custo real atual: R$ 1699269.48
+Desvio orçamentário: 14.59%
+Índice de Desempenho de Custo (CPI): 0.87
+Valor Agregado (EV): R$ 1481376.14
+Estimativa para conclusão: R$ 1700.97
+Estimativa no término (EAC): R$ 1700970.45
+Variação no término (VAC): R$ -218111.45
+
+Detalhamento por categoria:
+- Pessoal: R$ 809771.96 (47.7%)
+- Equipamentos: R$ 311429.48 (18.3%)
+- Software: R$ 137337.93 (8.1%)
+- Serviços: R$ 283101.59 (16.7%)
+- Outros: R$ 157628.53 (9.3%)

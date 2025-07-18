@@ -1,0 +1,25 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A liberdade de inovar sem preocupação (PROJ-0632)
+Data: 14/07/2025
+Gerente: Lucca Moraes
+
+Status atual: Em andamento
+Percentual de conclusão: 99.9%
+Data de início: 27/02/2024
+Data de término planejada: 13/11/2024
+Data de término real/prevista: 23/11/2024
+Atraso atual: 243 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.10
+Valor Planejado (PV): R$ 1173877.00
+Valor Agregado (EV): R$ 1172703.12
+
+Tarefas críticas:
+- Implementação da API REST
+- Implementação do módulo de notificações
+- Implementação da API REST
+- Configuração da infraestrutura
+- Desenvolvimento do módulo de autenticação
+- Implementação do sistema de backup
+
+Tarefas atrasadas:

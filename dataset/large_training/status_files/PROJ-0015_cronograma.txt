@@ -1,0 +1,26 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: O prazer de evoluir com confiança (PROJ-0015)
+Data: 14/07/2025
+Gerente: Mirella Viana
+
+Status atual: Atrasado
+Percentual de conclusão: 70.2%
+Data de início: 30/03/2025
+Data de término planejada: 11/08/2025
+Data de término real/prevista: 19/11/2025
+Atraso atual: 0 dias
+Motivo do atraso: Problemas técnicos inesperados
+Índice de Desempenho de Cronograma (SPI): 0.89
+Valor Planejado (PV): R$ 1426010.09
+Valor Agregado (EV): R$ 1266144.03
+
+Tarefas críticas:
+- Migração de dados legados
+- Configuração da infraestrutura
+- Implementação do módulo de exportação de dados
+- Desenvolvimento da interface do usuário
+- Desenvolvimento da interface do usuário
+
+Tarefas atrasadas:
+- Migração de dados legados
+- Desenvolvimento da interface do usuário

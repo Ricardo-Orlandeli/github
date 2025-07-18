@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A possibilidade de evoluir simplesmente (PROJ-0422)
+Data: 14/07/2025
+Gerente: Miguel Nunes
+
+Orçamento inicial: R$ 1264761.00
+Custo real atual: R$ 1489350.27
+Desvio orçamentário: 17.76%
+Índice de Desempenho de Custo (CPI): 0.85
+Valor Agregado (EV): R$ 1263496.24
+Estimativa para conclusão: R$ 1490.84
+Estimativa no término (EAC): R$ 1490841.11
+Variação no término (VAC): R$ -226080.11
+
+Detalhamento por categoria:
+- Pessoal: R$ 694528.23 (46.6%)
+- Equipamentos: R$ 216409.65 (14.5%)
+- Software: R$ 180865.37 (12.1%)
+- Serviços: R$ 263463.83 (17.7%)
+- Outros: R$ 134083.19 (9.0%)

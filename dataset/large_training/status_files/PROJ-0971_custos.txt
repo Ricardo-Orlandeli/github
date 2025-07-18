@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O direito de mudar de maneira eficaz (PROJ-0971)
+Data: 14/07/2025
+Gerente: Lucca Lima
+
+Orçamento inicial: R$ 1471296.00
+Custo real atual: R$ 1132155.32
+Desvio orçamentário: 12.43%
+Índice de Desempenho de Custo (CPI): 0.71
+Valor Agregado (EV): R$ 806189.31
+Estimativa para conclusão: R$ 934028.86
+Estimativa no término (EAC): R$ 2066184.17
+Variação no término (VAC): R$ -594888.17
+
+Detalhamento por categoria:
+- Pessoal: R$ 522175.22 (46.1%)
+- Equipamentos: R$ 200873.52 (17.7%)
+- Software: R$ 99273.06 (8.8%)
+- Serviços: R$ 192193.40 (17.0%)
+- Outros: R$ 117640.11 (10.4%)

@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A simplicidade de inovar mais rapidamente (PROJ-0950)
+Data: 14/07/2025
+Gerente: Thiago Andrade
+
+Orçamento inicial: R$ 4712535.00
+Custo real atual: R$ 3712365.97
+Desvio orçamentário: -21.22%
+Índice de Desempenho de Custo (CPI): 0.85
+Valor Agregado (EV): R$ 3171681.29
+Estimativa para conclusão: R$ 1803527.01
+Estimativa no término (EAC): R$ 5515892.98
+Variação no término (VAC): R$ -803357.98
+
+Detalhamento por categoria:
+- Pessoal: R$ 1914525.92 (51.6%)
+- Equipamentos: R$ 493937.75 (13.3%)
+- Software: R$ 293554.39 (7.9%)
+- Serviços: R$ 666363.27 (17.9%)
+- Outros: R$ 343984.63 (9.3%)

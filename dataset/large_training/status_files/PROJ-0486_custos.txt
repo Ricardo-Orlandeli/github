@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A possibilidade de avançar sem preocupação (PROJ-0486)
+Data: 14/07/2025
+Gerente: Ian Gonçalves
+
+Orçamento inicial: R$ 1484682.00
+Custo real atual: R$ 1631172.54
+Desvio orçamentário: 9.87%
+Índice de Desempenho de Custo (CPI): 0.91
+Valor Agregado (EV): R$ 1484682.00
+Estimativa para conclusão: R$ 0.00
+Estimativa no término (EAC): R$ 1631172.54
+Variação no término (VAC): R$ -146490.54
+
+Detalhamento por categoria:
+- Pessoal: R$ 905516.66 (55.5%)
+- Equipamentos: R$ 202104.62 (12.4%)
+- Software: R$ 167329.60 (10.3%)
+- Serviços: R$ 254952.62 (15.6%)
+- Outros: R$ 101269.04 (6.2%)

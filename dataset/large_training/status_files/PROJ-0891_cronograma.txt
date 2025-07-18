@@ -1,0 +1,24 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A vantagem de ganhar sem preocupação (PROJ-0891)
+Data: 14/07/2025
+Gerente: Apollo Nogueira
+
+Status atual: Concluído
+Percentual de conclusão: 100.0%
+Data de início: 19/12/2024
+Data de término planejada: 21/05/2025
+Data de término real/prevista: 10/05/2025
+Atraso atual: 54 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.05
+Valor Planejado (PV): R$ 4565922.00
+Valor Agregado (EV): R$ 4565922.00
+
+Tarefas críticas:
+- Migração de dados legados
+- Implementação do módulo de análise de dados
+- Migração de dados legados
+- Implementação do módulo de análise de dados
+- Configuração da infraestrutura
+
+Tarefas atrasadas:

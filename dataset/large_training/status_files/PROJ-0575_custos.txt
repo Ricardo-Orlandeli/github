@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O conforto de mudar antes de tudo (PROJ-0575)
+Data: 14/07/2025
+Gerente: Alícia Leão
+
+Orçamento inicial: R$ 258546.00
+Custo real atual: R$ 292687.23
+Desvio orçamentário: 13.21%
+Índice de Desempenho de Custo (CPI): 0.83
+Valor Agregado (EV): R$ 244051.69
+Estimativa para conclusão: R$ 17382.79
+Estimativa no término (EAC): R$ 310070.02
+Variação no término (VAC): R$ -51524.02
+
+Detalhamento por categoria:
+- Pessoal: R$ 147308.21 (50.3%)
+- Equipamentos: R$ 36764.14 (12.6%)
+- Software: R$ 37064.17 (12.7%)
+- Serviços: R$ 50941.83 (17.4%)
+- Outros: R$ 20608.89 (7.0%)

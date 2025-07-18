@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A arte de ganhar direto da fonte (PROJ-0091)
+Data: 14/07/2025
+Gerente: Maria Helena Costa
+
+Orçamento inicial: R$ 2354485.00
+Custo real atual: R$ 1924390.40
+Desvio orçamentário: -18.27%
+Índice de Desempenho de Custo (CPI): 1.22
+Valor Agregado (EV): R$ 2352130.52
+Estimativa para conclusão: R$ 1926.32
+Estimativa no término (EAC): R$ 1926316.72
+Variação no término (VAC): R$ 428168.28
+
+Detalhamento por categoria:
+- Pessoal: R$ 1014826.78 (52.7%)
+- Equipamentos: R$ 235202.03 (12.2%)
+- Software: R$ 237380.51 (12.3%)
+- Serviços: R$ 265717.89 (13.8%)
+- Outros: R$ 171263.18 (8.9%)

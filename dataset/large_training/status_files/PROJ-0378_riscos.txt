@@ -1,0 +1,47 @@
+RELATÓRIO DE STATUS DE RISCOS
+Projeto: O conforto de avançar em estado puro (PROJ-0378)
+Data: 14/07/2025
+Gerente: Dra. Liz Ramos
+
+Riscos identificados:
+- R01: Requisitos mal definidos
+  Probabilidade: 4/5, Impacto: 4/5, Nível: Alto
+  Mitigação: Melhorar a documentação de requisitos
+
+- R02: Requisitos mal definidos
+  Probabilidade: 4/5, Impacto: 3/5, Nível: Médio
+  Mitigação: Otimizar código e infraestrutura
+
+- R03: Falhas de segurança
+  Probabilidade: 3/5, Impacto: 5/5, Nível: Médio
+  Mitigação: Implementar plano de contingência
+
+- R04: Falhas de infraestrutura
+  Probabilidade: 3/5, Impacto: 2/5, Nível: Baixo
+  Mitigação: Gerenciar dependências ativamente
+
+- R05: Falhas de infraestrutura
+  Probabilidade: 5/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Implementar plano de contingência
+
+- R06: Falhas de segurança
+  Probabilidade: 2/5, Impacto: 4/5, Nível: Médio
+  Mitigação: Testar compatibilidade em diferentes ambientes
+
+- R07: Problemas de desempenho
+  Probabilidade: 4/5, Impacto: 2/5, Nível: Médio
+  Mitigação: Fortalecer medidas de segurança
+
+Riscos ocorridos:
+- R06 (ocorrido em 28/06/2025)
+  Impacto real: Retrabalho significativo
+  Ações tomadas: Contratação de recursos adicionais
+
+- R07 (ocorrido em 06/07/2025)
+  Impacto real: Indisponibilidade temporária
+  Ações tomadas: Realocação de recursos
+
+- R03 (ocorrido em 28/06/2025)
+  Impacto real: Redução de funcionalidades
+  Ações tomadas: Implementação do plano de contingência
+

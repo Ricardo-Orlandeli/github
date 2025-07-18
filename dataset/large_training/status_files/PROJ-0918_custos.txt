@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O prazer de avançar antes de tudo (PROJ-0918)
+Data: 14/07/2025
+Gerente: Srta. Ana Cassiano
+
+Orçamento inicial: R$ 2625048.00
+Custo real atual: R$ 2490108.45
+Desvio orçamentário: 641.40%
+Índice de Desempenho de Custo (CPI): 0.83
+Valor Agregado (EV): R$ 2064884.20
+Estimativa para conclusão: R$ 675519.04
+Estimativa no término (EAC): R$ 3165627.50
+Variação no término (VAC): R$ -540579.50
+
+Detalhamento por categoria:
+- Pessoal: R$ 1283763.61 (51.6%)
+- Equipamentos: R$ 503391.82 (20.2%)
+- Software: R$ 166964.73 (6.7%)
+- Serviços: R$ 326960.22 (13.1%)
+- Outros: R$ 209028.07 (8.4%)

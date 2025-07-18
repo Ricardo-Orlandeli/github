@@ -1,0 +1,23 @@
+RELATÓRIO DE STATUS DE RISCOS
+Projeto: O prazer de conseguir com toda a tranquilidade (PROJ-0274)
+Data: 14/07/2025
+Gerente: Lívia Aragão
+
+Riscos identificados:
+- R01: Resistência dos usuários à mudança
+  Probabilidade: 4/5, Impacto: 2/5, Nível: Médio
+  Mitigação: Estabelecer canais de comunicação claros
+
+- R02: Resistência dos usuários à mudança
+  Probabilidade: 3/5, Impacto: 2/5, Nível: Baixo
+  Mitigação: Implementar redundância de infraestrutura
+
+- R03: Estimativas imprecisas
+  Probabilidade: 3/5, Impacto: 5/5, Nível: Médio
+  Mitigação: Melhorar a documentação de requisitos
+
+Riscos ocorridos:
+- R02 (ocorrido em 27/04/2025)
+  Impacto real: Retrabalho significativo
+  Ações tomadas: Implementação do plano de contingência
+

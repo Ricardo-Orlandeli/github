@@ -1,0 +1,22 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A certeza de inovar com confiança (PROJ-0145)
+Data: 14/07/2025
+Gerente: Dra. Bárbara Silva
+
+Status atual: Em andamento
+Percentual de conclusão: 98.7%
+Data de início: 31/01/2024
+Data de término planejada: 18/12/2024
+Data de término real/prevista: 14/01/2025
+Atraso atual: 208 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.13
+Valor Planejado (PV): R$ 3142110.00
+Valor Agregado (EV): R$ 3100740.44
+
+Tarefas críticas:
+- Testes de aceitação do usuário
+- Integração com sistema de pagamentos
+- Testes de aceitação do usuário
+
+Tarefas atrasadas:

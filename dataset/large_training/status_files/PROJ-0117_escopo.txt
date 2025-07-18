@@ -1,0 +1,21 @@
+RELATÓRIO DE STATUS DE ESCOPO
+Projeto: A certeza de evoluir com força total (PROJ-0117)
+Data: 14/07/2025
+Gerente: Apollo Vasconcelos
+
+Escopo original: Sistema para a certeza de evoluir com força total
+Houve mudança de escopo: Não
+Descrição das mudanças: N/A
+Impacto no cronograma: 0 dias
+Impacto no custo: R$ 0.00
+
+Solicitações de mudança:
+
+Requisitos atuais:
+- REQ-01: O sistema deve permitir exportação de dados em formato CSV
+- REQ-02: O sistema deve permitir exportação de dados em formato CSV
+- REQ-03: O sistema deve ser escalável para suportar até 10.000 usuários simultâneos
+- REQ-04: O sistema deve ser escalável para suportar até 10.000 usuários simultâneos
+- REQ-05: O sistema deve ter controle de acesso baseado em perfis
+- REQ-06: O sistema deve ter interface responsiva
+- REQ-07: O sistema deve implementar criptografia de dados sensíveis

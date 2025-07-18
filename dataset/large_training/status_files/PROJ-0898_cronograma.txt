@@ -1,0 +1,25 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A vantagem de ganhar em estado puro (PROJ-0898)
+Data: 14/07/2025
+Gerente: Sophia da Rocha
+
+Status atual: Em andamento
+Percentual de conclusão: 99.1%
+Data de início: 26/07/2023
+Data de término planejada: 15/05/2024
+Data de término real/prevista: 31/05/2024
+Atraso atual: 425 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 0.94
+Valor Planejado (PV): R$ 266651.00
+Valor Agregado (EV): R$ 264120.36
+
+Tarefas críticas:
+- Testes de segurança
+- Testes de segurança
+- Configuração do ambiente de produção
+- Desenvolvimento da interface do usuário
+- Configuração do ambiente de produção
+- Desenvolvimento da interface do usuário
+
+Tarefas atrasadas:

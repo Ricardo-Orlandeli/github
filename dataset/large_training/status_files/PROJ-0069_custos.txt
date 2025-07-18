@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A liberdade de mudar direto da fonte (PROJ-0069)
+Data: 14/07/2025
+Gerente: Catarina Farias
+
+Orçamento inicial: R$ 2723079.00
+Custo real atual: R$ 2335910.28
+Desvio orçamentário: 9.59%
+Índice de Desempenho de Custo (CPI): 1.00
+Valor Agregado (EV): R$ 2329789.99
+Estimativa para conclusão: R$ 394322.16
+Estimativa no término (EAC): R$ 2730232.44
+Variação no término (VAC): R$ -7153.44
+
+Detalhamento por categoria:
+- Pessoal: R$ 1156830.49 (49.5%)
+- Equipamentos: R$ 413361.09 (17.7%)
+- Software: R$ 253832.39 (10.9%)
+- Serviços: R$ 347116.36 (14.9%)
+- Outros: R$ 164769.94 (7.1%)

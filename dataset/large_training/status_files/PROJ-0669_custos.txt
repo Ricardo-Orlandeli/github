@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A vantagem de conseguir em estado puro (PROJ-0669)
+Data: 14/07/2025
+Gerente: Srta. Lara Souza
+
+Orçamento inicial: R$ 1674576.00
+Custo real atual: R$ 1649923.77
+Desvio orçamentário: -1.47%
+Índice de Desempenho de Custo (CPI): 1.01
+Valor Agregado (EV): R$ 1674576.00
+Estimativa para conclusão: R$ 0.00
+Estimativa no término (EAC): R$ 1649923.77
+Variação no término (VAC): R$ 24652.23
+
+Detalhamento por categoria:
+- Pessoal: R$ 758357.27 (46.0%)
+- Equipamentos: R$ 236337.22 (14.3%)
+- Software: R$ 230802.99 (14.0%)
+- Serviços: R$ 291539.35 (17.7%)
+- Outros: R$ 132886.94 (8.1%)

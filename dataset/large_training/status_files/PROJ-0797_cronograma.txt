@@ -1,0 +1,24 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A possibilidade de realizar seus sonhos de maneira eficaz (PROJ-0797)
+Data: 14/07/2025
+Gerente: Sra. Maria Flor Peixoto
+
+Status atual: Concluído
+Percentual de conclusão: 100.0%
+Data de início: 25/02/2024
+Data de término planejada: 01/12/2024
+Data de término real/prevista: 08/12/2024
+Atraso atual: 225 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.07
+Valor Planejado (PV): R$ 4917719.00
+Valor Agregado (EV): R$ 4917719.00
+
+Tarefas críticas:
+- Integração com sistema de pagamentos
+- Configuração da infraestrutura
+- Desenvolvimento da interface do usuário
+- Desenvolvimento da interface do usuário
+- Migração de dados legados
+
+Tarefas atrasadas:

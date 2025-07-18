@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O poder de ganhar com força total (PROJ-0048)
+Data: 14/07/2025
+Gerente: Leandro Macedo
+
+Orçamento inicial: R$ 4236839.00
+Custo real atual: R$ 3359340.10
+Desvio orçamentário: -20.71%
+Índice de Desempenho de Custo (CPI): 0.77
+Valor Agregado (EV): R$ 2590434.43
+Estimativa para conclusão: R$ 2135098.58
+Estimativa no término (EAC): R$ 5494438.67
+Variação no término (VAC): R$ -1257599.67
+
+Detalhamento por categoria:
+- Pessoal: R$ 1691786.35 (50.4%)
+- Equipamentos: R$ 552711.48 (16.5%)
+- Software: R$ 442917.29 (13.2%)
+- Serviços: R$ 416178.29 (12.4%)
+- Outros: R$ 255746.69 (7.6%)

@@ -1,0 +1,22 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: O prazer de inovar mais rapidamente (PROJ-0075)
+Data: 14/07/2025
+Gerente: Ryan Guerra
+
+Status atual: Em andamento
+Percentual de conclusão: 99.9%
+Data de início: 23/06/2024
+Data de término planejada: 23/01/2025
+Data de término real/prevista: 30/01/2025
+Atraso atual: 172 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.08
+Valor Planejado (PV): R$ 4008564.00
+Valor Agregado (EV): R$ 4004555.44
+
+Tarefas críticas:
+- Implementação do módulo de relatórios
+- Implementação do módulo de análise de dados
+- Desenvolvimento da interface do usuário
+
+Tarefas atrasadas:

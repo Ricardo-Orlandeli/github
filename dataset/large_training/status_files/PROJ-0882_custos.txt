@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A arte de realizar seus sonhos com confiança (PROJ-0882)
+Data: 14/07/2025
+Gerente: Sr. Luan Albuquerque
+
+Orçamento inicial: R$ 3050263.00
+Custo real atual: R$ 2199027.05
+Desvio orçamentário: 1020.72%
+Índice de Desempenho de Custo (CPI): 0.77
+Valor Agregado (EV): R$ 1699940.17
+Estimativa para conclusão: R$ 1746765.27
+Estimativa no término (EAC): R$ 3945792.32
+Variação no término (VAC): R$ -895529.32
+
+Detalhamento por categoria:
+- Pessoal: R$ 1017432.47 (46.3%)
+- Equipamentos: R$ 344473.87 (15.7%)
+- Software: R$ 310467.45 (14.1%)
+- Serviços: R$ 302765.70 (13.8%)
+- Outros: R$ 223887.56 (10.2%)

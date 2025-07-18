@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A liberdade de concretizar seus projetos em estado puro (PROJ-0700)
+Data: 14/07/2025
+Gerente: Léo Pimenta
+
+Orçamento inicial: R$ 4917886.00
+Custo real atual: R$ 3892872.91
+Desvio orçamentário: -20.84%
+Índice de Desempenho de Custo (CPI): 1.14
+Valor Agregado (EV): R$ 4440903.28
+Estimativa para conclusão: R$ 418120.59
+Estimativa no término (EAC): R$ 4310993.50
+Variação no término (VAC): R$ 606892.50
+
+Detalhamento por categoria:
+- Pessoal: R$ 1769825.69 (45.5%)
+- Equipamentos: R$ 647990.24 (16.6%)
+- Software: R$ 510032.42 (13.1%)
+- Serviços: R$ 687767.76 (17.7%)
+- Outros: R$ 277256.80 (7.1%)

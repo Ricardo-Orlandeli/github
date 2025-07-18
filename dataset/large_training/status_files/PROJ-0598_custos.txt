@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A liberdade de evoluir mais rapidamente (PROJ-0598)
+Data: 14/07/2025
+Gerente: Cauê Vargas
+
+Orçamento inicial: R$ 861558.00
+Custo real atual: R$ 939373.70
+Desvio orçamentário: 9.03%
+Índice de Desempenho de Custo (CPI): 0.73
+Valor Agregado (EV): R$ 686510.32
+Estimativa para conclusão: R$ 239523.26
+Estimativa no término (EAC): R$ 1178896.96
+Variação no término (VAC): R$ -317338.96
+
+Detalhamento por categoria:
+- Pessoal: R$ 459272.95 (48.9%)
+- Equipamentos: R$ 159218.42 (16.9%)
+- Software: R$ 121040.30 (12.9%)
+- Serviços: R$ 148131.74 (15.8%)
+- Outros: R$ 51710.28 (5.5%)

@@ -1,0 +1,23 @@
+RELATÓRIO DE STATUS DE ESCOPO
+Projeto: A possibilidade de conseguir de maneira eficaz (PROJ-0525)
+Data: 14/07/2025
+Gerente: Sra. Mirella Ferreira
+
+Escopo original: Sistema para a possibilidade de conseguir de maneira eficaz
+Houve mudança de escopo: Sim
+Descrição das mudanças: Adição de novos requisitos de segurança
+Impacto no cronograma: 21 dias
+Impacto no custo: R$ 307035.52
+
+Solicitações de mudança:
+- SCM-01: Implementação de módulo de exportação de dados
+- SCM-02: Implementação de módulo de exportação de dados
+- SCM-03: Adição de funcionalidade de autenticação biométrica
+
+Requisitos atuais:
+- REQ-01: O sistema deve ter alta disponibilidade (99.9%)
+- REQ-02: O sistema deve implementar criptografia de dados sensíveis
+- REQ-03: O sistema deve ser escalável para suportar até 10.000 usuários simultâneos
+- REQ-04: O sistema deve ter controle de acesso baseado em perfis
+- REQ-05: O sistema deve ter alta disponibilidade (99.9%)
+- REQ-06: O sistema deve ter documentação completa

@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O direito de ganhar mais rapidamente (PROJ-0204)
+Data: 14/07/2025
+Gerente: Sra. Emanuelly Nogueira
+
+Orçamento inicial: R$ 4474166.00
+Custo real atual: R$ 3886606.16
+Desvio orçamentário: -13.13%
+Índice de Desempenho de Custo (CPI): 1.15
+Valor Agregado (EV): R$ 4469691.83
+Estimativa para conclusão: R$ 3890.50
+Estimativa no término (EAC): R$ 3890496.66
+Variação no término (VAC): R$ 583669.34
+
+Detalhamento por categoria:
+- Pessoal: R$ 1805957.64 (46.5%)
+- Equipamentos: R$ 621607.30 (16.0%)
+- Software: R$ 632006.21 (16.3%)
+- Serviços: R$ 605708.87 (15.6%)
+- Outros: R$ 221326.15 (5.7%)

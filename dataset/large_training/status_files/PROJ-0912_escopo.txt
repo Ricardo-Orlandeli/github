@@ -1,0 +1,25 @@
+RELATÓRIO DE STATUS DE ESCOPO
+Projeto: O prazer de conseguir simplesmente (PROJ-0912)
+Data: 14/07/2025
+Gerente: Yago Guerra
+
+Escopo original: Sistema para o prazer de conseguir simplesmente
+Houve mudança de escopo: Não
+Descrição das mudanças: N/A
+Impacto no cronograma: 0 dias
+Impacto no custo: R$ 0.00
+
+Solicitações de mudança:
+
+Requisitos atuais:
+- REQ-01: O sistema deve ser compatível com dispositivos móveis
+- REQ-02: O sistema deve processar transações em menos de 2 seconds
+- REQ-03: O sistema deve ser escalável para suportar até 10.000 usuários simultâneos
+- REQ-04: O sistema deve ter interface responsiva
+- REQ-05: O sistema deve permitir exportação de dados em formato CSV
+- REQ-06: O sistema deve processar transações em menos de 2 seconds
+- REQ-07: O sistema deve permitir exportação de dados em formato CSV
+- REQ-08: O sistema deve permitir autenticação de usuários
+- REQ-09: O sistema deve ser compatível com dispositivos móveis
+- REQ-10: O sistema deve passar por testes de segurança
+- REQ-11: O sistema deve permitir exportação de dados em formato CSV

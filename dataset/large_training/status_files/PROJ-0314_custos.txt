@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A segurança de mudar com toda a tranquilidade (PROJ-0314)
+Data: 14/07/2025
+Gerente: Dr. Ravi Carvalho
+
+Orçamento inicial: R$ 1508423.00
+Custo real atual: R$ 1211555.92
+Desvio orçamentário: -19.68%
+Índice de Desempenho de Custo (CPI): 1.25
+Valor Agregado (EV): R$ 1508423.00
+Estimativa para conclusão: R$ 0.00
+Estimativa no término (EAC): R$ 1211555.92
+Variação no término (VAC): R$ 296867.08
+
+Detalhamento por categoria:
+- Pessoal: R$ 633636.34 (52.3%)
+- Equipamentos: R$ 189890.41 (15.7%)
+- Software: R$ 93655.49 (7.7%)
+- Serviços: R$ 198522.76 (16.4%)
+- Outros: R$ 95850.93 (7.9%)

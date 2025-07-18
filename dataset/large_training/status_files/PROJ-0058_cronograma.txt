@@ -1,0 +1,25 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A vantagem de ganhar com toda a tranquilidade (PROJ-0058)
+Data: 14/07/2025
+Gerente: Maria Liz Brito
+
+Status atual: Atrasado
+Percentual de conclusão: 26.9%
+Data de início: 04/05/2025
+Data de término planejada: 04/11/2025
+Data de término real/prevista: 04/03/2026
+Atraso atual: 0 dias
+Motivo do atraso: Problemas técnicos inesperados
+Índice de Desempenho de Cronograma (SPI): 0.70
+Valor Planejado (PV): R$ 1583051.89
+Valor Agregado (EV): R$ 1103474.66
+
+Tarefas críticas:
+- Testes de segurança
+- Desenvolvimento da interface do usuário
+- Integração com sistema de pagamentos
+- Configuração da infraestrutura
+
+Tarefas atrasadas:
+- Desenvolvimento da interface do usuário
+- Testes de segurança

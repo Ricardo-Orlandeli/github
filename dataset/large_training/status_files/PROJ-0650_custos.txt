@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O poder de conseguir mais rapidamente (PROJ-0650)
+Data: 14/07/2025
+Gerente: Bruno Casa Grande
+
+Orçamento inicial: R$ 4979446.00
+Custo real atual: R$ 5019237.05
+Desvio orçamentário: 8.61%
+Índice de Desempenho de Custo (CPI): 0.97
+Valor Agregado (EV): R$ 4866988.35
+Estimativa para conclusão: R$ 115975.54
+Estimativa no término (EAC): R$ 5135212.59
+Variação no término (VAC): R$ -155766.59
+
+Detalhamento por categoria:
+- Pessoal: R$ 2581832.85 (51.4%)
+- Equipamentos: R$ 623602.25 (12.4%)
+- Software: R$ 565004.49 (11.3%)
+- Serviços: R$ 829855.16 (16.5%)
+- Outros: R$ 418942.31 (8.3%)

@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A arte de avançar direto da fonte (PROJ-0036)
+Data: 14/07/2025
+Gerente: Srta. Aylla Pastor
+
+Orçamento inicial: R$ 4227990.00
+Custo real atual: R$ 2822526.82
+Desvio orçamentário: -28.09%
+Índice de Desempenho de Custo (CPI): 1.14
+Valor Agregado (EV): R$ 3216194.78
+Estimativa para conclusão: R$ 887949.68
+Estimativa no término (EAC): R$ 3710476.51
+Variação no término (VAC): R$ 517513.49
+
+Detalhamento por categoria:
+- Pessoal: R$ 1440370.14 (51.0%)
+- Equipamentos: R$ 485300.67 (17.2%)
+- Software: R$ 295308.77 (10.5%)
+- Serviços: R$ 424503.07 (15.0%)
+- Outros: R$ 177044.17 (6.3%)

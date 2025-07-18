@@ -1,0 +1,21 @@
+RELATÓRIO DE STATUS DE ESCOPO
+Projeto: O direito de concretizar seus projetos com força total (PROJ-0767)
+Data: 14/07/2025
+Gerente: Lorenzo Costela
+
+Escopo original: Sistema para o direito de concretizar seus projetos com força total
+Houve mudança de escopo: Não
+Descrição das mudanças: N/A
+Impacto no cronograma: 0 dias
+Impacto no custo: R$ 0.00
+
+Solicitações de mudança:
+
+Requisitos atuais:
+- REQ-01: O sistema deve ter documentação completa
+- REQ-02: O sistema deve processar transações em menos de 2 seconds
+- REQ-03: O sistema deve permitir exportação de dados em formato CSV
+- REQ-04: O sistema deve permitir autenticação de usuários
+- REQ-05: O sistema deve ser compatível com dispositivos móveis
+- REQ-06: O sistema deve processar transações em menos de 2 seconds
+- REQ-07: O sistema deve ter documentação completa

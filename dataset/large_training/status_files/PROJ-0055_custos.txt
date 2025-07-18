@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A simplicidade de concretizar seus projetos antes de tudo (PROJ-0055)
+Data: 14/07/2025
+Gerente: Giovanna Pimenta
+
+Orçamento inicial: R$ 1607868.00
+Custo real atual: R$ 341312.81
+Desvio orçamentário: 30.40%
+Índice de Desempenho de Custo (CPI): 0.89
+Valor Agregado (EV): R$ 302438.79
+Estimativa para conclusão: R$ 1473222.79
+Estimativa no término (EAC): R$ 1814535.60
+Variação no término (VAC): R$ -206667.60
+
+Detalhamento por categoria:
+- Pessoal: R$ 189953.34 (55.7%)
+- Equipamentos: R$ 50246.29 (14.7%)
+- Software: R$ 36386.39 (10.7%)
+- Serviços: R$ 44811.22 (13.1%)
+- Outros: R$ 19915.57 (5.8%)

@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A possibilidade de ganhar mais facilmente (PROJ-0534)
+Data: 14/07/2025
+Gerente: Sra. Rebeca Silveira
+
+Orçamento inicial: R$ 3866319.00
+Custo real atual: R$ 2251535.02
+Desvio orçamentário: -9.14%
+Índice de Desempenho de Custo (CPI): 0.70
+Valor Agregado (EV): R$ 1577923.15
+Estimativa para conclusão: R$ 3265306.92
+Estimativa no término (EAC): R$ 5516841.95
+Variação no término (VAC): R$ -1650522.95
+
+Detalhamento por categoria:
+- Pessoal: R$ 1349764.37 (59.9%)
+- Equipamentos: R$ 329104.82 (14.6%)
+- Software: R$ 184687.74 (8.2%)
+- Serviços: R$ 249584.54 (11.1%)
+- Outros: R$ 138393.54 (6.1%)

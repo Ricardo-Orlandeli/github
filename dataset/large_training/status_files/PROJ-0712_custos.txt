@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O prazer de ganhar sem preocupação (PROJ-0712)
+Data: 14/07/2025
+Gerente: Hellena Montenegro
+
+Orçamento inicial: R$ 96187.00
+Custo real atual: R$ 32564.14
+Desvio orçamentário: -0.90%
+Índice de Desempenho de Custo (CPI): 1.04
+Valor Agregado (EV): R$ 33785.34
+Estimativa para conclusão: R$ 60146.09
+Estimativa no término (EAC): R$ 92710.23
+Variação no término (VAC): R$ 3476.77
+
+Detalhamento por categoria:
+- Pessoal: R$ 16716.58 (51.3%)
+- Equipamentos: R$ 5533.01 (17.0%)
+- Software: R$ 4013.14 (12.3%)
+- Serviços: R$ 4249.09 (13.0%)
+- Outros: R$ 2052.33 (6.3%)

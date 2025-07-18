@@ -1,0 +1,35 @@
+RELATÓRIO DE STATUS DE RISCOS
+Projeto: A arte de realizar seus sonhos antes de tudo (PROJ-0162)
+Data: 14/07/2025
+Gerente: Leonardo Montenegro
+
+Riscos identificados:
+- R01: Falhas de segurança
+  Probabilidade: 2/5, Impacto: 3/5, Nível: Baixo
+  Mitigação: Implementar plano de contingência
+
+- R02: Problemas de integração com sistemas legados
+  Probabilidade: 5/5, Impacto: 5/5, Nível: Alto
+  Mitigação: Gerenciar dependências ativamente
+
+- R03: Resistência dos usuários à mudança
+  Probabilidade: 2/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Realizar testes de integração antecipados
+
+- R04: Rotatividade de pessoal-chave
+  Probabilidade: 5/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Otimizar código e infraestrutura
+
+Riscos ocorridos:
+- R01 (ocorrido em 07/09/2024)
+  Impacto real: Redução de funcionalidades
+  Ações tomadas: Realocação de recursos
+
+- R04 (ocorrido em 21/07/2024)
+  Impacto real: Perda de dados
+  Ações tomadas: Implementação do plano de contingência
+
+- R03 (ocorrido em 17/07/2024)
+  Impacto real: Atraso de 2 semanas no cronograma
+  Ações tomadas: Implementação de controles adicionais
+

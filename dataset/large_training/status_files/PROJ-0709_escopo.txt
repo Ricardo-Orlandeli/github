@@ -1,0 +1,26 @@
+RELATÓRIO DE STATUS DE ESCOPO
+Projeto: A segurança de concretizar seus projetos mais facilmente (PROJ-0709)
+Data: 14/07/2025
+Gerente: Renan Rios
+
+Escopo original: Sistema para a segurança de concretizar seus projetos mais facilmente
+Houve mudança de escopo: Não
+Descrição das mudanças: N/A
+Impacto no cronograma: 0 dias
+Impacto no custo: R$ 0.00
+
+Solicitações de mudança:
+
+Requisitos atuais:
+- REQ-01: O sistema deve ter interface responsiva
+- REQ-02: O sistema deve ter alta disponibilidade (99.9%)
+- REQ-03: O sistema deve ter alta disponibilidade (99.9%)
+- REQ-04: O sistema deve ser escalável para suportar até 10.000 usuários simultâneos
+- REQ-05: O sistema deve permitir autenticação de usuários
+- REQ-06: O sistema deve passar por testes de segurança
+- REQ-07: O sistema deve ser compatível com navegadores modernos
+- REQ-08: O sistema deve ser compatível com navegadores modernos
+- REQ-09: O sistema deve permitir autenticação de usuários
+- REQ-10: O sistema deve ter documentação completa
+- REQ-11: O sistema deve registrar logs de auditoria
+- REQ-12: O sistema deve ser escalável para suportar até 10.000 usuários simultâneos

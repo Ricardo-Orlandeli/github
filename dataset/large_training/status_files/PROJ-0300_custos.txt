@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A liberdade de inovar naturalmente (PROJ-0300)
+Data: 14/07/2025
+Gerente: Maria Luísa Camargo
+
+Orçamento inicial: R$ 2480636.00
+Custo real atual: R$ 1420623.63
+Desvio orçamentário: -23.13%
+Índice de Desempenho de Custo (CPI): 0.95
+Valor Agregado (EV): R$ 1351172.94
+Estimativa para conclusão: R$ 1187517.79
+Estimativa no término (EAC): R$ 2608141.42
+Variação no término (VAC): R$ -127505.42
+
+Detalhamento por categoria:
+- Pessoal: R$ 762014.42 (53.6%)
+- Equipamentos: R$ 214259.33 (15.1%)
+- Software: R$ 168924.11 (11.9%)
+- Serviços: R$ 165762.72 (11.7%)
+- Outros: R$ 109663.06 (7.7%)

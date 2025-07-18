@@ -1,0 +1,30 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: O prazer de ganhar em estado puro (PROJ-0411)
+Data: 14/07/2025
+Gerente: Caio da Rosa
+
+Status atual: Atrasado
+Percentual de conclusão: 42.5%
+Data de início: 10/12/2024
+Data de término planejada: 18/09/2025
+Data de término real/prevista: 11/01/2026
+Atraso atual: 0 dias
+Motivo do atraso: Recursos insuficientes
+Índice de Desempenho de Cronograma (SPI): 0.56
+Valor Planejado (PV): R$ 3070672.09
+Valor Agregado (EV): R$ 1705703.79
+
+Tarefas críticas:
+- Desenvolvimento do painel administrativo
+- Implementação da API REST
+- Implementação do módulo de relatórios
+- Implementação do módulo de notificações
+- Implementação do módulo de notificações
+- Implementação do módulo de relatórios
+- Implementação do módulo de exportação de dados
+- Implementação do módulo de exportação de dados
+
+Tarefas atrasadas:
+- Desenvolvimento do painel administrativo
+- Implementação do módulo de relatórios
+- Implementação do módulo de exportação de dados

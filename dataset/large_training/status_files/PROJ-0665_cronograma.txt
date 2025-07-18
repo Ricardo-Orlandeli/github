@@ -1,0 +1,23 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: O poder de mudar com toda a tranquilidade (PROJ-0665)
+Data: 14/07/2025
+Gerente: Dr. Felipe Moreira
+
+Status atual: Em andamento
+Percentual de conclusão: 99.9%
+Data de início: 23/11/2023
+Data de término planejada: 26/05/2024
+Data de término real/prevista: 25/06/2024
+Atraso atual: 414 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.02
+Valor Planejado (PV): R$ 2346505.00
+Valor Agregado (EV): R$ 2344158.50
+
+Tarefas críticas:
+- Implementação do sistema de backup
+- Testes de segurança
+- Implementação do módulo de exportação de dados
+- Implementação do sistema de backup
+
+Tarefas atrasadas:

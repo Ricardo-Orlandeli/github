@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O poder de avançar antes de tudo (PROJ-0656)
+Data: 14/07/2025
+Gerente: Pietra Andrade
+
+Orçamento inicial: R$ 2980481.00
+Custo real atual: R$ 2799095.82
+Desvio orçamentário: -6.09%
+Índice de Desempenho de Custo (CPI): 0.69
+Valor Agregado (EV): R$ 1927970.18
+Estimativa para conclusão: R$ 1528072.73
+Estimativa no término (EAC): R$ 4327168.54
+Variação no término (VAC): R$ -1346687.54
+
+Detalhamento por categoria:
+- Pessoal: R$ 1482530.87 (53.0%)
+- Equipamentos: R$ 461646.32 (16.5%)
+- Software: R$ 303763.26 (10.9%)
+- Serviços: R$ 390503.33 (14.0%)
+- Outros: R$ 160652.03 (5.7%)

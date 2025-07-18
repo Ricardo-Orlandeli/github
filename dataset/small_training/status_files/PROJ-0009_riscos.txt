@@ -1,0 +1,19 @@
+RELATÓRIO DE STATUS DE RISCOS
+Projeto: O conforto de concretizar seus projetos direto da fonte (PROJ-0009)
+Data: 14/07/2025
+Gerente: Lívia Borges
+
+Riscos identificados:
+- R01: Falhas de segurança
+  Probabilidade: 3/5, Impacto: 5/5, Nível: Médio
+  Mitigação: Buscar fornecedores alternativos
+
+- R02: Resistência dos usuários à mudança
+  Probabilidade: 1/5, Impacto: 5/5, Nível: Baixo
+  Mitigação: Realizar testes de integração antecipados
+
+- R03: Problemas de integração com sistemas legados
+  Probabilidade: 2/5, Impacto: 4/5, Nível: Médio
+  Mitigação: Melhorar a documentação de requisitos
+
+Riscos ocorridos:

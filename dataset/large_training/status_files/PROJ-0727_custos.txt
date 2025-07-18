@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O prazer de avançar com força total (PROJ-0727)
+Data: 14/07/2025
+Gerente: Vitor da Mota
+
+Orçamento inicial: R$ 3085089.00
+Custo real atual: R$ 1706381.29
+Desvio orçamentário: -1.49%
+Índice de Desempenho de Custo (CPI): 1.07
+Valor Agregado (EV): R$ 1830899.44
+Estimativa para conclusão: R$ 1168893.03
+Estimativa no término (EAC): R$ 2875274.32
+Variação no término (VAC): R$ 209814.68
+
+Detalhamento por categoria:
+- Pessoal: R$ 929709.32 (54.5%)
+- Equipamentos: R$ 179960.64 (10.5%)
+- Software: R$ 260967.82 (15.3%)
+- Serviços: R$ 239939.85 (14.1%)
+- Outros: R$ 95803.65 (5.6%)

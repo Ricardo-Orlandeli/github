@@ -1,0 +1,27 @@
+RELATÓRIO DE STATUS DE RISCOS
+Projeto: A certeza de realizar seus sonhos mais rapidamente (PROJ-0620)
+Data: 14/07/2025
+Gerente: Heitor Sousa
+
+Riscos identificados:
+- R01: Problemas de integração com sistemas legados
+  Probabilidade: 2/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Implementar redundância de infraestrutura
+
+- R02: Problemas de comunicação com stakeholders
+  Probabilidade: 1/5, Impacto: 4/5, Nível: Baixo
+  Mitigação: Buscar fornecedores alternativos
+
+- R03: Estimativas imprecisas
+  Probabilidade: 1/5, Impacto: 3/5, Nível: Baixo
+  Mitigação: Gerenciar dependências ativamente
+
+- R04: Mudanças regulatórias
+  Probabilidade: 4/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Estabelecer canais de comunicação claros
+
+- R05: Atraso na entrega de componentes críticos
+  Probabilidade: 4/5, Impacto: 4/5, Nível: Alto
+  Mitigação: Realizar testes de aceitação com usuários-chave
+
+Riscos ocorridos:

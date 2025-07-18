@@ -1,0 +1,27 @@
+RELATÓRIO DE STATUS DE RISCOS
+Projeto: A certeza de concretizar seus projetos com toda a tranquilidade (PROJ-0441)
+Data: 14/07/2025
+Gerente: Maria Luísa Moraes
+
+Riscos identificados:
+- R01: Problemas de compatibilidade
+  Probabilidade: 2/5, Impacto: 4/5, Nível: Médio
+  Mitigação: Fortalecer medidas de segurança
+
+- R02: Problemas de integração com sistemas legados
+  Probabilidade: 1/5, Impacto: 3/5, Nível: Baixo
+  Mitigação: Implementar redundância de infraestrutura
+
+- R03: Requisitos mal definidos
+  Probabilidade: 3/5, Impacto: 3/5, Nível: Médio
+  Mitigação: Realizar testes de integração antecipados
+
+- R04: Falhas em testes de aceitação
+  Probabilidade: 1/5, Impacto: 5/5, Nível: Baixo
+  Mitigação: Refinar estimativas com base em dados históricos
+
+- R05: Estimativas imprecisas
+  Probabilidade: 1/5, Impacto: 3/5, Nível: Baixo
+  Mitigação: Implementar plano de contingência
+
+Riscos ocorridos:

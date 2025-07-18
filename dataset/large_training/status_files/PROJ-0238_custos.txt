@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O poder de inovar simplesmente (PROJ-0238)
+Data: 14/07/2025
+Gerente: Erick Cassiano
+
+Orçamento inicial: R$ 3130494.00
+Custo real atual: R$ 3680905.79
+Desvio orçamentário: 17.58%
+Índice de Desempenho de Custo (CPI): 0.85
+Valor Agregado (EV): R$ 3127363.51
+Estimativa para conclusão: R$ 3684.59
+Estimativa no término (EAC): R$ 3684590.38
+Variação no término (VAC): R$ -554096.38
+
+Detalhamento por categoria:
+- Pessoal: R$ 1700444.61 (46.2%)
+- Equipamentos: R$ 628266.70 (17.1%)
+- Software: R$ 560042.28 (15.2%)
+- Serviços: R$ 564891.43 (15.3%)
+- Outros: R$ 227260.77 (6.2%)

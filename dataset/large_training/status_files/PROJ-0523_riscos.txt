@@ -1,0 +1,43 @@
+RELATÓRIO DE STATUS DE RISCOS
+Projeto: A vantagem de inovar em estado puro (PROJ-0523)
+Data: 14/07/2025
+Gerente: Ana Liz Santos
+
+Riscos identificados:
+- R01: Falhas de infraestrutura
+  Probabilidade: 2/5, Impacto: 2/5, Nível: Baixo
+  Mitigação: Implementar plano de contingência
+
+- R02: Dependências externas não cumpridas
+  Probabilidade: 4/5, Impacto: 4/5, Nível: Alto
+  Mitigação: Estabelecer canais de comunicação claros
+
+- R03: Problemas de desempenho
+  Probabilidade: 1/5, Impacto: 3/5, Nível: Baixo
+  Mitigação: Melhorar a documentação de requisitos
+
+- R04: Problemas de integração com sistemas legados
+  Probabilidade: 4/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Refinar estimativas com base em dados históricos
+
+- R05: Resistência dos usuários à mudança
+  Probabilidade: 1/5, Impacto: 2/5, Nível: Baixo
+  Mitigação: Otimizar código e infraestrutura
+
+- R06: Falhas de infraestrutura
+  Probabilidade: 5/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Realizar testes de integração antecipados
+
+Riscos ocorridos:
+- R04 (ocorrido em 05/09/2024)
+  Impacto real: Retrabalho significativo
+  Ações tomadas: Realocação de recursos
+
+- R01 (ocorrido em 15/04/2024)
+  Impacto real: Perda de dados
+  Ações tomadas: Revisão de prioridades
+
+- R03 (ocorrido em 26/05/2024)
+  Impacto real: Indisponibilidade temporária
+  Ações tomadas: Comunicação intensificada com stakeholders
+

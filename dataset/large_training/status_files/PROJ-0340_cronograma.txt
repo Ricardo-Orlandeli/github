@@ -1,0 +1,28 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A possibilidade de atingir seus objetivos simplesmente (PROJ-0340)
+Data: 14/07/2025
+Gerente: Srta. Liz Vargas
+
+Status atual: Atrasado
+Percentual de conclusão: 53.6%
+Data de início: 01/12/2023
+Data de término planejada: 23/10/2024
+Data de término real/prevista: 25/03/2025
+Atraso atual: 264 dias
+Motivo do atraso: Atraso na entrega de componentes por fornecedores
+Índice de Desempenho de Cronograma (SPI): 0.54
+Valor Planejado (PV): R$ 1740571.00
+Valor Agregado (EV): R$ 932955.51
+
+Tarefas críticas:
+- Desenvolvimento da interface do usuário
+- Testes de aceitação do usuário
+- Implementação da API REST
+- Implementação do módulo de notificações
+- Desenvolvimento do módulo de autenticação
+- Implementação do sistema de backup
+- Implementação da API REST
+- Desenvolvimento do painel administrativo
+
+Tarefas atrasadas:
+- Desenvolvimento do módulo de autenticação

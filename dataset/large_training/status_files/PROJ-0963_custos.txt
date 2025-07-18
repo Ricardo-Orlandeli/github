@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O conforto de concretizar seus projetos com força total (PROJ-0963)
+Data: 14/07/2025
+Gerente: Ana Costela
+
+Orçamento inicial: R$ 4874199.00
+Custo real atual: R$ 3638722.36
+Desvio orçamentário: -25.35%
+Índice de Desempenho de Custo (CPI): 1.13
+Valor Agregado (EV): R$ 4101480.57
+Estimativa para conclusão: R$ 685534.84
+Estimativa no término (EAC): R$ 4324257.20
+Variação no término (VAC): R$ 549941.80
+
+Detalhamento por categoria:
+- Pessoal: R$ 1684732.09 (46.3%)
+- Equipamentos: R$ 601545.29 (16.5%)
+- Software: R$ 329685.93 (9.1%)
+- Serviços: R$ 627134.45 (17.2%)
+- Outros: R$ 395624.60 (10.9%)

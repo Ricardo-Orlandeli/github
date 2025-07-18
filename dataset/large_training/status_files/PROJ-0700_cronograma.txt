@@ -1,0 +1,24 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A liberdade de concretizar seus projetos em estado puro (PROJ-0700)
+Data: 14/07/2025
+Gerente: Léo Pimenta
+
+Status atual: Em andamento
+Percentual de conclusão: 90.3%
+Data de início: 25/05/2025
+Data de término planejada: 29/06/2025
+Data de término real/prevista: 28/06/2025
+Atraso atual: 15 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 0.87
+Valor Planejado (PV): R$ 4917886.00
+Valor Agregado (EV): R$ 4440903.28
+
+Tarefas críticas:
+- Configuração do ambiente de produção
+- Migração de dados legados
+- Testes de segurança
+- Testes de segurança
+- Integração com sistema de pagamentos
+
+Tarefas atrasadas:

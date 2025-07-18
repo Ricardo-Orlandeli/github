@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A certeza de ganhar sem preocupação (PROJ-0012)
+Data: 14/07/2025
+Gerente: Manuela Albuquerque
+
+Orçamento inicial: R$ 405300.00
+Custo real atual: R$ 423495.80
+Desvio orçamentário: 4.49%
+Índice de Desempenho de Custo (CPI): 0.96
+Valor Agregado (EV): R$ 404894.70
+Estimativa para conclusão: R$ 423.92
+Estimativa no término (EAC): R$ 423919.72
+Variação no término (VAC): R$ -18619.72
+
+Detalhamento por categoria:
+- Pessoal: R$ 223514.71 (52.8%)
+- Equipamentos: R$ 75852.68 (17.9%)
+- Software: R$ 23599.01 (5.6%)
+- Serviços: R$ 70759.33 (16.7%)
+- Outros: R$ 29770.06 (7.0%)

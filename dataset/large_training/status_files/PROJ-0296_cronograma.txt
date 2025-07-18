@@ -1,0 +1,25 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A vantagem de evoluir com confiança (PROJ-0296)
+Data: 14/07/2025
+Gerente: Maria Liz da Rosa
+
+Status atual: Em andamento
+Percentual de conclusão: 99.9%
+Data de início: 02/09/2024
+Data de término planejada: 07/10/2024
+Data de término real/prevista: 02/11/2024
+Atraso atual: 280 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.07
+Valor Planejado (PV): R$ 1630609.00
+Valor Agregado (EV): R$ 1628978.39
+
+Tarefas críticas:
+- Implementação da API REST
+- Migração de dados legados
+- Desenvolvimento da interface do usuário
+- Testes de segurança
+- Configuração da infraestrutura
+- Desenvolvimento do módulo de autenticação
+
+Tarefas atrasadas:

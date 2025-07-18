@@ -1,0 +1,29 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: O conforto de evoluir naturalmente (PROJ-0353)
+Data: 14/07/2025
+Gerente: Maria Julia Cirino
+
+Status atual: Atrasado
+Percentual de conclusão: 89.5%
+Data de início: 25/10/2024
+Data de término planejada: 26/12/2024
+Data de término real/prevista: 13/06/2025
+Atraso atual: 200 dias
+Motivo do atraso: Estimativas imprecisas
+Índice de Desempenho de Cronograma (SPI): 0.90
+Valor Planejado (PV): R$ 4817270.00
+Valor Agregado (EV): R$ 4311925.44
+
+Tarefas críticas:
+- Implementação da API REST
+- Migração de dados legados
+- Implementação do sistema de backup
+- Testes de segurança
+- Desenvolvimento da interface do usuário
+- Integração com sistema de pagamentos
+- Integração com sistema de pagamentos
+- Implementação da API REST
+
+Tarefas atrasadas:
+- Integração com sistema de pagamentos
+- Migração de dados legados

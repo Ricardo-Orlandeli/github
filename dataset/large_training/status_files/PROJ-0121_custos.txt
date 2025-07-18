@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A simplicidade de concretizar seus projetos com confiança (PROJ-0121)
+Data: 14/07/2025
+Gerente: Léo Aparecida
+
+Orçamento inicial: R$ 77355.00
+Custo real atual: R$ 74824.18
+Desvio orçamentário: -3.27%
+Índice de Desempenho de Custo (CPI): 0.68
+Valor Agregado (EV): R$ 50513.18
+Estimativa para conclusão: R$ 39760.27
+Estimativa no término (EAC): R$ 114584.45
+Variação no término (VAC): R$ -37229.45
+
+Detalhamento por categoria:
+- Pessoal: R$ 35094.17 (46.9%)
+- Equipamentos: R$ 12217.41 (16.3%)
+- Software: R$ 6001.92 (8.0%)
+- Serviços: R$ 14348.08 (19.2%)
+- Outros: R$ 7162.60 (9.6%)

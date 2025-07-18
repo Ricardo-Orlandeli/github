@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A vantagem de inovar com força total (PROJ-0841)
+Data: 14/07/2025
+Gerente: Ravy Brito
+
+Orçamento inicial: R$ 4500751.00
+Custo real atual: R$ 4703688.81
+Desvio orçamentário: 4.51%
+Índice de Desempenho de Custo (CPI): 0.76
+Valor Agregado (EV): R$ 3560848.38
+Estimativa para conclusão: R$ 1241560.71
+Estimativa no término (EAC): R$ 5945249.52
+Variação no término (VAC): R$ -1444498.52
+
+Detalhamento por categoria:
+- Pessoal: R$ 2730077.08 (58.0%)
+- Equipamentos: R$ 515997.99 (11.0%)
+- Software: R$ 399462.15 (8.5%)
+- Serviços: R$ 726929.17 (15.5%)
+- Outros: R$ 331222.42 (7.0%)

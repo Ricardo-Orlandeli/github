@@ -1,0 +1,27 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A liberdade de ganhar com força total (PROJ-0956)
+Data: 14/07/2025
+Gerente: Arthur Miguel Cunha
+
+Status atual: Em andamento
+Percentual de conclusão: 7.4%
+Data de início: 19/06/2025
+Data de término planejada: 04/05/2026
+Data de término real/prevista: 03/06/2026
+Atraso atual: 0 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 0.97
+Valor Planejado (PV): R$ 83214.66
+Valor Agregado (EV): R$ 79023.76
+
+Tarefas críticas:
+- Implementação do módulo de análise de dados
+- Implementação do sistema de backup
+- Desenvolvimento do módulo de autenticação
+- Implementação do módulo de notificações
+- Testes de aceitação do usuário
+- Implementação do módulo de análise de dados
+- Migração de dados legados
+- Desenvolvimento do painel administrativo
+
+Tarefas atrasadas:

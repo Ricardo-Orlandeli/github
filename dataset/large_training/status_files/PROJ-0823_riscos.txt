@@ -1,0 +1,55 @@
+RELATÓRIO DE STATUS DE RISCOS
+Projeto: A possibilidade de concretizar seus projetos sem preocupação (PROJ-0823)
+Data: 14/07/2025
+Gerente: Maria Laura Ferreira
+
+Riscos identificados:
+- R01: Mudanças regulatórias
+  Probabilidade: 3/5, Impacto: 4/5, Nível: Médio
+  Mitigação: Contratar pessoal adicional
+
+- R02: Rotatividade de pessoal-chave
+  Probabilidade: 5/5, Impacto: 2/5, Nível: Médio
+  Mitigação: Otimizar código e infraestrutura
+
+- R03: Falhas em testes de aceitação
+  Probabilidade: 3/5, Impacto: 2/5, Nível: Baixo
+  Mitigação: Implementar plano de contingência
+
+- R04: Falhas de infraestrutura
+  Probabilidade: 5/5, Impacto: 2/5, Nível: Médio
+  Mitigação: Implementar plano de contingência
+
+- R05: Problemas de comunicação com stakeholders
+  Probabilidade: 5/5, Impacto: 4/5, Nível: Alto
+  Mitigação: Otimizar código e infraestrutura
+
+- R06: Falhas de infraestrutura
+  Probabilidade: 3/5, Impacto: 2/5, Nível: Baixo
+  Mitigação: Otimizar código e infraestrutura
+
+- R07: Estimativas imprecisas
+  Probabilidade: 3/5, Impacto: 3/5, Nível: Médio
+  Mitigação: Otimizar código e infraestrutura
+
+- R08: Rotatividade de pessoal-chave
+  Probabilidade: 1/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Buscar fornecedores alternativos
+
+- R09: Falhas de segurança
+  Probabilidade: 2/5, Impacto: 4/5, Nível: Médio
+  Mitigação: Estabelecer canais de comunicação claros
+
+- R10: Rotatividade de pessoal-chave
+  Probabilidade: 4/5, Impacto: 3/5, Nível: Médio
+  Mitigação: Fortalecer medidas de segurança
+
+Riscos ocorridos:
+- R04 (ocorrido em 11/07/2025)
+  Impacto real: Insatisfação dos stakeholders
+  Ações tomadas: Revisão de prioridades
+
+- R09 (ocorrido em 23/06/2025)
+  Impacto real: Problemas de qualidade
+  Ações tomadas: Revisão do orçamento
+

@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O poder de ganhar sem preocupação (PROJ-0824)
+Data: 14/07/2025
+Gerente: Maria Isis da Cruz
+
+Orçamento inicial: R$ 365364.00
+Custo real atual: R$ 354332.90
+Desvio orçamentário: -3.02%
+Índice de Desempenho de Custo (CPI): 0.99
+Valor Agregado (EV): R$ 351966.33
+Estimativa para conclusão: R$ 13487.76
+Estimativa no término (EAC): R$ 367820.66
+Variação no término (VAC): R$ -2456.66
+
+Detalhamento por categoria:
+- Pessoal: R$ 188360.99 (53.2%)
+- Equipamentos: R$ 49352.10 (13.9%)
+- Software: R$ 35872.89 (10.1%)
+- Serviços: R$ 57556.22 (16.2%)
+- Outros: R$ 23190.70 (6.5%)

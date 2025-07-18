@@ -1,0 +1,23 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: O direito de mudar com força total (PROJ-0347)
+Data: 14/07/2025
+Gerente: Marina Farias
+
+Status atual: Concluído
+Percentual de conclusão: 100.0%
+Data de início: 27/11/2024
+Data de término planejada: 16/02/2025
+Data de término real/prevista: 22/02/2025
+Atraso atual: 148 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 0.95
+Valor Planejado (PV): R$ 3243070.00
+Valor Agregado (EV): R$ 3243070.00
+
+Tarefas críticas:
+- Integração com sistema de pagamentos
+- Desenvolvimento do módulo de autenticação
+- Implementação do módulo de exportação de dados
+- Migração de dados legados
+
+Tarefas atrasadas:

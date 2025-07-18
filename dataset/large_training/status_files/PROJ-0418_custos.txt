@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A arte de inovar antes de tudo (PROJ-0418)
+Data: 14/07/2025
+Gerente: Luiz Gustavo Andrade
+
+Orçamento inicial: R$ 4110920.00
+Custo real atual: R$ 4301601.13
+Desvio orçamentário: 4.64%
+Índice de Desempenho de Custo (CPI): 0.96
+Valor Agregado (EV): R$ 4110920.00
+Estimativa para conclusão: R$ 0.00
+Estimativa no término (EAC): R$ 4301601.13
+Variação no término (VAC): R$ -190681.13
+
+Detalhamento por categoria:
+- Pessoal: R$ 2027553.68 (47.1%)
+- Equipamentos: R$ 505478.65 (11.8%)
+- Software: R$ 644971.11 (15.0%)
+- Serviços: R$ 762362.10 (17.7%)
+- Outros: R$ 361235.59 (8.4%)

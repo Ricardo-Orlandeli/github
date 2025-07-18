@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O poder de atingir seus objetivos mais rapidamente (PROJ-0358)
+Data: 14/07/2025
+Gerente: Dom Gonçalves
+
+Orçamento inicial: R$ 4241233.00
+Custo real atual: R$ 4809305.19
+Desvio orçamentário: 13.39%
+Índice de Desempenho de Custo (CPI): 0.69
+Valor Agregado (EV): R$ 3296095.18
+Estimativa para conclusão: R$ 1379042.76
+Estimativa no término (EAC): R$ 6188347.95
+Variação no término (VAC): R$ -1947114.95
+
+Detalhamento por categoria:
+- Pessoal: R$ 2303100.97 (47.9%)
+- Equipamentos: R$ 1105094.42 (23.0%)
+- Software: R$ 504672.13 (10.5%)
+- Serviços: R$ 590757.05 (12.3%)
+- Outros: R$ 305680.62 (6.4%)

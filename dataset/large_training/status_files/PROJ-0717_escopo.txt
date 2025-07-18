@@ -1,0 +1,26 @@
+RELATÓRIO DE STATUS DE ESCOPO
+Projeto: A liberdade de conseguir em estado puro (PROJ-0717)
+Data: 14/07/2025
+Gerente: Theo Fernandes
+
+Escopo original: Sistema para a liberdade de conseguir em estado puro
+Houve mudança de escopo: Sim
+Descrição das mudanças: Alteração nas especificações técnicas
+Impacto no cronograma: 9 dias
+Impacto no custo: R$ 125762.43
+
+Solicitações de mudança:
+- SCM-01: Mudança na arquitetura do sistema
+- SCM-02: Mudança no banco de dados
+- SCM-03: Adição de relatórios gerenciais
+
+Requisitos atuais:
+- REQ-01: O sistema deve ser compatível com navegadores modernos
+- REQ-02: O sistema deve ser escalável para suportar até 10.000 usuários simultâneos
+- REQ-03: O sistema deve permitir exportação de dados em formato CSV
+- REQ-04: O sistema deve permitir integração com APIs externas
+- REQ-05: O sistema deve ser escalável para suportar até 10.000 usuários simultâneos
+- REQ-06: O sistema deve permitir integração com APIs externas
+- REQ-07: O sistema deve ter documentação completa
+- REQ-08: O sistema deve ter interface responsiva
+- REQ-09: O sistema deve ser escalável para suportar até 10.000 usuários simultâneos

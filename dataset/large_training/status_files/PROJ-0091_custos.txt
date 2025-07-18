@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O conforto de avançar com confiança (PROJ-0091)
+Data: 14/07/2025
+Gerente: Mariana Mendes
+
+Orçamento inicial: R$ 4975314.00
+Custo real atual: R$ 4457968.63
+Desvio orçamentário: -10.40%
+Índice de Desempenho de Custo (CPI): 1.08
+Valor Agregado (EV): R$ 4833316.56
+Estimativa para conclusão: R$ 130970.14
+Estimativa no término (EAC): R$ 4588938.77
+Variação no término (VAC): R$ 386375.23
+
+Detalhamento por categoria:
+- Pessoal: R$ 2258186.00 (50.7%)
+- Equipamentos: R$ 641226.08 (14.4%)
+- Software: R$ 494501.85 (11.1%)
+- Serviços: R$ 838150.20 (18.8%)
+- Outros: R$ 225904.51 (5.1%)

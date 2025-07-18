@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O direito de concretizar seus projetos antes de tudo (PROJ-0053)
+Data: 14/07/2025
+Gerente: Bento Nunes
+
+Orçamento inicial: R$ 904531.00
+Custo real atual: R$ 927134.46
+Desvio orçamentário: 250.55%
+Índice de Desempenho de Custo (CPI): 0.98
+Valor Agregado (EV): R$ 904531.00
+Estimativa para conclusão: R$ 0.00
+Estimativa no término (EAC): R$ 927134.46
+Variação no término (VAC): R$ -22603.46
+
+Detalhamento por categoria:
+- Pessoal: R$ 479317.46 (51.7%)
+- Equipamentos: R$ 123648.80 (13.3%)
+- Software: R$ 78010.32 (8.4%)
+- Serviços: R$ 150586.78 (16.2%)
+- Outros: R$ 95571.10 (10.3%)

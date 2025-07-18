@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O poder de realizar seus sonhos com toda a tranquilidade (PROJ-0021)
+Data: 14/07/2025
+Gerente: Alexandre da Mota
+
+Orçamento inicial: R$ 3144719.00
+Custo real atual: R$ 3083225.76
+Desvio orçamentário: -1.96%
+Índice de Desempenho de Custo (CPI): 0.90
+Valor Agregado (EV): R$ 2768196.96
+Estimativa para conclusão: R$ 419371.34
+Estimativa no término (EAC): R$ 3502597.10
+Variação no término (VAC): R$ -357878.10
+
+Detalhamento por categoria:
+- Pessoal: R$ 1354298.85 (43.9%)
+- Equipamentos: R$ 413150.95 (13.4%)
+- Software: R$ 444428.23 (14.4%)
+- Serviços: R$ 603232.88 (19.6%)
+- Outros: R$ 268114.85 (8.7%)

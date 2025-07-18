@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A certeza de evoluir com força total (PROJ-0117)
+Data: 14/07/2025
+Gerente: Apollo Vasconcelos
+
+Orçamento inicial: R$ 3304188.00
+Custo real atual: R$ 87132.57
+Desvio orçamentário: -11.66%
+Índice de Desempenho de Custo (CPI): 0.95
+Valor Agregado (EV): R$ 82611.38
+Estimativa para conclusão: R$ 3397888.31
+Estimativa no término (EAC): R$ 3485020.88
+Variação no término (VAC): R$ -180832.88
+
+Detalhamento por categoria:
+- Pessoal: R$ 48360.44 (55.5%)
+- Equipamentos: R$ 14939.09 (17.1%)
+- Software: R$ 4573.06 (5.2%)
+- Serviços: R$ 13719.36 (15.7%)
+- Outros: R$ 5540.62 (6.4%)

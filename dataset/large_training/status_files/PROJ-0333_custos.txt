@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O prazer de inovar com toda a tranquilidade (PROJ-0333)
+Data: 14/07/2025
+Gerente: Dr. José Miguel Castro
+
+Orçamento inicial: R$ 2166373.00
+Custo real atual: R$ 2752752.08
+Desvio orçamentário: 27.07%
+Índice de Desempenho de Custo (CPI): 0.68
+Valor Agregado (EV): R$ 1882886.34
+Estimativa para conclusão: R$ 414453.31
+Estimativa no término (EAC): R$ 3167205.40
+Variação no término (VAC): R$ -1000832.40
+
+Detalhamento por categoria:
+- Pessoal: R$ 1509894.74 (54.9%)
+- Equipamentos: R$ 390223.91 (14.2%)
+- Software: R$ 238163.20 (8.7%)
+- Serviços: R$ 422730.11 (15.4%)
+- Outros: R$ 191740.13 (7.0%)

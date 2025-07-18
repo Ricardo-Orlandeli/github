@@ -1,0 +1,26 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A segurança de concretizar seus projetos naturalmente (PROJ-0046)
+Data: 14/07/2025
+Gerente: Cauê Lopes
+
+Status atual: Em andamento
+Percentual de conclusão: 99.9%
+Data de início: 25/10/2024
+Data de término planejada: 03/05/2025
+Data de término real/prevista: 08/05/2025
+Atraso atual: 72 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.03
+Valor Planejado (PV): R$ 1020194.00
+Valor Agregado (EV): R$ 1019173.81
+
+Tarefas críticas:
+- Implementação do sistema de backup
+- Implementação do módulo de notificações
+- Testes de segurança
+- Testes de aceitação do usuário
+- Implementação do sistema de backup
+- Implementação do módulo de exportação de dados
+- Configuração do ambiente de produção
+
+Tarefas atrasadas:

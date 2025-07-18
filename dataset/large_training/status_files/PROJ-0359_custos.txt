@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A simplicidade de inovar naturalmente (PROJ-0359)
+Data: 14/07/2025
+Gerente: Dr. Yuri Fernandes
+
+Orçamento inicial: R$ 1956552.00
+Custo real atual: R$ 1419308.54
+Desvio orçamentário: -27.46%
+Índice de Desempenho de Custo (CPI): 0.75
+Valor Agregado (EV): R$ 1062713.78
+Estimativa para conclusão: R$ 1193766.59
+Estimativa no término (EAC): R$ 2613075.13
+Variação no término (VAC): R$ -656523.13
+
+Detalhamento por categoria:
+- Pessoal: R$ 698895.30 (49.2%)
+- Equipamentos: R$ 193219.14 (13.6%)
+- Software: R$ 186654.40 (13.2%)
+- Serviços: R$ 219609.26 (15.5%)
+- Outros: R$ 120930.44 (8.5%)

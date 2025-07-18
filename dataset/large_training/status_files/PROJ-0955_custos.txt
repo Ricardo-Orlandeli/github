@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A possibilidade de conseguir direto da fonte (PROJ-0955)
+Data: 14/07/2025
+Gerente: João Pedro Sousa
+
+Orçamento inicial: R$ 256688.00
+Custo real atual: R$ 267004.60
+Desvio orçamentário: 4.02%
+Índice de Desempenho de Custo (CPI): 0.68
+Valor Agregado (EV): R$ 180451.99
+Estimativa para conclusão: R$ 112802.11
+Estimativa no término (EAC): R$ 379806.71
+Variação no término (VAC): R$ -123118.71
+
+Detalhamento por categoria:
+- Pessoal: R$ 133550.47 (50.0%)
+- Equipamentos: R$ 38937.63 (14.6%)
+- Software: R$ 32736.76 (12.3%)
+- Serviços: R$ 45106.23 (16.9%)
+- Outros: R$ 16673.52 (6.2%)

@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A possibilidade de atingir seus objetivos em estado puro (PROJ-0958)
+Data: 14/07/2025
+Gerente: Anthony Gabriel Pinto
+
+Orçamento inicial: R$ 4982509.00
+Custo real atual: R$ 5760256.60
+Desvio orçamentário: 32.24%
+Índice de Desempenho de Custo (CPI): 0.84
+Valor Agregado (EV): R$ 4846330.96
+Estimativa para conclusão: R$ 161858.63
+Estimativa no término (EAC): R$ 5922115.23
+Variação no término (VAC): R$ -939606.23
+
+Detalhamento por categoria:
+- Pessoal: R$ 3210505.26 (55.7%)
+- Equipamentos: R$ 703469.51 (12.2%)
+- Software: R$ 848027.30 (14.7%)
+- Serviços: R$ 697987.05 (12.1%)
+- Outros: R$ 300267.49 (5.2%)

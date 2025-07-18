@@ -1,0 +1,26 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A possibilidade de conseguir com confiança (PROJ-0828)
+Data: 14/07/2025
+Gerente: Pietro Nunes
+
+Status atual: Em andamento
+Percentual de conclusão: 86.6%
+Data de início: 27/01/2025
+Data de término planejada: 21/07/2025
+Data de término real/prevista: 25/07/2025
+Atraso atual: 0 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 0.95
+Valor Planejado (PV): R$ 449187.84
+Valor Agregado (EV): R$ 404976.76
+
+Tarefas críticas:
+- Desenvolvimento da interface do usuário
+- Configuração da infraestrutura
+- Configuração da infraestrutura
+- Implementação do módulo de relatórios
+- Migração de dados legados
+- Implementação do módulo de notificações
+- Desenvolvimento da interface do usuário
+
+Tarefas atrasadas:

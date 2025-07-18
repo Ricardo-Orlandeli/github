@@ -1,0 +1,22 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: O direito de inovar simplesmente (PROJ-0600)
+Data: 14/07/2025
+Gerente: Arthur Martins
+
+Status atual: Em andamento
+Percentual de conclusão: 99.9%
+Data de início: 27/02/2024
+Data de término planejada: 04/08/2024
+Data de término real/prevista: 28/07/2024
+Atraso atual: 344 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 0.89
+Valor Planejado (PV): R$ 2992174.00
+Valor Agregado (EV): R$ 2989181.83
+
+Tarefas críticas:
+- Implementação do sistema de backup
+- Implementação do módulo de exportação de dados
+- Testes de segurança
+
+Tarefas atrasadas:

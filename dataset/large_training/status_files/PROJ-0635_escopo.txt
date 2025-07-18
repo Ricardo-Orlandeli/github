@@ -1,0 +1,29 @@
+RELATÓRIO DE STATUS DE ESCOPO
+Projeto: A liberdade de ganhar mais facilmente (PROJ-0635)
+Data: 14/07/2025
+Gerente: Sr. Vitor da Mata
+
+Escopo original: Sistema para a liberdade de ganhar mais facilmente
+Houve mudança de escopo: Sim
+Descrição das mudanças: Alteração nas especificações técnicas
+Impacto no cronograma: 52 dias
+Impacto no custo: R$ 667183.49
+
+Solicitações de mudança:
+- SCM-01: Integração com sistema legado
+- SCM-02: Integração com sistema legado
+- SCM-03: Adição de funcionalidade de autenticação biométrica
+- SCM-04: Mudança na arquitetura do sistema
+- SCM-05: Mudança no banco de dados
+
+Requisitos atuais:
+- REQ-01: O sistema deve ter alta disponibilidade (99.9%)
+- REQ-02: O sistema deve ter alta disponibilidade (99.9%)
+- REQ-03: O sistema deve ter interface responsiva
+- REQ-04: O sistema deve permitir integração com APIs externas
+- REQ-05: O sistema deve ser compatível com navegadores modernos
+- REQ-06: O sistema deve permitir autenticação de usuários
+- REQ-07: O sistema deve ser compatível com navegadores modernos
+- REQ-08: O sistema deve ter alta disponibilidade (99.9%)
+- REQ-09: O sistema deve ter alta disponibilidade (99.9%)
+- REQ-10: O sistema deve ser compatível com navegadores modernos

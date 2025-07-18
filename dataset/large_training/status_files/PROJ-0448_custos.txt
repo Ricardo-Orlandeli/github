@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O poder de realizar seus sonhos com confiança (PROJ-0448)
+Data: 14/07/2025
+Gerente: José Pedro Marques
+
+Orçamento inicial: R$ 2444649.00
+Custo real atual: R$ 1698755.53
+Desvio orçamentário: -4.11%
+Índice de Desempenho de Custo (CPI): 0.86
+Valor Agregado (EV): R$ 1467898.30
+Estimativa para conclusão: R$ 1130364.85
+Estimativa no término (EAC): R$ 2829120.38
+Variação no término (VAC): R$ -384471.38
+
+Detalhamento por categoria:
+- Pessoal: R$ 919253.24 (54.1%)
+- Equipamentos: R$ 249359.85 (14.7%)
+- Software: R$ 165967.21 (9.8%)
+- Serviços: R$ 240286.17 (14.1%)
+- Outros: R$ 123889.06 (7.3%)

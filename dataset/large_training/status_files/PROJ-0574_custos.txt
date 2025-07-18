@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O prazer de atingir seus objetivos antes de tudo (PROJ-0574)
+Data: 14/07/2025
+Gerente: Rodrigo Mendes
+
+Orçamento inicial: R$ 545307.00
+Custo real atual: R$ 623648.00
+Desvio orçamentário: 14.37%
+Índice de Desempenho de Custo (CPI): 0.87
+Valor Agregado (EV): R$ 545307.00
+Estimativa para conclusão: R$ 0.00
+Estimativa no término (EAC): R$ 623648.00
+Variação no término (VAC): R$ -78341.00
+
+Detalhamento por categoria:
+- Pessoal: R$ 361961.82 (58.0%)
+- Equipamentos: R$ 64892.34 (10.4%)
+- Software: R$ 63562.68 (10.2%)
+- Serviços: R$ 82072.19 (13.2%)
+- Outros: R$ 51158.98 (8.2%)

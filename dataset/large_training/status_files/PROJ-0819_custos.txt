@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A segurança de realizar seus sonhos de maneira eficaz (PROJ-0819)
+Data: 14/07/2025
+Gerente: Alexia Rocha
+
+Orçamento inicial: R$ 171653.00
+Custo real atual: R$ 142260.37
+Desvio orçamentário: -17.12%
+Índice de Desempenho de Custo (CPI): 1.01
+Valor Agregado (EV): R$ 143766.88
+Estimativa para conclusão: R$ 27593.90
+Estimativa no término (EAC): R$ 169854.27
+Variação no término (VAC): R$ 1798.73
+
+Detalhamento por categoria:
+- Pessoal: R$ 67850.42 (47.7%)
+- Equipamentos: R$ 18868.55 (13.3%)
+- Software: R$ 21312.10 (15.0%)
+- Serviços: R$ 20418.81 (14.4%)
+- Outros: R$ 13810.48 (9.7%)

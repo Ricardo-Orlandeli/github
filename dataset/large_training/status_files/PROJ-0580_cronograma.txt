@@ -1,0 +1,26 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: O direito de ganhar mais rapidamente (PROJ-0580)
+Data: 14/07/2025
+Gerente: Sofia Cardoso
+
+Status atual: Em andamento
+Percentual de conclusão: 91.0%
+Data de início: 05/01/2025
+Data de término planejada: 30/04/2025
+Data de término real/prevista: 29/04/2025
+Atraso atual: 75 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 0.89
+Valor Planejado (PV): R$ 2349945.00
+Valor Agregado (EV): R$ 2137753.73
+
+Tarefas críticas:
+- Implementação do sistema de backup
+- Configuração da infraestrutura
+- Implementação do módulo de exportação de dados
+- Desenvolvimento do painel administrativo
+- Desenvolvimento do módulo de autenticação
+- Migração de dados legados
+- Testes de segurança
+
+Tarefas atrasadas:

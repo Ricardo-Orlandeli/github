@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O poder de evoluir direto da fonte (PROJ-0231)
+Data: 14/07/2025
+Gerente: Lucca Sousa
+
+Orçamento inicial: R$ 593468.00
+Custo real atual: R$ 409318.79
+Desvio orçamentário: -31.03%
+Índice de Desempenho de Custo (CPI): 1.24
+Valor Agregado (EV): R$ 506623.37
+Estimativa para conclusão: R$ 70164.82
+Estimativa no término (EAC): R$ 479483.62
+Variação no término (VAC): R$ 113984.38
+
+Detalhamento por categoria:
+- Pessoal: R$ 229328.43 (56.0%)
+- Equipamentos: R$ 52345.85 (12.8%)
+- Software: R$ 25783.94 (6.3%)
+- Serviços: R$ 65602.65 (16.0%)
+- Outros: R$ 36257.93 (8.9%)

@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A arte de evoluir sem preocupação (PROJ-0693)
+Data: 14/07/2025
+Gerente: Isabela Caldeira
+
+Orçamento inicial: R$ 1485942.00
+Custo real atual: R$ 1575486.76
+Desvio orçamentário: 6.03%
+Índice de Desempenho de Custo (CPI): 0.92
+Valor Agregado (EV): R$ 1448093.09
+Estimativa para conclusão: R$ 41178.60
+Estimativa no término (EAC): R$ 1616665.37
+Variação no término (VAC): R$ -130723.37
+
+Detalhamento por categoria:
+- Pessoal: R$ 863216.43 (54.8%)
+- Equipamentos: R$ 285800.05 (18.1%)
+- Software: R$ 108800.34 (6.9%)
+- Serviços: R$ 201229.42 (12.8%)
+- Outros: R$ 116440.52 (7.4%)

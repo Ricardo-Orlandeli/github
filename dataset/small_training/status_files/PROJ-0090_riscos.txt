@@ -1,0 +1,35 @@
+RELATÓRIO DE STATUS DE RISCOS
+Projeto: O prazer de inovar simplesmente (PROJ-0090)
+Data: 14/07/2025
+Gerente: Pietra Nogueira
+
+Riscos identificados:
+- R01: Mudanças regulatórias
+  Probabilidade: 3/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Implementar redundância de infraestrutura
+
+- R02: Falhas em testes de aceitação
+  Probabilidade: 5/5, Impacto: 3/5, Nível: Médio
+  Mitigação: Comunicar benefícios da mudança
+
+- R03: Problemas de desempenho
+  Probabilidade: 4/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Testar compatibilidade em diferentes ambientes
+
+- R04: Problemas de compatibilidade
+  Probabilidade: 3/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Melhorar a documentação de requisitos
+
+- R05: Atraso na entrega de componentes críticos
+  Probabilidade: 4/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Realizar testes de integração antecipados
+
+Riscos ocorridos:
+- R04 (ocorrido em 03/04/2025)
+  Impacto real: Aumento de 10% nos custos
+  Ações tomadas: Implementação de controles adicionais
+
+- R05 (ocorrido em 14/10/2024)
+  Impacto real: Retrabalho significativo
+  Ações tomadas: Contratação de recursos adicionais
+

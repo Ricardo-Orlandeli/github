@@ -1,0 +1,23 @@
+RELATÓRIO DE STATUS DE RISCOS
+Projeto: O conforto de ganhar simplesmente (PROJ-0683)
+Data: 14/07/2025
+Gerente: Luiz Felipe Nunes
+
+Riscos identificados:
+- R01: Falhas de segurança
+  Probabilidade: 4/5, Impacto: 2/5, Nível: Médio
+  Mitigação: Contratar pessoal adicional
+
+- R02: Indisponibilidade de recursos especializados
+  Probabilidade: 3/5, Impacto: 3/5, Nível: Médio
+  Mitigação: Contratar pessoal adicional
+
+- R03: Estimativas imprecisas
+  Probabilidade: 2/5, Impacto: 2/5, Nível: Baixo
+  Mitigação: Fortalecer medidas de segurança
+
+- R04: Estimativas imprecisas
+  Probabilidade: 2/5, Impacto: 2/5, Nível: Baixo
+  Mitigação: Testar compatibilidade em diferentes ambientes
+
+Riscos ocorridos:

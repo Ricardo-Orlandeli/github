@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A possibilidade de mudar mais facilmente (PROJ-0984)
+Data: 14/07/2025
+Gerente: Theodoro Ramos
+
+Orçamento inicial: R$ 1750559.00
+Custo real atual: R$ 1734712.35
+Desvio orçamentário: -0.30%
+Índice de Desempenho de Custo (CPI): 1.01
+Valor Agregado (EV): R$ 1750559.00
+Estimativa para conclusão: R$ 0.00
+Estimativa no término (EAC): R$ 1734712.35
+Variação no término (VAC): R$ 15846.65
+
+Detalhamento por categoria:
+- Pessoal: R$ 836484.89 (48.2%)
+- Equipamentos: R$ 215053.11 (12.4%)
+- Software: R$ 208440.52 (12.0%)
+- Serviços: R$ 321210.69 (18.5%)
+- Outros: R$ 153523.14 (8.9%)

@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A vantagem de realizar seus sonhos com confiança (PROJ-0367)
+Data: 14/07/2025
+Gerente: Maria Luiza Vieira
+
+Orçamento inicial: R$ 155281.00
+Custo real atual: R$ 151682.68
+Desvio orçamentário: -2.32%
+Índice de Desempenho de Custo (CPI): 0.91
+Valor Agregado (EV): R$ 137957.33
+Estimativa para conclusão: R$ 19047.20
+Estimativa no término (EAC): R$ 170729.88
+Variação no término (VAC): R$ -15448.88
+
+Detalhamento por categoria:
+- Pessoal: R$ 85351.85 (56.3%)
+- Equipamentos: R$ 30405.61 (20.0%)
+- Software: R$ 7865.42 (5.2%)
+- Serviços: R$ 18422.59 (12.1%)
+- Outros: R$ 9637.21 (6.4%)

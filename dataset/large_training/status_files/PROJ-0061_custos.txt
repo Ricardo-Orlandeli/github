@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A simplicidade de conseguir sem preocupação (PROJ-0061)
+Data: 14/07/2025
+Gerente: Benjamim Pires
+
+Orçamento inicial: R$ 2007736.00
+Custo real atual: R$ 1883731.42
+Desvio orçamentário: -6.18%
+Índice de Desempenho de Custo (CPI): 0.73
+Valor Agregado (EV): R$ 1376223.16
+Estimativa para conclusão: R$ 864395.11
+Estimativa no término (EAC): R$ 2748126.53
+Variação no término (VAC): R$ -740390.53
+
+Detalhamento por categoria:
+- Pessoal: R$ 1034701.10 (54.9%)
+- Equipamentos: R$ 271576.21 (14.4%)
+- Software: R$ 234123.90 (12.4%)
+- Serviços: R$ 231574.81 (12.3%)
+- Outros: R$ 111755.40 (5.9%)

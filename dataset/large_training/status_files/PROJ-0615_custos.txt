@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A liberdade de inovar de maneira eficaz (PROJ-0615)
+Data: 14/07/2025
+Gerente: Maria Isis Guerra
+
+Orçamento inicial: R$ 763038.00
+Custo real atual: R$ 667748.85
+Desvio orçamentário: -11.98%
+Índice de Desempenho de Custo (CPI): 1.14
+Valor Agregado (EV): R$ 763038.00
+Estimativa para conclusão: R$ 0.00
+Estimativa no término (EAC): R$ 667748.85
+Variação no término (VAC): R$ 95289.15
+
+Detalhamento por categoria:
+- Pessoal: R$ 370055.20 (55.4%)
+- Equipamentos: R$ 71748.36 (10.7%)
+- Software: R$ 90047.03 (13.5%)
+- Serviços: R$ 100632.55 (15.1%)
+- Outros: R$ 35265.71 (5.3%)

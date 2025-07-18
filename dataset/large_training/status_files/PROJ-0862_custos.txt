@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O prazer de concretizar seus projetos de maneira eficaz (PROJ-0862)
+Data: 14/07/2025
+Gerente: Sophie Vieira
+
+Orçamento inicial: R$ 3267476.00
+Custo real atual: R$ 3429785.27
+Desvio orçamentário: 4.97%
+Índice de Desempenho de Custo (CPI): 0.74
+Valor Agregado (EV): R$ 2548528.39
+Estimativa para conclusão: R$ 967552.85
+Estimativa no término (EAC): R$ 4397338.12
+Variação no término (VAC): R$ -1129862.12
+
+Detalhamento por categoria:
+- Pessoal: R$ 1685501.30 (49.1%)
+- Equipamentos: R$ 646469.40 (18.8%)
+- Software: R$ 347451.24 (10.1%)
+- Serviços: R$ 399079.99 (11.6%)
+- Outros: R$ 351283.34 (10.2%)

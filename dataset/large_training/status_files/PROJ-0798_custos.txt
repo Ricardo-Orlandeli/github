@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O prazer de ganhar mais rapidamente (PROJ-0798)
+Data: 14/07/2025
+Gerente: João Vitor Porto
+
+Orçamento inicial: R$ 4914554.00
+Custo real atual: R$ 4089542.20
+Desvio orçamentário: -16.79%
+Índice de Desempenho de Custo (CPI): 0.73
+Valor Agregado (EV): R$ 2976690.82
+Estimativa para conclusão: R$ 2662343.44
+Estimativa no término (EAC): R$ 6751885.65
+Variação no término (VAC): R$ -1837331.65
+
+Detalhamento por categoria:
+- Pessoal: R$ 1944894.69 (47.6%)
+- Equipamentos: R$ 710252.65 (17.4%)
+- Software: R$ 379545.92 (9.3%)
+- Serviços: R$ 796635.30 (19.5%)
+- Outros: R$ 258213.65 (6.3%)

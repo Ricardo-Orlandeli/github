@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O poder de conseguir com toda a tranquilidade (PROJ-0513)
+Data: 14/07/2025
+Gerente: Luiz Henrique Oliveira
+
+Orçamento inicial: R$ 3264141.00
+Custo real atual: R$ 2566505.52
+Desvio orçamentário: -21.37%
+Índice de Desempenho de Custo (CPI): 1.19
+Valor Agregado (EV): R$ 3066041.59
+Estimativa para conclusão: R$ 165823.98
+Estimativa no término (EAC): R$ 2732329.50
+Variação no término (VAC): R$ 531811.50
+
+Detalhamento por categoria:
+- Pessoal: R$ 1439805.34 (56.1%)
+- Equipamentos: R$ 363744.18 (14.2%)
+- Software: R$ 184622.08 (7.2%)
+- Serviços: R$ 358937.25 (14.0%)
+- Outros: R$ 219396.67 (8.5%)

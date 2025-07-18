@@ -1,0 +1,24 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: O poder de evoluir com confiança (PROJ-0046)
+Data: 14/07/2025
+Gerente: Isaque Correia
+
+Status atual: Atrasado
+Percentual de conclusão: 55.6%
+Data de início: 24/08/2024
+Data de término planejada: 28/04/2025
+Data de término real/prevista: 05/10/2025
+Atraso atual: 77 dias
+Motivo do atraso: Problemas técnicos inesperados
+Índice de Desempenho de Cronograma (SPI): 0.56
+Valor Planejado (PV): R$ 3524509.00
+Valor Agregado (EV): R$ 1959017.53
+
+Tarefas críticas:
+- Implementação do sistema de backup
+- Configuração da infraestrutura
+- Implementação do sistema de backup
+
+Tarefas atrasadas:
+- Implementação do sistema de backup
+- Implementação do sistema de backup

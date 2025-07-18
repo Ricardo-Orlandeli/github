@@ -1,0 +1,27 @@
+RELATÓRIO DE STATUS DE RISCOS
+Projeto: A vantagem de mudar mais facilmente (PROJ-0336)
+Data: 14/07/2025
+Gerente: Emanuel Oliveira
+
+Riscos identificados:
+- R01: Requisitos mal definidos
+  Probabilidade: 2/5, Impacto: 2/5, Nível: Baixo
+  Mitigação: Monitorar mudanças regulatórias
+
+- R02: Problemas de integração com sistemas legados
+  Probabilidade: 4/5, Impacto: 4/5, Nível: Alto
+  Mitigação: Testar compatibilidade em diferentes ambientes
+
+- R03: Dependências externas não cumpridas
+  Probabilidade: 1/5, Impacto: 4/5, Nível: Baixo
+  Mitigação: Implementar redundância de infraestrutura
+
+Riscos ocorridos:
+- R02 (ocorrido em 04/04/2025)
+  Impacto real: Falhas de segurança
+  Ações tomadas: Revisão de processos
+
+- R03 (ocorrido em 16/04/2025)
+  Impacto real: Falhas de segurança
+  Ações tomadas: Implementação de controles adicionais
+

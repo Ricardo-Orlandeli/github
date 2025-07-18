@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A segurança de evoluir com toda a tranquilidade (PROJ-0796)
+Data: 14/07/2025
+Gerente: Dr. Fernando Fogaça
+
+Orçamento inicial: R$ 1271468.00
+Custo real atual: R$ 1219000.02
+Desvio orçamentário: -4.13%
+Índice de Desempenho de Custo (CPI): 1.04
+Valor Agregado (EV): R$ 1270196.53
+Estimativa para conclusão: R$ 1220.22
+Estimativa no término (EAC): R$ 1220220.24
+Variação no término (VAC): R$ 51247.76
+
+Detalhamento por categoria:
+- Pessoal: R$ 559885.83 (45.9%)
+- Equipamentos: R$ 165388.18 (13.6%)
+- Software: R$ 192608.98 (15.8%)
+- Serviços: R$ 174318.08 (14.3%)
+- Outros: R$ 126798.96 (10.4%)

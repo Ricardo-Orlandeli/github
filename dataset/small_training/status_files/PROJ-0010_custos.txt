@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O poder de conseguir mais rapidamente (PROJ-0010)
+Data: 14/07/2025
+Gerente: Luiza Sá
+
+Orçamento inicial: R$ 3553870.00
+Custo real atual: R$ 2598296.46
+Desvio orçamentário: -25.97%
+Índice de Desempenho de Custo (CPI): 1.24
+Valor Agregado (EV): R$ 3214350.43
+Estimativa para conclusão: R$ 274448.14
+Estimativa no término (EAC): R$ 2872744.60
+Variação no término (VAC): R$ 681125.40
+
+Detalhamento por categoria:
+- Pessoal: R$ 1321395.98 (50.9%)
+- Equipamentos: R$ 381638.40 (14.7%)
+- Software: R$ 314161.24 (12.1%)
+- Serviços: R$ 452781.92 (17.4%)
+- Outros: R$ 128318.91 (4.9%)

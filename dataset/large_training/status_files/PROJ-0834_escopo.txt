@@ -1,0 +1,24 @@
+RELATÓRIO DE STATUS DE ESCOPO
+Projeto: A simplicidade de ganhar com força total (PROJ-0834)
+Data: 14/07/2025
+Gerente: João Guilherme Abreu
+
+Escopo original: Sistema para a simplicidade de ganhar com força total
+Houve mudança de escopo: Sim
+Descrição das mudanças: Adição de novos requisitos de segurança
+Impacto no cronograma: 21 dias
+Impacto no custo: R$ 140478.71
+
+Solicitações de mudança:
+- SCM-01: Implementação de módulo de exportação de dados
+- SCM-02: Implementação de módulo de exportação de dados
+- SCM-03: Adição de funcionalidade de autenticação biométrica
+- SCM-04: Alteração nos requisitos de desempenho
+
+Requisitos atuais:
+- REQ-01: O sistema deve ser compatível com dispositivos móveis
+- REQ-02: O sistema deve processar transações em menos de 2 seconds
+- REQ-03: O sistema deve ter interface responsiva
+- REQ-04: O sistema deve permitir autenticação de usuários
+- REQ-05: O sistema deve permitir exportação de dados em formato CSV
+- REQ-06: O sistema deve ter alta disponibilidade (99.9%)

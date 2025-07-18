@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O prazer de mudar simplesmente (PROJ-0141)
+Data: 14/07/2025
+Gerente: Dr. Otávio Guerra
+
+Orçamento inicial: R$ 1465627.00
+Custo real atual: R$ 1453432.62
+Desvio orçamentário: -0.83%
+Índice de Desempenho de Custo (CPI): 0.82
+Valor Agregado (EV): R$ 1188050.87
+Estimativa para conclusão: R$ 339579.91
+Estimativa no término (EAC): R$ 1793012.52
+Variação no término (VAC): R$ -327385.52
+
+Detalhamento por categoria:
+- Pessoal: R$ 793213.91 (54.6%)
+- Equipamentos: R$ 270731.14 (18.6%)
+- Software: R$ 132340.72 (9.1%)
+- Serviços: R$ 169872.47 (11.7%)
+- Outros: R$ 87274.38 (6.0%)

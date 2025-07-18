@@ -1,0 +1,25 @@
+RELATÓRIO DE STATUS DE ESCOPO
+Projeto: A segurança de atingir seus objetivos mais rapidamente (PROJ-0830)
+Data: 14/07/2025
+Gerente: Emanuelly Pastor
+
+Escopo original: Sistema para a segurança de atingir seus objetivos mais rapidamente
+Houve mudança de escopo: Sim
+Descrição das mudanças: Alteração nas especificações técnicas
+Impacto no cronograma: 55 dias
+Impacto no custo: R$ 380747.84
+
+Solicitações de mudança:
+- SCM-01: Mudança na arquitetura do sistema
+- SCM-02: Integração com sistema legado
+- SCM-03: Adição de funcionalidade de autenticação biométrica
+- SCM-04: Alteração na interface do usuário
+
+Requisitos atuais:
+- REQ-01: O sistema deve ter interface responsiva
+- REQ-02: O sistema deve registrar logs de auditoria
+- REQ-03: O sistema deve ter documentação completa
+- REQ-04: O sistema deve ser escalável para suportar até 10.000 usuários simultâneos
+- REQ-05: O sistema deve ser compatível com dispositivos móveis
+- REQ-06: O sistema deve permitir integração com APIs externas
+- REQ-07: O sistema deve ter interface responsiva

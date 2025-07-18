@@ -1,0 +1,51 @@
+RELATÓRIO DE STATUS DE RISCOS
+Projeto: O poder de evoluir mais rapidamente (PROJ-0609)
+Data: 14/07/2025
+Gerente: Pedro Henrique Abreu
+
+Riscos identificados:
+- R01: Atraso na entrega de componentes críticos
+  Probabilidade: 5/5, Impacto: 3/5, Nível: Médio
+  Mitigação: Refinar estimativas com base em dados históricos
+
+- R02: Rotatividade de pessoal-chave
+  Probabilidade: 4/5, Impacto: 3/5, Nível: Médio
+  Mitigação: Testar compatibilidade em diferentes ambientes
+
+- R03: Resistência dos usuários à mudança
+  Probabilidade: 5/5, Impacto: 2/5, Nível: Médio
+  Mitigação: Estabelecer canais de comunicação claros
+
+- R04: Estimativas imprecisas
+  Probabilidade: 4/5, Impacto: 4/5, Nível: Alto
+  Mitigação: Realizar testes de integração antecipados
+
+- R05: Falhas em testes de aceitação
+  Probabilidade: 1/5, Impacto: 5/5, Nível: Baixo
+  Mitigação: Testar compatibilidade em diferentes ambientes
+
+- R06: Resistência dos usuários à mudança
+  Probabilidade: 5/5, Impacto: 4/5, Nível: Alto
+  Mitigação: Melhorar a documentação de requisitos
+
+- R07: Rotatividade de pessoal-chave
+  Probabilidade: 1/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Melhorar a documentação de requisitos
+
+- R08: Requisitos mal definidos
+  Probabilidade: 2/5, Impacto: 2/5, Nível: Baixo
+  Mitigação: Realizar testes de aceitação com usuários-chave
+
+- R09: Falhas de infraestrutura
+  Probabilidade: 5/5, Impacto: 3/5, Nível: Médio
+  Mitigação: Comunicar benefícios da mudança
+
+Riscos ocorridos:
+- R08 (ocorrido em 26/05/2025)
+  Impacto real: Problemas de qualidade
+  Ações tomadas: Realocação de recursos
+
+- R06 (ocorrido em 29/05/2025)
+  Impacto real: Insatisfação dos stakeholders
+  Ações tomadas: Revisão do orçamento
+

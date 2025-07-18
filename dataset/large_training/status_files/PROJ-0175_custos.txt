@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O conforto de mudar com toda a tranquilidade (PROJ-0175)
+Data: 14/07/2025
+Gerente: Isaac Vasconcelos
+
+Orçamento inicial: R$ 603545.00
+Custo real atual: R$ 564922.90
+Desvio orçamentário: -6.40%
+Índice de Desempenho de Custo (CPI): 0.93
+Valor Agregado (EV): R$ 524047.16
+Estimativa para conclusão: R$ 85698.68
+Estimativa no término (EAC): R$ 650621.58
+Variação no término (VAC): R$ -47076.58
+
+Detalhamento por categoria:
+- Pessoal: R$ 320070.40 (56.7%)
+- Equipamentos: R$ 68330.42 (12.1%)
+- Software: R$ 29344.03 (5.2%)
+- Serviços: R$ 103443.81 (18.3%)
+- Outros: R$ 43734.25 (7.7%)

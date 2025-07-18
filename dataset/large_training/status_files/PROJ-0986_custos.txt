@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O conforto de conseguir com força total (PROJ-0986)
+Data: 14/07/2025
+Gerente: Rafael Dias
+
+Orçamento inicial: R$ 4255549.00
+Custo real atual: R$ 3362695.41
+Desvio orçamentário: -20.98%
+Índice de Desempenho de Custo (CPI): 1.03
+Valor Agregado (EV): R$ 3478450.57
+Estimativa para conclusão: R$ 751238.32
+Estimativa no término (EAC): R$ 4113933.73
+Variação no término (VAC): R$ 141615.27
+
+Detalhamento por categoria:
+- Pessoal: R$ 1683508.99 (50.1%)
+- Equipamentos: R$ 505754.85 (15.0%)
+- Software: R$ 406636.84 (12.1%)
+- Serviços: R$ 484318.72 (14.4%)
+- Outros: R$ 282476.01 (8.4%)

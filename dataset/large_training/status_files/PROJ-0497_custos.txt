@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O direito de atingir seus objetivos mais facilmente (PROJ-0497)
+Data: 14/07/2025
+Gerente: Mathias Brito
+
+Orçamento inicial: R$ 417259.00
+Custo real atual: R$ 425190.81
+Desvio orçamentário: 1.90%
+Índice de Desempenho de Custo (CPI): 0.98
+Valor Agregado (EV): R$ 416841.74
+Estimativa para conclusão: R$ 425.62
+Estimativa no término (EAC): R$ 425616.43
+Variação no término (VAC): R$ -8357.43
+
+Detalhamento por categoria:
+- Pessoal: R$ 219626.77 (51.7%)
+- Equipamentos: R$ 46307.19 (10.9%)
+- Software: R$ 41302.90 (9.7%)
+- Serviços: R$ 83065.53 (19.5%)
+- Outros: R$ 34888.42 (8.2%)

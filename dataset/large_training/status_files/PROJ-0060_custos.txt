@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A possibilidade de inovar mais facilmente (PROJ-0060)
+Data: 14/07/2025
+Gerente: Sr. Danilo Casa Grande
+
+Orçamento inicial: R$ 3523670.00
+Custo real atual: R$ 3772803.56
+Desvio orçamentário: 7.07%
+Índice de Desempenho de Custo (CPI): 0.93
+Valor Agregado (EV): R$ 3520146.33
+Estimativa para conclusão: R$ 3776.58
+Estimativa no término (EAC): R$ 3776580.14
+Variação no término (VAC): R$ -252910.14
+
+Detalhamento por categoria:
+- Pessoal: R$ 1714977.14 (45.5%)
+- Equipamentos: R$ 596313.03 (15.8%)
+- Software: R$ 502528.58 (13.3%)
+- Serviços: R$ 754166.33 (20.0%)
+- Outros: R$ 204818.47 (5.4%)

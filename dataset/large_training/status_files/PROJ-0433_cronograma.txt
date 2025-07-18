@@ -1,0 +1,26 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A certeza de mudar antes de tudo (PROJ-0433)
+Data: 14/07/2025
+Gerente: Caleb Azevedo
+
+Status atual: Em andamento
+Percentual de conclusão: 95.0%
+Data de início: 27/09/2024
+Data de término planejada: 03/09/2025
+Data de término real/prevista: 07/09/2025
+Atraso atual: 0 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 0.95
+Valor Planejado (PV): R$ 408974.84
+Valor Agregado (EV): R$ 457092.95
+
+Tarefas críticas:
+- Desenvolvimento do módulo de autenticação
+- Implementação do sistema de backup
+- Testes de aceitação do usuário
+- Implementação do módulo de relatórios
+- Desenvolvimento da interface do usuário
+- Configuração da infraestrutura
+- Integração com sistema de pagamentos
+
+Tarefas atrasadas:

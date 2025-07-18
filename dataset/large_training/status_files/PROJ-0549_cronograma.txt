@@ -1,0 +1,26 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A certeza de realizar seus sonhos em estado puro (PROJ-0549)
+Data: 14/07/2025
+Gerente: Gael Henrique Rodrigues
+
+Status atual: Em andamento
+Percentual de conclusão: 80.3%
+Data de início: 02/01/2024
+Data de término planejada: 16/12/2024
+Data de término real/prevista: 09/01/2025
+Atraso atual: 210 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.02
+Valor Planejado (PV): R$ 2793882.00
+Valor Agregado (EV): R$ 2244332.56
+
+Tarefas críticas:
+- Integração com sistema de pagamentos
+- Implementação do sistema de backup
+- Testes de segurança
+- Desenvolvimento do painel administrativo
+- Configuração do ambiente de produção
+- Desenvolvimento da interface do usuário
+- Implementação do sistema de backup
+
+Tarefas atrasadas:

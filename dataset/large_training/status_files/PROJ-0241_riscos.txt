@@ -1,0 +1,31 @@
+RELATÓRIO DE STATUS DE RISCOS
+Projeto: A certeza de evoluir mais rapidamente (PROJ-0241)
+Data: 14/07/2025
+Gerente: Rhavi da Mota
+
+Riscos identificados:
+- R01: Falhas em testes de aceitação
+  Probabilidade: 5/5, Impacto: 3/5, Nível: Médio
+  Mitigação: Implementar plano de contingência
+
+- R02: Problemas de comunicação com stakeholders
+  Probabilidade: 3/5, Impacto: 3/5, Nível: Médio
+  Mitigação: Fortalecer medidas de segurança
+
+- R03: Indisponibilidade de recursos especializados
+  Probabilidade: 4/5, Impacto: 4/5, Nível: Alto
+  Mitigação: Comunicar benefícios da mudança
+
+Riscos ocorridos:
+- R03 (ocorrido em 25/10/2024)
+  Impacto real: Insatisfação dos stakeholders
+  Ações tomadas: Comunicação intensificada com stakeholders
+
+- R01 (ocorrido em 13/04/2025)
+  Impacto real: Perda de dados
+  Ações tomadas: Revisão de prioridades
+
+- R02 (ocorrido em 24/05/2024)
+  Impacto real: Perda de dados
+  Ações tomadas: Comunicação intensificada com stakeholders
+

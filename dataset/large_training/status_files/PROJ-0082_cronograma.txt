@@ -1,0 +1,26 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A certeza de inovar sem preocupação (PROJ-0082)
+Data: 14/07/2025
+Gerente: Stephany Silva
+
+Status atual: Em andamento
+Percentual de conclusão: 99.9%
+Data de início: 13/02/2024
+Data de término planejada: 17/01/2025
+Data de término real/prevista: 26/01/2025
+Atraso atual: 178 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 0.95
+Valor Planejado (PV): R$ 769691.00
+Valor Agregado (EV): R$ 768921.31
+
+Tarefas críticas:
+- Configuração do ambiente de produção
+- Migração de dados legados
+- Desenvolvimento do módulo de autenticação
+- Configuração do ambiente de produção
+- Configuração do ambiente de produção
+- Implementação do sistema de backup
+- Migração de dados legados
+
+Tarefas atrasadas:

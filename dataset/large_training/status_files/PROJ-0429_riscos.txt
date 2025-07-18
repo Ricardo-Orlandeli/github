@@ -1,0 +1,27 @@
+RELATÓRIO DE STATUS DE RISCOS
+Projeto: A possibilidade de avançar direto da fonte (PROJ-0429)
+Data: 14/07/2025
+Gerente: Eloá Camargo
+
+Riscos identificados:
+- R01: Requisitos mal definidos
+  Probabilidade: 1/5, Impacto: 5/5, Nível: Baixo
+  Mitigação: Melhorar a documentação de requisitos
+
+- R02: Requisitos mal definidos
+  Probabilidade: 4/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Implementar plano de contingência
+
+- R03: Problemas de compatibilidade
+  Probabilidade: 4/5, Impacto: 3/5, Nível: Médio
+  Mitigação: Refinar estimativas com base em dados históricos
+
+- R04: Estimativas imprecisas
+  Probabilidade: 5/5, Impacto: 5/5, Nível: Alto
+  Mitigação: Implementar plano de contingência
+
+Riscos ocorridos:
+- R04 (ocorrido em 26/04/2025)
+  Impacto real: Atraso de 2 semanas no cronograma
+  Ações tomadas: Implementação de controles adicionais
+

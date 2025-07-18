@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A certeza de avançar em estado puro (PROJ-0482)
+Data: 14/07/2025
+Gerente: Lorena Pinto
+
+Orçamento inicial: R$ 1106642.00
+Custo real atual: R$ 1073937.98
+Desvio orçamentário: -2.96%
+Índice de Desempenho de Custo (CPI): 1.03
+Valor Agregado (EV): R$ 1105535.36
+Estimativa para conclusão: R$ 1075.01
+Estimativa no término (EAC): R$ 1075013.00
+Variação no término (VAC): R$ 31629.00
+
+Detalhamento por categoria:
+- Pessoal: R$ 530512.26 (49.4%)
+- Equipamentos: R$ 144590.11 (13.5%)
+- Software: R$ 135709.01 (12.6%)
+- Serviços: R$ 172179.39 (16.0%)
+- Outros: R$ 90947.21 (8.5%)

@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A segurança de avançar com confiança (PROJ-0980)
+Data: 14/07/2025
+Gerente: Luiz Felipe Marques
+
+Orçamento inicial: R$ 3878441.00
+Custo real atual: R$ 4180758.11
+Desvio orçamentário: 7.79%
+Índice de Desempenho de Custo (CPI): 0.93
+Valor Agregado (EV): R$ 3878441.00
+Estimativa para conclusão: R$ 0.00
+Estimativa no término (EAC): R$ 4180758.11
+Variação no término (VAC): R$ -302317.11
+
+Detalhamento por categoria:
+- Pessoal: R$ 2140995.36 (51.2%)
+- Equipamentos: R$ 791240.16 (18.9%)
+- Software: R$ 276978.57 (6.6%)
+- Serviços: R$ 551296.79 (13.2%)
+- Outros: R$ 420247.24 (10.1%)

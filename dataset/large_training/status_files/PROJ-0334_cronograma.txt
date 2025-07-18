@@ -1,0 +1,30 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A segurança de inovar com força total (PROJ-0334)
+Data: 14/07/2025
+Gerente: Maria Luiza Oliveira
+
+Status atual: Atrasado
+Percentual de conclusão: 24.2%
+Data de início: 24/04/2025
+Data de término planejada: 14/02/2026
+Data de término real/prevista: 07/07/2026
+Atraso atual: 0 dias
+Motivo do atraso: Estimativas imprecisas
+Índice de Desempenho de Cronograma (SPI): 0.88
+Valor Planejado (PV): R$ 1169051.66
+Valor Agregado (EV): R$ 1034094.16
+
+Tarefas críticas:
+- Desenvolvimento da interface do usuário
+- Desenvolvimento da interface do usuário
+- Implementação do módulo de análise de dados
+- Configuração do ambiente de produção
+- Desenvolvimento do módulo de autenticação
+- Implementação do módulo de relatórios
+- Configuração do ambiente de produção
+- Implementação do módulo de notificações
+
+Tarefas atrasadas:
+- Implementação do módulo de análise de dados
+- Desenvolvimento do módulo de autenticação
+- Desenvolvimento da interface do usuário

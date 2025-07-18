@@ -1,0 +1,24 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A segurança de concretizar seus projetos com confiança (PROJ-0668)
+Data: 14/07/2025
+Gerente: Maitê da Conceição
+
+Status atual: Concluído
+Percentual de conclusão: 100.0%
+Data de início: 26/01/2024
+Data de término planejada: 07/08/2024
+Data de término real/prevista: 13/08/2024
+Atraso atual: 341 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 0.95
+Valor Planejado (PV): R$ 4969880.00
+Valor Agregado (EV): R$ 4969880.00
+
+Tarefas críticas:
+- Testes de aceitação do usuário
+- Implementação do módulo de análise de dados
+- Migração de dados legados
+- Integração com sistema de pagamentos
+- Desenvolvimento da interface do usuário
+
+Tarefas atrasadas:

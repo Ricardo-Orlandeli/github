@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A liberdade de inovar mais facilmente (PROJ-0954)
+Data: 14/07/2025
+Gerente: Luiz Miguel Martins
+
+Orçamento inicial: R$ 3971491.00
+Custo real atual: R$ 3947068.77
+Desvio orçamentário: -0.61%
+Índice de Desempenho de Custo (CPI): 1.01
+Valor Agregado (EV): R$ 3967519.51
+Estimativa para conclusão: R$ 3951.02
+Estimativa no término (EAC): R$ 3951019.79
+Variação no término (VAC): R$ 20471.21
+
+Detalhamento por categoria:
+- Pessoal: R$ 1877045.06 (47.6%)
+- Equipamentos: R$ 650531.36 (16.5%)
+- Software: R$ 554974.14 (14.1%)
+- Serviços: R$ 566608.16 (14.4%)
+- Outros: R$ 297910.05 (7.5%)

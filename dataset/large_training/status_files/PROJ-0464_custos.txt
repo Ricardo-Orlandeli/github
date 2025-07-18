@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O conforto de concretizar seus projetos de maneira eficaz (PROJ-0464)
+Data: 14/07/2025
+Gerente: Maya Araújo
+
+Orçamento inicial: R$ 4561583.00
+Custo real atual: R$ 3289278.02
+Desvio orçamentário: -5.89%
+Índice de Desempenho de Custo (CPI): 1.24
+Valor Agregado (EV): R$ 4081158.66
+Estimativa para conclusão: R$ 387206.02
+Estimativa no término (EAC): R$ 3676484.04
+Variação no término (VAC): R$ 885098.96
+
+Detalhamento por categoria:
+- Pessoal: R$ 1750274.93 (53.2%)
+- Equipamentos: R$ 551335.92 (16.8%)
+- Software: R$ 209068.32 (6.4%)
+- Serviços: R$ 491976.22 (15.0%)
+- Outros: R$ 286622.62 (8.7%)

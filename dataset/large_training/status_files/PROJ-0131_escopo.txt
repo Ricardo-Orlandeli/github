@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE ESCOPO
+Projeto: A possibilidade de avançar com força total (PROJ-0131)
+Data: 14/07/2025
+Gerente: Paulo Pacheco
+
+Escopo original: Sistema para a possibilidade de avançar com força total
+Houve mudança de escopo: Não
+Descrição das mudanças: N/A
+Impacto no cronograma: 0 dias
+Impacto no custo: R$ 0.00
+
+Solicitações de mudança:
+
+Requisitos atuais:
+- REQ-01: O sistema deve ter alta disponibilidade (99.9%)
+- REQ-02: O sistema deve registrar logs de auditoria
+- REQ-03: O sistema deve ser compatível com dispositivos móveis
+- REQ-04: O sistema deve ter alta disponibilidade (99.9%)
+- REQ-05: O sistema deve permitir autenticação de usuários
+- REQ-06: O sistema deve permitir autenticação de usuários

@@ -1,0 +1,23 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A vantagem de mudar simplesmente (PROJ-0099)
+Data: 14/07/2025
+Gerente: Luiz Henrique Rocha
+
+Status atual: Atrasado
+Percentual de conclusão: 37.1%
+Data de início: 12/02/2025
+Data de término planejada: 06/09/2025
+Data de término real/prevista: 19/11/2025
+Atraso atual: 0 dias
+Motivo do atraso: Rotatividade de pessoal-chave
+Índice de Desempenho de Cronograma (SPI): 0.50
+Valor Planejado (PV): R$ 3320818.52
+Valor Agregado (EV): R$ 1669685.06
+
+Tarefas críticas:
+- Implementação da API REST
+- Implementação do módulo de notificações
+- Implementação do módulo de exportação de dados
+
+Tarefas atrasadas:
+- Implementação do módulo de notificações

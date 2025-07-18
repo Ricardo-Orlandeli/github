@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A segurança de conseguir simplesmente (PROJ-0057)
+Data: 14/07/2025
+Gerente: Bruna Marques
+
+Orçamento inicial: R$ 2915145.00
+Custo real atual: R$ 2261423.08
+Desvio orçamentário: -22.43%
+Índice de Desempenho de Custo (CPI): 0.74
+Valor Agregado (EV): R$ 1678372.08
+Estimativa para conclusão: R$ 1666416.44
+Estimativa no término (EAC): R$ 3927839.52
+Variação no término (VAC): R$ -1012694.52
+
+Detalhamento por categoria:
+- Pessoal: R$ 1231141.27 (54.4%)
+- Equipamentos: R$ 330245.49 (14.6%)
+- Software: R$ 171576.76 (7.6%)
+- Serviços: R$ 325837.80 (14.4%)
+- Outros: R$ 202621.76 (9.0%)

@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O poder de mudar com toda a tranquilidade (PROJ-0200)
+Data: 14/07/2025
+Gerente: Srta. Clarice Nogueira
+
+Orçamento inicial: R$ 1648371.00
+Custo real atual: R$ 1904649.16
+Desvio orçamentário: 15.55%
+Índice de Desempenho de Custo (CPI): 0.87
+Valor Agregado (EV): R$ 1648371.00
+Estimativa para conclusão: R$ 0.00
+Estimativa no término (EAC): R$ 1904649.16
+Variação no término (VAC): R$ -256278.16
+
+Detalhamento por categoria:
+- Pessoal: R$ 988975.30 (51.9%)
+- Equipamentos: R$ 350293.71 (18.4%)
+- Software: R$ 175820.59 (9.2%)
+- Serviços: R$ 262518.48 (13.8%)
+- Outros: R$ 127041.08 (6.7%)

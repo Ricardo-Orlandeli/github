@@ -1,0 +1,27 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A arte de mudar com força total (PROJ-0190)
+Data: 14/07/2025
+Gerente: Laura Monteiro
+
+Status atual: Em andamento
+Percentual de conclusão: 83.3%
+Data de início: 21/10/2024
+Data de término planejada: 28/02/2025
+Data de término real/prevista: 02/03/2025
+Atraso atual: 136 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.02
+Valor Planejado (PV): R$ 3853200.00
+Valor Agregado (EV): R$ 3210111.82
+
+Tarefas críticas:
+- Testes de segurança
+- Implementação do módulo de relatórios
+- Implementação do sistema de backup
+- Desenvolvimento da interface do usuário
+- Desenvolvimento da interface do usuário
+- Configuração do ambiente de produção
+- Implementação do módulo de exportação de dados
+- Migração de dados legados
+
+Tarefas atrasadas:

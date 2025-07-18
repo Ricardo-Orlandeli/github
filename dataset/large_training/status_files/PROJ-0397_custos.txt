@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O prazer de ganhar direto da fonte (PROJ-0397)
+Data: 14/07/2025
+Gerente: Dr. Raul da Paz
+
+Orçamento inicial: R$ 3445661.00
+Custo real atual: R$ 2958250.78
+Desvio orçamentário: -8.17%
+Índice de Desempenho de Custo (CPI): 1.16
+Valor Agregado (EV): R$ 3445661.00
+Estimativa para conclusão: R$ 0.00
+Estimativa no término (EAC): R$ 2958250.78
+Variação no término (VAC): R$ 487410.22
+
+Detalhamento por categoria:
+- Pessoal: R$ 1851245.66 (62.6%)
+- Equipamentos: R$ 429674.00 (14.5%)
+- Software: R$ 171066.25 (5.8%)
+- Serviços: R$ 324255.06 (11.0%)
+- Outros: R$ 182009.81 (6.2%)

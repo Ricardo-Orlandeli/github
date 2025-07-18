@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O conforto de ganhar com força total (PROJ-0134)
+Data: 14/07/2025
+Gerente: Maria Clara Moreira
+
+Orçamento inicial: R$ 4503542.00
+Custo real atual: R$ 3430276.66
+Desvio orçamentário: -23.83%
+Índice de Desempenho de Custo (CPI): 1.13
+Valor Agregado (EV): R$ 3868132.63
+Estimativa para conclusão: R$ 563483.76
+Estimativa no término (EAC): R$ 3993760.42
+Variação no término (VAC): R$ 509781.58
+
+Detalhamento por categoria:
+- Pessoal: R$ 1815818.78 (52.9%)
+- Equipamentos: R$ 594972.32 (17.3%)
+- Software: R$ 440832.77 (12.9%)
+- Serviços: R$ 382437.81 (11.1%)
+- Outros: R$ 196214.98 (5.7%)

@@ -1,0 +1,23 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: O direito de concretizar seus projetos com força total (PROJ-0767)
+Data: 14/07/2025
+Gerente: Lorenzo Costela
+
+Status atual: Concluído
+Percentual de conclusão: 100.0%
+Data de início: 31/12/2023
+Data de término planejada: 12/02/2024
+Data de término real/prevista: 15/02/2024
+Atraso atual: 518 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.03
+Valor Planejado (PV): R$ 4870479.00
+Valor Agregado (EV): R$ 4870479.00
+
+Tarefas críticas:
+- Configuração do ambiente de produção
+- Implementação da API REST
+- Implementação do módulo de relatórios
+- Desenvolvimento do painel administrativo
+
+Tarefas atrasadas:

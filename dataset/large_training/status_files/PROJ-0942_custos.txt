@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A certeza de conseguir com confiança (PROJ-0942)
+Data: 14/07/2025
+Gerente: Eduarda Casa Grande
+
+Orçamento inicial: R$ 4472405.00
+Custo real atual: R$ 797786.96
+Desvio orçamentário: -8.40%
+Índice de Desempenho de Custo (CPI): 0.73
+Valor Agregado (EV): R$ 579453.99
+Estimativa para conclusão: R$ 5359779.39
+Estimativa no término (EAC): R$ 6157566.35
+Variação no término (VAC): R$ -1685161.35
+
+Detalhamento por categoria:
+- Pessoal: R$ 407985.00 (51.1%)
+- Equipamentos: R$ 101081.18 (12.7%)
+- Software: R$ 93264.96 (11.7%)
+- Serviços: R$ 148118.77 (18.6%)
+- Outros: R$ 47337.06 (5.9%)

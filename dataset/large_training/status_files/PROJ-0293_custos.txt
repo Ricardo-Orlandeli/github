@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A segurança de inovar sem preocupação (PROJ-0293)
+Data: 14/07/2025
+Gerente: Sr. José Sales
+
+Orçamento inicial: R$ 2302936.00
+Custo real atual: R$ 1704028.68
+Desvio orçamentário: -26.01%
+Índice de Desempenho de Custo (CPI): 0.85
+Valor Agregado (EV): R$ 1454997.30
+Estimativa para conclusão: R$ 993068.41
+Estimativa no término (EAC): R$ 2697097.09
+Variação no término (VAC): R$ -394161.09
+
+Detalhamento por categoria:
+- Pessoal: R$ 815868.79 (47.9%)
+- Equipamentos: R$ 287630.84 (16.9%)
+- Software: R$ 167339.46 (9.8%)
+- Serviços: R$ 296332.10 (17.4%)
+- Outros: R$ 136857.48 (8.0%)

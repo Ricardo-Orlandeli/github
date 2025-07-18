@@ -1,0 +1,25 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A possibilidade de conseguir com toda a tranquilidade (PROJ-0752)
+Data: 14/07/2025
+Gerente: Nina Fonseca
+
+Status atual: Concluído
+Percentual de conclusão: 100.0%
+Data de início: 15/11/2024
+Data de término planejada: 02/10/2025
+Data de término real/prevista: 15/10/2025
+Atraso atual: 0 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.05
+Valor Planejado (PV): R$ 999637.97
+Valor Agregado (EV): R$ 1331468.00
+
+Tarefas críticas:
+- Desenvolvimento da interface do usuário
+- Implementação do módulo de notificações
+- Configuração da infraestrutura
+- Migração de dados legados
+- Implementação do módulo de exportação de dados
+- Implementação do módulo de análise de dados
+
+Tarefas atrasadas:

@@ -1,0 +1,19 @@
+RELATÓRIO DE STATUS DE RISCOS
+Projeto: A arte de inovar antes de tudo (PROJ-0418)
+Data: 14/07/2025
+Gerente: Luiz Gustavo Andrade
+
+Riscos identificados:
+- R01: Problemas de desempenho
+  Probabilidade: 2/5, Impacto: 4/5, Nível: Médio
+  Mitigação: Contratar pessoal adicional
+
+- R02: Mudanças regulatórias
+  Probabilidade: 2/5, Impacto: 3/5, Nível: Baixo
+  Mitigação: Fortalecer medidas de segurança
+
+- R03: Rotatividade de pessoal-chave
+  Probabilidade: 2/5, Impacto: 5/5, Nível: Médio
+  Mitigação: Otimizar código e infraestrutura
+
+Riscos ocorridos:

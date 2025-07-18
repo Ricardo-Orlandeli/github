@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O direito de realizar seus sonhos sem preocupação (PROJ-0003)
+Data: 14/07/2025
+Gerente: Eduarda Marques
+
+Orçamento inicial: R$ 1816889.00
+Custo real atual: R$ 1951200.43
+Desvio orçamentário: 7.39%
+Índice de Desempenho de Custo (CPI): 0.93
+Valor Agregado (EV): R$ 1815072.11
+Estimativa para conclusão: R$ 1953.15
+Estimativa no término (EAC): R$ 1953153.59
+Variação no término (VAC): R$ -136264.59
+
+Detalhamento por categoria:
+- Pessoal: R$ 1025065.00 (52.5%)
+- Equipamentos: R$ 255942.36 (13.1%)
+- Software: R$ 288067.64 (14.8%)
+- Serviços: R$ 214962.34 (11.0%)
+- Outros: R$ 167163.10 (8.6%)

@@ -1,0 +1,26 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A simplicidade de inovar naturalmente (PROJ-0005)
+Data: 14/07/2025
+Gerente: Hadassa Guerra
+
+Status atual: Em andamento
+Percentual de conclusão: 99.9%
+Data de início: 25/07/2024
+Data de término planejada: 10/11/2024
+Data de término real/prevista: 01/12/2024
+Atraso atual: 246 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 0.99
+Valor Planejado (PV): R$ 4022518.00
+Valor Agregado (EV): R$ 4018495.48
+
+Tarefas críticas:
+- Testes de aceitação do usuário
+- Implementação do sistema de backup
+- Testes de aceitação do usuário
+- Migração de dados legados
+- Implementação do sistema de backup
+- Implementação do módulo de notificações
+- Desenvolvimento da interface do usuário
+
+Tarefas atrasadas:

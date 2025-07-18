@@ -1,0 +1,26 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: O conforto de concretizar seus projetos com toda a tranquilidade (PROJ-0125)
+Data: 14/07/2025
+Gerente: Carolina Marques
+
+Status atual: Em andamento
+Percentual de conclusão: 83.0%
+Data de início: 23/06/2024
+Data de término planejada: 22/06/2025
+Data de término real/prevista: 01/07/2025
+Atraso atual: 22 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 0.91
+Valor Planejado (PV): R$ 1946611.00
+Valor Agregado (EV): R$ 1615875.25
+
+Tarefas críticas:
+- Configuração da infraestrutura
+- Configuração da infraestrutura
+- Desenvolvimento da interface do usuário
+- Desenvolvimento do módulo de autenticação
+- Integração com sistema de pagamentos
+- Testes de segurança
+- Implementação da API REST
+
+Tarefas atrasadas:

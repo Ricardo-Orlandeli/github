@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE ESCOPO
+Projeto: O conforto de avançar com força total (PROJ-0421)
+Data: 14/07/2025
+Gerente: João Pedro Pires
+
+Escopo original: Sistema para o conforto de avançar com força total
+Houve mudança de escopo: Não
+Descrição das mudanças: N/A
+Impacto no cronograma: 0 dias
+Impacto no custo: R$ 0.00
+
+Solicitações de mudança:
+
+Requisitos atuais:
+- REQ-01: O sistema deve ser compatível com navegadores modernos
+- REQ-02: O sistema deve ter documentação completa
+- REQ-03: O sistema deve permitir autenticação de usuários
+- REQ-04: O sistema deve permitir autenticação de usuários
+- REQ-05: O sistema deve passar por testes de segurança
+- REQ-06: O sistema deve implementar criptografia de dados sensíveis

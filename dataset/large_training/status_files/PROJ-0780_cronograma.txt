@@ -1,0 +1,23 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: O prazer de atingir seus objetivos mais facilmente (PROJ-0780)
+Data: 14/07/2025
+Gerente: Bárbara Mendonça
+
+Status atual: Em andamento
+Percentual de conclusão: 84.0%
+Data de início: 10/02/2024
+Data de término planejada: 06/11/2024
+Data de término real/prevista: 04/12/2024
+Atraso atual: 250 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.09
+Valor Planejado (PV): R$ 3971169.00
+Valor Agregado (EV): R$ 3336412.39
+
+Tarefas críticas:
+- Implementação do módulo de notificações
+- Testes de aceitação do usuário
+- Migração de dados legados
+- Implementação do módulo de análise de dados
+
+Tarefas atrasadas:

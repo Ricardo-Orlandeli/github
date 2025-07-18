@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A certeza de atingir seus objetivos com força total (PROJ-0541)
+Data: 14/07/2025
+Gerente: Sr. Yuri Correia
+
+Orçamento inicial: R$ 2879958.00
+Custo real atual: R$ 2698473.11
+Desvio orçamentário: -6.30%
+Índice de Desempenho de Custo (CPI): 1.05
+Valor Agregado (EV): R$ 2844504.76
+Estimativa para conclusão: R$ 33633.14
+Estimativa no término (EAC): R$ 2732106.25
+Variação no término (VAC): R$ 147851.75
+
+Detalhamento por categoria:
+- Pessoal: R$ 1400830.10 (51.9%)
+- Equipamentos: R$ 429202.90 (15.9%)
+- Software: R$ 219066.97 (8.1%)
+- Serviços: R$ 447887.24 (16.6%)
+- Outros: R$ 201485.89 (7.5%)

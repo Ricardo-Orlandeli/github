@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A simplicidade de realizar seus sonhos em estado puro (PROJ-0085)
+Data: 14/07/2025
+Gerente: Clara Araújo
+
+Orçamento inicial: R$ 3415116.00
+Custo real atual: R$ 687705.82
+Desvio orçamentário: 1.69%
+Índice de Desempenho de Custo (CPI): 0.90
+Valor Agregado (EV): R$ 622206.62
+Estimativa para conclusão: R$ 3086916.70
+Estimativa no término (EAC): R$ 3774622.52
+Variação no término (VAC): R$ -359506.52
+
+Detalhamento por categoria:
+- Pessoal: R$ 332721.30 (48.4%)
+- Equipamentos: R$ 94295.91 (13.7%)
+- Software: R$ 84546.81 (12.3%)
+- Serviços: R$ 129665.26 (18.9%)
+- Outros: R$ 46476.54 (6.8%)

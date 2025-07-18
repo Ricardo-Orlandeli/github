@@ -1,0 +1,24 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: O poder de concretizar seus projetos de maneira eficaz (PROJ-0187)
+Data: 14/07/2025
+Gerente: Dra. Maria Julia Nascimento
+
+Status atual: Em andamento
+Percentual de conclusão: 99.9%
+Data de início: 12/02/2024
+Data de término planejada: 30/08/2024
+Data de término real/prevista: 25/09/2024
+Atraso atual: 318 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.13
+Valor Planejado (PV): R$ 2971619.00
+Valor Agregado (EV): R$ 2968647.38
+
+Tarefas críticas:
+- Implementação da API REST
+- Implementação do módulo de análise de dados
+- Implementação do módulo de análise de dados
+- Implementação do módulo de notificações
+- Desenvolvimento do painel administrativo
+
+Tarefas atrasadas:

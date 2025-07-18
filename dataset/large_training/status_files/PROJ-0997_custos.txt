@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A liberdade de realizar seus sonhos de maneira eficaz (PROJ-0997)
+Data: 14/07/2025
+Gerente: Sr. Benjamim Albuquerque
+
+Orçamento inicial: R$ 4428833.00
+Custo real atual: R$ 4034851.98
+Desvio orçamentário: -8.90%
+Índice de Desempenho de Custo (CPI): 0.79
+Valor Agregado (EV): R$ 3204802.53
+Estimativa para conclusão: R$ 1541056.50
+Estimativa no término (EAC): R$ 5575908.48
+Variação no término (VAC): R$ -1147075.48
+
+Detalhamento por categoria:
+- Pessoal: R$ 2241027.63 (55.5%)
+- Equipamentos: R$ 583534.63 (14.5%)
+- Software: R$ 278749.22 (6.9%)
+- Serviços: R$ 673894.29 (16.7%)
+- Outros: R$ 257646.21 (6.4%)

@@ -1,0 +1,26 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A certeza de inovar sem preocupação (PROJ-0173)
+Data: 14/07/2025
+Gerente: Sra. Isadora Camargo
+
+Status atual: Atrasado
+Percentual de conclusão: 85.7%
+Data de início: 12/07/2024
+Data de término planejada: 19/01/2025
+Data de término real/prevista: 29/03/2025
+Atraso atual: 176 dias
+Motivo do atraso: Mudanças de requisitos não planejadas
+Índice de Desempenho de Cronograma (SPI): 0.86
+Valor Planejado (PV): R$ 4045688.00
+Valor Agregado (EV): R$ 3468214.14
+
+Tarefas críticas:
+- Implementação do módulo de notificações
+- Testes de aceitação do usuário
+- Implementação do sistema de backup
+- Implementação do módulo de análise de dados
+
+Tarefas atrasadas:
+- Implementação do sistema de backup
+- Testes de aceitação do usuário
+- Implementação do módulo de análise de dados

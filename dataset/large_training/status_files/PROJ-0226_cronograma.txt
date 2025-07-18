@@ -1,0 +1,25 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A vantagem de concretizar seus projetos direto da fonte (PROJ-0226)
+Data: 14/07/2025
+Gerente: Murilo Nogueira
+
+Status atual: Cancelado
+Percentual de conclusão: 87.9%
+Data de início: 08/03/2025
+Data de término planejada: 25/11/2025
+Data de término real/prevista: 24/10/2025
+Atraso atual: 0 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.80
+Valor Planejado (PV): R$ 1782207.02
+Valor Agregado (EV): R$ 3207796.12
+
+Tarefas críticas:
+- Desenvolvimento do painel administrativo
+- Testes de segurança
+- Migração de dados legados
+- Desenvolvimento do módulo de autenticação
+- Testes de aceitação do usuário
+- Desenvolvimento da interface do usuário
+
+Tarefas atrasadas:

@@ -1,0 +1,27 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: O conforto de ganhar simplesmente (PROJ-0589)
+Data: 14/07/2025
+Gerente: Camila da Cruz
+
+Status atual: Em andamento
+Percentual de conclusão: 97.3%
+Data de início: 05/12/2023
+Data de término planejada: 15/05/2024
+Data de término real/prevista: 20/05/2024
+Atraso atual: 425 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.15
+Valor Planejado (PV): R$ 4569388.00
+Valor Agregado (EV): R$ 4445297.73
+
+Tarefas críticas:
+- Implementação do módulo de análise de dados
+- Implementação do módulo de exportação de dados
+- Implementação do módulo de análise de dados
+- Desenvolvimento do módulo de autenticação
+- Integração com sistema de pagamentos
+- Implementação do módulo de análise de dados
+- Desenvolvimento do painel administrativo
+- Desenvolvimento do módulo de autenticação
+
+Tarefas atrasadas:

@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O poder de avançar direto da fonte (PROJ-0425)
+Data: 14/07/2025
+Gerente: Miguel Ferreira
+
+Orçamento inicial: R$ 1031513.00
+Custo real atual: R$ 982759.07
+Desvio orçamentário: -4.73%
+Índice de Desempenho de Custo (CPI): 1.05
+Valor Agregado (EV): R$ 1031513.00
+Estimativa para conclusão: R$ 0.00
+Estimativa no término (EAC): R$ 982759.07
+Variação no término (VAC): R$ 48753.93
+
+Detalhamento por categoria:
+- Pessoal: R$ 406149.25 (41.3%)
+- Equipamentos: R$ 197631.36 (20.1%)
+- Software: R$ 146788.17 (14.9%)
+- Serviços: R$ 151764.58 (15.4%)
+- Outros: R$ 80425.71 (8.2%)

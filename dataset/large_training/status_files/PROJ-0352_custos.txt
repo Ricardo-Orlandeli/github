@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A segurança de inovar mais facilmente (PROJ-0352)
+Data: 14/07/2025
+Gerente: Sr. Otávio da Cunha
+
+Orçamento inicial: R$ 2432138.00
+Custo real atual: R$ 2809076.44
+Desvio orçamentário: 15.50%
+Índice de Desempenho de Custo (CPI): 0.86
+Valor Agregado (EV): R$ 2429705.86
+Estimativa para conclusão: R$ 2811.89
+Estimativa no término (EAC): R$ 2811888.32
+Variação no término (VAC): R$ -379750.32
+
+Detalhamento por categoria:
+- Pessoal: R$ 1433183.67 (51.0%)
+- Equipamentos: R$ 451839.84 (16.1%)
+- Software: R$ 213040.65 (7.6%)
+- Serviços: R$ 474146.44 (16.9%)
+- Outros: R$ 236865.84 (8.4%)

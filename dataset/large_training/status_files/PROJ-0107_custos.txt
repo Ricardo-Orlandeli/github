@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O prazer de inovar direto da fonte (PROJ-0107)
+Data: 14/07/2025
+Gerente: Lorena Sales
+
+Orçamento inicial: R$ 2135006.00
+Custo real atual: R$ 1883914.97
+Desvio orçamentário: -11.76%
+Índice de Desempenho de Custo (CPI): 1.13
+Valor Agregado (EV): R$ 2132870.99
+Estimativa para conclusão: R$ 1885.80
+Estimativa no término (EAC): R$ 1885800.77
+Variação no término (VAC): R$ 249205.23
+
+Detalhamento por categoria:
+- Pessoal: R$ 918585.29 (48.8%)
+- Equipamentos: R$ 269854.93 (14.3%)
+- Software: R$ 277044.53 (14.7%)
+- Serviços: R$ 237375.13 (12.6%)
+- Outros: R$ 181055.10 (9.6%)

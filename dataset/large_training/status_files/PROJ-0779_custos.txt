@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A segurança de inovar com força total (PROJ-0779)
+Data: 14/07/2025
+Gerente: Eloá Cassiano
+
+Orçamento inicial: R$ 4870329.00
+Custo real atual: R$ 5722193.81
+Desvio orçamentário: 17.49%
+Índice de Desempenho de Custo (CPI): 0.85
+Valor Agregado (EV): R$ 4865458.67
+Estimativa para conclusão: R$ 5727.92
+Estimativa no término (EAC): R$ 5727921.73
+Variação no término (VAC): R$ -857592.73
+
+Detalhamento por categoria:
+- Pessoal: R$ 2741029.75 (47.9%)
+- Equipamentos: R$ 893396.64 (15.6%)
+- Software: R$ 550449.32 (9.6%)
+- Serviços: R$ 1111264.30 (19.4%)
+- Outros: R$ 426053.79 (7.4%)

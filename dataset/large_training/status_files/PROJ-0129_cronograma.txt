@@ -1,0 +1,26 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A segurança de evoluir em estado puro (PROJ-0129)
+Data: 14/07/2025
+Gerente: Larissa Sampaio
+
+Status atual: Atrasado
+Percentual de conclusão: 55.4%
+Data de início: 15/02/2024
+Data de término planejada: 17/01/2025
+Data de término real/prevista: 18/05/2025
+Atraso atual: 178 dias
+Motivo do atraso: Dependências externas não cumpridas
+Índice de Desempenho de Cronograma (SPI): 0.55
+Valor Planejado (PV): R$ 1678417.00
+Valor Agregado (EV): R$ 930516.40
+
+Tarefas críticas:
+- Desenvolvimento do módulo de autenticação
+- Migração de dados legados
+- Implementação do módulo de notificações
+- Testes de aceitação do usuário
+- Implementação da API REST
+
+Tarefas atrasadas:
+- Implementação do módulo de notificações
+- Testes de aceitação do usuário

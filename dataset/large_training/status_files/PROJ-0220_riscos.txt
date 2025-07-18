@@ -1,0 +1,31 @@
+RELATÓRIO DE STATUS DE RISCOS
+Projeto: A vantagem de mudar naturalmente (PROJ-0220)
+Data: 14/07/2025
+Gerente: Thales Cunha
+
+Riscos identificados:
+- R01: Problemas de integração com sistemas legados
+  Probabilidade: 4/5, Impacto: 5/5, Nível: Alto
+  Mitigação: Fortalecer medidas de segurança
+
+- R02: Atraso na entrega de componentes críticos
+  Probabilidade: 2/5, Impacto: 4/5, Nível: Médio
+  Mitigação: Buscar fornecedores alternativos
+
+- R03: Requisitos mal definidos
+  Probabilidade: 2/5, Impacto: 2/5, Nível: Baixo
+  Mitigação: Comunicar benefícios da mudança
+
+Riscos ocorridos:
+- R02 (ocorrido em 11/04/2025)
+  Impacto real: Indisponibilidade temporária
+  Ações tomadas: Realocação de recursos
+
+- R03 (ocorrido em 06/02/2025)
+  Impacto real: Perda de recursos-chave
+  Ações tomadas: Revisão de processos
+
+- R01 (ocorrido em 01/06/2025)
+  Impacto real: Indisponibilidade temporária
+  Ações tomadas: Implementação de controles adicionais
+

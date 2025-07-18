@@ -1,0 +1,31 @@
+RELATÓRIO DE STATUS DE RISCOS
+Projeto: O poder de inovar naturalmente (PROJ-0940)
+Data: 14/07/2025
+Gerente: Liz Almeida
+
+Riscos identificados:
+- R01: Problemas de integração com sistemas legados
+  Probabilidade: 4/5, Impacto: 5/5, Nível: Alto
+  Mitigação: Implementar redundância de infraestrutura
+
+- R02: Falhas em testes de aceitação
+  Probabilidade: 1/5, Impacto: 2/5, Nível: Baixo
+  Mitigação: Estabelecer canais de comunicação claros
+
+- R03: Resistência dos usuários à mudança
+  Probabilidade: 4/5, Impacto: 2/5, Nível: Médio
+  Mitigação: Fortalecer medidas de segurança
+
+- R04: Mudanças regulatórias
+  Probabilidade: 3/5, Impacto: 5/5, Nível: Médio
+  Mitigação: Fortalecer medidas de segurança
+
+Riscos ocorridos:
+- R03 (ocorrido em 24/02/2024)
+  Impacto real: Falhas de segurança
+  Ações tomadas: Comunicação intensificada com stakeholders
+
+- R02 (ocorrido em 03/03/2024)
+  Impacto real: Insatisfação dos stakeholders
+  Ações tomadas: Revisão do orçamento
+

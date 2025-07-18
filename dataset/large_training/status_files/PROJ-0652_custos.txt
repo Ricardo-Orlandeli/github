@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O conforto de atingir seus objetivos antes de tudo (PROJ-0652)
+Data: 14/07/2025
+Gerente: Luan Cardoso
+
+Orçamento inicial: R$ 3809154.00
+Custo real atual: R$ 3006251.22
+Desvio orçamentário: -21.08%
+Índice de Desempenho de Custo (CPI): 1.10
+Valor Agregado (EV): R$ 3293070.16
+Estimativa para conclusão: R$ 471134.11
+Estimativa no término (EAC): R$ 3477385.33
+Variação no término (VAC): R$ 331768.67
+
+Detalhamento por categoria:
+- Pessoal: R$ 1573250.33 (52.3%)
+- Equipamentos: R$ 376598.80 (12.5%)
+- Software: R$ 320386.45 (10.7%)
+- Serviços: R$ 542400.70 (18.0%)
+- Outros: R$ 193614.94 (6.4%)

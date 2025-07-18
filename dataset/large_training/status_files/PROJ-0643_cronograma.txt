@@ -1,0 +1,26 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A arte de mudar com confiança (PROJ-0643)
+Data: 14/07/2025
+Gerente: Srta. Luísa Barbosa
+
+Status atual: Cancelado
+Percentual de conclusão: 71.2%
+Data de início: 27/06/2025
+Data de término planejada: 07/01/2026
+Data de término real/prevista: 12/11/2025
+Atraso atual: 0 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 8.13
+Valor Planejado (PV): R$ 118489.74
+Valor Agregado (EV): R$ 963044.53
+
+Tarefas críticas:
+- Implementação do módulo de notificações
+- Implementação do módulo de notificações
+- Configuração da infraestrutura
+- Integração com sistema de pagamentos
+- Testes de segurança
+- Implementação do sistema de backup
+- Configuração do ambiente de produção
+
+Tarefas atrasadas:

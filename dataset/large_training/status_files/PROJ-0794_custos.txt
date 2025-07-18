@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A vantagem de realizar seus sonhos em estado puro (PROJ-0794)
+Data: 14/07/2025
+Gerente: Isis Ramos
+
+Orçamento inicial: R$ 1606682.00
+Custo real atual: R$ 1421459.92
+Desvio orçamentário: -11.53%
+Índice de Desempenho de Custo (CPI): 0.94
+Valor Agregado (EV): R$ 1338088.27
+Estimativa para conclusão: R$ 285328.88
+Estimativa no término (EAC): R$ 1706788.80
+Variação no término (VAC): R$ -100106.80
+
+Detalhamento por categoria:
+- Pessoal: R$ 789632.68 (55.6%)
+- Equipamentos: R$ 158375.15 (11.1%)
+- Software: R$ 115246.96 (8.1%)
+- Serviços: R$ 225311.88 (15.9%)
+- Outros: R$ 132893.26 (9.3%)

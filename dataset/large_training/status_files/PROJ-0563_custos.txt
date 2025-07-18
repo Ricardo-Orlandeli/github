@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A simplicidade de evoluir de maneira eficaz (PROJ-0563)
+Data: 14/07/2025
+Gerente: Maria Julia da Cunha
+
+Orçamento inicial: R$ 1055750.00
+Custo real atual: R$ 345892.80
+Desvio orçamentário: -34.19%
+Índice de Desempenho de Custo (CPI): 0.99
+Valor Agregado (EV): R$ 341521.09
+Estimativa para conclusão: R$ 723371.55
+Estimativa no término (EAC): R$ 1069264.36
+Variação no término (VAC): R$ -13514.36
+
+Detalhamento por categoria:
+- Pessoal: R$ 186598.93 (53.9%)
+- Equipamentos: R$ 44631.96 (12.9%)
+- Software: R$ 50239.48 (14.5%)
+- Serviços: R$ 41004.40 (11.9%)
+- Outros: R$ 23418.02 (6.8%)

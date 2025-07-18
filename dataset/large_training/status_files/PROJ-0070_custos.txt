@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O direito de conseguir naturalmente (PROJ-0070)
+Data: 14/07/2025
+Gerente: Srta. Maria Helena Moreira
+
+Orçamento inicial: R$ 4002418.00
+Custo real atual: R$ 4054594.15
+Desvio orçamentário: 35.25%
+Índice de Desempenho de Custo (CPI): 0.99
+Valor Agregado (EV): R$ 4002418.00
+Estimativa para conclusão: R$ 0.00
+Estimativa no término (EAC): R$ 4054594.15
+Variação no término (VAC): R$ -52176.15
+
+Detalhamento por categoria:
+- Pessoal: R$ 2147540.63 (53.0%)
+- Equipamentos: R$ 804677.90 (19.8%)
+- Software: R$ 252503.94 (6.2%)
+- Serviços: R$ 538502.74 (13.3%)
+- Outros: R$ 311368.93 (7.7%)

@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A segurança de conseguir antes de tudo (PROJ-0017)
+Data: 14/07/2025
+Gerente: Maria Flor Marques
+
+Orçamento inicial: R$ 1344168.00
+Custo real atual: R$ 1157733.57
+Desvio orçamentário: 3.48%
+Índice de Desempenho de Custo (CPI): 1.06
+Valor Agregado (EV): R$ 1226048.91
+Estimativa para conclusão: R$ 111537.51
+Estimativa no término (EAC): R$ 1269271.08
+Variação no término (VAC): R$ 74896.92
+
+Detalhamento por categoria:
+- Pessoal: R$ 665599.31 (57.5%)
+- Equipamentos: R$ 163375.50 (14.1%)
+- Software: R$ 142637.22 (12.3%)
+- Serviços: R$ 124643.97 (10.8%)
+- Outros: R$ 61477.58 (5.3%)

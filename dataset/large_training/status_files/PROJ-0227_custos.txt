@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A simplicidade de mudar simplesmente (PROJ-0227)
+Data: 14/07/2025
+Gerente: Cecília Aragão
+
+Orçamento inicial: R$ 1144570.00
+Custo real atual: R$ 978799.16
+Desvio orçamentário: -14.48%
+Índice de Desempenho de Custo (CPI): 1.17
+Valor Agregado (EV): R$ 1143425.43
+Estimativa para conclusão: R$ 979.78
+Estimativa no término (EAC): R$ 979778.94
+Variação no término (VAC): R$ 164791.06
+
+Detalhamento por categoria:
+- Pessoal: R$ 531968.56 (54.3%)
+- Equipamentos: R$ 148370.95 (15.2%)
+- Software: R$ 51082.85 (5.2%)
+- Serviços: R$ 167543.91 (17.1%)
+- Outros: R$ 79832.90 (8.2%)

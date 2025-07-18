@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A arte de realizar seus sonhos antes de tudo (PROJ-0377)
+Data: 14/07/2025
+Gerente: Igor Porto
+
+Orçamento inicial: R$ 310187.00
+Custo real atual: R$ 254935.95
+Desvio orçamentário: -17.81%
+Índice de Desempenho de Custo (CPI): 0.98
+Valor Agregado (EV): R$ 249473.40
+Estimativa para conclusão: R$ 62043.00
+Estimativa no término (EAC): R$ 316978.95
+Variação no término (VAC): R$ -6791.95
+
+Detalhamento por categoria:
+- Pessoal: R$ 146650.30 (57.5%)
+- Equipamentos: R$ 41944.95 (16.5%)
+- Software: R$ 18829.94 (7.4%)
+- Serviços: R$ 30818.55 (12.1%)
+- Outros: R$ 16692.22 (6.5%)

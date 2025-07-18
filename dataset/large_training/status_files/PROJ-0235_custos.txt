@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O conforto de avançar antes de tudo (PROJ-0235)
+Data: 14/07/2025
+Gerente: Dr. Enrico Carvalho
+
+Orçamento inicial: R$ 2413283.00
+Custo real atual: R$ 2460606.13
+Desvio orçamentário: 1.96%
+Índice de Desempenho de Custo (CPI): 0.98
+Valor Agregado (EV): R$ 2413283.00
+Estimativa para conclusão: R$ 0.00
+Estimativa no término (EAC): R$ 2460606.13
+Variação no término (VAC): R$ -47323.13
+
+Detalhamento por categoria:
+- Pessoal: R$ 1273967.60 (51.8%)
+- Equipamentos: R$ 424792.79 (17.3%)
+- Software: R$ 230239.41 (9.4%)
+- Serviços: R$ 334858.94 (13.6%)
+- Outros: R$ 196747.40 (8.0%)

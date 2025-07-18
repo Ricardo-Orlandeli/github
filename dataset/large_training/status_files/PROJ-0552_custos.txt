@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A arte de atingir seus objetivos de maneira eficaz (PROJ-0552)
+Data: 14/07/2025
+Gerente: Dra. Valentina Montenegro
+
+Orçamento inicial: R$ 162428.00
+Custo real atual: R$ 124693.98
+Desvio orçamentário: -23.23%
+Índice de Desempenho de Custo (CPI): 1.07
+Valor Agregado (EV): R$ 132976.90
+Estimativa para conclusão: R$ 27616.64
+Estimativa no término (EAC): R$ 152310.62
+Variação no término (VAC): R$ 10117.38
+
+Detalhamento por categoria:
+- Pessoal: R$ 65834.70 (52.8%)
+- Equipamentos: R$ 16720.44 (13.4%)
+- Software: R$ 14884.86 (11.9%)
+- Serviços: R$ 17361.38 (13.9%)
+- Outros: R$ 9892.59 (7.9%)

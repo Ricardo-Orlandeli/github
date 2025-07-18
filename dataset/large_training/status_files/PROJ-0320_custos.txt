@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A certeza de atingir seus objetivos naturalmente (PROJ-0320)
+Data: 14/07/2025
+Gerente: Dra. Clarice da Costa
+
+Orçamento inicial: R$ 4843986.00
+Custo real atual: R$ 4390326.20
+Desvio orçamentário: -9.37%
+Índice de Desempenho de Custo (CPI): 1.10
+Valor Agregado (EV): R$ 4839142.01
+Estimativa para conclusão: R$ 4394.72
+Estimativa no término (EAC): R$ 4394720.92
+Variação no término (VAC): R$ 449265.08
+
+Detalhamento por categoria:
+- Pessoal: R$ 2158706.57 (49.2%)
+- Equipamentos: R$ 583983.10 (13.3%)
+- Software: R$ 494814.60 (11.3%)
+- Serviços: R$ 726825.47 (16.6%)
+- Outros: R$ 425996.45 (9.7%)

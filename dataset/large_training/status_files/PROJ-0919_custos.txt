@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A segurança de conseguir direto da fonte (PROJ-0919)
+Data: 14/07/2025
+Gerente: Rafaela Albuquerque
+
+Orçamento inicial: R$ 4743254.00
+Custo real atual: R$ 5335011.67
+Desvio orçamentário: 12.48%
+Índice de Desempenho de Custo (CPI): 0.89
+Valor Agregado (EV): R$ 4738510.75
+Estimativa para conclusão: R$ 5340.35
+Estimativa no término (EAC): R$ 5340352.02
+Variação no término (VAC): R$ -597098.02
+
+Detalhamento por categoria:
+- Pessoal: R$ 2644084.86 (49.6%)
+- Equipamentos: R$ 829085.99 (15.5%)
+- Software: R$ 480146.22 (9.0%)
+- Serviços: R$ 903859.10 (16.9%)
+- Outros: R$ 477835.49 (9.0%)

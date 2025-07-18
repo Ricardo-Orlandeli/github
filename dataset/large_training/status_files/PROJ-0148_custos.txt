@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O conforto de concretizar seus projetos de maneira eficaz (PROJ-0148)
+Data: 14/07/2025
+Gerente: Ana Sophia Costa
+
+Orçamento inicial: R$ 1540480.00
+Custo real atual: R$ 1587763.89
+Desvio orçamentário: 3.07%
+Índice de Desempenho de Custo (CPI): 0.77
+Valor Agregado (EV): R$ 1224819.91
+Estimativa para conclusão: R$ 409197.86
+Estimativa no término (EAC): R$ 1996961.75
+Variação no término (VAC): R$ -456481.75
+
+Detalhamento por categoria:
+- Pessoal: R$ 709580.90 (44.7%)
+- Equipamentos: R$ 296631.98 (18.7%)
+- Software: R$ 222793.93 (14.0%)
+- Serviços: R$ 268624.73 (16.9%)
+- Outros: R$ 90132.35 (5.7%)

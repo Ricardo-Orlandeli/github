@@ -1,0 +1,35 @@
+RELATÓRIO DE STATUS DE RISCOS
+Projeto: A simplicidade de mudar direto da fonte (PROJ-0869)
+Data: 14/07/2025
+Gerente: Ravi Ramos
+
+Riscos identificados:
+- R01: Rotatividade de pessoal-chave
+  Probabilidade: 1/5, Impacto: 2/5, Nível: Baixo
+  Mitigação: Implementar plano de contingência
+
+- R02: Problemas de desempenho
+  Probabilidade: 3/5, Impacto: 3/5, Nível: Médio
+  Mitigação: Gerenciar dependências ativamente
+
+- R03: Mudanças regulatórias
+  Probabilidade: 3/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Otimizar código e infraestrutura
+
+- R04: Falhas de segurança
+  Probabilidade: 2/5, Impacto: 3/5, Nível: Baixo
+  Mitigação: Fortalecer medidas de segurança
+
+- R05: Rotatividade de pessoal-chave
+  Probabilidade: 2/5, Impacto: 4/5, Nível: Médio
+  Mitigação: Gerenciar dependências ativamente
+
+Riscos ocorridos:
+- R04 (ocorrido em 01/03/2025)
+  Impacto real: Aumento de 10% nos custos
+  Ações tomadas: Comunicação intensificada com stakeholders
+
+- R02 (ocorrido em 11/12/2023)
+  Impacto real: Redução de funcionalidades
+  Ações tomadas: Implementação de controles adicionais
+

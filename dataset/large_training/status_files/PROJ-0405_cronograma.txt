@@ -1,0 +1,27 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A segurança de avançar com força total (PROJ-0405)
+Data: 14/07/2025
+Gerente: Ana Júlia Camargo
+
+Status atual: Cancelado
+Percentual de conclusão: 33.7%
+Data de início: 16/02/2024
+Data de término planejada: 06/09/2024
+Data de término real/prevista: 24/04/2024
+Atraso atual: 311 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 0.34
+Valor Planejado (PV): R$ 2837153.00
+Valor Agregado (EV): R$ 957357.38
+
+Tarefas críticas:
+- Testes de segurança
+- Configuração do ambiente de produção
+- Implementação do módulo de relatórios
+- Desenvolvimento do painel administrativo
+- Migração de dados legados
+- Implementação do módulo de notificações
+- Implementação do módulo de exportação de dados
+- Desenvolvimento do módulo de autenticação
+
+Tarefas atrasadas:

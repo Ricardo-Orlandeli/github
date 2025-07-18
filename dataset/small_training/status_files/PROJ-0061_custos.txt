@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O poder de inovar mais facilmente (PROJ-0061)
+Data: 14/07/2025
+Gerente: Ravi Aragão
+
+Orçamento inicial: R$ 3249577.00
+Custo real atual: R$ 3481906.27
+Desvio orçamentário: 7.15%
+Índice de Desempenho de Custo (CPI): 0.91
+Valor Agregado (EV): R$ 3155205.76
+Estimativa para conclusão: R$ 104142.75
+Estimativa no término (EAC): R$ 3586049.02
+Variação no término (VAC): R$ -336472.02
+
+Detalhamento por categoria:
+- Pessoal: R$ 1890626.72 (54.3%)
+- Equipamentos: R$ 419914.85 (12.1%)
+- Software: R$ 446815.04 (12.8%)
+- Serviços: R$ 457977.14 (13.2%)
+- Outros: R$ 266572.51 (7.7%)

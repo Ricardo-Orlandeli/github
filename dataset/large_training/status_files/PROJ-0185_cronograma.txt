@@ -1,0 +1,22 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: O poder de concretizar seus projetos direto da fonte (PROJ-0185)
+Data: 14/07/2025
+Gerente: Eloah Sousa
+
+Status atual: Em andamento
+Percentual de conclusão: 9.3%
+Data de início: 08/07/2025
+Data de término planejada: 06/09/2025
+Data de término real/prevista: 13/09/2025
+Atraso atual: 0 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 0.98
+Valor Planejado (PV): R$ 15314.00
+Valor Agregado (EV): R$ 14209.49
+
+Tarefas críticas:
+- Desenvolvimento da interface do usuário
+- Testes de aceitação do usuário
+- Desenvolvimento da interface do usuário
+
+Tarefas atrasadas:

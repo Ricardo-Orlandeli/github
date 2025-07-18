@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A segurança de atingir seus objetivos sem preocupação (PROJ-0908)
+Data: 14/07/2025
+Gerente: Cecilia Fernandes
+
+Orçamento inicial: R$ 4703403.00
+Custo real atual: R$ 4246024.13
+Desvio orçamentário: -9.72%
+Índice de Desempenho de Custo (CPI): 1.10
+Valor Agregado (EV): R$ 4690300.26
+Estimativa para conclusão: R$ 11861.62
+Estimativa no término (EAC): R$ 4257885.75
+Variação no término (VAC): R$ 445517.25
+
+Detalhamento por categoria:
+- Pessoal: R$ 2189088.76 (51.6%)
+- Equipamentos: R$ 633569.93 (14.9%)
+- Software: R$ 457964.56 (10.8%)
+- Serviços: R$ 717463.79 (16.9%)
+- Outros: R$ 247937.09 (5.8%)

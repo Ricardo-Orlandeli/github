@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A liberdade de conseguir em estado puro (PROJ-0717)
+Data: 14/07/2025
+Gerente: Theo Fernandes
+
+Orçamento inicial: R$ 790557.00
+Custo real atual: R$ 853926.91
+Desvio orçamentário: 8.02%
+Índice de Desempenho de Custo (CPI): 0.93
+Valor Agregado (EV): R$ 790557.00
+Estimativa para conclusão: R$ 0.00
+Estimativa no término (EAC): R$ 853926.91
+Variação no término (VAC): R$ -63369.91
+
+Detalhamento por categoria:
+- Pessoal: R$ 442346.99 (51.8%)
+- Equipamentos: R$ 101387.42 (11.9%)
+- Software: R$ 76899.22 (9.0%)
+- Serviços: R$ 154943.17 (18.1%)
+- Outros: R$ 78350.11 (9.2%)

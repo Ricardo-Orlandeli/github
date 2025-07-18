@@ -1,0 +1,23 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A arte de ganhar com força total (PROJ-0758)
+Data: 14/07/2025
+Gerente: Nicolas da Mata
+
+Status atual: Cancelado
+Percentual de conclusão: 78.0%
+Data de início: 09/08/2023
+Data de término planejada: 10/05/2024
+Data de término real/prevista: 10/03/2024
+Atraso atual: 430 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 0.78
+Valor Planejado (PV): R$ 1616072.00
+Valor Agregado (EV): R$ 1260081.79
+
+Tarefas críticas:
+- Migração de dados legados
+- Testes de segurança
+- Implementação do módulo de relatórios
+- Implementação do módulo de notificações
+
+Tarefas atrasadas:

@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A possibilidade de evoluir mais rapidamente (PROJ-0995)
+Data: 14/07/2025
+Gerente: Bernardo Aragão
+
+Orçamento inicial: R$ 923082.00
+Custo real atual: R$ 635079.33
+Desvio orçamentário: -31.20%
+Índice de Desempenho de Custo (CPI): 0.96
+Valor Agregado (EV): R$ 609487.28
+Estimativa para conclusão: R$ 326762.39
+Estimativa no término (EAC): R$ 961841.73
+Variação no término (VAC): R$ -38759.73
+
+Detalhamento por categoria:
+- Pessoal: R$ 303806.93 (47.8%)
+- Equipamentos: R$ 110542.42 (17.4%)
+- Software: R$ 74655.48 (11.8%)
+- Serviços: R$ 106163.97 (16.7%)
+- Outros: R$ 39910.53 (6.3%)

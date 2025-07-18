@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O poder de concretizar seus projetos sem preocupação (PROJ-0463)
+Data: 14/07/2025
+Gerente: Sr. Apollo Castro
+
+Orçamento inicial: R$ 1324100.00
+Custo real atual: R$ 1250203.24
+Desvio orçamentário: -0.42%
+Índice de Desempenho de Custo (CPI): 1.06
+Valor Agregado (EV): R$ 1324100.00
+Estimativa para conclusão: R$ 0.00
+Estimativa no término (EAC): R$ 1250203.24
+Variação no término (VAC): R$ 73896.76
+
+Detalhamento por categoria:
+- Pessoal: R$ 666069.80 (53.3%)
+- Equipamentos: R$ 212097.73 (17.0%)
+- Software: R$ 102044.21 (8.2%)
+- Serviços: R$ 161288.22 (12.9%)
+- Outros: R$ 108703.28 (8.7%)

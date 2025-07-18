@@ -1,0 +1,24 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A liberdade de concretizar seus projetos com toda a tranquilidade (PROJ-0104)
+Data: 14/07/2025
+Gerente: Vitória Aparecida
+
+Status atual: Concluído
+Percentual de conclusão: 100.0%
+Data de início: 08/06/2025
+Data de término planejada: 12/09/2025
+Data de término real/prevista: 24/08/2025
+Atraso atual: 0 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.07
+Valor Planejado (PV): R$ 1338203.25
+Valor Agregado (EV): R$ 3568542.00
+
+Tarefas críticas:
+- Implementação do módulo de relatórios
+- Desenvolvimento da interface do usuário
+- Implementação do módulo de análise de dados
+- Implementação do módulo de análise de dados
+- Testes de aceitação do usuário
+
+Tarefas atrasadas:

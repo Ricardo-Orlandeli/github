@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A segurança de evoluir direto da fonte (PROJ-0795)
+Data: 14/07/2025
+Gerente: Miguel Teixeira
+
+Orçamento inicial: R$ 2329992.00
+Custo real atual: R$ 321586.28
+Desvio orçamentário: 10.42%
+Índice de Desempenho de Custo (CPI): 0.87
+Valor Agregado (EV): R$ 279503.68
+Estimativa para conclusão: R$ 2359213.68
+Estimativa no término (EAC): R$ 2680799.97
+Variação no término (VAC): R$ -350807.97
+
+Detalhamento por categoria:
+- Pessoal: R$ 165241.26 (51.4%)
+- Equipamentos: R$ 39118.20 (12.2%)
+- Software: R$ 22639.19 (7.0%)
+- Serviços: R$ 70875.11 (22.0%)
+- Outros: R$ 23712.53 (7.4%)

@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A certeza de ganhar mais rapidamente (PROJ-0894)
+Data: 14/07/2025
+Gerente: Elisa Brito
+
+Orçamento inicial: R$ 2542085.00
+Custo real atual: R$ 1552742.10
+Desvio orçamentário: -38.92%
+Índice de Desempenho de Custo (CPI): 0.99
+Valor Agregado (EV): R$ 1531692.31
+Estimativa para conclusão: R$ 1024278.34
+Estimativa no término (EAC): R$ 2577020.44
+Variação no término (VAC): R$ -34935.44
+
+Detalhamento por categoria:
+- Pessoal: R$ 802770.15 (51.7%)
+- Equipamentos: R$ 240716.43 (15.5%)
+- Software: R$ 206033.34 (13.3%)
+- Serviços: R$ 214729.73 (13.8%)
+- Outros: R$ 88492.44 (5.7%)

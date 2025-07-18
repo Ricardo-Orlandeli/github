@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O direito de evoluir mais facilmente (PROJ-0445)
+Data: 14/07/2025
+Gerente: Juliana Fernandes
+
+Orçamento inicial: R$ 3581087.00
+Custo real atual: R$ 1612152.09
+Desvio orçamentário: -8.58%
+Índice de Desempenho de Custo (CPI): 1.01
+Valor Agregado (EV): R$ 1624726.62
+Estimativa para conclusão: R$ 1941219.18
+Estimativa no término (EAC): R$ 3553371.27
+Variação no término (VAC): R$ 27715.73
+
+Detalhamento por categoria:
+- Pessoal: R$ 779455.63 (48.3%)
+- Equipamentos: R$ 242980.78 (15.1%)
+- Software: R$ 141386.61 (8.8%)
+- Serviços: R$ 277051.93 (17.2%)
+- Outros: R$ 171277.14 (10.6%)

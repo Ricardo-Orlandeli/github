@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A vantagem de ganhar com toda a tranquilidade (PROJ-0058)
+Data: 14/07/2025
+Gerente: Maria Liz Brito
+
+Orçamento inicial: R$ 4102557.00
+Custo real atual: R$ 1375320.77
+Desvio orçamentário: -13.12%
+Índice de Desempenho de Custo (CPI): 0.80
+Valor Agregado (EV): R$ 1103474.66
+Estimativa para conclusão: R$ 3737920.23
+Estimativa no término (EAC): R$ 5113241.01
+Variação no término (VAC): R$ -1010684.01
+
+Detalhamento por categoria:
+- Pessoal: R$ 620508.21 (45.1%)
+- Equipamentos: R$ 205070.72 (14.9%)
+- Software: R$ 190361.78 (13.8%)
+- Serviços: R$ 244929.69 (17.8%)
+- Outros: R$ 114450.38 (8.3%)

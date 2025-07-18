@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A certeza de avançar antes de tudo (PROJ-0122)
+Data: 14/07/2025
+Gerente: Maria Cecília Barros
+
+Orçamento inicial: R$ 3678834.00
+Custo real atual: R$ 3581775.05
+Desvio orçamentário: -2.64%
+Índice de Desempenho de Custo (CPI): 1.03
+Valor Agregado (EV): R$ 3675155.17
+Estimativa para conclusão: R$ 3585.36
+Estimativa no término (EAC): R$ 3585360.41
+Variação no término (VAC): R$ 93473.59
+
+Detalhamento por categoria:
+- Pessoal: R$ 1837629.13 (51.3%)
+- Equipamentos: R$ 635956.46 (17.8%)
+- Software: R$ 411663.79 (11.5%)
+- Serviços: R$ 509281.36 (14.2%)
+- Outros: R$ 187244.30 (5.2%)

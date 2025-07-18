@@ -1,0 +1,27 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: O direito de mudar com toda a tranquilidade (PROJ-0033)
+Data: 14/07/2025
+Gerente: Rebeca Rocha
+
+Status atual: Em andamento
+Percentual de conclusão: 87.4%
+Data de início: 23/07/2023
+Data de término planejada: 15/10/2023
+Data de término real/prevista: 03/10/2023
+Atraso atual: 638 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.05
+Valor Planejado (PV): R$ 2187175.00
+Valor Agregado (EV): R$ 1910515.08
+
+Tarefas críticas:
+- Implementação do módulo de exportação de dados
+- Configuração do ambiente de produção
+- Migração de dados legados
+- Implementação do módulo de relatórios
+- Implementação do módulo de análise de dados
+- Implementação do módulo de relatórios
+- Desenvolvimento do módulo de autenticação
+- Testes de segurança
+
+Tarefas atrasadas:

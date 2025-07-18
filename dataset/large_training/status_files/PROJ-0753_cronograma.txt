@@ -1,0 +1,22 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: O poder de realizar seus sonhos em estado puro (PROJ-0753)
+Data: 14/07/2025
+Gerente: Isadora Correia
+
+Status atual: Concluído
+Percentual de conclusão: 100.0%
+Data de início: 10/06/2025
+Data de término planejada: 14/01/2026
+Data de término real/prevista: 30/12/2025
+Atraso atual: 0 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.03
+Valor Planejado (PV): R$ 64794.33
+Valor Agregado (EV): R$ 415446.00
+
+Tarefas críticas:
+- Desenvolvimento da interface do usuário
+- Desenvolvimento do painel administrativo
+- Testes de segurança
+
+Tarefas atrasadas:

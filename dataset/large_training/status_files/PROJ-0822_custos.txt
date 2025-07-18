@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O poder de evoluir em estado puro (PROJ-0822)
+Data: 14/07/2025
+Gerente: Nicolas Borges
+
+Orçamento inicial: R$ 433535.00
+Custo real atual: R$ 462787.66
+Desvio orçamentário: 6.75%
+Índice de Desempenho de Custo (CPI): 0.94
+Valor Agregado (EV): R$ 433101.47
+Estimativa para conclusão: R$ 463.25
+Estimativa no término (EAC): R$ 463250.91
+Variação no término (VAC): R$ -29715.91
+
+Detalhamento por categoria:
+- Pessoal: R$ 242650.47 (52.4%)
+- Equipamentos: R$ 63508.97 (13.7%)
+- Software: R$ 48528.96 (10.5%)
+- Serviços: R$ 63373.94 (13.7%)
+- Outros: R$ 44725.33 (9.7%)

@@ -1,0 +1,19 @@
+RELATÓRIO DE STATUS DE RISCOS
+Projeto: A liberdade de concretizar seus projetos em estado puro (PROJ-0357)
+Data: 14/07/2025
+Gerente: Matteo Rios
+
+Riscos identificados:
+- R01: Falhas de infraestrutura
+  Probabilidade: 2/5, Impacto: 5/5, Nível: Médio
+  Mitigação: Testar compatibilidade em diferentes ambientes
+
+- R02: Atraso na entrega de componentes críticos
+  Probabilidade: 1/5, Impacto: 4/5, Nível: Baixo
+  Mitigação: Comunicar benefícios da mudança
+
+- R03: Atraso na entrega de componentes críticos
+  Probabilidade: 5/5, Impacto: 5/5, Nível: Alto
+  Mitigação: Realizar testes de aceitação com usuários-chave
+
+Riscos ocorridos:

@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A segurança de atingir seus objetivos com força total (PROJ-0193)
+Data: 14/07/2025
+Gerente: Pedro Henrique Pacheco
+
+Orçamento inicial: R$ 1492095.00
+Custo real atual: R$ 1239611.49
+Desvio orçamentário: 34.51%
+Índice de Desempenho de Custo (CPI): 1.20
+Valor Agregado (EV): R$ 1492095.00
+Estimativa para conclusão: R$ 0.00
+Estimativa no término (EAC): R$ 1239611.49
+Variação no término (VAC): R$ 252483.51
+
+Detalhamento por categoria:
+- Pessoal: R$ 575238.90 (46.4%)
+- Equipamentos: R$ 219241.80 (17.7%)
+- Software: R$ 186977.86 (15.1%)
+- Serviços: R$ 142135.93 (11.5%)
+- Outros: R$ 116017.00 (9.4%)

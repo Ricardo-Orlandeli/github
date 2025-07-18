@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A simplicidade de ganhar com toda a tranquilidade (PROJ-0641)
+Data: 14/07/2025
+Gerente: Arthur Fernandes
+
+Orçamento inicial: R$ 1552577.00
+Custo real atual: R$ 1155435.23
+Desvio orçamentário: -25.58%
+Índice de Desempenho de Custo (CPI): 0.70
+Valor Agregado (EV): R$ 805068.48
+Estimativa para conclusão: R$ 1072825.10
+Estimativa no término (EAC): R$ 2228260.33
+Variação no término (VAC): R$ -675683.33
+
+Detalhamento por categoria:
+- Pessoal: R$ 605136.08 (52.4%)
+- Equipamentos: R$ 155566.27 (13.5%)
+- Software: R$ 77595.96 (6.7%)
+- Serviços: R$ 226176.38 (19.6%)
+- Outros: R$ 90960.53 (7.9%)

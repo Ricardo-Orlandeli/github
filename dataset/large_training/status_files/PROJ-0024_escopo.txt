@@ -1,0 +1,23 @@
+RELATÓRIO DE STATUS DE ESCOPO
+Projeto: O poder de mudar mais facilmente (PROJ-0024)
+Data: 14/07/2025
+Gerente: Isaac Sousa
+
+Escopo original: Sistema para o poder de mudar mais facilmente
+Houve mudança de escopo: Sim
+Descrição das mudanças: Alteração nas especificações técnicas
+Impacto no cronograma: 58 dias
+Impacto no custo: R$ 173871.62
+
+Solicitações de mudança:
+- SCM-01: Mudança na arquitetura do sistema
+- SCM-02: Alteração nos requisitos de desempenho
+- SCM-03: Adição de funcionalidade de autenticação biométrica
+
+Requisitos atuais:
+- REQ-01: O sistema deve permitir autenticação de usuários
+- REQ-02: O sistema deve ter controle de acesso baseado em perfis
+- REQ-03: O sistema deve permitir autenticação de usuários
+- REQ-04: O sistema deve ter documentação completa
+- REQ-05: O sistema deve processar transações em menos de 2 seconds
+- REQ-06: O sistema deve ter documentação completa

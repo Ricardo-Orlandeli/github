@@ -1,0 +1,25 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A vantagem de mudar antes de tudo (PROJ-0257)
+Data: 14/07/2025
+Gerente: Leandro Rezende
+
+Status atual: Em andamento
+Percentual de conclusão: 99.9%
+Data de início: 11/06/2024
+Data de término planejada: 08/10/2024
+Data de término real/prevista: 25/10/2024
+Atraso atual: 279 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 0.98
+Valor Planejado (PV): R$ 3551583.00
+Valor Agregado (EV): R$ 3548031.42
+
+Tarefas críticas:
+- Implementação do módulo de análise de dados
+- Testes de segurança
+- Implementação do sistema de backup
+- Testes de aceitação do usuário
+- Configuração da infraestrutura
+- Migração de dados legados
+
+Tarefas atrasadas:

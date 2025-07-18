@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A vantagem de avançar mais facilmente (PROJ-0066)
+Data: 14/07/2025
+Gerente: Dra. Aylla Gonçalves
+
+Orçamento inicial: R$ 1823027.00
+Custo real atual: R$ 1839634.42
+Desvio orçamentário: 0.91%
+Índice de Desempenho de Custo (CPI): 0.91
+Valor Agregado (EV): R$ 1665075.22
+Estimativa para conclusão: R$ 174510.75
+Estimativa no término (EAC): R$ 2014145.17
+Variação no término (VAC): R$ -191118.17
+
+Detalhamento por categoria:
+- Pessoal: R$ 882030.93 (47.9%)
+- Equipamentos: R$ 342189.10 (18.6%)
+- Software: R$ 201087.68 (10.9%)
+- Serviços: R$ 308990.82 (16.8%)
+- Outros: R$ 105335.89 (5.7%)

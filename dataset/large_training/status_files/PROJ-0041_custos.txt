@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A segurança de evoluir sem preocupação (PROJ-0041)
+Data: 14/07/2025
+Gerente: Catarina Duarte
+
+Orçamento inicial: R$ 3891056.00
+Custo real atual: R$ 3476223.50
+Desvio orçamentário: -10.66%
+Índice de Desempenho de Custo (CPI): 1.12
+Valor Agregado (EV): R$ 3887164.94
+Estimativa para conclusão: R$ 3479.70
+Estimativa no término (EAC): R$ 3479703.20
+Variação no término (VAC): R$ 411352.80
+
+Detalhamento por categoria:
+- Pessoal: R$ 1753370.59 (50.4%)
+- Equipamentos: R$ 461740.18 (13.3%)
+- Software: R$ 462485.18 (13.3%)
+- Serviços: R$ 526394.26 (15.1%)
+- Outros: R$ 272233.29 (7.8%)

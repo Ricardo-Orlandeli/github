@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A segurança de atingir seus objetivos com força total (PROJ-0646)
+Data: 14/07/2025
+Gerente: Luísa Sampaio
+
+Orçamento inicial: R$ 3735441.00
+Custo real atual: R$ 2823087.50
+Desvio orçamentário: -24.42%
+Índice de Desempenho de Custo (CPI): 1.16
+Valor Agregado (EV): R$ 3287519.31
+Estimativa para conclusão: R$ 384643.26
+Estimativa no término (EAC): R$ 3207730.76
+Variação no término (VAC): R$ 527710.24
+
+Detalhamento por categoria:
+- Pessoal: R$ 1444328.00 (51.2%)
+- Equipamentos: R$ 430069.53 (15.2%)
+- Software: R$ 304585.41 (10.8%)
+- Serviços: R$ 423258.24 (15.0%)
+- Outros: R$ 220846.31 (7.8%)

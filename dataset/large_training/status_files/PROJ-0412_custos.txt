@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O conforto de atingir seus objetivos com força total (PROJ-0412)
+Data: 14/07/2025
+Gerente: Emilly Pinto
+
+Orçamento inicial: R$ 867107.00
+Custo real atual: R$ 326532.37
+Desvio orçamentário: -10.26%
+Índice de Desempenho de Custo (CPI): 0.70
+Valor Agregado (EV): R$ 227351.11
+Estimativa para conclusão: R$ 918847.52
+Estimativa no término (EAC): R$ 1245379.89
+Variação no término (VAC): R$ -378272.89
+
+Detalhamento por categoria:
+- Pessoal: R$ 151986.34 (46.5%)
+- Equipamentos: R$ 73290.53 (22.4%)
+- Software: R$ 31669.69 (9.7%)
+- Serviços: R$ 38764.81 (11.9%)
+- Outros: R$ 30821.00 (9.4%)

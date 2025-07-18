@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O direito de avançar com confiança (PROJ-0338)
+Data: 14/07/2025
+Gerente: Amanda Ferreira
+
+Orçamento inicial: R$ 784140.00
+Custo real atual: R$ 836019.86
+Desvio orçamentário: 6.62%
+Índice de Desempenho de Custo (CPI): 0.94
+Valor Agregado (EV): R$ 784140.00
+Estimativa para conclusão: R$ 0.00
+Estimativa no término (EAC): R$ 836019.86
+Variação no término (VAC): R$ -51879.86
+
+Detalhamento por categoria:
+- Pessoal: R$ 396865.68 (47.5%)
+- Equipamentos: R$ 168782.46 (20.2%)
+- Software: R$ 99890.73 (11.9%)
+- Serviços: R$ 112807.16 (13.5%)
+- Outros: R$ 57673.82 (6.9%)

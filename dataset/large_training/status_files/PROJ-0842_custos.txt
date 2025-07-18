@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A liberdade de ganhar mais rapidamente (PROJ-0842)
+Data: 14/07/2025
+Gerente: Dr. Gael da Rosa
+
+Orçamento inicial: R$ 114919.00
+Custo real atual: R$ 124297.97
+Desvio orçamentário: 8.16%
+Índice de Desempenho de Custo (CPI): 0.92
+Valor Agregado (EV): R$ 114804.08
+Estimativa para conclusão: R$ 124.42
+Estimativa no término (EAC): R$ 124422.39
+Variação no término (VAC): R$ -9503.39
+
+Detalhamento por categoria:
+- Pessoal: R$ 63795.56 (51.3%)
+- Equipamentos: R$ 17816.04 (14.3%)
+- Software: R$ 16599.85 (13.4%)
+- Serviços: R$ 15188.06 (12.2%)
+- Outros: R$ 10898.45 (8.8%)

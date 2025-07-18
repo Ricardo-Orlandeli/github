@@ -1,0 +1,23 @@
+RELATÓRIO DE STATUS DE ESCOPO
+Projeto: O prazer de avançar sem preocupação (PROJ-0028)
+Data: 14/07/2025
+Gerente: Sophie Casa Grande
+
+Escopo original: Sistema para o prazer de avançar sem preocupação
+Houve mudança de escopo: Sim
+Descrição das mudanças: Redução do escopo devido a restrições orçamentárias
+Impacto no cronograma: 49 dias
+Impacto no custo: R$ 48046.11
+
+Solicitações de mudança:
+- SCM-01: Alteração nos requisitos de desempenho
+- SCM-02: Alteração nos requisitos de desempenho
+- SCM-03: Implementação de módulo de exportação de dados
+- SCM-04: Adição de funcionalidade de autenticação biométrica
+
+Requisitos atuais:
+- REQ-01: O sistema deve ser escalável para suportar até 10.000 usuários simultâneos
+- REQ-02: O sistema deve implementar criptografia de dados sensíveis
+- REQ-03: O sistema deve permitir exportação de dados em formato CSV
+- REQ-04: O sistema deve registrar logs de auditoria
+- REQ-05: O sistema deve passar por testes de segurança

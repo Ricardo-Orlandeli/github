@@ -1,0 +1,27 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: O poder de evoluir direto da fonte (PROJ-0231)
+Data: 14/07/2025
+Gerente: Lucca Sousa
+
+Status atual: Em andamento
+Percentual de conclusão: 85.4%
+Data de início: 22/10/2023
+Data de término planejada: 03/05/2024
+Data de término real/prevista: 14/05/2024
+Atraso atual: 437 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 0.95
+Valor Planejado (PV): R$ 593468.00
+Valor Agregado (EV): R$ 506623.37
+
+Tarefas críticas:
+- Implementação do módulo de exportação de dados
+- Implementação da API REST
+- Implementação do sistema de backup
+- Configuração do ambiente de produção
+- Implementação do módulo de exportação de dados
+- Migração de dados legados
+- Desenvolvimento do módulo de autenticação
+- Implementação do sistema de backup
+
+Tarefas atrasadas:

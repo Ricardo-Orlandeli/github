@@ -1,0 +1,27 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: O prazer de inovar com confiança (PROJ-0749)
+Data: 14/07/2025
+Gerente: Hadassa Cunha
+
+Status atual: Concluído
+Percentual de conclusão: 100.0%
+Data de início: 06/10/2024
+Data de término planejada: 22/01/2025
+Data de término real/prevista: 17/02/2025
+Atraso atual: 173 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 0.97
+Valor Planejado (PV): R$ 380208.00
+Valor Agregado (EV): R$ 380208.00
+
+Tarefas críticas:
+- Implementação do módulo de exportação de dados
+- Implementação do módulo de relatórios
+- Configuração do ambiente de produção
+- Implementação do sistema de backup
+- Desenvolvimento do painel administrativo
+- Desenvolvimento do módulo de autenticação
+- Desenvolvimento do módulo de autenticação
+- Implementação do sistema de backup
+
+Tarefas atrasadas:

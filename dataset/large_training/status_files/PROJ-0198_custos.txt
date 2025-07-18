@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O conforto de avançar com confiança (PROJ-0198)
+Data: 14/07/2025
+Gerente: Kevin Albuquerque
+
+Orçamento inicial: R$ 3643067.00
+Custo real atual: R$ 3810162.05
+Desvio orçamentário: 4.59%
+Índice de Desempenho de Custo (CPI): 0.70
+Valor Agregado (EV): R$ 2669554.86
+Estimativa para conclusão: R$ 1389459.74
+Estimativa no término (EAC): R$ 5199621.79
+Variação no término (VAC): R$ -1556554.79
+
+Detalhamento por categoria:
+- Pessoal: R$ 2107746.69 (55.3%)
+- Equipamentos: R$ 707193.24 (18.6%)
+- Software: R$ 330726.71 (8.7%)
+- Serviços: R$ 461284.22 (12.1%)
+- Outros: R$ 203211.19 (5.3%)

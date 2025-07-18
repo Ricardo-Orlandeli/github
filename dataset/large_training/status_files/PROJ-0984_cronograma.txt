@@ -1,0 +1,27 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A possibilidade de mudar mais facilmente (PROJ-0984)
+Data: 14/07/2025
+Gerente: Theodoro Ramos
+
+Status atual: Concluído
+Percentual de conclusão: 100.0%
+Data de início: 21/08/2024
+Data de término planejada: 16/07/2025
+Data de término real/prevista: 09/07/2025
+Atraso atual: 0 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 0.98
+Valor Planejado (PV): R$ 1739917.30
+Valor Agregado (EV): R$ 1750559.00
+
+Tarefas críticas:
+- Implementação do módulo de notificações
+- Desenvolvimento do painel administrativo
+- Testes de aceitação do usuário
+- Implementação da API REST
+- Integração com sistema de pagamentos
+- Migração de dados legados
+- Desenvolvimento do painel administrativo
+- Configuração da infraestrutura
+
+Tarefas atrasadas:

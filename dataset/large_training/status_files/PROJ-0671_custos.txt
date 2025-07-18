@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O poder de realizar seus sonhos com toda a tranquilidade (PROJ-0671)
+Data: 14/07/2025
+Gerente: Julia Caldeira
+
+Orçamento inicial: R$ 1059876.00
+Custo real atual: R$ 907197.85
+Desvio orçamentário: 33.28%
+Índice de Desempenho de Custo (CPI): 1.17
+Valor Agregado (EV): R$ 1059876.00
+Estimativa para conclusão: R$ 0.00
+Estimativa no término (EAC): R$ 907197.85
+Variação no término (VAC): R$ 152678.15
+
+Detalhamento por categoria:
+- Pessoal: R$ 507389.62 (55.9%)
+- Equipamentos: R$ 146899.76 (16.2%)
+- Software: R$ 53996.81 (6.0%)
+- Serviços: R$ 117649.34 (13.0%)
+- Outros: R$ 81262.32 (9.0%)

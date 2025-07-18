@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O direito de mudar com força total (PROJ-0031)
+Data: 14/07/2025
+Gerente: Breno Rios
+
+Orçamento inicial: R$ 2241967.00
+Custo real atual: R$ 2274345.39
+Desvio orçamentário: 56.70%
+Índice de Desempenho de Custo (CPI): 0.99
+Valor Agregado (EV): R$ 2241967.00
+Estimativa para conclusão: R$ 0.00
+Estimativa no término (EAC): R$ 2274345.39
+Variação no término (VAC): R$ -32378.39
+
+Detalhamento por categoria:
+- Pessoal: R$ 1177144.53 (51.8%)
+- Equipamentos: R$ 448840.36 (19.7%)
+- Software: R$ 202236.12 (8.9%)
+- Serviços: R$ 271245.43 (11.9%)
+- Outros: R$ 174878.95 (7.7%)

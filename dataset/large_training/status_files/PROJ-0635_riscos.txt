@@ -1,0 +1,47 @@
+RELATÓRIO DE STATUS DE RISCOS
+Projeto: A liberdade de ganhar mais facilmente (PROJ-0635)
+Data: 14/07/2025
+Gerente: Sr. Vitor da Mata
+
+Riscos identificados:
+- R01: Requisitos mal definidos
+  Probabilidade: 5/5, Impacto: 3/5, Nível: Médio
+  Mitigação: Buscar fornecedores alternativos
+
+- R02: Falhas de infraestrutura
+  Probabilidade: 1/5, Impacto: 2/5, Nível: Baixo
+  Mitigação: Contratar pessoal adicional
+
+- R03: Estimativas imprecisas
+  Probabilidade: 5/5, Impacto: 5/5, Nível: Alto
+  Mitigação: Testar compatibilidade em diferentes ambientes
+
+- R04: Estimativas imprecisas
+  Probabilidade: 3/5, Impacto: 5/5, Nível: Médio
+  Mitigação: Fortalecer medidas de segurança
+
+- R05: Dependências externas não cumpridas
+  Probabilidade: 4/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Realizar testes de aceitação com usuários-chave
+
+- R06: Problemas de integração com sistemas legados
+  Probabilidade: 1/5, Impacto: 4/5, Nível: Baixo
+  Mitigação: Refinar estimativas com base em dados históricos
+
+- R07: Rotatividade de pessoal-chave
+  Probabilidade: 1/5, Impacto: 2/5, Nível: Baixo
+  Mitigação: Buscar fornecedores alternativos
+
+Riscos ocorridos:
+- R03 (ocorrido em 08/07/2025)
+  Impacto real: Insatisfação dos stakeholders
+  Ações tomadas: Revisão de processos
+
+- R04 (ocorrido em 30/06/2025)
+  Impacto real: Redução de funcionalidades
+  Ações tomadas: Comunicação intensificada com stakeholders
+
+- R02 (ocorrido em 02/07/2025)
+  Impacto real: Indisponibilidade temporária
+  Ações tomadas: Realocação de recursos
+

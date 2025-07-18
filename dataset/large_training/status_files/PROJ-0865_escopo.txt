@@ -1,0 +1,23 @@
+RELATÓRIO DE STATUS DE ESCOPO
+Projeto: A liberdade de evoluir de maneira eficaz (PROJ-0865)
+Data: 14/07/2025
+Gerente: Ísis da Conceição
+
+Escopo original: Sistema para a liberdade de evoluir de maneira eficaz
+Houve mudança de escopo: Sim
+Descrição das mudanças: Adição de novos requisitos de segurança
+Impacto no cronograma: 36 dias
+Impacto no custo: R$ 598374.96
+
+Solicitações de mudança:
+- SCM-01: Mudança na arquitetura do sistema
+- SCM-02: Integração com sistema legado
+- SCM-03: Alteração nos requisitos de desempenho
+- SCM-04: Mudança na arquitetura do sistema
+
+Requisitos atuais:
+- REQ-01: O sistema deve ter documentação completa
+- REQ-02: O sistema deve ter alta disponibilidade (99.9%)
+- REQ-03: O sistema deve ter documentação completa
+- REQ-04: O sistema deve passar por testes de segurança
+- REQ-05: O sistema deve ter documentação completa

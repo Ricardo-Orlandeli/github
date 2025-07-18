@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A vantagem de atingir seus objetivos com confiança (PROJ-0606)
+Data: 14/07/2025
+Gerente: Elisa Andrade
+
+Orçamento inicial: R$ 3965672.00
+Custo real atual: R$ 4274788.51
+Desvio orçamentário: 7.79%
+Índice de Desempenho de Custo (CPI): 0.91
+Valor Agregado (EV): R$ 3869463.53
+Estimativa para conclusão: R$ 106286.27
+Estimativa no término (EAC): R$ 4381074.78
+Variação no término (VAC): R$ -415402.78
+
+Detalhamento por categoria:
+- Pessoal: R$ 2111844.27 (49.4%)
+- Equipamentos: R$ 598819.37 (14.0%)
+- Software: R$ 501128.64 (11.7%)
+- Serviços: R$ 726918.01 (17.0%)
+- Outros: R$ 336078.22 (7.9%)

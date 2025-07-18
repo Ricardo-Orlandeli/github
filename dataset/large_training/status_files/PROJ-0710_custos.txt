@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O direito de ganhar direto da fonte (PROJ-0710)
+Data: 14/07/2025
+Gerente: Dom Gonçalves
+
+Orçamento inicial: R$ 1316402.00
+Custo real atual: R$ 1217174.13
+Desvio orçamentário: -7.54%
+Índice de Desempenho de Custo (CPI): 1.08
+Valor Agregado (EV): R$ 1315085.60
+Estimativa para conclusão: R$ 1218.39
+Estimativa no término (EAC): R$ 1218392.53
+Variação no término (VAC): R$ 98009.47
+
+Detalhamento por categoria:
+- Pessoal: R$ 620653.13 (51.0%)
+- Equipamentos: R$ 153334.13 (12.6%)
+- Software: R$ 95487.09 (7.8%)
+- Serviços: R$ 219213.47 (18.0%)
+- Outros: R$ 128486.30 (10.6%)

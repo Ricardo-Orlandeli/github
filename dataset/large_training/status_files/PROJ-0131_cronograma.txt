@@ -1,0 +1,22 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A possibilidade de avançar com força total (PROJ-0131)
+Data: 14/07/2025
+Gerente: Paulo Pacheco
+
+Status atual: Em andamento
+Percentual de conclusão: 81.8%
+Data de início: 12/02/2024
+Data de término planejada: 16/06/2024
+Data de término real/prevista: 16/06/2024
+Atraso atual: 393 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.09
+Valor Planejado (PV): R$ 2885594.00
+Valor Agregado (EV): R$ 2359584.53
+
+Tarefas críticas:
+- Configuração do ambiente de produção
+- Implementação do módulo de análise de dados
+- Integração com sistema de pagamentos
+
+Tarefas atrasadas:

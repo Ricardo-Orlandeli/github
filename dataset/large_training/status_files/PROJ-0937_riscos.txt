@@ -1,0 +1,23 @@
+RELATÓRIO DE STATUS DE RISCOS
+Projeto: A liberdade de mudar com força total (PROJ-0937)
+Data: 14/07/2025
+Gerente: Breno Carvalho
+
+Riscos identificados:
+- R01: Problemas de integração com sistemas legados
+  Probabilidade: 1/5, Impacto: 2/5, Nível: Baixo
+  Mitigação: Implementar plano de contingência
+
+- R02: Falhas de segurança
+  Probabilidade: 4/5, Impacto: 4/5, Nível: Alto
+  Mitigação: Fortalecer medidas de segurança
+
+- R03: Atraso na entrega de componentes críticos
+  Probabilidade: 4/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Estabelecer canais de comunicação claros
+
+Riscos ocorridos:
+- R01 (ocorrido em 02/08/2024)
+  Impacto real: Redução de funcionalidades
+  Ações tomadas: Contratação de recursos adicionais
+

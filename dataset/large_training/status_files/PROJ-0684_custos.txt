@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A vantagem de evoluir de maneira eficaz (PROJ-0684)
+Data: 14/07/2025
+Gerente: Davi Lucas Câmara
+
+Orçamento inicial: R$ 3056412.00
+Custo real atual: R$ 909212.23
+Desvio orçamentário: -13.08%
+Índice de Desempenho de Custo (CPI): 0.93
+Valor Agregado (EV): R$ 842606.13
+Estimativa para conclusão: R$ 2388802.19
+Estimativa no término (EAC): R$ 3298014.41
+Variação no término (VAC): R$ -241602.41
+
+Detalhamento por categoria:
+- Pessoal: R$ 479925.38 (52.8%)
+- Equipamentos: R$ 126511.67 (13.9%)
+- Software: R$ 123921.42 (13.6%)
+- Serviços: R$ 112484.80 (12.4%)
+- Outros: R$ 66368.97 (7.3%)

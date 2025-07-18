@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O conforto de ganhar com força total (PROJ-0492)
+Data: 14/07/2025
+Gerente: Isabella Martins
+
+Orçamento inicial: R$ 3914373.00
+Custo real atual: R$ 3109102.31
+Desvio orçamentário: -20.57%
+Índice de Desempenho de Custo (CPI): 0.74
+Valor Agregado (EV): R$ 2288513.47
+Estimativa para conclusão: R$ 2208841.54
+Estimativa no término (EAC): R$ 5317943.85
+Variação no término (VAC): R$ -1403570.85
+
+Detalhamento por categoria:
+- Pessoal: R$ 1439684.64 (46.3%)
+- Equipamentos: R$ 575217.07 (18.5%)
+- Software: R$ 349712.39 (11.2%)
+- Serviços: R$ 521038.96 (16.8%)
+- Outros: R$ 223449.24 (7.2%)

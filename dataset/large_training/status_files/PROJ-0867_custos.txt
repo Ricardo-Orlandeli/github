@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A arte de conseguir direto da fonte (PROJ-0867)
+Data: 14/07/2025
+Gerente: Cecilia Sousa
+
+Orçamento inicial: R$ 332485.00
+Custo real atual: R$ 202080.57
+Desvio orçamentário: 379.22%
+Índice de Desempenho de Custo (CPI): 0.97
+Valor Agregado (EV): R$ 196286.25
+Estimativa para conclusão: R$ 140219.30
+Estimativa no término (EAC): R$ 342299.88
+Variação no término (VAC): R$ -9814.88
+
+Detalhamento por categoria:
+- Pessoal: R$ 91640.67 (45.3%)
+- Equipamentos: R$ 40939.37 (20.3%)
+- Software: R$ 17912.75 (8.9%)
+- Serviços: R$ 33681.07 (16.7%)
+- Outros: R$ 17906.72 (8.9%)

@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A arte de ganhar direto da fonte (PROJ-0874)
+Data: 14/07/2025
+Gerente: Ravi Lucca da Cunha
+
+Orçamento inicial: R$ 4161659.00
+Custo real atual: R$ 3815728.60
+Desvio orçamentário: -8.31%
+Índice de Desempenho de Custo (CPI): 1.09
+Valor Agregado (EV): R$ 4157497.34
+Estimativa para conclusão: R$ 3819.55
+Estimativa no término (EAC): R$ 3819548.14
+Variação no término (VAC): R$ 342110.86
+
+Detalhamento por categoria:
+- Pessoal: R$ 2041414.49 (53.5%)
+- Equipamentos: R$ 549360.04 (14.4%)
+- Software: R$ 278486.99 (7.3%)
+- Serviços: R$ 626097.26 (16.4%)
+- Outros: R$ 320369.82 (8.4%)

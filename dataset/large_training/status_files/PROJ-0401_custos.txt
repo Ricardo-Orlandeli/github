@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O prazer de conseguir com toda a tranquilidade (PROJ-0401)
+Data: 14/07/2025
+Gerente: Srta. Isabelly Sampaio
+
+Orçamento inicial: R$ 4883997.00
+Custo real atual: R$ 341253.36
+Desvio orçamentário: -9.97%
+Índice de Desempenho de Custo (CPI): 1.08
+Valor Agregado (EV): R$ 368767.11
+Estimativa para conclusão: R$ 4178348.16
+Estimativa no término (EAC): R$ 4519601.53
+Variação no término (VAC): R$ 364395.47
+
+Detalhamento por categoria:
+- Pessoal: R$ 196237.20 (57.5%)
+- Equipamentos: R$ 61333.76 (18.0%)
+- Software: R$ 22518.17 (6.6%)
+- Serviços: R$ 36706.94 (10.8%)
+- Outros: R$ 24457.29 (7.2%)

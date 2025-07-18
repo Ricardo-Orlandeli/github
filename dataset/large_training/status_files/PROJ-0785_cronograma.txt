@@ -1,0 +1,25 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A vantagem de avançar com confiança (PROJ-0785)
+Data: 14/07/2025
+Gerente: Dr. Cauê da Cunha
+
+Status atual: Em andamento
+Percentual de conclusão: 82.0%
+Data de início: 21/08/2024
+Data de término planejada: 24/05/2025
+Data de término real/prevista: 23/06/2025
+Atraso atual: 51 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.04
+Valor Planejado (PV): R$ 3180247.00
+Valor Agregado (EV): R$ 2607756.31
+
+Tarefas críticas:
+- Implementação do módulo de relatórios
+- Configuração da infraestrutura
+- Implementação da API REST
+- Implementação da API REST
+- Testes de segurança
+- Implementação da API REST
+
+Tarefas atrasadas:

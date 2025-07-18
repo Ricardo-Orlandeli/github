@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A certeza de realizar seus sonhos sem preocupação (PROJ-0194)
+Data: 14/07/2025
+Gerente: Dr. Antônio Mendonça
+
+Orçamento inicial: R$ 3447433.00
+Custo real atual: R$ 4531462.88
+Desvio orçamentário: 31.44%
+Índice de Desempenho de Custo (CPI): 0.68
+Valor Agregado (EV): R$ 3067313.48
+Estimativa para conclusão: R$ 561565.52
+Estimativa no término (EAC): R$ 5093028.39
+Variação no término (VAC): R$ -1645595.39
+
+Detalhamento por categoria:
+- Pessoal: R$ 2301996.74 (50.8%)
+- Equipamentos: R$ 736575.01 (16.3%)
+- Software: R$ 492321.61 (10.9%)
+- Serviços: R$ 762726.47 (16.8%)
+- Outros: R$ 237843.05 (5.2%)

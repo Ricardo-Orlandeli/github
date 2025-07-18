@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A vantagem de evoluir mais facilmente (PROJ-0582)
+Data: 14/07/2025
+Gerente: Brenda Oliveira
+
+Orçamento inicial: R$ 781451.00
+Custo real atual: R$ 836911.87
+Desvio orçamentário: 7.10%
+Índice de Desempenho de Custo (CPI): 0.93
+Valor Agregado (EV): R$ 780669.55
+Estimativa para conclusão: R$ 837.75
+Estimativa no término (EAC): R$ 837749.62
+Variação no término (VAC): R$ -56298.62
+
+Detalhamento por categoria:
+- Pessoal: R$ 453559.08 (54.2%)
+- Equipamentos: R$ 156763.05 (18.7%)
+- Software: R$ 71724.70 (8.6%)
+- Serviços: R$ 103188.58 (12.3%)
+- Outros: R$ 51676.46 (6.2%)

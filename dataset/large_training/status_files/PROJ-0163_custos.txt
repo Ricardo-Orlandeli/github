@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O conforto de mudar simplesmente (PROJ-0163)
+Data: 14/07/2025
+Gerente: Srta. Luna Sampaio
+
+Orçamento inicial: R$ 2988556.00
+Custo real atual: R$ 2493367.52
+Desvio orçamentário: -16.57%
+Índice de Desempenho de Custo (CPI): 1.05
+Valor Agregado (EV): R$ 2614271.93
+Estimativa para conclusão: R$ 356974.24
+Estimativa no término (EAC): R$ 2850341.76
+Variação no término (VAC): R$ 138214.24
+
+Detalhamento por categoria:
+- Pessoal: R$ 1506942.74 (60.4%)
+- Equipamentos: R$ 295916.66 (11.9%)
+- Software: R$ 188407.75 (7.6%)
+- Serviços: R$ 346226.24 (13.9%)
+- Outros: R$ 155874.14 (6.3%)

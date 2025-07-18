@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A liberdade de atingir seus objetivos com força total (PROJ-0474)
+Data: 14/07/2025
+Gerente: Elisa Sousa
+
+Orçamento inicial: R$ 399232.00
+Custo real atual: R$ 433621.36
+Desvio orçamentário: 8.61%
+Índice de Desempenho de Custo (CPI): 0.84
+Valor Agregado (EV): R$ 365703.04
+Estimativa para conclusão: R$ 39755.95
+Estimativa no término (EAC): R$ 473377.32
+Variação no término (VAC): R$ -74145.32
+
+Detalhamento por categoria:
+- Pessoal: R$ 221993.95 (51.2%)
+- Equipamentos: R$ 84314.78 (19.4%)
+- Software: R$ 43742.47 (10.1%)
+- Serviços: R$ 54492.59 (12.6%)
+- Outros: R$ 29077.57 (6.7%)

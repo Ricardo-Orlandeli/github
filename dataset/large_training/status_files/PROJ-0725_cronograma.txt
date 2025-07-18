@@ -1,0 +1,24 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A vantagem de realizar seus sonhos em estado puro (PROJ-0725)
+Data: 14/07/2025
+Gerente: Sra. Ana Liz Vargas
+
+Status atual: Atrasado
+Percentual de conclusão: 8.0%
+Data de início: 01/06/2025
+Data de término planejada: 21/03/2026
+Data de término real/prevista: 10/07/2026
+Atraso atual: 0 dias
+Motivo do atraso: Problemas técnicos inesperados
+Índice de Desempenho de Cronograma (SPI): 0.55
+Valor Planejado (PV): R$ 351200.08
+Valor Agregado (EV): R$ 191675.04
+
+Tarefas críticas:
+- Desenvolvimento do módulo de autenticação
+- Implementação do módulo de análise de dados
+- Desenvolvimento da interface do usuário
+- Implementação da API REST
+
+Tarefas atrasadas:
+- Implementação da API REST

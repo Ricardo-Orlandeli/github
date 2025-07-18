@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O direito de realizar seus sonhos mais rapidamente (PROJ-0946)
+Data: 14/07/2025
+Gerente: Bianca Viana
+
+Orçamento inicial: R$ 3384655.00
+Custo real atual: R$ 101362.08
+Desvio orçamentário: -19.52%
+Índice de Desempenho de Custo (CPI): 0.90
+Valor Agregado (EV): R$ 91389.42
+Estimativa para conclusão: R$ 3652635.50
+Estimativa no término (EAC): R$ 3753997.58
+Variação no término (VAC): R$ -369342.58
+
+Detalhamento por categoria:
+- Pessoal: R$ 53702.86 (53.0%)
+- Equipamentos: R$ 12071.02 (11.9%)
+- Software: R$ 11464.42 (11.3%)
+- Serviços: R$ 12714.31 (12.5%)
+- Outros: R$ 11409.47 (11.3%)

@@ -1,0 +1,59 @@
+RELATÓRIO DE STATUS DE RISCOS
+Projeto: A arte de avançar simplesmente (PROJ-0778)
+Data: 14/07/2025
+Gerente: Luana Gomes
+
+Riscos identificados:
+- R01: Resistência dos usuários à mudança
+  Probabilidade: 1/5, Impacto: 3/5, Nível: Baixo
+  Mitigação: Implementar redundância de infraestrutura
+
+- R02: Resistência dos usuários à mudança
+  Probabilidade: 4/5, Impacto: 5/5, Nível: Alto
+  Mitigação: Fortalecer medidas de segurança
+
+- R03: Problemas de comunicação com stakeholders
+  Probabilidade: 3/5, Impacto: 5/5, Nível: Médio
+  Mitigação: Contratar pessoal adicional
+
+- R04: Falhas de segurança
+  Probabilidade: 2/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Realizar testes de integração antecipados
+
+- R05: Estimativas imprecisas
+  Probabilidade: 1/5, Impacto: 5/5, Nível: Baixo
+  Mitigação: Estabelecer canais de comunicação claros
+
+- R06: Requisitos mal definidos
+  Probabilidade: 5/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Testar compatibilidade em diferentes ambientes
+
+- R07: Falhas em testes de aceitação
+  Probabilidade: 5/5, Impacto: 2/5, Nível: Médio
+  Mitigação: Buscar fornecedores alternativos
+
+- R08: Indisponibilidade de recursos especializados
+  Probabilidade: 5/5, Impacto: 5/5, Nível: Alto
+  Mitigação: Buscar fornecedores alternativos
+
+- R09: Problemas de comunicação com stakeholders
+  Probabilidade: 2/5, Impacto: 2/5, Nível: Baixo
+  Mitigação: Estabelecer canais de comunicação claros
+
+- R10: Estimativas imprecisas
+  Probabilidade: 4/5, Impacto: 2/5, Nível: Médio
+  Mitigação: Otimizar código e infraestrutura
+
+Riscos ocorridos:
+- R06 (ocorrido em 31/03/2025)
+  Impacto real: Perda de recursos-chave
+  Ações tomadas: Revisão de prioridades
+
+- R02 (ocorrido em 27/04/2025)
+  Impacto real: Insatisfação dos stakeholders
+  Ações tomadas: Ajuste no cronograma
+
+- R05 (ocorrido em 08/05/2025)
+  Impacto real: Redução de funcionalidades
+  Ações tomadas: Revisão de prioridades
+

@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A simplicidade de inovar em estado puro (PROJ-0645)
+Data: 14/07/2025
+Gerente: Ana Julia da Cruz
+
+Orçamento inicial: R$ 3113115.00
+Custo real atual: R$ 2388866.20
+Desvio orçamentário: -23.26%
+Índice de Desempenho de Custo (CPI): 1.13
+Valor Agregado (EV): R$ 2705404.02
+Estimativa para conclusão: R$ 360007.96
+Estimativa no término (EAC): R$ 2748874.16
+Variação no término (VAC): R$ 364240.84
+
+Detalhamento por categoria:
+- Pessoal: R$ 1338160.09 (56.0%)
+- Equipamentos: R$ 345104.27 (14.4%)
+- Software: R$ 143383.82 (6.0%)
+- Serviços: R$ 307163.91 (12.9%)
+- Outros: R$ 255054.12 (10.7%)

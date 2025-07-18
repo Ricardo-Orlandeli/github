@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A certeza de mudar de maneira eficaz (PROJ-0109)
+Data: 14/07/2025
+Gerente: Elisa da Rosa
+
+Orçamento inicial: R$ 1183339.00
+Custo real atual: R$ 1125358.48
+Desvio orçamentário: -4.90%
+Índice de Desempenho de Custo (CPI): 1.05
+Valor Agregado (EV): R$ 1183339.00
+Estimativa para conclusão: R$ 0.00
+Estimativa no término (EAC): R$ 1125358.48
+Variação no término (VAC): R$ 57980.52
+
+Detalhamento por categoria:
+- Pessoal: R$ 505972.88 (45.0%)
+- Equipamentos: R$ 225986.72 (20.1%)
+- Software: R$ 159837.58 (14.2%)
+- Serviços: R$ 156921.10 (13.9%)
+- Outros: R$ 76640.20 (6.8%)

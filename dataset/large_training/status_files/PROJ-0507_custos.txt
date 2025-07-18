@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A liberdade de atingir seus objetivos com toda a tranquilidade (PROJ-0507)
+Data: 14/07/2025
+Gerente: Maria Clara Montenegro
+
+Orçamento inicial: R$ 1656641.00
+Custo real atual: R$ 1386509.29
+Desvio orçamentário: -16.31%
+Índice de Desempenho de Custo (CPI): 1.19
+Valor Agregado (EV): R$ 1654984.36
+Estimativa para conclusão: R$ 1387.90
+Estimativa no término (EAC): R$ 1387897.18
+Variação no término (VAC): R$ 268743.82
+
+Detalhamento por categoria:
+- Pessoal: R$ 659583.71 (47.6%)
+- Equipamentos: R$ 250749.10 (18.1%)
+- Software: R$ 153960.35 (11.1%)
+- Serviços: R$ 215525.16 (15.5%)
+- Outros: R$ 106690.96 (7.7%)

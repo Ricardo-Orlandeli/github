@@ -1,0 +1,24 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A possibilidade de avançar antes de tudo (PROJ-0329)
+Data: 14/07/2025
+Gerente: Ana Vitória Albuquerque
+
+Status atual: Em andamento
+Percentual de conclusão: 81.2%
+Data de início: 08/06/2024
+Data de término planejada: 30/12/2024
+Data de término real/prevista: 03/01/2025
+Atraso atual: 196 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.15
+Valor Planejado (PV): R$ 1232877.00
+Valor Agregado (EV): R$ 1000901.16
+
+Tarefas críticas:
+- Implementação do módulo de exportação de dados
+- Integração com sistema de pagamentos
+- Testes de segurança
+- Implementação do módulo de análise de dados
+- Configuração do ambiente de produção
+
+Tarefas atrasadas:

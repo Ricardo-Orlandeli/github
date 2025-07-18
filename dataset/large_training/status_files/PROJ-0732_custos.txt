@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A vantagem de concretizar seus projetos com confiança (PROJ-0732)
+Data: 14/07/2025
+Gerente: Esther Vargas
+
+Orçamento inicial: R$ 4364666.00
+Custo real atual: R$ 2624887.30
+Desvio orçamentário: -21.65%
+Índice de Desempenho de Custo (CPI): 1.11
+Valor Agregado (EV): R$ 2915720.96
+Estimativa para conclusão: R$ 1304417.50
+Estimativa no término (EAC): R$ 3929304.80
+Variação no término (VAC): R$ 435361.20
+
+Detalhamento por categoria:
+- Pessoal: R$ 1427174.93 (54.4%)
+- Equipamentos: R$ 479824.51 (18.3%)
+- Software: R$ 195488.41 (7.4%)
+- Serviços: R$ 276482.10 (10.5%)
+- Outros: R$ 245917.34 (9.4%)

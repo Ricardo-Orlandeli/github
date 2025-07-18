@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O poder de concretizar seus projetos de maneira eficaz (PROJ-0118)
+Data: 14/07/2025
+Gerente: Camila Ribeiro
+
+Orçamento inicial: R$ 1198387.00
+Custo real atual: R$ 1229235.57
+Desvio orçamentário: 2.57%
+Índice de Desempenho de Custo (CPI): 0.97
+Valor Agregado (EV): R$ 1192710.78
+Estimativa para conclusão: R$ 5850.05
+Estimativa no término (EAC): R$ 1235085.62
+Variação no término (VAC): R$ -36698.62
+
+Detalhamento por categoria:
+- Pessoal: R$ 601341.87 (48.9%)
+- Equipamentos: R$ 242290.43 (19.7%)
+- Software: R$ 71135.37 (5.8%)
+- Serviços: R$ 201906.22 (16.4%)
+- Outros: R$ 112561.67 (9.2%)

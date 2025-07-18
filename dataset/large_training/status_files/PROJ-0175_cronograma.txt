@@ -1,0 +1,25 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: O conforto de mudar com toda a tranquilidade (PROJ-0175)
+Data: 14/07/2025
+Gerente: Isaac Vasconcelos
+
+Status atual: Em andamento
+Percentual de conclusão: 86.8%
+Data de início: 02/09/2023
+Data de término planejada: 12/03/2024
+Data de término real/prevista: 01/04/2024
+Atraso atual: 489 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 0.94
+Valor Planejado (PV): R$ 603545.00
+Valor Agregado (EV): R$ 524047.16
+
+Tarefas críticas:
+- Desenvolvimento da interface do usuário
+- Desenvolvimento do módulo de autenticação
+- Configuração da infraestrutura
+- Implementação do módulo de relatórios
+- Migração de dados legados
+- Desenvolvimento da interface do usuário
+
+Tarefas atrasadas:

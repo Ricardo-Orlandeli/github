@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A liberdade de mudar com força total (PROJ-0937)
+Data: 14/07/2025
+Gerente: Breno Carvalho
+
+Orçamento inicial: R$ 1176935.00
+Custo real atual: R$ 717761.82
+Desvio orçamentário: -39.01%
+Índice de Desempenho de Custo (CPI): 0.84
+Valor Agregado (EV): R$ 603509.95
+Estimativa para conclusão: R$ 681981.47
+Estimativa no término (EAC): R$ 1399743.29
+Variação no término (VAC): R$ -222808.29
+
+Detalhamento por categoria:
+- Pessoal: R$ 368551.31 (51.3%)
+- Equipamentos: R$ 93172.26 (13.0%)
+- Software: R$ 70147.21 (9.8%)
+- Serviços: R$ 111008.01 (15.5%)
+- Outros: R$ 74883.04 (10.4%)

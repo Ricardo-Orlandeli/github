@@ -1,0 +1,27 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: O direito de concretizar seus projetos de maneira eficaz (PROJ-0761)
+Data: 14/07/2025
+Gerente: João Rocha
+
+Status atual: Em andamento
+Percentual de conclusão: 80.4%
+Data de início: 01/02/2024
+Data de término planejada: 27/10/2024
+Data de término real/prevista: 05/11/2024
+Atraso atual: 260 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 0.85
+Valor Planejado (PV): R$ 2862766.00
+Valor Agregado (EV): R$ 2300402.62
+
+Tarefas críticas:
+- Configuração da infraestrutura
+- Implementação do sistema de backup
+- Implementação do módulo de notificações
+- Implementação do módulo de análise de dados
+- Implementação do módulo de exportação de dados
+- Desenvolvimento do módulo de autenticação
+- Testes de aceitação do usuário
+- Desenvolvimento do painel administrativo
+
+Tarefas atrasadas:

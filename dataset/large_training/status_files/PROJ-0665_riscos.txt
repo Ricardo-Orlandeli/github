@@ -1,0 +1,31 @@
+RELATÓRIO DE STATUS DE RISCOS
+Projeto: O poder de mudar com toda a tranquilidade (PROJ-0665)
+Data: 14/07/2025
+Gerente: Dr. Felipe Moreira
+
+Riscos identificados:
+- R01: Problemas de comunicação com stakeholders
+  Probabilidade: 3/5, Impacto: 4/5, Nível: Médio
+  Mitigação: Fortalecer medidas de segurança
+
+- R02: Problemas de integração com sistemas legados
+  Probabilidade: 3/5, Impacto: 4/5, Nível: Médio
+  Mitigação: Realizar testes de aceitação com usuários-chave
+
+- R03: Mudanças regulatórias
+  Probabilidade: 3/5, Impacto: 3/5, Nível: Médio
+  Mitigação: Melhorar a documentação de requisitos
+
+- R04: Rotatividade de pessoal-chave
+  Probabilidade: 4/5, Impacto: 3/5, Nível: Médio
+  Mitigação: Realizar testes de integração antecipados
+
+Riscos ocorridos:
+- R01 (ocorrido em 08/02/2025)
+  Impacto real: Redução de funcionalidades
+  Ações tomadas: Revisão de prioridades
+
+- R02 (ocorrido em 24/01/2024)
+  Impacto real: Perda de recursos-chave
+  Ações tomadas: Revisão de prioridades
+

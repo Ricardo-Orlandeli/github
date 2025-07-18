@@ -1,0 +1,26 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A vantagem de mudar sem preocupação (PROJ-0062)
+Data: 14/07/2025
+Gerente: Sr. Arthur Vasconcelos
+
+Status atual: Em andamento
+Percentual de conclusão: 81.2%
+Data de início: 03/08/2023
+Data de término planejada: 04/11/2023
+Data de término real/prevista: 04/11/2023
+Atraso atual: 618 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.05
+Valor Planejado (PV): R$ 2920178.00
+Valor Agregado (EV): R$ 2370795.16
+
+Tarefas críticas:
+- Integração com sistema de pagamentos
+- Implementação do módulo de análise de dados
+- Implementação da API REST
+- Desenvolvimento da interface do usuário
+- Implementação do módulo de exportação de dados
+- Desenvolvimento do painel administrativo
+- Desenvolvimento do painel administrativo
+
+Tarefas atrasadas:

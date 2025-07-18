@@ -1,0 +1,23 @@
+RELATÓRIO DE STATUS DE ESCOPO
+Projeto: A segurança de realizar seus sonhos em estado puro (PROJ-0608)
+Data: 14/07/2025
+Gerente: Valentim Fernandes
+
+Escopo original: Sistema para a segurança de realizar seus sonhos em estado puro
+Houve mudança de escopo: Sim
+Descrição das mudanças: Alteração nas especificações técnicas
+Impacto no cronograma: 42 dias
+Impacto no custo: R$ 523964.30
+
+Solicitações de mudança:
+- SCM-01: Alteração nos requisitos de desempenho
+
+Requisitos atuais:
+- REQ-01: O sistema deve permitir exportação de dados em formato CSV
+- REQ-02: O sistema deve processar transações em menos de 2 seconds
+- REQ-03: O sistema deve ter interface responsiva
+- REQ-04: O sistema deve ter alta disponibilidade (99.9%)
+- REQ-05: O sistema deve permitir autenticação de usuários
+- REQ-06: O sistema deve permitir integração com APIs externas
+- REQ-07: O sistema deve ter alta disponibilidade (99.9%)
+- REQ-08: O sistema deve passar por testes de segurança

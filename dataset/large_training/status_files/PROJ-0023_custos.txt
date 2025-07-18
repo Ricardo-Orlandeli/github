@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A simplicidade de avançar antes de tudo (PROJ-0023)
+Data: 14/07/2025
+Gerente: Gael Campos
+
+Orçamento inicial: R$ 1221343.00
+Custo real atual: R$ 1112112.35
+Desvio orçamentário: -8.94%
+Índice de Desempenho de Custo (CPI): 0.90
+Valor Agregado (EV): R$ 1003212.83
+Estimativa para conclusão: R$ 241808.36
+Estimativa no término (EAC): R$ 1353920.71
+Variação no término (VAC): R$ -132577.71
+
+Detalhamento por categoria:
+- Pessoal: R$ 543883.28 (48.9%)
+- Equipamentos: R$ 177690.63 (16.0%)
+- Software: R$ 77691.57 (7.0%)
+- Serviços: R$ 245897.07 (22.1%)
+- Outros: R$ 66949.80 (6.0%)

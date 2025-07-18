@@ -1,0 +1,27 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: O prazer de mudar simplesmente (PROJ-0141)
+Data: 14/07/2025
+Gerente: Dr. Otávio Guerra
+
+Status atual: Atrasado
+Percentual de conclusão: 81.1%
+Data de início: 13/09/2023
+Data de término planejada: 05/04/2024
+Data de término real/prevista: 03/08/2024
+Atraso atual: 465 dias
+Motivo do atraso: Recursos insuficientes
+Índice de Desempenho de Cronograma (SPI): 0.81
+Valor Planejado (PV): R$ 1465627.00
+Valor Agregado (EV): R$ 1188050.87
+
+Tarefas críticas:
+- Implementação do sistema de backup
+- Configuração da infraestrutura
+- Desenvolvimento da interface do usuário
+- Desenvolvimento da interface do usuário
+- Migração de dados legados
+- Desenvolvimento do painel administrativo
+
+Tarefas atrasadas:
+- Configuração da infraestrutura
+- Implementação do sistema de backup

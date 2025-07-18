@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O poder de ganhar de maneira eficaz (PROJ-0524)
+Data: 14/07/2025
+Gerente: Vinicius Pereira
+
+Orçamento inicial: R$ 2404354.00
+Custo real atual: R$ 2665509.61
+Desvio orçamentário: 10.86%
+Índice de Desempenho de Custo (CPI): 0.85
+Valor Agregado (EV): R$ 2267438.91
+Estimativa para conclusão: R$ 160951.86
+Estimativa no término (EAC): R$ 2826461.47
+Variação no término (VAC): R$ -422107.47
+
+Detalhamento por categoria:
+- Pessoal: R$ 1463534.64 (54.9%)
+- Equipamentos: R$ 332528.66 (12.5%)
+- Software: R$ 245566.95 (9.2%)
+- Serviços: R$ 472299.69 (17.7%)
+- Outros: R$ 151579.67 (5.7%)

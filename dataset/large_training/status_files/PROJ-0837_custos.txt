@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A certeza de conseguir com confiança (PROJ-0837)
+Data: 14/07/2025
+Gerente: Dr. Cauã Vieira
+
+Orçamento inicial: R$ 870543.00
+Custo real atual: R$ 702484.00
+Desvio orçamentário: -19.31%
+Índice de Desempenho de Custo (CPI): 1.13
+Valor Agregado (EV): R$ 793154.56
+Estimativa para conclusão: R$ 68541.67
+Estimativa no término (EAC): R$ 771025.68
+Variação no término (VAC): R$ 99517.32
+
+Detalhamento por categoria:
+- Pessoal: R$ 332731.66 (47.4%)
+- Equipamentos: R$ 98471.03 (14.0%)
+- Software: R$ 66910.01 (9.5%)
+- Serviços: R$ 138410.28 (19.7%)
+- Outros: R$ 65961.02 (9.4%)

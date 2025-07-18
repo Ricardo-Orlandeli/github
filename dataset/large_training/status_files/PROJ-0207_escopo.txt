@@ -1,0 +1,33 @@
+RELATÓRIO DE STATUS DE ESCOPO
+Projeto: O direito de ganhar naturalmente (PROJ-0207)
+Data: 14/07/2025
+Gerente: João Miguel Duarte
+
+Escopo original: Sistema para o direito de ganhar naturalmente
+Houve mudança de escopo: Sim
+Descrição das mudanças: Alteração nas especificações técnicas
+Impacto no cronograma: 34 dias
+Impacto no custo: R$ 183466.01
+
+Solicitações de mudança:
+- SCM-01: Adição de relatórios gerenciais
+- SCM-02: Mudança na arquitetura do sistema
+- SCM-03: Integração com sistema legado
+- SCM-04: Mudança no banco de dados
+
+Requisitos atuais:
+- REQ-01: O sistema deve ter documentação completa
+- REQ-02: O sistema deve implementar criptografia de dados sensíveis
+- REQ-03: O sistema deve processar transações em menos de 2 seconds
+- REQ-04: O sistema deve registrar logs de auditoria
+- REQ-05: O sistema deve ter documentação completa
+- REQ-06: O sistema deve permitir autenticação de usuários
+- REQ-07: O sistema deve permitir integração com APIs externas
+- REQ-08: O sistema deve ter backup automático diário
+- REQ-09: O sistema deve ter alta disponibilidade (99.9%)
+- REQ-10: O sistema deve ser compatível com dispositivos móveis
+- REQ-11: O sistema deve ter documentação completa
+- REQ-12: O sistema deve ter alta disponibilidade (99.9%)
+- REQ-13: O sistema deve passar por testes de segurança
+- REQ-14: O sistema deve processar transações em menos de 2 seconds
+- REQ-15: O sistema deve permitir autenticação de usuários

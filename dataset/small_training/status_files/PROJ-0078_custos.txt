@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O prazer de ganhar em estado puro (PROJ-0078)
+Data: 14/07/2025
+Gerente: Mateus Gomes
+
+Orçamento inicial: R$ 4591753.00
+Custo real atual: R$ 4305758.08
+Desvio orçamentário: -6.23%
+Índice de Desempenho de Custo (CPI): 1.07
+Valor Agregado (EV): R$ 4587161.25
+Estimativa para conclusão: R$ 4310.07
+Estimativa no término (EAC): R$ 4310068.15
+Variação no término (VAC): R$ 281684.85
+
+Detalhamento por categoria:
+- Pessoal: R$ 2352986.50 (54.6%)
+- Equipamentos: R$ 592603.19 (13.8%)
+- Software: R$ 230646.76 (5.4%)
+- Serviços: R$ 762401.16 (17.7%)
+- Outros: R$ 367120.47 (8.5%)

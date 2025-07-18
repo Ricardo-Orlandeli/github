@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O conforto de inovar de maneira eficaz (PROJ-0351)
+Data: 14/07/2025
+Gerente: Emanuella Leão
+
+Orçamento inicial: R$ 2213164.00
+Custo real atual: R$ 294344.37
+Desvio orçamentário: -86.70%
+Índice de Desempenho de Custo (CPI): 0.84
+Valor Agregado (EV): R$ 246930.69
+Estimativa para conclusão: R$ 2343773.93
+Estimativa no término (EAC): R$ 2638118.30
+Variação no término (VAC): R$ -424954.30
+
+Detalhamento por categoria:
+- Pessoal: R$ 140559.59 (47.8%)
+- Equipamentos: R$ 65887.59 (22.4%)
+- Software: R$ 31101.22 (10.6%)
+- Serviços: R$ 37657.90 (12.8%)
+- Outros: R$ 19138.07 (6.5%)

@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O direito de concretizar seus projetos com confiança (PROJ-0731)
+Data: 14/07/2025
+Gerente: Luiz Miguel Jesus
+
+Orçamento inicial: R$ 2483050.00
+Custo real atual: R$ 2497407.54
+Desvio orçamentário: 0.58%
+Índice de Desempenho de Custo (CPI): 0.99
+Valor Agregado (EV): R$ 2480566.95
+Estimativa para conclusão: R$ 2499.91
+Estimativa no término (EAC): R$ 2499907.45
+Variação no término (VAC): R$ -16857.45
+
+Detalhamento por categoria:
+- Pessoal: R$ 1356290.50 (54.3%)
+- Equipamentos: R$ 311677.52 (12.5%)
+- Software: R$ 181943.82 (7.3%)
+- Serviços: R$ 452497.94 (18.1%)
+- Outros: R$ 194997.76 (7.8%)

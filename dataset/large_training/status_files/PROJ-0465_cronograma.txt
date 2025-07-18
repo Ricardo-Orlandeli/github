@@ -1,0 +1,25 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A liberdade de atingir seus objetivos mais rapidamente (PROJ-0465)
+Data: 14/07/2025
+Gerente: Maria Cecília Pacheco
+
+Status atual: Em andamento
+Percentual de conclusão: 99.9%
+Data de início: 01/07/2024
+Data de término planejada: 08/11/2024
+Data de término real/prevista: 06/11/2024
+Atraso atual: 248 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 0.86
+Valor Planejado (PV): R$ 109261.00
+Valor Agregado (EV): R$ 109151.74
+
+Tarefas críticas:
+- Implementação do sistema de backup
+- Implementação do módulo de análise de dados
+- Desenvolvimento da interface do usuário
+- Implementação do módulo de notificações
+- Integração com sistema de pagamentos
+- Implementação do módulo de relatórios
+
+Tarefas atrasadas:

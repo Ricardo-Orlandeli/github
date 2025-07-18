@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O prazer de realizar seus sonhos simplesmente (PROJ-0236)
+Data: 14/07/2025
+Gerente: Sr. Gustavo Henrique Abreu
+
+Orçamento inicial: R$ 928434.00
+Custo real atual: R$ 173705.04
+Desvio orçamentário: 0.44%
+Índice de Desempenho de Custo (CPI): 1.18
+Valor Agregado (EV): R$ 205084.45
+Estimativa para conclusão: R$ 612671.80
+Estimativa no término (EAC): R$ 786376.84
+Variação no término (VAC): R$ 142057.16
+
+Detalhamento por categoria:
+- Pessoal: R$ 89926.17 (51.8%)
+- Equipamentos: R$ 34446.33 (19.8%)
+- Software: R$ 17931.90 (10.3%)
+- Serviços: R$ 20246.74 (11.7%)
+- Outros: R$ 11153.90 (6.4%)

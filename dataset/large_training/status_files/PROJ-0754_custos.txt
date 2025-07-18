@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O poder de atingir seus objetivos mais facilmente (PROJ-0754)
+Data: 14/07/2025
+Gerente: João Pedro Barros
+
+Orçamento inicial: R$ 1658555.00
+Custo real atual: R$ 1742578.63
+Desvio orçamentário: 5.07%
+Índice de Desempenho de Custo (CPI): 0.86
+Valor Agregado (EV): R$ 1492334.49
+Estimativa para conclusão: R$ 194093.42
+Estimativa no término (EAC): R$ 1936672.05
+Variação no término (VAC): R$ -278117.05
+
+Detalhamento por categoria:
+- Pessoal: R$ 811645.56 (46.6%)
+- Equipamentos: R$ 342348.69 (19.6%)
+- Software: R$ 231340.51 (13.3%)
+- Serviços: R$ 229501.96 (13.2%)
+- Outros: R$ 127741.91 (7.3%)

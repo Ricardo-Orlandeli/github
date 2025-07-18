@@ -1,0 +1,21 @@
+RELATÓRIO DE STATUS DE ESCOPO
+Projeto: A vantagem de avançar sem preocupação (PROJ-0350)
+Data: 14/07/2025
+Gerente: Ana Luiza Marques
+
+Escopo original: Sistema para a vantagem de avançar sem preocupação
+Houve mudança de escopo: Sim
+Descrição das mudanças: Expansão do escopo para incluir funcionalidades adicionais
+Impacto no cronograma: 35 dias
+Impacto no custo: R$ 477056.63
+
+Solicitações de mudança:
+- SCM-01: Mudança na arquitetura do sistema
+- SCM-02: Adição de funcionalidade de autenticação biométrica
+
+Requisitos atuais:
+- REQ-01: O sistema deve ter interface responsiva
+- REQ-02: O sistema deve ter backup automático diário
+- REQ-03: O sistema deve ter controle de acesso baseado em perfis
+- REQ-04: O sistema deve permitir exportação de dados em formato CSV
+- REQ-05: O sistema deve ter documentação completa

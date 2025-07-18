@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A liberdade de realizar seus sonhos simplesmente (PROJ-0291)
+Data: 14/07/2025
+Gerente: Srta. Mariane Viana
+
+Orçamento inicial: R$ 858210.00
+Custo real atual: R$ 920711.55
+Desvio orçamentário: 7.28%
+Índice de Desempenho de Custo (CPI): 0.93
+Valor Agregado (EV): R$ 857351.79
+Estimativa para conclusão: R$ 921.63
+Estimativa no término (EAC): R$ 921633.19
+Variação no término (VAC): R$ -63423.19
+
+Detalhamento por categoria:
+- Pessoal: R$ 489949.75 (53.2%)
+- Equipamentos: R$ 167323.72 (18.2%)
+- Software: R$ 58971.05 (6.4%)
+- Serviços: R$ 143053.29 (15.5%)
+- Outros: R$ 61413.74 (6.7%)

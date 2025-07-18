@@ -1,0 +1,25 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: O poder de atingir seus objetivos em estado puro (PROJ-0750)
+Data: 14/07/2025
+Gerente: Dra. Lara Freitas
+
+Status atual: Em andamento
+Percentual de conclusão: 99.3%
+Data de início: 14/03/2024
+Data de término planejada: 14/09/2024
+Data de término real/prevista: 05/10/2024
+Atraso atual: 303 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 0.95
+Valor Planejado (PV): R$ 3022929.00
+Valor Agregado (EV): R$ 3000621.20
+
+Tarefas críticas:
+- Integração com sistema de pagamentos
+- Migração de dados legados
+- Implementação do módulo de exportação de dados
+- Integração com sistema de pagamentos
+- Migração de dados legados
+- Configuração da infraestrutura
+
+Tarefas atrasadas:

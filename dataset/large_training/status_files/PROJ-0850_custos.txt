@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A possibilidade de mudar simplesmente (PROJ-0850)
+Data: 14/07/2025
+Gerente: Helena Novais
+
+Orçamento inicial: R$ 1358413.00
+Custo real atual: R$ 477765.53
+Desvio orçamentário: -46.64%
+Índice de Desempenho de Custo (CPI): 0.95
+Valor Agregado (EV): R$ 454686.76
+Estimativa para conclusão: R$ 949597.14
+Estimativa no término (EAC): R$ 1427362.67
+Variação no término (VAC): R$ -68949.67
+
+Detalhamento por categoria:
+- Pessoal: R$ 234538.89 (49.1%)
+- Equipamentos: R$ 70173.44 (14.7%)
+- Software: R$ 60450.77 (12.7%)
+- Serviços: R$ 70938.96 (14.8%)
+- Outros: R$ 41663.48 (8.7%)

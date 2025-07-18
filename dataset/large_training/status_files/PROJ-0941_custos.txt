@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A vantagem de mudar com força total (PROJ-0941)
+Data: 14/07/2025
+Gerente: Antonella Sá
+
+Orçamento inicial: R$ 2986637.00
+Custo real atual: R$ 2375882.97
+Desvio orçamentário: -20.45%
+Índice de Desempenho de Custo (CPI): 1.19
+Valor Agregado (EV): R$ 2826410.80
+Estimativa para conclusão: R$ 134686.26
+Estimativa no término (EAC): R$ 2510569.24
+Variação no término (VAC): R$ 476067.76
+
+Detalhamento por categoria:
+- Pessoal: R$ 1151207.83 (48.5%)
+- Equipamentos: R$ 425943.56 (17.9%)
+- Software: R$ 308779.21 (13.0%)
+- Serviços: R$ 350188.62 (14.7%)
+- Outros: R$ 139763.76 (5.9%)

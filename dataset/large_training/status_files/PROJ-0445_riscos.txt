@@ -1,0 +1,35 @@
+RELATÓRIO DE STATUS DE RISCOS
+Projeto: O direito de evoluir mais facilmente (PROJ-0445)
+Data: 14/07/2025
+Gerente: Juliana Fernandes
+
+Riscos identificados:
+- R01: Atraso na entrega de componentes críticos
+  Probabilidade: 1/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Monitorar mudanças regulatórias
+
+- R02: Requisitos mal definidos
+  Probabilidade: 4/5, Impacto: 2/5, Nível: Médio
+  Mitigação: Testar compatibilidade em diferentes ambientes
+
+- R03: Falhas de infraestrutura
+  Probabilidade: 1/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Estabelecer canais de comunicação claros
+
+- R04: Problemas de compatibilidade
+  Probabilidade: 1/5, Impacto: 5/5, Nível: Baixo
+  Mitigação: Implementar plano de contingência
+
+Riscos ocorridos:
+- R02 (ocorrido em 04/07/2025)
+  Impacto real: Problemas de qualidade
+  Ações tomadas: Contratação de recursos adicionais
+
+- R04 (ocorrido em 01/06/2025)
+  Impacto real: Indisponibilidade temporária
+  Ações tomadas: Realocação de recursos
+
+- R03 (ocorrido em 23/05/2025)
+  Impacto real: Perda de dados
+  Ações tomadas: Revisão de prioridades
+

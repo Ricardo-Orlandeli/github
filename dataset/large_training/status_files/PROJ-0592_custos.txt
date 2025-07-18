@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A simplicidade de conseguir com confiança (PROJ-0592)
+Data: 14/07/2025
+Gerente: Luiz Gustavo Marques
+
+Orçamento inicial: R$ 1711115.00
+Custo real atual: R$ 1508774.21
+Desvio orçamentário: -11.83%
+Índice de Desempenho de Custo (CPI): 0.85
+Valor Agregado (EV): R$ 1281460.61
+Estimativa para conclusão: R$ 505869.20
+Estimativa no término (EAC): R$ 2014643.41
+Variação no término (VAC): R$ -303528.41
+
+Detalhamento por categoria:
+- Pessoal: R$ 746214.64 (49.5%)
+- Equipamentos: R$ 265050.51 (17.6%)
+- Software: R$ 98341.21 (6.5%)
+- Serviços: R$ 264381.45 (17.5%)
+- Outros: R$ 134786.40 (8.9%)

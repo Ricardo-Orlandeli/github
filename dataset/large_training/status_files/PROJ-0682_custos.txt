@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A certeza de evoluir em estado puro (PROJ-0682)
+Data: 14/07/2025
+Gerente: Lorenzo Moraes
+
+Orçamento inicial: R$ 4377108.00
+Custo real atual: R$ 1074664.52
+Desvio orçamentário: -13.37%
+Índice de Desempenho de Custo (CPI): 1.05
+Valor Agregado (EV): R$ 1129936.96
+Estimativa para conclusão: R$ 3088331.15
+Estimativa no término (EAC): R$ 4162995.68
+Variação no término (VAC): R$ 214112.32
+
+Detalhamento por categoria:
+- Pessoal: R$ 524724.09 (48.8%)
+- Equipamentos: R$ 160766.61 (15.0%)
+- Software: R$ 101119.36 (9.4%)
+- Serviços: R$ 215599.06 (20.1%)
+- Outros: R$ 72455.41 (6.7%)

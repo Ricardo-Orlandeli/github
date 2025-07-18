@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A possibilidade de concretizar seus projetos em estado puro (PROJ-0086)
+Data: 14/07/2025
+Gerente: Aurora Caldeira
+
+Orçamento inicial: R$ 2374394.00
+Custo real atual: R$ 2186639.74
+Desvio orçamentário: -7.91%
+Índice de Desempenho de Custo (CPI): 0.68
+Valor Agregado (EV): R$ 1476944.80
+Estimativa para conclusão: R$ 1328687.49
+Estimativa no término (EAC): R$ 3515327.23
+Variação no término (VAC): R$ -1140933.23
+
+Detalhamento por categoria:
+- Pessoal: R$ 1096688.71 (50.2%)
+- Equipamentos: R$ 326115.96 (14.9%)
+- Software: R$ 295766.49 (13.5%)
+- Serviços: R$ 346505.30 (15.8%)
+- Outros: R$ 121563.28 (5.6%)

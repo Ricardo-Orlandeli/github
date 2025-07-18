@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O poder de realizar seus sonhos mais facilmente (PROJ-0787)
+Data: 14/07/2025
+Gerente: Pietro Gonçalves
+
+Orçamento inicial: R$ 3388225.00
+Custo real atual: R$ 3700694.67
+Desvio orçamentário: 9.22%
+Índice de Desempenho de Custo (CPI): 0.92
+Valor Agregado (EV): R$ 3388225.00
+Estimativa para conclusão: R$ 0.00
+Estimativa no término (EAC): R$ 3700694.67
+Variação no término (VAC): R$ -312469.67
+
+Detalhamento por categoria:
+- Pessoal: R$ 1822531.80 (49.2%)
+- Equipamentos: R$ 733145.81 (19.8%)
+- Software: R$ 266556.10 (7.2%)
+- Serviços: R$ 520573.45 (14.1%)
+- Outros: R$ 357887.51 (9.7%)

@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A liberdade de avançar simplesmente (PROJ-0342)
+Data: 14/07/2025
+Gerente: Cecília Martins
+
+Orçamento inicial: R$ 3443543.00
+Custo real atual: R$ 3434305.01
+Desvio orçamentário: -0.27%
+Índice de Desempenho de Custo (CPI): 0.96
+Valor Agregado (EV): R$ 3287903.65
+Estimativa para conclusão: R$ 162569.54
+Estimativa no término (EAC): R$ 3596874.55
+Variação no término (VAC): R$ -153331.55
+
+Detalhamento por categoria:
+- Pessoal: R$ 1815100.12 (52.9%)
+- Equipamentos: R$ 554523.96 (16.1%)
+- Software: R$ 156558.77 (4.6%)
+- Serviços: R$ 608738.91 (17.7%)
+- Outros: R$ 299383.24 (8.7%)

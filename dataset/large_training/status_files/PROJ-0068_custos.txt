@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A vantagem de ganhar direto da fonte (PROJ-0068)
+Data: 14/07/2025
+Gerente: Gabriela da Cruz
+
+Orçamento inicial: R$ 165707.00
+Custo real atual: R$ 99117.06
+Desvio orçamentário: 13.29%
+Índice de Desempenho de Custo (CPI): 0.74
+Valor Agregado (EV): R$ 73241.33
+Estimativa para conclusão: R$ 125133.27
+Estimativa no término (EAC): R$ 224250.33
+Variação no término (VAC): R$ -58543.33
+
+Detalhamento por categoria:
+- Pessoal: R$ 43854.46 (44.2%)
+- Equipamentos: R$ 15096.05 (15.2%)
+- Software: R$ 14833.38 (15.0%)
+- Serviços: R$ 16356.45 (16.5%)
+- Outros: R$ 8976.72 (9.1%)

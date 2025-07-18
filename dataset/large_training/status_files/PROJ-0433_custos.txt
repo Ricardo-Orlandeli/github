@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A certeza de mudar antes de tudo (PROJ-0433)
+Data: 14/07/2025
+Gerente: Caleb Azevedo
+
+Orçamento inicial: R$ 480898.00
+Custo real atual: R$ 452059.65
+Desvio orçamentário: 10.53%
+Índice de Desempenho de Custo (CPI): 1.01
+Valor Agregado (EV): R$ 457092.95
+Estimativa para conclusão: R$ 23542.92
+Estimativa no término (EAC): R$ 475602.57
+Variação no término (VAC): R$ 5295.43
+
+Detalhamento por categoria:
+- Pessoal: R$ 250684.28 (55.5%)
+- Equipamentos: R$ 84059.90 (18.6%)
+- Software: R$ 22975.11 (5.1%)
+- Serviços: R$ 53709.29 (11.9%)
+- Outros: R$ 40631.07 (9.0%)

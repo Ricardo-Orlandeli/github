@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O conforto de mudar em estado puro (PROJ-0953)
+Data: 14/07/2025
+Gerente: Léo Brito
+
+Orçamento inicial: R$ 2184668.00
+Custo real atual: R$ 2535838.38
+Desvio orçamentário: 16.07%
+Índice de Desempenho de Custo (CPI): 0.86
+Valor Agregado (EV): R$ 2182483.33
+Estimativa para conclusão: R$ 2538.38
+Estimativa no término (EAC): R$ 2538376.75
+Variação no término (VAC): R$ -353708.75
+
+Detalhamento por categoria:
+- Pessoal: R$ 1497725.79 (59.1%)
+- Equipamentos: R$ 327408.07 (12.9%)
+- Software: R$ 272085.71 (10.7%)
+- Serviços: R$ 263213.25 (10.4%)
+- Outros: R$ 175405.56 (6.9%)

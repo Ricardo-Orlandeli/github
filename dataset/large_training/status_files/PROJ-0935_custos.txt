@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A simplicidade de realizar seus sonhos sem preocupação (PROJ-0935)
+Data: 14/07/2025
+Gerente: Nicole Brito
+
+Orçamento inicial: R$ 1731903.00
+Custo real atual: R$ 1761356.34
+Desvio orçamentário: 1.70%
+Índice de Desempenho de Custo (CPI): 0.87
+Valor Agregado (EV): R$ 1528127.84
+Estimativa para conclusão: R$ 234876.08
+Estimativa no término (EAC): R$ 1996232.43
+Variação no término (VAC): R$ -264329.43
+
+Detalhamento por categoria:
+- Pessoal: R$ 896746.56 (50.9%)
+- Equipamentos: R$ 218521.01 (12.4%)
+- Software: R$ 222601.53 (12.6%)
+- Serviços: R$ 307497.96 (17.5%)
+- Outros: R$ 115989.28 (6.6%)

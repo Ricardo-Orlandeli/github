@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O prazer de avançar simplesmente (PROJ-0988)
+Data: 14/07/2025
+Gerente: Nina da Cunha
+
+Orçamento inicial: R$ 1667793.00
+Custo real atual: R$ 1340476.98
+Desvio orçamentário: -19.63%
+Índice de Desempenho de Custo (CPI): 1.24
+Valor Agregado (EV): R$ 1666125.21
+Estimativa para conclusão: R$ 1341.82
+Estimativa no término (EAC): R$ 1341818.80
+Variação no término (VAC): R$ 325974.20
+
+Detalhamento por categoria:
+- Pessoal: R$ 722914.99 (53.9%)
+- Equipamentos: R$ 213534.03 (15.9%)
+- Software: R$ 85509.75 (6.4%)
+- Serviços: R$ 239127.99 (17.8%)
+- Outros: R$ 79390.21 (5.9%)

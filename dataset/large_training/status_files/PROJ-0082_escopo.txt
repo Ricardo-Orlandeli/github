@@ -1,0 +1,24 @@
+RELATÓRIO DE STATUS DE ESCOPO
+Projeto: A certeza de inovar sem preocupação (PROJ-0082)
+Data: 14/07/2025
+Gerente: Stephany Silva
+
+Escopo original: Sistema para a certeza de inovar sem preocupação
+Houve mudança de escopo: Sim
+Descrição das mudanças: Mudança na plataforma de implementação
+Impacto no cronograma: 28 dias
+Impacto no custo: R$ 144381.74
+
+Solicitações de mudança:
+- SCM-01: Adição de funcionalidade de autenticação biométrica
+- SCM-02: Alteração na interface do usuário
+- SCM-03: Mudança no banco de dados
+
+Requisitos atuais:
+- REQ-01: O sistema deve implementar criptografia de dados sensíveis
+- REQ-02: O sistema deve registrar logs de auditoria
+- REQ-03: O sistema deve ter interface responsiva
+- REQ-04: O sistema deve ter documentação completa
+- REQ-05: O sistema deve passar por testes de segurança
+- REQ-06: O sistema deve processar transações em menos de 2 seconds
+- REQ-07: O sistema deve ser compatível com dispositivos móveis

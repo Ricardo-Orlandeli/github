@@ -1,0 +1,27 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A simplicidade de ganhar com força total (PROJ-0834)
+Data: 14/07/2025
+Gerente: João Guilherme Abreu
+
+Status atual: Em andamento
+Percentual de conclusão: 94.9%
+Data de início: 01/05/2024
+Data de término planejada: 29/07/2024
+Data de término real/prevista: 14/07/2024
+Atraso atual: 350 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.08
+Valor Planejado (PV): R$ 1176892.00
+Valor Agregado (EV): R$ 1116351.22
+
+Tarefas críticas:
+- Implementação do módulo de notificações
+- Configuração do ambiente de produção
+- Implementação do módulo de relatórios
+- Implementação do módulo de relatórios
+- Implementação do módulo de exportação de dados
+- Implementação do módulo de notificações
+- Implementação do módulo de exportação de dados
+- Desenvolvimento da interface do usuário
+
+Tarefas atrasadas:

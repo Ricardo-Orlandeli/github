@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A segurança de mudar em estado puro (PROJ-0233)
+Data: 14/07/2025
+Gerente: Bella Fernandes
+
+Orçamento inicial: R$ 2459575.00
+Custo real atual: R$ 1807914.12
+Desvio orçamentário: -20.03%
+Índice de Desempenho de Custo (CPI): 1.12
+Valor Agregado (EV): R$ 2025500.95
+Estimativa para conclusão: R$ 387444.21
+Estimativa no término (EAC): R$ 2195358.33
+Variação no término (VAC): R$ 264216.67
+
+Detalhamento por categoria:
+- Pessoal: R$ 1096810.59 (60.7%)
+- Equipamentos: R$ 205987.59 (11.4%)
+- Software: R$ 121048.62 (6.7%)
+- Serviços: R$ 229189.79 (12.7%)
+- Outros: R$ 154877.54 (8.6%)

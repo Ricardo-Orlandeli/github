@@ -1,0 +1,27 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A simplicidade de inovar simplesmente (PROJ-0085)
+Data: 14/07/2025
+Gerente: Dra. Isabel Câmara
+
+Status atual: Em andamento
+Percentual de conclusão: 87.4%
+Data de início: 08/03/2024
+Data de término planejada: 29/10/2024
+Data de término real/prevista: 10/11/2024
+Atraso atual: 258 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.00
+Valor Planejado (PV): R$ 1383078.00
+Valor Agregado (EV): R$ 1208298.68
+
+Tarefas críticas:
+- Implementação do módulo de análise de dados
+- Testes de segurança
+- Desenvolvimento do módulo de autenticação
+- Desenvolvimento do painel administrativo
+- Implementação do sistema de backup
+- Implementação da API REST
+- Configuração da infraestrutura
+- Implementação do módulo de exportação de dados
+
+Tarefas atrasadas:

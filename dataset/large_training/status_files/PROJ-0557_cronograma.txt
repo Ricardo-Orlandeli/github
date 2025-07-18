@@ -1,0 +1,27 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A segurança de realizar seus sonhos antes de tudo (PROJ-0557)
+Data: 14/07/2025
+Gerente: Benjamin Fonseca
+
+Status atual: Em andamento
+Percentual de conclusão: 99.9%
+Data de início: 18/12/2024
+Data de término planejada: 07/03/2025
+Data de término real/prevista: 08/03/2025
+Atraso atual: 129 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.07
+Valor Planejado (PV): R$ 1821988.00
+Valor Agregado (EV): R$ 1820166.01
+
+Tarefas críticas:
+- Implementação do módulo de exportação de dados
+- Implementação do módulo de análise de dados
+- Integração com sistema de pagamentos
+- Desenvolvimento do painel administrativo
+- Implementação do módulo de exportação de dados
+- Configuração da infraestrutura
+- Testes de segurança
+- Testes de segurança
+
+Tarefas atrasadas:

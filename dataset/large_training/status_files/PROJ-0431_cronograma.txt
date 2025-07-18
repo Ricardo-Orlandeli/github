@@ -1,0 +1,22 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A simplicidade de realizar seus sonhos com força total (PROJ-0431)
+Data: 14/07/2025
+Gerente: Gustavo Cunha
+
+Status atual: Em andamento
+Percentual de conclusão: 99.9%
+Data de início: 01/09/2023
+Data de término planejada: 27/03/2024
+Data de término real/prevista: 19/04/2024
+Atraso atual: 474 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.13
+Valor Planejado (PV): R$ 1881122.00
+Valor Agregado (EV): R$ 1879240.88
+
+Tarefas críticas:
+- Implementação do módulo de relatórios
+- Desenvolvimento da interface do usuário
+- Implementação da API REST
+
+Tarefas atrasadas:

@@ -1,0 +1,22 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A simplicidade de atingir seus objetivos sem preocupação (PROJ-0526)
+Data: 14/07/2025
+Gerente: Ana Luiza da Mota
+
+Status atual: Cancelado
+Percentual de conclusão: 77.5%
+Data de início: 06/10/2024
+Data de término planejada: 11/12/2024
+Data de término real/prevista: 26/11/2024
+Atraso atual: 215 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 0.77
+Valor Planejado (PV): R$ 4206213.00
+Valor Agregado (EV): R$ 3259033.83
+
+Tarefas críticas:
+- Testes de aceitação do usuário
+- Desenvolvimento do módulo de autenticação
+- Desenvolvimento do módulo de autenticação
+
+Tarefas atrasadas:

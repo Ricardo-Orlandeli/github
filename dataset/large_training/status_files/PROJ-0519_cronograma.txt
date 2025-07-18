@@ -1,0 +1,27 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A segurança de atingir seus objetivos mais facilmente (PROJ-0519)
+Data: 14/07/2025
+Gerente: Leonardo Santos
+
+Status atual: Em andamento
+Percentual de conclusão: 8.8%
+Data de início: 29/06/2025
+Data de término planejada: 30/11/2025
+Data de término real/prevista: 29/11/2025
+Atraso atual: 0 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.06
+Valor Planejado (PV): R$ 223807.99
+Valor Agregado (EV): R$ 201251.01
+
+Tarefas críticas:
+- Implementação do módulo de análise de dados
+- Configuração do ambiente de produção
+- Configuração da infraestrutura
+- Integração com sistema de pagamentos
+- Implementação do módulo de notificações
+- Implementação do módulo de notificações
+- Integração com sistema de pagamentos
+- Implementação da API REST
+
+Tarefas atrasadas:

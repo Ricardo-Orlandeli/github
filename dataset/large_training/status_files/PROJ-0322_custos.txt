@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A segurança de concretizar seus projetos com confiança (PROJ-0322)
+Data: 14/07/2025
+Gerente: Sr. Yan Camargo
+
+Orçamento inicial: R$ 706649.00
+Custo real atual: R$ 632570.87
+Desvio orçamentário: 29.73%
+Índice de Desempenho de Custo (CPI): 0.67
+Valor Agregado (EV): R$ 424263.91
+Estimativa para conclusão: R$ 421031.77
+Estimativa no término (EAC): R$ 1053602.64
+Variação no término (VAC): R$ -346953.64
+
+Detalhamento por categoria:
+- Pessoal: R$ 322484.04 (51.0%)
+- Equipamentos: R$ 95269.37 (15.1%)
+- Software: R$ 43115.89 (6.8%)
+- Serviços: R$ 122789.29 (19.4%)
+- Outros: R$ 48912.29 (7.7%)

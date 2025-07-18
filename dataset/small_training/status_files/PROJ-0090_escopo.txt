@@ -1,0 +1,29 @@
+RELATÓRIO DE STATUS DE ESCOPO
+Projeto: O prazer de inovar simplesmente (PROJ-0090)
+Data: 14/07/2025
+Gerente: Pietra Nogueira
+
+Escopo original: Sistema para o prazer de inovar simplesmente
+Houve mudança de escopo: Sim
+Descrição das mudanças: Expansão do escopo para incluir funcionalidades adicionais
+Impacto no cronograma: 56 dias
+Impacto no custo: R$ 354865.07
+
+Solicitações de mudança:
+- SCM-01: Mudança na arquitetura do sistema
+
+Requisitos atuais:
+- REQ-01: O sistema deve ter alta disponibilidade (99.9%)
+- REQ-02: O sistema deve permitir exportação de dados em formato CSV
+- REQ-03: O sistema deve ter documentação completa
+- REQ-04: O sistema deve processar transações em menos de 2 seconds
+- REQ-05: O sistema deve ter documentação completa
+- REQ-06: O sistema deve ter alta disponibilidade (99.9%)
+- REQ-07: O sistema deve permitir integração com APIs externas
+- REQ-08: O sistema deve passar por testes de segurança
+- REQ-09: O sistema deve implementar criptografia de dados sensíveis
+- REQ-10: O sistema deve ter backup automático diário
+- REQ-11: O sistema deve ter backup automático diário
+- REQ-12: O sistema deve ser compatível com dispositivos móveis
+- REQ-13: O sistema deve ser compatível com dispositivos móveis
+- REQ-14: O sistema deve ser escalável para suportar até 10.000 usuários simultâneos

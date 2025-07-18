@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A segurança de mudar simplesmente (PROJ-0485)
+Data: 14/07/2025
+Gerente: Emanuel Dias
+
+Orçamento inicial: R$ 3281209.00
+Custo real atual: R$ 2713853.67
+Desvio orçamentário: -17.29%
+Índice de Desempenho de Custo (CPI): 1.03
+Valor Agregado (EV): R$ 2790669.05
+Estimativa para conclusão: R$ 477037.44
+Estimativa no término (EAC): R$ 3190891.11
+Variação no término (VAC): R$ 90317.89
+
+Detalhamento por categoria:
+- Pessoal: R$ 1466206.57 (54.0%)
+- Equipamentos: R$ 404966.84 (14.9%)
+- Software: R$ 355936.00 (13.1%)
+- Serviços: R$ 319670.54 (11.8%)
+- Outros: R$ 167073.72 (6.2%)

@@ -1,0 +1,27 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A vantagem de atingir seus objetivos simplesmente (PROJ-0973)
+Data: 14/07/2025
+Gerente: José Pedro Caldeira
+
+Status atual: Em andamento
+Percentual de conclusão: 93.8%
+Data de início: 19/07/2023
+Data de término planejada: 20/04/2024
+Data de término real/prevista: 06/04/2024
+Atraso atual: 450 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 0.92
+Valor Planejado (PV): R$ 1309905.00
+Valor Agregado (EV): R$ 1228105.69
+
+Tarefas críticas:
+- Migração de dados legados
+- Desenvolvimento da interface do usuário
+- Implementação do módulo de exportação de dados
+- Testes de segurança
+- Implementação do módulo de exportação de dados
+- Desenvolvimento da interface do usuário
+- Implementação do sistema de backup
+- Implementação do módulo de relatórios
+
+Tarefas atrasadas:

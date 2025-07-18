@@ -1,0 +1,22 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: O prazer de concretizar seus projetos mais rapidamente (PROJ-0305)
+Data: 14/07/2025
+Gerente: Eduarda Lima
+
+Status atual: Concluído
+Percentual de conclusão: 100.0%
+Data de início: 07/07/2024
+Data de término planejada: 11/11/2024
+Data de término real/prevista: 14/11/2024
+Atraso atual: 245 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.03
+Valor Planejado (PV): R$ 1377088.00
+Valor Agregado (EV): R$ 1377088.00
+
+Tarefas críticas:
+- Integração com sistema de pagamentos
+- Implementação do módulo de relatórios
+- Implementação da API REST
+
+Tarefas atrasadas:

@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O conforto de avançar antes de tudo (PROJ-0060)
+Data: 14/07/2025
+Gerente: Liz Santos
+
+Orçamento inicial: R$ 1661886.00
+Custo real atual: R$ 1474656.12
+Desvio orçamentário: -11.27%
+Índice de Desempenho de Custo (CPI): 1.13
+Valor Agregado (EV): R$ 1660224.11
+Estimativa para conclusão: R$ 1476.13
+Estimativa no término (EAC): R$ 1476132.25
+Variação no término (VAC): R$ 185753.75
+
+Detalhamento por categoria:
+- Pessoal: R$ 827625.71 (56.1%)
+- Equipamentos: R$ 270820.36 (18.4%)
+- Software: R$ 98815.17 (6.7%)
+- Serviços: R$ 172667.95 (11.7%)
+- Outros: R$ 104726.93 (7.1%)

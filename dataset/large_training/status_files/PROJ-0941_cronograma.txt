@@ -1,0 +1,27 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A vantagem de mudar com força total (PROJ-0941)
+Data: 14/07/2025
+Gerente: Antonella Sá
+
+Status atual: Em andamento
+Percentual de conclusão: 94.6%
+Data de início: 31/01/2025
+Data de término planejada: 01/07/2025
+Data de término real/prevista: 18/06/2025
+Atraso atual: 13 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 0.92
+Valor Planejado (PV): R$ 2986637.00
+Valor Agregado (EV): R$ 2826410.80
+
+Tarefas críticas:
+- Configuração do ambiente de produção
+- Implementação da API REST
+- Desenvolvimento da interface do usuário
+- Desenvolvimento do módulo de autenticação
+- Testes de segurança
+- Implementação da API REST
+- Desenvolvimento do painel administrativo
+- Implementação do sistema de backup
+
+Tarefas atrasadas:

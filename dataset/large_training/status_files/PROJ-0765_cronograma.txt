@@ -1,0 +1,26 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A arte de avançar com toda a tranquilidade (PROJ-0765)
+Data: 14/07/2025
+Gerente: João Felipe Viana
+
+Status atual: Concluído
+Percentual de conclusão: 100.0%
+Data de início: 02/03/2024
+Data de término planejada: 25/10/2024
+Data de término real/prevista: 27/09/2024
+Atraso atual: 262 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.04
+Valor Planejado (PV): R$ 3447099.00
+Valor Agregado (EV): R$ 3447099.00
+
+Tarefas críticas:
+- Testes de aceitação do usuário
+- Testes de segurança
+- Migração de dados legados
+- Migração de dados legados
+- Implementação do módulo de notificações
+- Implementação da API REST
+- Testes de segurança
+
+Tarefas atrasadas:

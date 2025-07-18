@@ -1,0 +1,23 @@
+RELATÓRIO DE STATUS DE ESCOPO
+Projeto: A arte de atingir seus objetivos com força total (PROJ-0424)
+Data: 14/07/2025
+Gerente: Alice Martins
+
+Escopo original: Sistema para a arte de atingir seus objetivos com força total
+Houve mudança de escopo: Sim
+Descrição das mudanças: Adição de novos requisitos de segurança
+Impacto no cronograma: 51 dias
+Impacto no custo: R$ 144023.99
+
+Solicitações de mudança:
+- SCM-01: Alteração na interface do usuário
+- SCM-02: Alteração nos requisitos de desempenho
+- SCM-03: Alteração na interface do usuário
+- SCM-04: Implementação de módulo de exportação de dados
+
+Requisitos atuais:
+- REQ-01: O sistema deve ser compatível com navegadores modernos
+- REQ-02: O sistema deve registrar logs de auditoria
+- REQ-03: O sistema deve ter backup automático diário
+- REQ-04: O sistema deve permitir integração com APIs externas
+- REQ-05: O sistema deve ter backup automático diário

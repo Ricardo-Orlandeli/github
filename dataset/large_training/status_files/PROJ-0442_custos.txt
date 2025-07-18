@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O prazer de concretizar seus projetos em estado puro (PROJ-0442)
+Data: 14/07/2025
+Gerente: Davi Lucas Abreu
+
+Orçamento inicial: R$ 2767369.00
+Custo real atual: R$ 610488.95
+Desvio orçamentário: 27.58%
+Índice de Desempenho de Custo (CPI): 0.91
+Valor Agregado (EV): R$ 555433.00
+Estimativa para conclusão: R$ 2431188.81
+Estimativa no término (EAC): R$ 3041677.76
+Variação no término (VAC): R$ -274308.76
+
+Detalhamento por categoria:
+- Pessoal: R$ 285498.09 (46.8%)
+- Equipamentos: R$ 129564.24 (21.2%)
+- Software: R$ 33113.93 (5.4%)
+- Serviços: R$ 117124.81 (19.2%)
+- Outros: R$ 45187.88 (7.4%)

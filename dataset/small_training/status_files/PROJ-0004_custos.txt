@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A simplicidade de evoluir naturalmente (PROJ-0004)
+Data: 14/07/2025
+Gerente: Henry Gabriel Azevedo
+
+Orçamento inicial: R$ 2430572.00
+Custo real atual: R$ 2589875.42
+Desvio orçamentário: 6.55%
+Índice de Desempenho de Custo (CPI): 0.94
+Valor Agregado (EV): R$ 2430572.00
+Estimativa para conclusão: R$ 0.00
+Estimativa no término (EAC): R$ 2589875.42
+Variação no término (VAC): R$ -159303.42
+
+Detalhamento por categoria:
+- Pessoal: R$ 1193222.64 (46.1%)
+- Equipamentos: R$ 556316.14 (21.5%)
+- Software: R$ 209436.14 (8.1%)
+- Serviços: R$ 373467.02 (14.4%)
+- Outros: R$ 257433.47 (9.9%)

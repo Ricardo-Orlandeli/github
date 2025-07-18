@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A certeza de avançar com força total (PROJ-0968)
+Data: 14/07/2025
+Gerente: Theo Teixeira
+
+Orçamento inicial: R$ 4848241.00
+Custo real atual: R$ 3819919.02
+Desvio orçamentário: -21.21%
+Índice de Desempenho de Custo (CPI): 1.06
+Valor Agregado (EV): R$ 4030129.76
+Estimativa para conclusão: R$ 775438.72
+Estimativa no término (EAC): R$ 4595357.74
+Variação no término (VAC): R$ 252883.26
+
+Detalhamento por categoria:
+- Pessoal: R$ 1766705.09 (46.2%)
+- Equipamentos: R$ 514153.76 (13.5%)
+- Software: R$ 598738.58 (15.7%)
+- Serviços: R$ 659143.12 (17.3%)
+- Outros: R$ 281178.47 (7.4%)

@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A simplicidade de conseguir mais rapidamente (PROJ-0243)
+Data: 14/07/2025
+Gerente: Otávio Campos
+
+Orçamento inicial: R$ 1517333.00
+Custo real atual: R$ 1485103.94
+Desvio orçamentário: 715.63%
+Índice de Desempenho de Custo (CPI): 1.02
+Valor Agregado (EV): R$ 1517333.00
+Estimativa para conclusão: R$ 0.00
+Estimativa no término (EAC): R$ 1485103.94
+Variação no término (VAC): R$ 32229.06
+
+Detalhamento por categoria:
+- Pessoal: R$ 770930.13 (51.9%)
+- Equipamentos: R$ 261366.51 (17.6%)
+- Software: R$ 122716.20 (8.3%)
+- Serviços: R$ 208738.55 (14.1%)
+- Outros: R$ 121352.55 (8.2%)

@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O prazer de conseguir simplesmente (PROJ-0079)
+Data: 14/07/2025
+Gerente: Camila Sá
+
+Orçamento inicial: R$ 3907350.00
+Custo real atual: R$ 2602863.40
+Desvio orçamentário: 26.92%
+Índice de Desempenho de Custo (CPI): 0.87
+Valor Agregado (EV): R$ 2275483.83
+Estimativa para conclusão: R$ 1866646.85
+Estimativa no término (EAC): R$ 4469510.24
+Variação no término (VAC): R$ -562160.24
+
+Detalhamento por categoria:
+- Pessoal: R$ 1357977.10 (52.2%)
+- Equipamentos: R$ 438879.31 (16.9%)
+- Software: R$ 249893.82 (9.6%)
+- Serviços: R$ 405863.90 (15.6%)
+- Outros: R$ 150249.27 (5.8%)

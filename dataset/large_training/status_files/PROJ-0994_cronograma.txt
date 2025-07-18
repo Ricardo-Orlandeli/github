@@ -1,0 +1,22 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A simplicidade de mudar sem preocupação (PROJ-0994)
+Data: 14/07/2025
+Gerente: Dr. Vinicius Aragão
+
+Status atual: Cancelado
+Percentual de conclusão: 27.0%
+Data de início: 07/01/2025
+Data de término planejada: 23/09/2025
+Data de término real/prevista: 17/03/2025
+Atraso atual: 0 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 0.37
+Valor Planejado (PV): R$ 950610.02
+Valor Agregado (EV): R$ 353495.69
+
+Tarefas críticas:
+- Migração de dados legados
+- Implementação do módulo de notificações
+- Migração de dados legados
+
+Tarefas atrasadas:

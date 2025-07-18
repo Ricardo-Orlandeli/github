@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O direito de ganhar simplesmente (PROJ-0920)
+Data: 14/07/2025
+Gerente: Juan Câmara
+
+Orçamento inicial: R$ 4963601.00
+Custo real atual: R$ 4463589.60
+Desvio orçamentário: -10.07%
+Índice de Desempenho de Custo (CPI): 0.91
+Valor Agregado (EV): R$ 4067648.97
+Estimativa para conclusão: R$ 983163.05
+Estimativa no término (EAC): R$ 5446752.66
+Variação no término (VAC): R$ -483151.66
+
+Detalhamento por categoria:
+- Pessoal: R$ 1977224.53 (44.3%)
+- Equipamentos: R$ 533194.61 (11.9%)
+- Software: R$ 674407.79 (15.1%)
+- Serviços: R$ 853134.24 (19.1%)
+- Outros: R$ 425628.43 (9.5%)

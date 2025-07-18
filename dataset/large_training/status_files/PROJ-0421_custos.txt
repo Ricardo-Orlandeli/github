@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O conforto de avançar com força total (PROJ-0421)
+Data: 14/07/2025
+Gerente: João Pedro Pires
+
+Orçamento inicial: R$ 4521594.00
+Custo real atual: R$ 5021991.26
+Desvio orçamentário: 23.68%
+Índice de Desempenho de Custo (CPI): 0.90
+Valor Agregado (EV): R$ 4521594.00
+Estimativa para conclusão: R$ 0.00
+Estimativa no término (EAC): R$ 5021991.26
+Variação no término (VAC): R$ -500397.26
+
+Detalhamento por categoria:
+- Pessoal: R$ 2538673.31 (50.6%)
+- Equipamentos: R$ 897301.09 (17.9%)
+- Software: R$ 537223.93 (10.7%)
+- Serviços: R$ 634474.84 (12.6%)
+- Outros: R$ 414318.09 (8.3%)

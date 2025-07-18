@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O direito de inovar sem preocupação (PROJ-0303)
+Data: 14/07/2025
+Gerente: Srta. Ana Julia da Conceição
+
+Orçamento inicial: R$ 1678281.00
+Custo real atual: R$ 1823242.85
+Desvio orçamentário: 8.64%
+Índice de Desempenho de Custo (CPI): 0.92
+Valor Agregado (EV): R$ 1676602.72
+Estimativa para conclusão: R$ 1825.07
+Estimativa no término (EAC): R$ 1825067.92
+Variação no término (VAC): R$ -146786.92
+
+Detalhamento por categoria:
+- Pessoal: R$ 858114.95 (47.1%)
+- Equipamentos: R$ 220521.09 (12.1%)
+- Software: R$ 253131.84 (13.9%)
+- Serviços: R$ 312266.83 (17.1%)
+- Outros: R$ 179208.13 (9.8%)

@@ -1,0 +1,23 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A arte de atingir seus objetivos antes de tudo (PROJ-0156)
+Data: 14/07/2025
+Gerente: Jade Cardoso
+
+Status atual: Em andamento
+Percentual de conclusão: 81.6%
+Data de início: 17/07/2024
+Data de término planejada: 18/10/2024
+Data de término real/prevista: 17/10/2024
+Atraso atual: 269 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 0.93
+Valor Planejado (PV): R$ 1176870.00
+Valor Agregado (EV): R$ 960024.70
+
+Tarefas críticas:
+- Desenvolvimento da interface do usuário
+- Implementação do módulo de análise de dados
+- Testes de aceitação do usuário
+- Desenvolvimento do módulo de autenticação
+
+Tarefas atrasadas:

@@ -1,0 +1,23 @@
+RELATÓRIO DE STATUS DE ESCOPO
+Projeto: O direito de concretizar seus projetos com confiança (PROJ-0731)
+Data: 14/07/2025
+Gerente: Luiz Miguel Jesus
+
+Escopo original: Sistema para o direito de concretizar seus projetos com confiança
+Houve mudança de escopo: Não
+Descrição das mudanças: N/A
+Impacto no cronograma: 0 dias
+Impacto no custo: R$ 0.00
+
+Solicitações de mudança:
+
+Requisitos atuais:
+- REQ-01: O sistema deve passar por testes de segurança
+- REQ-02: O sistema deve processar transações em menos de 2 seconds
+- REQ-03: O sistema deve passar por testes de segurança
+- REQ-04: O sistema deve permitir integração com APIs externas
+- REQ-05: O sistema deve ter documentação completa
+- REQ-06: O sistema deve ter backup automático diário
+- REQ-07: O sistema deve permitir integração com APIs externas
+- REQ-08: O sistema deve implementar criptografia de dados sensíveis
+- REQ-09: O sistema deve ter interface responsiva

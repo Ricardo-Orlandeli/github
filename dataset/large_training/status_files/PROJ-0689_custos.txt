@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A segurança de conseguir mais rapidamente (PROJ-0689)
+Data: 14/07/2025
+Gerente: Raul Cunha
+
+Orçamento inicial: R$ 2953693.00
+Custo real atual: R$ 2929282.51
+Desvio orçamentário: -0.83%
+Índice de Desempenho de Custo (CPI): 0.83
+Valor Agregado (EV): R$ 2433486.63
+Estimativa para conclusão: R$ 626192.65
+Estimativa no término (EAC): R$ 3555475.16
+Variação no término (VAC): R$ -601782.16
+
+Detalhamento por categoria:
+- Pessoal: R$ 1720688.61 (58.7%)
+- Equipamentos: R$ 470919.42 (16.1%)
+- Software: R$ 240574.62 (8.2%)
+- Serviços: R$ 311851.34 (10.6%)
+- Outros: R$ 185248.53 (6.3%)

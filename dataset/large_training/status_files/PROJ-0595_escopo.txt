@@ -1,0 +1,27 @@
+RELATÓRIO DE STATUS DE ESCOPO
+Projeto: A certeza de inovar mais facilmente (PROJ-0595)
+Data: 14/07/2025
+Gerente: Ana Carolina Aparecida
+
+Escopo original: Sistema para a certeza de inovar mais facilmente
+Houve mudança de escopo: Sim
+Descrição das mudanças: Expansão do escopo para incluir funcionalidades adicionais
+Impacto no cronograma: 7 dias
+Impacto no custo: R$ 16617.58
+
+Solicitações de mudança:
+- SCM-01: Alteração nos requisitos de desempenho
+
+Requisitos atuais:
+- REQ-01: O sistema deve ter documentação completa
+- REQ-02: O sistema deve ter alta disponibilidade (99.9%)
+- REQ-03: O sistema deve registrar logs de auditoria
+- REQ-04: O sistema deve ter interface responsiva
+- REQ-05: O sistema deve processar transações em menos de 2 seconds
+- REQ-06: O sistema deve implementar criptografia de dados sensíveis
+- REQ-07: O sistema deve permitir exportação de dados em formato CSV
+- REQ-08: O sistema deve ser escalável para suportar até 10.000 usuários simultâneos
+- REQ-09: O sistema deve processar transações em menos de 2 seconds
+- REQ-10: O sistema deve permitir integração com APIs externas
+- REQ-11: O sistema deve ter interface responsiva
+- REQ-12: O sistema deve ser escalável para suportar até 10.000 usuários simultâneos

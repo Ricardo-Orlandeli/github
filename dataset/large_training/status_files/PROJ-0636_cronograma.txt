@@ -1,0 +1,23 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A liberdade de inovar mais facilmente (PROJ-0636)
+Data: 14/07/2025
+Gerente: Breno Novaes
+
+Status atual: Concluído
+Percentual de conclusão: 100.0%
+Data de início: 15/01/2025
+Data de término planejada: 30/08/2025
+Data de término real/prevista: 14/08/2025
+Atraso atual: 0 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 0.97
+Valor Planejado (PV): R$ 1659427.14
+Valor Agregado (EV): R$ 2092722.00
+
+Tarefas críticas:
+- Desenvolvimento do painel administrativo
+- Desenvolvimento da interface do usuário
+- Desenvolvimento do painel administrativo
+- Implementação do módulo de relatórios
+
+Tarefas atrasadas:

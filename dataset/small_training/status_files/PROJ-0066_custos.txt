@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A possibilidade de ganhar com toda a tranquilidade (PROJ-0066)
+Data: 14/07/2025
+Gerente: Ana Liz Gomes
+
+Orçamento inicial: R$ 3404403.00
+Custo real atual: R$ 2899579.40
+Desvio orçamentário: -14.83%
+Índice de Desempenho de Custo (CPI): 1.17
+Valor Agregado (EV): R$ 3400998.60
+Estimativa para conclusão: R$ 2902.48
+Estimativa no término (EAC): R$ 2902481.88
+Variação no término (VAC): R$ 501921.12
+
+Detalhamento por categoria:
+- Pessoal: R$ 1720801.24 (59.3%)
+- Equipamentos: R$ 346944.87 (12.0%)
+- Software: R$ 260063.19 (9.0%)
+- Serviços: R$ 312292.81 (10.8%)
+- Outros: R$ 259477.29 (8.9%)

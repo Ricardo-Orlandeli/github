@@ -1,0 +1,25 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A arte de atingir seus objetivos direto da fonte (PROJ-0306)
+Data: 14/07/2025
+Gerente: Letícia Sampaio
+
+Status atual: Em andamento
+Percentual de conclusão: 97.3%
+Data de início: 15/04/2024
+Data de término planejada: 05/09/2024
+Data de término real/prevista: 06/09/2024
+Atraso atual: 312 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.02
+Valor Planejado (PV): R$ 1715455.00
+Valor Agregado (EV): R$ 1668555.53
+
+Tarefas críticas:
+- Testes de segurança
+- Integração com sistema de pagamentos
+- Desenvolvimento da interface do usuário
+- Implementação da API REST
+- Migração de dados legados
+- Implementação do sistema de backup
+
+Tarefas atrasadas:

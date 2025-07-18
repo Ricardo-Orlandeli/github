@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A possibilidade de evoluir com força total (PROJ-0309)
+Data: 14/07/2025
+Gerente: Vicente Gonçalves
+
+Orçamento inicial: R$ 3845364.00
+Custo real atual: R$ 3125269.99
+Desvio orçamentário: -18.73%
+Índice de Desempenho de Custo (CPI): 1.23
+Valor Agregado (EV): R$ 3845364.00
+Estimativa para conclusão: R$ 0.00
+Estimativa no término (EAC): R$ 3125269.99
+Variação no término (VAC): R$ 720094.01
+
+Detalhamento por categoria:
+- Pessoal: R$ 1511599.89 (48.4%)
+- Equipamentos: R$ 542658.30 (17.4%)
+- Software: R$ 344903.59 (11.0%)
+- Serviços: R$ 458165.57 (14.7%)
+- Outros: R$ 267942.65 (8.6%)

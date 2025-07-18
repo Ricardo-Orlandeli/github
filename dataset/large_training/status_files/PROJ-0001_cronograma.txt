@@ -1,0 +1,25 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A liberdade de ganhar mais facilmente (PROJ-0001)
+Data: 14/07/2025
+Gerente: Clara Cardoso
+
+Status atual: Em andamento
+Percentual de conclusão: 99.9%
+Data de início: 15/03/2025
+Data de término planejada: 31/07/2025
+Data de término real/prevista: 24/08/2025
+Atraso atual: 0 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.02
+Valor Planejado (PV): R$ 97900.40
+Valor Agregado (EV): R$ 111543.35
+
+Tarefas críticas:
+- Desenvolvimento da interface do usuário
+- Implementação do módulo de relatórios
+- Desenvolvimento do módulo de autenticação
+- Testes de aceitação do usuário
+- Implementação do módulo de exportação de dados
+- Desenvolvimento do módulo de autenticação
+
+Tarefas atrasadas:

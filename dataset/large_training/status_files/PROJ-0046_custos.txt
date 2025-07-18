@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A segurança de concretizar seus projetos naturalmente (PROJ-0046)
+Data: 14/07/2025
+Gerente: Cauê Lopes
+
+Orçamento inicial: R$ 1020194.00
+Custo real atual: R$ 1014792.80
+Desvio orçamentário: -0.53%
+Índice de Desempenho de Custo (CPI): 1.00
+Valor Agregado (EV): R$ 1019173.81
+Estimativa para conclusão: R$ 1015.81
+Estimativa no término (EAC): R$ 1015808.61
+Variação no término (VAC): R$ 4385.39
+
+Detalhamento por categoria:
+- Pessoal: R$ 511512.64 (50.4%)
+- Equipamentos: R$ 110166.32 (10.9%)
+- Software: R$ 147924.37 (14.6%)
+- Serviços: R$ 159712.06 (15.7%)
+- Outros: R$ 85477.42 (8.4%)

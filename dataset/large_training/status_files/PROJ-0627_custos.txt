@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O conforto de mudar sem preocupação (PROJ-0627)
+Data: 14/07/2025
+Gerente: Dra. Stephany Sampaio
+
+Orçamento inicial: R$ 4944259.00
+Custo real atual: R$ 5560124.98
+Desvio orçamentário: 12.46%
+Índice de Desempenho de Custo (CPI): 0.89
+Valor Agregado (EV): R$ 4944259.00
+Estimativa para conclusão: R$ 0.00
+Estimativa no término (EAC): R$ 5560124.98
+Variação no término (VAC): R$ -615865.98
+
+Detalhamento por categoria:
+- Pessoal: R$ 2519281.15 (45.3%)
+- Equipamentos: R$ 1022936.87 (18.4%)
+- Software: R$ 823304.93 (14.8%)
+- Serviços: R$ 902157.73 (16.2%)
+- Outros: R$ 292444.30 (5.3%)

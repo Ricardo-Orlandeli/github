@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A simplicidade de conseguir direto da fonte (PROJ-0951)
+Data: 14/07/2025
+Gerente: Sofia Azevedo
+
+Orçamento inicial: R$ 1101920.00
+Custo real atual: R$ 799464.22
+Desvio orçamentário: -16.40%
+Índice de Desempenho de Custo (CPI): 0.78
+Valor Agregado (EV): R$ 620757.05
+Estimativa para conclusão: R$ 619682.96
+Estimativa no término (EAC): R$ 1419147.18
+Variação no término (VAC): R$ -317227.18
+
+Detalhamento por categoria:
+- Pessoal: R$ 381318.35 (47.7%)
+- Equipamentos: R$ 145538.04 (18.2%)
+- Software: R$ 85928.49 (10.7%)
+- Serviços: R$ 119360.76 (14.9%)
+- Outros: R$ 67318.59 (8.4%)

@@ -1,0 +1,27 @@
+RELATÓRIO DE STATUS DE RISCOS
+Projeto: A possibilidade de concretizar seus projetos com toda a tranquilidade (PROJ-0064)
+Data: 14/07/2025
+Gerente: Milena Porto
+
+Riscos identificados:
+- R01: Problemas de comunicação com stakeholders
+  Probabilidade: 3/5, Impacto: 3/5, Nível: Médio
+  Mitigação: Fortalecer medidas de segurança
+
+- R02: Falhas de segurança
+  Probabilidade: 1/5, Impacto: 5/5, Nível: Baixo
+  Mitigação: Implementar plano de contingência
+
+- R03: Problemas de comunicação com stakeholders
+  Probabilidade: 2/5, Impacto: 5/5, Nível: Médio
+  Mitigação: Refinar estimativas com base em dados históricos
+
+Riscos ocorridos:
+- R03 (ocorrido em 21/11/2024)
+  Impacto real: Redução de funcionalidades
+  Ações tomadas: Implementação do plano de contingência
+
+- R01 (ocorrido em 24/06/2025)
+  Impacto real: Retrabalho significativo
+  Ações tomadas: Revisão do orçamento
+

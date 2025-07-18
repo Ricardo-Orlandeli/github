@@ -1,0 +1,26 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A certeza de evoluir antes de tudo (PROJ-0949)
+Data: 14/07/2025
+Gerente: Enrico Mendonça
+
+Status atual: Em andamento
+Percentual de conclusão: 17.0%
+Data de início: 09/06/2025
+Data de término planejada: 11/12/2025
+Data de término real/prevista: 07/01/2026
+Atraso atual: 0 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.04
+Valor Planejado (PV): R$ 320162.41
+Valor Agregado (EV): R$ 288235.75
+
+Tarefas críticas:
+- Implementação do módulo de notificações
+- Testes de segurança
+- Implementação do módulo de notificações
+- Configuração da infraestrutura
+- Implementação da API REST
+- Desenvolvimento do módulo de autenticação
+- Configuração da infraestrutura
+
+Tarefas atrasadas:

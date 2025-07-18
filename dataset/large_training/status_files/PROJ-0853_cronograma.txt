@@ -1,0 +1,26 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A arte de ganhar antes de tudo (PROJ-0853)
+Data: 14/07/2025
+Gerente: Luan Jesus
+
+Status atual: Atrasado
+Percentual de conclusão: 68.1%
+Data de início: 12/10/2024
+Data de término planejada: 22/07/2025
+Data de término real/prevista: 09/09/2025
+Atraso atual: 0 dias
+Motivo do atraso: Rotatividade de pessoal-chave
+Índice de Desempenho de Cronograma (SPI): 0.70
+Valor Planejado (PV): R$ 2256239.93
+Valor Agregado (EV): R$ 1580893.98
+
+Tarefas críticas:
+- Implementação do sistema de backup
+- Implementação do módulo de exportação de dados
+- Implementação do módulo de relatórios
+- Implementação do módulo de análise de dados
+- Configuração do ambiente de produção
+
+Tarefas atrasadas:
+- Implementação do módulo de relatórios
+- Implementação do sistema de backup

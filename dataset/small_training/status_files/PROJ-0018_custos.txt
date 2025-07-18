@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A vantagem de concretizar seus projetos com toda a tranquilidade (PROJ-0018)
+Data: 14/07/2025
+Gerente: Juan Fogaça
+
+Orçamento inicial: R$ 1015405.00
+Custo real atual: R$ 870119.97
+Desvio orçamentário: -14.31%
+Índice de Desempenho de Custo (CPI): 0.94
+Valor Agregado (EV): R$ 821497.22
+Estimativa para conclusão: R$ 205384.79
+Estimativa no término (EAC): R$ 1075504.76
+Variação no término (VAC): R$ -60099.76
+
+Detalhamento por categoria:
+- Pessoal: R$ 427474.43 (49.1%)
+- Equipamentos: R$ 195916.81 (22.5%)
+- Software: R$ 73463.89 (8.4%)
+- Serviços: R$ 115981.19 (13.3%)
+- Outros: R$ 57283.64 (6.6%)

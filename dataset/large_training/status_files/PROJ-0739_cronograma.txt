@@ -1,0 +1,25 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: O prazer de concretizar seus projetos antes de tudo (PROJ-0739)
+Data: 14/07/2025
+Gerente: Théo Aragão
+
+Status atual: Em andamento
+Percentual de conclusão: 82.4%
+Data de início: 01/01/2024
+Data de término planejada: 05/10/2024
+Data de término real/prevista: 13/10/2024
+Atraso atual: 282 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.14
+Valor Planejado (PV): R$ 4061709.00
+Valor Agregado (EV): R$ 3345205.14
+
+Tarefas críticas:
+- Implementação do módulo de análise de dados
+- Desenvolvimento do painel administrativo
+- Implementação do módulo de notificações
+- Implementação do sistema de backup
+- Configuração do ambiente de produção
+- Implementação do módulo de relatórios
+
+Tarefas atrasadas:

@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O direito de evoluir mais rapidamente (PROJ-0089)
+Data: 14/07/2025
+Gerente: Melina Castro
+
+Orçamento inicial: R$ 3022716.00
+Custo real atual: R$ 3183967.67
+Desvio orçamentário: 5.33%
+Índice de Desempenho de Custo (CPI): 0.91
+Valor Agregado (EV): R$ 2902764.96
+Estimativa para conclusão: R$ 131571.19
+Estimativa no término (EAC): R$ 3315538.86
+Variação no término (VAC): R$ -292822.86
+
+Detalhamento por categoria:
+- Pessoal: R$ 1485487.60 (46.7%)
+- Equipamentos: R$ 553970.22 (17.4%)
+- Software: R$ 325548.11 (10.2%)
+- Serviços: R$ 604988.22 (19.0%)
+- Outros: R$ 213973.52 (6.7%)

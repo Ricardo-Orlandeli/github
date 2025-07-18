@@ -1,0 +1,26 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A possibilidade de ganhar sem preocupação (PROJ-0611)
+Data: 14/07/2025
+Gerente: Ana Júlia Barbosa
+
+Status atual: Em andamento
+Percentual de conclusão: 99.9%
+Data de início: 01/07/2024
+Data de término planejada: 29/03/2025
+Data de término real/prevista: 19/03/2025
+Atraso atual: 107 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.07
+Valor Planejado (PV): R$ 370547.00
+Valor Agregado (EV): R$ 370176.45
+
+Tarefas críticas:
+- Implementação da API REST
+- Implementação do módulo de relatórios
+- Implementação do módulo de notificações
+- Migração de dados legados
+- Implementação do módulo de notificações
+- Desenvolvimento da interface do usuário
+- Implementação do sistema de backup
+
+Tarefas atrasadas:

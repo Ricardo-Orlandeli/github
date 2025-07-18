@@ -1,0 +1,27 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: O prazer de conseguir com confiança (PROJ-0559)
+Data: 14/07/2025
+Gerente: Sabrina Cavalcante
+
+Status atual: Em andamento
+Percentual de conclusão: 99.9%
+Data de início: 17/01/2024
+Data de término planejada: 13/09/2024
+Data de término real/prevista: 30/09/2024
+Atraso atual: 304 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 0.93
+Valor Planejado (PV): R$ 4650111.00
+Valor Agregado (EV): R$ 4645460.89
+
+Tarefas críticas:
+- Testes de aceitação do usuário
+- Configuração da infraestrutura
+- Implementação do módulo de exportação de dados
+- Implementação do módulo de exportação de dados
+- Configuração da infraestrutura
+- Implementação do módulo de análise de dados
+- Configuração do ambiente de produção
+- Integração com sistema de pagamentos
+
+Tarefas atrasadas:

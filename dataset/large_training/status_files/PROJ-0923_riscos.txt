@@ -1,0 +1,35 @@
+RELATÓRIO DE STATUS DE RISCOS
+Projeto: A liberdade de realizar seus sonhos direto da fonte (PROJ-0923)
+Data: 14/07/2025
+Gerente: Samuel da Costa
+
+Riscos identificados:
+- R01: Problemas de comunicação com stakeholders
+  Probabilidade: 1/5, Impacto: 5/5, Nível: Baixo
+  Mitigação: Realizar testes de aceitação com usuários-chave
+
+- R02: Falhas de infraestrutura
+  Probabilidade: 4/5, Impacto: 3/5, Nível: Médio
+  Mitigação: Melhorar a documentação de requisitos
+
+- R03: Estimativas imprecisas
+  Probabilidade: 2/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Realizar testes de integração antecipados
+
+- R04: Rotatividade de pessoal-chave
+  Probabilidade: 1/5, Impacto: 4/5, Nível: Baixo
+  Mitigação: Implementar plano de contingência
+
+- R05: Problemas de integração com sistemas legados
+  Probabilidade: 4/5, Impacto: 3/5, Nível: Médio
+  Mitigação: Melhorar a documentação de requisitos
+
+Riscos ocorridos:
+- R03 (ocorrido em 11/04/2024)
+  Impacto real: Falhas de segurança
+  Ações tomadas: Ajuste no cronograma
+
+- R01 (ocorrido em 29/07/2024)
+  Impacto real: Perda de recursos-chave
+  Ações tomadas: Comunicação intensificada com stakeholders
+

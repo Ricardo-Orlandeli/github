@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A simplicidade de mudar sem preocupação (PROJ-0899)
+Data: 14/07/2025
+Gerente: Nicole Sousa
+
+Orçamento inicial: R$ 4812534.00
+Custo real atual: R$ 5365604.66
+Desvio orçamentário: 11.49%
+Índice de Desempenho de Custo (CPI): 0.84
+Valor Agregado (EV): R$ 4531984.84
+Estimativa para conclusão: R$ 332153.78
+Estimativa no término (EAC): R$ 5697758.44
+Variação no término (VAC): R$ -885224.44
+
+Detalhamento por categoria:
+- Pessoal: R$ 2648106.97 (49.4%)
+- Equipamentos: R$ 717444.83 (13.4%)
+- Software: R$ 487647.12 (9.1%)
+- Serviços: R$ 1080605.38 (20.1%)
+- Outros: R$ 431800.36 (8.0%)

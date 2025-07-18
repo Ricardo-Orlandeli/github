@@ -1,0 +1,19 @@
+RELATÓRIO DE STATUS DE ESCOPO
+Projeto: O conforto de evoluir antes de tudo (PROJ-0755)
+Data: 14/07/2025
+Gerente: Luana Albuquerque
+
+Escopo original: Sistema para o conforto de evoluir antes de tudo
+Houve mudança de escopo: Não
+Descrição das mudanças: N/A
+Impacto no cronograma: 0 dias
+Impacto no custo: R$ 0.00
+
+Solicitações de mudança:
+
+Requisitos atuais:
+- REQ-01: O sistema deve ser compatível com dispositivos móveis
+- REQ-02: O sistema deve ter controle de acesso baseado em perfis
+- REQ-03: O sistema deve processar transações em menos de 2 seconds
+- REQ-04: O sistema deve ter backup automático diário
+- REQ-05: O sistema deve ser compatível com navegadores modernos

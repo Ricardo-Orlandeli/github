@@ -1,0 +1,27 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: O poder de mudar com toda a tranquilidade (PROJ-0200)
+Data: 14/07/2025
+Gerente: Srta. Clarice Nogueira
+
+Status atual: Concluído
+Percentual de conclusão: 100.0%
+Data de início: 15/09/2023
+Data de término planejada: 09/05/2024
+Data de término real/prevista: 30/05/2024
+Atraso atual: 431 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.08
+Valor Planejado (PV): R$ 1648371.00
+Valor Agregado (EV): R$ 1648371.00
+
+Tarefas críticas:
+- Testes de aceitação do usuário
+- Implementação do sistema de backup
+- Implementação do módulo de relatórios
+- Integração com sistema de pagamentos
+- Implementação da API REST
+- Implementação do módulo de relatórios
+- Configuração da infraestrutura
+- Implementação do módulo de relatórios
+
+Tarefas atrasadas:

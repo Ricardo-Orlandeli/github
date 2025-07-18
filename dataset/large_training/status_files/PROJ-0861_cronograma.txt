@@ -1,0 +1,30 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A arte de realizar seus sonhos direto da fonte (PROJ-0861)
+Data: 14/07/2025
+Gerente: Kamilly Novaes
+
+Status atual: Atrasado
+Percentual de conclusão: 69.1%
+Data de início: 04/02/2024
+Data de término planejada: 12/11/2024
+Data de término real/prevista: 28/04/2025
+Atraso atual: 244 dias
+Motivo do atraso: Atraso na entrega de componentes por fornecedores
+Índice de Desempenho de Cronograma (SPI): 0.69
+Valor Planejado (PV): R$ 3066787.00
+Valor Agregado (EV): R$ 2117826.08
+
+Tarefas críticas:
+- Desenvolvimento do painel administrativo
+- Desenvolvimento do painel administrativo
+- Desenvolvimento do módulo de autenticação
+- Implementação do módulo de relatórios
+- Implementação do módulo de relatórios
+- Desenvolvimento da interface do usuário
+- Implementação da API REST
+- Implementação do sistema de backup
+
+Tarefas atrasadas:
+- Implementação da API REST
+- Implementação do módulo de relatórios
+- Desenvolvimento da interface do usuário

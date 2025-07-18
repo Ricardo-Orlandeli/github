@@ -1,0 +1,25 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: O poder de avançar antes de tudo (PROJ-0283)
+Data: 14/07/2025
+Gerente: Srta. Cecília Castro
+
+Status atual: Em andamento
+Percentual de conclusão: 99.9%
+Data de início: 29/12/2023
+Data de término planejada: 06/04/2024
+Data de término real/prevista: 10/04/2024
+Atraso atual: 464 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 0.95
+Valor Planejado (PV): R$ 2777418.00
+Valor Agregado (EV): R$ 2774640.58
+
+Tarefas críticas:
+- Migração de dados legados
+- Desenvolvimento do módulo de autenticação
+- Configuração do ambiente de produção
+- Configuração do ambiente de produção
+- Implementação do módulo de análise de dados
+- Implementação do módulo de relatórios
+
+Tarefas atrasadas:

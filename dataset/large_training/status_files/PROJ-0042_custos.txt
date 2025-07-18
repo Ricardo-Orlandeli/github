@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A certeza de avançar naturalmente (PROJ-0042)
+Data: 14/07/2025
+Gerente: Luiz Miguel Lopes
+
+Orçamento inicial: R$ 1322004.00
+Custo real atual: R$ 340078.81
+Desvio orçamentário: 14.33%
+Índice de Desempenho de Custo (CPI): 0.91
+Valor Agregado (EV): R$ 308327.18
+Estimativa para conclusão: R$ 1118065.60
+Estimativa no término (EAC): R$ 1458144.42
+Variação no término (VAC): R$ -136140.42
+
+Detalhamento por categoria:
+- Pessoal: R$ 171972.24 (50.6%)
+- Equipamentos: R$ 51396.87 (15.1%)
+- Software: R$ 34479.75 (10.1%)
+- Serviços: R$ 61573.57 (18.1%)
+- Outros: R$ 20656.39 (6.1%)

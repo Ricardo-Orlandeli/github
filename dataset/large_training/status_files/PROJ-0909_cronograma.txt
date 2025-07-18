@@ -1,0 +1,27 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A certeza de concretizar seus projetos com força total (PROJ-0909)
+Data: 14/07/2025
+Gerente: Erick Rocha
+
+Status atual: Atrasado
+Percentual de conclusão: 69.8%
+Data de início: 18/12/2024
+Data de término planejada: 31/01/2025
+Data de término real/prevista: 02/03/2025
+Atraso atual: 164 dias
+Motivo do atraso: Rotatividade de pessoal-chave
+Índice de Desempenho de Cronograma (SPI): 0.70
+Valor Planejado (PV): R$ 1531739.00
+Valor Agregado (EV): R$ 1068478.13
+
+Tarefas críticas:
+- Desenvolvimento do módulo de autenticação
+- Implementação da API REST
+- Integração com sistema de pagamentos
+- Testes de aceitação do usuário
+- Testes de segurança
+
+Tarefas atrasadas:
+- Desenvolvimento do módulo de autenticação
+- Testes de segurança
+- Testes de aceitação do usuário

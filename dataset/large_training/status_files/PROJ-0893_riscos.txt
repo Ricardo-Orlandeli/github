@@ -1,0 +1,31 @@
+RELATÓRIO DE STATUS DE RISCOS
+Projeto: O prazer de evoluir sem preocupação (PROJ-0893)
+Data: 14/07/2025
+Gerente: Dra. Nina Albuquerque
+
+Riscos identificados:
+- R01: Falhas em testes de aceitação
+  Probabilidade: 2/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Implementar redundância de infraestrutura
+
+- R02: Falhas de infraestrutura
+  Probabilidade: 3/5, Impacto: 2/5, Nível: Baixo
+  Mitigação: Melhorar a documentação de requisitos
+
+- R03: Problemas de desempenho
+  Probabilidade: 1/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Contratar pessoal adicional
+
+- R04: Dependências externas não cumpridas
+  Probabilidade: 2/5, Impacto: 2/5, Nível: Baixo
+  Mitigação: Buscar fornecedores alternativos
+
+Riscos ocorridos:
+- R03 (ocorrido em 28/01/2025)
+  Impacto real: Retrabalho significativo
+  Ações tomadas: Implementação de soluções alternativas
+
+- R02 (ocorrido em 19/01/2025)
+  Impacto real: Indisponibilidade temporária
+  Ações tomadas: Implementação de controles adicionais
+

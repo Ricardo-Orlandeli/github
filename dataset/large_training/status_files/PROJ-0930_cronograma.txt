@@ -1,0 +1,27 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A possibilidade de realizar seus sonhos sem preocupação (PROJ-0930)
+Data: 14/07/2025
+Gerente: Asafe Leão
+
+Status atual: Em andamento
+Percentual de conclusão: 92.7%
+Data de início: 05/06/2024
+Data de término planejada: 22/08/2024
+Data de término real/prevista: 19/08/2024
+Atraso atual: 326 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.12
+Valor Planejado (PV): R$ 1286905.00
+Valor Agregado (EV): R$ 1192638.91
+
+Tarefas críticas:
+- Implementação do módulo de relatórios
+- Configuração do ambiente de produção
+- Implementação da API REST
+- Testes de segurança
+- Configuração do ambiente de produção
+- Implementação do módulo de exportação de dados
+- Integração com sistema de pagamentos
+- Testes de segurança
+
+Tarefas atrasadas:

@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O prazer de concretizar seus projetos mais rapidamente (PROJ-0476)
+Data: 14/07/2025
+Gerente: Dr. Luan Nascimento
+
+Orçamento inicial: R$ 1737180.00
+Custo real atual: R$ 1556013.68
+Desvio orçamentário: -10.43%
+Índice de Desempenho de Custo (CPI): 1.12
+Valor Agregado (EV): R$ 1737180.00
+Estimativa para conclusão: R$ 0.00
+Estimativa no término (EAC): R$ 1556013.68
+Variação no término (VAC): R$ 181166.32
+
+Detalhamento por categoria:
+- Pessoal: R$ 741565.37 (47.7%)
+- Equipamentos: R$ 205865.02 (13.2%)
+- Software: R$ 176906.22 (11.4%)
+- Serviços: R$ 294116.50 (18.9%)
+- Outros: R$ 137560.57 (8.8%)

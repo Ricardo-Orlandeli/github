@@ -1,0 +1,25 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: O conforto de evoluir simplesmente (PROJ-0052)
+Data: 14/07/2025
+Gerente: Emanuella Novais
+
+Status atual: Concluído
+Percentual de conclusão: 100.0%
+Data de início: 26/06/2025
+Data de término planejada: 03/12/2025
+Data de término real/prevista: 04/11/2025
+Atraso atual: 0 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.05
+Valor Planejado (PV): R$ 480734.89
+Valor Agregado (EV): R$ 4273199.00
+
+Tarefas críticas:
+- Implementação do sistema de backup
+- Configuração da infraestrutura
+- Configuração do ambiente de produção
+- Implementação do sistema de backup
+- Integração com sistema de pagamentos
+- Integração com sistema de pagamentos
+
+Tarefas atrasadas:

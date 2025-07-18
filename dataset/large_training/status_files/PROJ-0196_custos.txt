@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A arte de realizar seus sonhos em estado puro (PROJ-0196)
+Data: 14/07/2025
+Gerente: Gustavo Barbosa
+
+Orçamento inicial: R$ 945628.00
+Custo real atual: R$ 364640.03
+Desvio orçamentário: 5.13%
+Índice de Desempenho de Custo (CPI): 1.06
+Valor Agregado (EV): R$ 387436.16
+Estimativa para conclusão: R$ 525348.72
+Estimativa no término (EAC): R$ 889988.75
+Variação no término (VAC): R$ 55639.25
+
+Detalhamento por categoria:
+- Pessoal: R$ 186332.34 (51.1%)
+- Equipamentos: R$ 61127.73 (16.8%)
+- Software: R$ 24245.06 (6.6%)
+- Serviços: R$ 61491.75 (16.9%)
+- Outros: R$ 31443.15 (8.6%)

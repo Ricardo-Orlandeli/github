@@ -1,0 +1,21 @@
+RELATÓRIO DE STATUS DE ESCOPO
+Projeto: O prazer de evoluir sem preocupação (PROJ-0900)
+Data: 14/07/2025
+Gerente: Sophie Sales
+
+Escopo original: Sistema para o prazer de evoluir sem preocupação
+Houve mudança de escopo: Sim
+Descrição das mudanças: Adição de novos requisitos de segurança
+Impacto no cronograma: 52 dias
+Impacto no custo: R$ 149582.65
+
+Solicitações de mudança:
+- SCM-01: Mudança na arquitetura do sistema
+
+Requisitos atuais:
+- REQ-01: O sistema deve ter controle de acesso baseado em perfis
+- REQ-02: O sistema deve ser escalável para suportar até 10.000 usuários simultâneos
+- REQ-03: O sistema deve registrar logs de auditoria
+- REQ-04: O sistema deve passar por testes de segurança
+- REQ-05: O sistema deve ter controle de acesso baseado em perfis
+- REQ-06: O sistema deve implementar criptografia de dados sensíveis

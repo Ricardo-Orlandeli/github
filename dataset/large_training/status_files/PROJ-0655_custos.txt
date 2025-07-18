@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A certeza de mudar com força total (PROJ-0655)
+Data: 14/07/2025
+Gerente: Natália Alves
+
+Orçamento inicial: R$ 4852732.00
+Custo real atual: R$ 5187154.20
+Desvio orçamentário: 6.89%
+Índice de Desempenho de Custo (CPI): 0.93
+Valor Agregado (EV): R$ 4847879.27
+Estimativa para conclusão: R$ 5192.35
+Estimativa no término (EAC): R$ 5192346.55
+Variação no término (VAC): R$ -339614.55
+
+Detalhamento por categoria:
+- Pessoal: R$ 2661963.80 (51.3%)
+- Equipamentos: R$ 965798.70 (18.6%)
+- Software: R$ 356360.95 (6.9%)
+- Serviços: R$ 672396.24 (13.0%)
+- Outros: R$ 530634.51 (10.2%)

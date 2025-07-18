@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O conforto de conseguir de maneira eficaz (PROJ-0931)
+Data: 14/07/2025
+Gerente: Nina Moura
+
+Orçamento inicial: R$ 4562866.00
+Custo real atual: R$ 3921212.32
+Desvio orçamentário: -14.06%
+Índice de Desempenho de Custo (CPI): 1.16
+Valor Agregado (EV): R$ 4558303.13
+Estimativa para conclusão: R$ 3925.14
+Estimativa no término (EAC): R$ 3925137.46
+Variação no término (VAC): R$ 637728.54
+
+Detalhamento por categoria:
+- Pessoal: R$ 2038324.95 (52.0%)
+- Equipamentos: R$ 717670.51 (18.3%)
+- Software: R$ 229923.38 (5.9%)
+- Serviços: R$ 706673.96 (18.0%)
+- Outros: R$ 228619.51 (5.8%)

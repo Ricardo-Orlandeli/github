@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O conforto de ganhar de maneira eficaz (PROJ-0161)
+Data: 14/07/2025
+Gerente: Natália Oliveira
+
+Orçamento inicial: R$ 4826212.00
+Custo real atual: R$ 4851928.46
+Desvio orçamentário: 0.53%
+Índice de Desempenho de Custo (CPI): 0.99
+Valor Agregado (EV): R$ 4821385.79
+Estimativa para conclusão: R$ 4856.79
+Estimativa no término (EAC): R$ 4856785.25
+Variação no término (VAC): R$ -30573.25
+
+Detalhamento por categoria:
+- Pessoal: R$ 2257901.09 (46.5%)
+- Equipamentos: R$ 845494.84 (17.4%)
+- Software: R$ 369786.06 (7.6%)
+- Serviços: R$ 1020301.26 (21.0%)
+- Outros: R$ 358445.21 (7.4%)

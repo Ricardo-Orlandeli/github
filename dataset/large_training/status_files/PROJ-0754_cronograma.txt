@@ -1,0 +1,24 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: O poder de atingir seus objetivos mais facilmente (PROJ-0754)
+Data: 14/07/2025
+Gerente: João Pedro Barros
+
+Status atual: Em andamento
+Percentual de conclusão: 90.0%
+Data de início: 02/08/2024
+Data de término planejada: 22/11/2024
+Data de término real/prevista: 04/12/2024
+Atraso atual: 234 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 0.89
+Valor Planejado (PV): R$ 1658555.00
+Valor Agregado (EV): R$ 1492334.49
+
+Tarefas críticas:
+- Desenvolvimento do módulo de autenticação
+- Integração com sistema de pagamentos
+- Implementação do módulo de análise de dados
+- Desenvolvimento do módulo de autenticação
+- Desenvolvimento da interface do usuário
+
+Tarefas atrasadas:

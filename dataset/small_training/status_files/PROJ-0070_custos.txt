@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A segurança de conseguir em estado puro (PROJ-0070)
+Data: 14/07/2025
+Gerente: Maria Alice Montenegro
+
+Orçamento inicial: R$ 4020000.00
+Custo real atual: R$ 2337485.73
+Desvio orçamentário: 26.30%
+Índice de Desempenho de Custo (CPI): 0.94
+Valor Agregado (EV): R$ 2204932.19
+Estimativa para conclusão: R$ 1924183.94
+Estimativa no término (EAC): R$ 4261669.67
+Variação no término (VAC): R$ -241669.67
+
+Detalhamento por categoria:
+- Pessoal: R$ 1113703.52 (47.6%)
+- Equipamentos: R$ 411283.37 (17.6%)
+- Software: R$ 141467.93 (6.1%)
+- Serviços: R$ 487384.98 (20.9%)
+- Outros: R$ 183645.92 (7.9%)

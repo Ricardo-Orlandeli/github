@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A arte de ganhar mais facilmente (PROJ-0487)
+Data: 14/07/2025
+Gerente: Isadora Guerra
+
+Orçamento inicial: R$ 1617371.00
+Custo real atual: R$ 1317161.76
+Desvio orçamentário: -18.56%
+Índice de Desempenho de Custo (CPI): 0.70
+Valor Agregado (EV): R$ 921078.05
+Estimativa para conclusão: R$ 995714.14
+Estimativa no término (EAC): R$ 2312875.91
+Variação no término (VAC): R$ -695504.91
+
+Detalhamento por categoria:
+- Pessoal: R$ 566020.36 (43.0%)
+- Equipamentos: R$ 280808.78 (21.3%)
+- Software: R$ 168986.89 (12.8%)
+- Serviços: R$ 176192.44 (13.4%)
+- Outros: R$ 125153.30 (9.5%)

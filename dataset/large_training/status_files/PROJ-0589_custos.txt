@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O conforto de ganhar simplesmente (PROJ-0589)
+Data: 14/07/2025
+Gerente: Camila da Cruz
+
+Orçamento inicial: R$ 4569388.00
+Custo real atual: R$ 4430875.66
+Desvio orçamentário: -3.03%
+Índice de Desempenho de Custo (CPI): 1.00
+Valor Agregado (EV): R$ 4445297.73
+Estimativa para conclusão: R$ 123687.68
+Estimativa no término (EAC): R$ 4554563.34
+Variação no término (VAC): R$ 14824.66
+
+Detalhamento por categoria:
+- Pessoal: R$ 2196335.79 (49.6%)
+- Equipamentos: R$ 827877.86 (18.7%)
+- Software: R$ 315339.21 (7.1%)
+- Serviços: R$ 778842.09 (17.6%)
+- Outros: R$ 312480.71 (7.1%)

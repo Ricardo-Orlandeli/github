@@ -1,0 +1,27 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A vantagem de avançar com força total (PROJ-0508)
+Data: 14/07/2025
+Gerente: Amanda Abreu
+
+Status atual: Concluído
+Percentual de conclusão: 100.0%
+Data de início: 14/10/2023
+Data de término planejada: 15/03/2024
+Data de término real/prevista: 28/02/2024
+Atraso atual: 486 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 0.97
+Valor Planejado (PV): R$ 1854500.00
+Valor Agregado (EV): R$ 1854500.00
+
+Tarefas críticas:
+- Desenvolvimento do painel administrativo
+- Configuração da infraestrutura
+- Testes de segurança
+- Desenvolvimento do painel administrativo
+- Implementação do sistema de backup
+- Implementação da API REST
+- Desenvolvimento do painel administrativo
+- Implementação do sistema de backup
+
+Tarefas atrasadas:

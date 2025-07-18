@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A segurança de concretizar seus projetos antes de tudo (PROJ-0602)
+Data: 14/07/2025
+Gerente: Catarina Dias
+
+Orçamento inicial: R$ 4092671.00
+Custo real atual: R$ 3292521.44
+Desvio orçamentário: -19.55%
+Índice de Desempenho de Custo (CPI): 0.94
+Valor Agregado (EV): R$ 3083174.72
+Estimativa para conclusão: R$ 1078040.79
+Estimativa no término (EAC): R$ 4370562.23
+Variação no término (VAC): R$ -277891.23
+
+Detalhamento por categoria:
+- Pessoal: R$ 1761305.46 (53.5%)
+- Equipamentos: R$ 429495.32 (13.0%)
+- Software: R$ 287225.44 (8.7%)
+- Serviços: R$ 514897.49 (15.6%)
+- Outros: R$ 299597.74 (9.1%)

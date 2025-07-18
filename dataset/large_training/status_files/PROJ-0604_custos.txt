@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O direito de inovar com força total (PROJ-0604)
+Data: 14/07/2025
+Gerente: Eduarda Fonseca
+
+Orçamento inicial: R$ 2270759.00
+Custo real atual: R$ 2619099.20
+Desvio orçamentário: 15.34%
+Índice de Desempenho de Custo (CPI): 0.87
+Valor Agregado (EV): R$ 2270759.00
+Estimativa para conclusão: R$ 0.00
+Estimativa no término (EAC): R$ 2619099.20
+Variação no término (VAC): R$ -348340.20
+
+Detalhamento por categoria:
+- Pessoal: R$ 1391201.72 (53.1%)
+- Equipamentos: R$ 483189.37 (18.4%)
+- Software: R$ 198425.94 (7.6%)
+- Serviços: R$ 388451.10 (14.8%)
+- Outros: R$ 157831.07 (6.0%)

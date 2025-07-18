@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A certeza de mudar com força total (PROJ-0208)
+Data: 14/07/2025
+Gerente: João Castro
+
+Orçamento inicial: R$ 1745821.00
+Custo real atual: R$ 1181973.25
+Desvio orçamentário: -32.30%
+Índice de Desempenho de Custo (CPI): 0.82
+Valor Agregado (EV): R$ 963694.52
+Estimativa para conclusão: R$ 959279.68
+Estimativa no término (EAC): R$ 2141252.94
+Variação no término (VAC): R$ -395431.94
+
+Detalhamento por categoria:
+- Pessoal: R$ 537911.40 (45.5%)
+- Equipamentos: R$ 237496.74 (20.1%)
+- Software: R$ 148535.71 (12.6%)
+- Serviços: R$ 141313.91 (12.0%)
+- Outros: R$ 116715.50 (9.9%)

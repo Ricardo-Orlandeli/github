@@ -1,0 +1,26 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A certeza de realizar seus sonhos mais rapidamente (PROJ-0620)
+Data: 14/07/2025
+Gerente: Heitor Sousa
+
+Status atual: Em andamento
+Percentual de conclusão: 89.5%
+Data de início: 25/04/2024
+Data de término planejada: 10/06/2024
+Data de término real/prevista: 28/05/2024
+Atraso atual: 399 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 0.91
+Valor Planejado (PV): R$ 4438369.00
+Valor Agregado (EV): R$ 3971094.42
+
+Tarefas críticas:
+- Integração com sistema de pagamentos
+- Configuração da infraestrutura
+- Desenvolvimento da interface do usuário
+- Implementação da API REST
+- Testes de segurança
+- Implementação do módulo de análise de dados
+- Implementação do módulo de análise de dados
+
+Tarefas atrasadas:

@@ -1,0 +1,26 @@
+RELATÓRIO DE STATUS DE ESCOPO
+Projeto: A simplicidade de mudar antes de tudo (PROJ-0699)
+Data: 14/07/2025
+Gerente: Zoe Câmara
+
+Escopo original: Sistema para a simplicidade de mudar antes de tudo
+Houve mudança de escopo: Sim
+Descrição das mudanças: Redução do escopo devido a restrições orçamentárias
+Impacto no cronograma: 18 dias
+Impacto no custo: R$ 610482.70
+
+Solicitações de mudança:
+- SCM-01: Integração com sistema legado
+- SCM-02: Mudança na arquitetura do sistema
+
+Requisitos atuais:
+- REQ-01: O sistema deve ser escalável para suportar até 10.000 usuários simultâneos
+- REQ-02: O sistema deve permitir autenticação de usuários
+- REQ-03: O sistema deve ter alta disponibilidade (99.9%)
+- REQ-04: O sistema deve ter backup automático diário
+- REQ-05: O sistema deve ter alta disponibilidade (99.9%)
+- REQ-06: O sistema deve permitir autenticação de usuários
+- REQ-07: O sistema deve ter controle de acesso baseado em perfis
+- REQ-08: O sistema deve ter documentação completa
+- REQ-09: O sistema deve permitir integração com APIs externas
+- REQ-10: O sistema deve permitir autenticação de usuários

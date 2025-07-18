@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A certeza de evoluir de maneira eficaz (PROJ-0839)
+Data: 14/07/2025
+Gerente: Maria Helena da Rocha
+
+Orçamento inicial: R$ 218092.00
+Custo real atual: R$ 261423.69
+Desvio orçamentário: 19.87%
+Índice de Desempenho de Custo (CPI): 0.83
+Valor Agregado (EV): R$ 218092.00
+Estimativa para conclusão: R$ 0.00
+Estimativa no término (EAC): R$ 261423.69
+Variação no término (VAC): R$ -43331.69
+
+Detalhamento por categoria:
+- Pessoal: R$ 146237.25 (55.9%)
+- Equipamentos: R$ 51156.30 (19.6%)
+- Software: R$ 16691.70 (6.4%)
+- Serviços: R$ 30616.84 (11.7%)
+- Outros: R$ 16721.60 (6.4%)

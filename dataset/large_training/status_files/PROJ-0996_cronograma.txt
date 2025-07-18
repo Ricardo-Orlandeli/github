@@ -1,0 +1,26 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: O poder de evoluir antes de tudo (PROJ-0996)
+Data: 14/07/2025
+Gerente: Rodrigo Dias
+
+Status atual: Em andamento
+Percentual de conclusão: 51.2%
+Data de início: 12/01/2025
+Data de término planejada: 10/12/2025
+Data de término real/prevista: 07/01/2026
+Atraso atual: 0 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.11
+Valor Planejado (PV): R$ 118746.61
+Valor Agregado (EV): R$ 110360.17
+
+Tarefas críticas:
+- Desenvolvimento da interface do usuário
+- Desenvolvimento do painel administrativo
+- Implementação do módulo de notificações
+- Implementação do sistema de backup
+- Integração com sistema de pagamentos
+- Desenvolvimento do painel administrativo
+- Testes de segurança
+
+Tarefas atrasadas:

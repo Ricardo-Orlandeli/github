@@ -1,0 +1,25 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: O poder de concretizar seus projetos sem preocupação (PROJ-0004)
+Data: 14/07/2025
+Gerente: Daniela Lima
+
+Status atual: Em andamento
+Percentual de conclusão: 81.6%
+Data de início: 16/01/2024
+Data de término planejada: 09/12/2024
+Data de término real/prevista: 06/12/2024
+Atraso atual: 217 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 0.89
+Valor Planejado (PV): R$ 4744823.00
+Valor Agregado (EV): R$ 3871312.02
+
+Tarefas críticas:
+- Configuração da infraestrutura
+- Implementação do módulo de exportação de dados
+- Implementação do módulo de notificações
+- Testes de aceitação do usuário
+- Configuração do ambiente de produção
+- Testes de segurança
+
+Tarefas atrasadas:

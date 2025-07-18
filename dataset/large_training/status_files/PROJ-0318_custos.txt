@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A simplicidade de inovar em estado puro (PROJ-0318)
+Data: 14/07/2025
+Gerente: Carolina Cunha
+
+Orçamento inicial: R$ 1533435.00
+Custo real atual: R$ 1236681.25
+Desvio orçamentário: 7.79%
+Índice de Desempenho de Custo (CPI): 0.91
+Valor Agregado (EV): R$ 1123786.38
+Estimativa para conclusão: R$ 450801.65
+Estimativa no término (EAC): R$ 1687482.90
+Variação no término (VAC): R$ -154047.90
+
+Detalhamento por categoria:
+- Pessoal: R$ 558396.28 (45.2%)
+- Equipamentos: R$ 232563.14 (18.8%)
+- Software: R$ 104024.79 (8.4%)
+- Serviços: R$ 237036.34 (19.2%)
+- Outros: R$ 104660.70 (8.5%)

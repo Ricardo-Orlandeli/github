@@ -1,0 +1,22 @@
+RELATÓRIO DE STATUS DE ESCOPO
+Projeto: O prazer de evoluir mais rapidamente (PROJ-0521)
+Data: 14/07/2025
+Gerente: Maria Eduarda Martins
+
+Escopo original: Sistema para o prazer de evoluir mais rapidamente
+Houve mudança de escopo: Sim
+Descrição das mudanças: Redução do escopo devido a restrições orçamentárias
+Impacto no cronograma: 51 dias
+Impacto no custo: R$ 622441.12
+
+Solicitações de mudança:
+- SCM-01: Adição de funcionalidade de autenticação biométrica
+
+Requisitos atuais:
+- REQ-01: O sistema deve ter alta disponibilidade (99.9%)
+- REQ-02: O sistema deve permitir autenticação de usuários
+- REQ-03: O sistema deve registrar logs de auditoria
+- REQ-04: O sistema deve ser escalável para suportar até 10.000 usuários simultâneos
+- REQ-05: O sistema deve permitir autenticação de usuários
+- REQ-06: O sistema deve ter alta disponibilidade (99.9%)
+- REQ-07: O sistema deve processar transações em menos de 2 seconds

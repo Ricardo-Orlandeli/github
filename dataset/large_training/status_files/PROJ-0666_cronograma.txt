@@ -1,0 +1,26 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: O poder de conseguir com toda a tranquilidade (PROJ-0666)
+Data: 14/07/2025
+Gerente: Hellena Rodrigues
+
+Status atual: Atrasado
+Percentual de conclusão: 56.0%
+Data de início: 06/05/2025
+Data de término planejada: 22/06/2025
+Data de término real/prevista: 29/07/2025
+Atraso atual: 22 dias
+Motivo do atraso: Falhas em testes de aceitação
+Índice de Desempenho de Cronograma (SPI): 0.56
+Valor Planejado (PV): R$ 2297395.00
+Valor Agregado (EV): R$ 1287304.42
+
+Tarefas críticas:
+- Desenvolvimento do painel administrativo
+- Integração com sistema de pagamentos
+- Implementação da API REST
+- Implementação do módulo de exportação de dados
+- Implementação do sistema de backup
+- Configuração da infraestrutura
+
+Tarefas atrasadas:
+- Implementação do sistema de backup

@@ -1,0 +1,23 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A vantagem de evoluir mais facilmente (PROJ-0587)
+Data: 14/07/2025
+Gerente: Cauê Mendonça
+
+Status atual: Em andamento
+Percentual de conclusão: 99.9%
+Data de início: 19/11/2023
+Data de término planejada: 16/05/2024
+Data de término real/prevista: 24/05/2024
+Atraso atual: 424 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 0.99
+Valor Planejado (PV): R$ 4751159.00
+Valor Agregado (EV): R$ 4746407.84
+
+Tarefas críticas:
+- Desenvolvimento da interface do usuário
+- Migração de dados legados
+- Desenvolvimento do painel administrativo
+- Implementação do módulo de exportação de dados
+
+Tarefas atrasadas:

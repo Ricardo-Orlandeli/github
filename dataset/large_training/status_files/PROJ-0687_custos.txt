@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A simplicidade de evoluir direto da fonte (PROJ-0687)
+Data: 14/07/2025
+Gerente: Henry Gabriel Pimenta
+
+Orçamento inicial: R$ 362817.00
+Custo real atual: R$ 320099.46
+Desvio orçamentário: -11.77%
+Índice de Desempenho de Custo (CPI): 1.07
+Valor Agregado (EV): R$ 343512.38
+Estimativa para conclusão: R$ 17988.87
+Estimativa no término (EAC): R$ 338088.33
+Variação no término (VAC): R$ 24728.67
+
+Detalhamento por categoria:
+- Pessoal: R$ 169254.38 (52.9%)
+- Equipamentos: R$ 42564.19 (13.3%)
+- Software: R$ 32263.28 (10.1%)
+- Serviços: R$ 42282.98 (13.2%)
+- Outros: R$ 33734.64 (10.5%)

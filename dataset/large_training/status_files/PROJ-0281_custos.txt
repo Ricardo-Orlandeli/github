@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A simplicidade de evoluir mais facilmente (PROJ-0281)
+Data: 14/07/2025
+Gerente: Emanuelly Siqueira
+
+Orçamento inicial: R$ 4942902.00
+Custo real atual: R$ 4612145.92
+Desvio orçamentário: -6.69%
+Índice de Desempenho de Custo (CPI): 0.96
+Valor Agregado (EV): R$ 4414452.74
+Estimativa para conclusão: R$ 552114.89
+Estimativa no término (EAC): R$ 5164260.81
+Variação no término (VAC): R$ -221358.81
+
+Detalhamento por categoria:
+- Pessoal: R$ 2418200.12 (52.4%)
+- Equipamentos: R$ 798435.33 (17.3%)
+- Software: R$ 287321.43 (6.2%)
+- Serviços: R$ 856677.09 (18.6%)
+- Outros: R$ 251511.95 (5.5%)

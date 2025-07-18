@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A arte de atingir seus objetivos de maneira eficaz (PROJ-0022)
+Data: 14/07/2025
+Gerente: Danilo Monteiro
+
+Orçamento inicial: R$ 295505.00
+Custo real atual: R$ 115770.81
+Desvio orçamentário: -60.82%
+Índice de Desempenho de Custo (CPI): 0.92
+Valor Agregado (EV): R$ 106576.27
+Estimativa para conclusão: R$ 205227.98
+Estimativa no término (EAC): R$ 320998.79
+Variação no término (VAC): R$ -25493.79
+
+Detalhamento por categoria:
+- Pessoal: R$ 56728.65 (49.0%)
+- Equipamentos: R$ 17248.51 (14.9%)
+- Software: R$ 12272.07 (10.6%)
+- Serviços: R$ 19165.26 (16.6%)
+- Outros: R$ 10356.31 (8.9%)

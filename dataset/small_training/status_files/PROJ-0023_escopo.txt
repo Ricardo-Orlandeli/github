@@ -1,0 +1,22 @@
+RELATÓRIO DE STATUS DE ESCOPO
+Projeto: A certeza de ganhar mais rapidamente (PROJ-0023)
+Data: 14/07/2025
+Gerente: Henry Gabriel Lima
+
+Escopo original: Sistema para a certeza de ganhar mais rapidamente
+Houve mudança de escopo: Sim
+Descrição das mudanças: Alteração nas especificações técnicas
+Impacto no cronograma: 55 dias
+Impacto no custo: R$ 10910.62
+
+Solicitações de mudança:
+- SCM-01: Integração com sistema legado
+- SCM-02: Mudança na arquitetura do sistema
+
+Requisitos atuais:
+- REQ-01: O sistema deve ter documentação completa
+- REQ-02: O sistema deve passar por testes de segurança
+- REQ-03: O sistema deve permitir autenticação de usuários
+- REQ-04: O sistema deve implementar criptografia de dados sensíveis
+- REQ-05: O sistema deve permitir autenticação de usuários
+- REQ-06: O sistema deve ter interface responsiva

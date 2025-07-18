@@ -1,0 +1,25 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: O direito de avançar em estado puro (PROJ-0542)
+Data: 14/07/2025
+Gerente: Mariane Abreu
+
+Status atual: Atrasado
+Percentual de conclusão: 63.5%
+Data de início: 24/02/2024
+Data de término planejada: 18/10/2024
+Data de término real/prevista: 21/12/2024
+Atraso atual: 269 dias
+Motivo do atraso: Dependências externas não cumpridas
+Índice de Desempenho de Cronograma (SPI): 0.63
+Valor Planejado (PV): R$ 222681.00
+Valor Agregado (EV): R$ 141350.18
+
+Tarefas críticas:
+- Integração com sistema de pagamentos
+- Integração com sistema de pagamentos
+- Integração com sistema de pagamentos
+
+Tarefas atrasadas:
+- Integração com sistema de pagamentos
+- Integração com sistema de pagamentos
+- Integração com sistema de pagamentos

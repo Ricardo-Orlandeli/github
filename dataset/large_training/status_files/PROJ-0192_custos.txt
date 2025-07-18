@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O prazer de conseguir simplesmente (PROJ-0192)
+Data: 14/07/2025
+Gerente: Rebeca Peixoto
+
+Orçamento inicial: R$ 530254.00
+Custo real atual: R$ 530549.96
+Desvio orçamentário: 0.06%
+Índice de Desempenho de Custo (CPI): 0.78
+Valor Agregado (EV): R$ 415635.91
+Estimativa para conclusão: R$ 146307.43
+Estimativa no término (EAC): R$ 676857.39
+Variação no término (VAC): R$ -146603.39
+
+Detalhamento por categoria:
+- Pessoal: R$ 301736.76 (56.9%)
+- Equipamentos: R$ 94407.87 (17.8%)
+- Software: R$ 29320.61 (5.5%)
+- Serviços: R$ 72452.38 (13.7%)
+- Outros: R$ 32632.34 (6.2%)

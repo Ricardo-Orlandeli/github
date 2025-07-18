@@ -1,0 +1,24 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A possibilidade de atingir seus objetivos com força total (PROJ-0065)
+Data: 14/07/2025
+Gerente: Luiz Miguel Abreu
+
+Status atual: Concluído
+Percentual de conclusão: 100.0%
+Data de início: 10/11/2023
+Data de término planejada: 16/07/2024
+Data de término real/prevista: 05/07/2024
+Atraso atual: 363 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 0.96
+Valor Planejado (PV): R$ 1969012.00
+Valor Agregado (EV): R$ 1969012.00
+
+Tarefas críticas:
+- Integração com sistema de pagamentos
+- Desenvolvimento da interface do usuário
+- Configuração da infraestrutura
+- Implementação do módulo de notificações
+- Configuração da infraestrutura
+
+Tarefas atrasadas:

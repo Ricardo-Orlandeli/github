@@ -1,0 +1,25 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A possibilidade de mudar mais facilmente (PROJ-0214)
+Data: 14/07/2025
+Gerente: Bianca Barros
+
+Status atual: Em andamento
+Percentual de conclusão: 95.5%
+Data de início: 26/12/2024
+Data de término planejada: 27/01/2025
+Data de término real/prevista: 05/02/2025
+Atraso atual: 168 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.06
+Valor Planejado (PV): R$ 2375730.00
+Valor Agregado (EV): R$ 2269456.10
+
+Tarefas críticas:
+- Implementação do módulo de análise de dados
+- Implementação do módulo de relatórios
+- Implementação do módulo de análise de dados
+- Implementação do módulo de relatórios
+- Implementação do módulo de análise de dados
+- Implementação do módulo de análise de dados
+
+Tarefas atrasadas:

@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A vantagem de concretizar seus projetos antes de tudo (PROJ-0510)
+Data: 14/07/2025
+Gerente: Noah Barros
+
+Orçamento inicial: R$ 3612522.00
+Custo real atual: R$ 281530.23
+Desvio orçamentário: 13.17%
+Índice de Desempenho de Custo (CPI): 0.67
+Valor Agregado (EV): R$ 188084.64
+Estimativa para conclusão: R$ 5125791.54
+Estimativa no término (EAC): R$ 5407321.77
+Variação no término (VAC): R$ -1794799.77
+
+Detalhamento por categoria:
+- Pessoal: R$ 143951.88 (51.1%)
+- Equipamentos: R$ 33769.31 (12.0%)
+- Software: R$ 32701.13 (11.6%)
+- Serviços: R$ 51749.58 (18.4%)
+- Outros: R$ 19358.33 (6.9%)

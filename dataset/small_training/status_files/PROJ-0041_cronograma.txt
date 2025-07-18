@@ -1,0 +1,27 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A simplicidade de conseguir de maneira eficaz (PROJ-0041)
+Data: 14/07/2025
+Gerente: Rafael Cardoso
+
+Status atual: Concluído
+Percentual de conclusão: 100.0%
+Data de início: 02/04/2025
+Data de término planejada: 20/12/2025
+Data de término real/prevista: 11/01/2026
+Atraso atual: 0 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.00
+Valor Planejado (PV): R$ 1840213.33
+Valor Agregado (EV): R$ 4680931.00
+
+Tarefas críticas:
+- Implementação do módulo de análise de dados
+- Testes de aceitação do usuário
+- Implementação do sistema de backup
+- Migração de dados legados
+- Implementação do módulo de notificações
+- Implementação da API REST
+- Implementação do módulo de análise de dados
+- Desenvolvimento do painel administrativo
+
+Tarefas atrasadas:

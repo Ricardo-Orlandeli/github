@@ -1,0 +1,25 @@
+RELATÓRIO DE STATUS DE ESCOPO
+Projeto: O prazer de inovar com toda a tranquilidade (PROJ-0333)
+Data: 14/07/2025
+Gerente: Dr. José Miguel Castro
+
+Escopo original: Sistema para o prazer de inovar com toda a tranquilidade
+Houve mudança de escopo: Não
+Descrição das mudanças: N/A
+Impacto no cronograma: 0 dias
+Impacto no custo: R$ 0.00
+
+Solicitações de mudança:
+
+Requisitos atuais:
+- REQ-01: O sistema deve ser escalável para suportar até 10.000 usuários simultâneos
+- REQ-02: O sistema deve registrar logs de auditoria
+- REQ-03: O sistema deve processar transações em menos de 2 seconds
+- REQ-04: O sistema deve permitir exportação de dados em formato CSV
+- REQ-05: O sistema deve implementar criptografia de dados sensíveis
+- REQ-06: O sistema deve permitir exportação de dados em formato CSV
+- REQ-07: O sistema deve ter alta disponibilidade (99.9%)
+- REQ-08: O sistema deve ter documentação completa
+- REQ-09: O sistema deve ter controle de acesso baseado em perfis
+- REQ-10: O sistema deve ter alta disponibilidade (99.9%)
+- REQ-11: O sistema deve ter documentação completa

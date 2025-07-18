@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A simplicidade de avançar mais facilmente (PROJ-0264)
+Data: 14/07/2025
+Gerente: Sra. Maria Clara da Mata
+
+Orçamento inicial: R$ 4500879.00
+Custo real atual: R$ 4619201.92
+Desvio orçamentário: 2.63%
+Índice de Desempenho de Custo (CPI): 0.97
+Valor Agregado (EV): R$ 4496378.12
+Estimativa para conclusão: R$ 4623.83
+Estimativa no término (EAC): R$ 4623825.75
+Variação no término (VAC): R$ -122946.75
+
+Detalhamento por categoria:
+- Pessoal: R$ 2065991.29 (44.7%)
+- Equipamentos: R$ 829778.19 (18.0%)
+- Software: R$ 610660.47 (13.2%)
+- Serviços: R$ 731118.80 (15.8%)
+- Outros: R$ 381653.18 (8.3%)

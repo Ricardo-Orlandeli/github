@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A possibilidade de inovar mais facilmente (PROJ-0026)
+Data: 14/07/2025
+Gerente: Gabriel Marques
+
+Orçamento inicial: R$ 621682.00
+Custo real atual: R$ 502830.04
+Desvio orçamentário: 7.70%
+Índice de Desempenho de Custo (CPI): 1.24
+Valor Agregado (EV): R$ 621682.00
+Estimativa para conclusão: R$ 0.00
+Estimativa no término (EAC): R$ 502830.04
+Variação no término (VAC): R$ 118851.96
+
+Detalhamento por categoria:
+- Pessoal: R$ 238428.25 (47.4%)
+- Equipamentos: R$ 61276.84 (12.2%)
+- Software: R$ 85520.32 (17.0%)
+- Serviços: R$ 63507.59 (12.6%)
+- Outros: R$ 54097.04 (10.8%)

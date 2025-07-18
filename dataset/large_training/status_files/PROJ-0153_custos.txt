@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O conforto de mudar mais rapidamente (PROJ-0153)
+Data: 14/07/2025
+Gerente: Gabriela Vargas
+
+Orçamento inicial: R$ 2813630.00
+Custo real atual: R$ 2486859.72
+Desvio orçamentário: -11.61%
+Índice de Desempenho de Custo (CPI): 1.13
+Valor Agregado (EV): R$ 2813630.00
+Estimativa para conclusão: R$ 0.00
+Estimativa no término (EAC): R$ 2486859.72
+Variação no término (VAC): R$ 326770.28
+
+Detalhamento por categoria:
+- Pessoal: R$ 1386957.04 (55.8%)
+- Equipamentos: R$ 304703.83 (12.3%)
+- Software: R$ 340455.64 (13.7%)
+- Serviços: R$ 324314.79 (13.0%)
+- Outros: R$ 130428.42 (5.2%)

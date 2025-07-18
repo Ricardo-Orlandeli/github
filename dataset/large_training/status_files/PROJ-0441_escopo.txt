@@ -1,0 +1,28 @@
+RELATÓRIO DE STATUS DE ESCOPO
+Projeto: A certeza de concretizar seus projetos com toda a tranquilidade (PROJ-0441)
+Data: 14/07/2025
+Gerente: Maria Luísa Moraes
+
+Escopo original: Sistema para a certeza de concretizar seus projetos com toda a tranquilidade
+Houve mudança de escopo: Sim
+Descrição das mudanças: Mudança na plataforma de implementação
+Impacto no cronograma: 59 dias
+Impacto no custo: R$ 460434.90
+
+Solicitações de mudança:
+- SCM-01: Adição de relatórios gerenciais
+- SCM-02: Mudança na arquitetura do sistema
+- SCM-03: Alteração nos requisitos de desempenho
+- SCM-04: Mudança no banco de dados
+
+Requisitos atuais:
+- REQ-01: O sistema deve ser escalável para suportar até 10.000 usuários simultâneos
+- REQ-02: O sistema deve registrar logs de auditoria
+- REQ-03: O sistema deve ter alta disponibilidade (99.9%)
+- REQ-04: O sistema deve implementar criptografia de dados sensíveis
+- REQ-05: O sistema deve permitir exportação de dados em formato CSV
+- REQ-06: O sistema deve permitir autenticação de usuários
+- REQ-07: O sistema deve ser escalável para suportar até 10.000 usuários simultâneos
+- REQ-08: O sistema deve ser escalável para suportar até 10.000 usuários simultâneos
+- REQ-09: O sistema deve processar transações em menos de 2 seconds
+- REQ-10: O sistema deve ter documentação completa

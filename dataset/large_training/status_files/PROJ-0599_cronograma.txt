@@ -1,0 +1,25 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A segurança de inovar direto da fonte (PROJ-0599)
+Data: 14/07/2025
+Gerente: Arthur Miguel Marques
+
+Status atual: Em andamento
+Percentual de conclusão: 32.0%
+Data de início: 25/02/2025
+Data de término planejada: 19/02/2026
+Data de término real/prevista: 17/02/2026
+Atraso atual: 0 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.05
+Valor Planejado (PV): R$ 1080280.90
+Valor Agregado (EV): R$ 892193.25
+
+Tarefas críticas:
+- Migração de dados legados
+- Testes de segurança
+- Integração com sistema de pagamentos
+- Configuração da infraestrutura
+- Testes de segurança
+- Desenvolvimento do módulo de autenticação
+
+Tarefas atrasadas:

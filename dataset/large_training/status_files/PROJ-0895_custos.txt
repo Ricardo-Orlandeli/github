@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A segurança de evoluir mais facilmente (PROJ-0895)
+Data: 14/07/2025
+Gerente: Sr. Levi Pimenta
+
+Orçamento inicial: R$ 3836127.00
+Custo real atual: R$ 3267203.11
+Desvio orçamentário: -14.83%
+Índice de Desempenho de Custo (CPI): 1.17
+Valor Agregado (EV): R$ 3836127.00
+Estimativa para conclusão: R$ 0.00
+Estimativa no término (EAC): R$ 3267203.11
+Variação no término (VAC): R$ 568923.89
+
+Detalhamento por categoria:
+- Pessoal: R$ 1675579.02 (51.3%)
+- Equipamentos: R$ 570662.88 (17.5%)
+- Software: R$ 369578.33 (11.3%)
+- Serviços: R$ 362683.18 (11.1%)
+- Outros: R$ 288699.69 (8.8%)

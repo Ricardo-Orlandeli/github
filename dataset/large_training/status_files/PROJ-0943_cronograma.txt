@@ -1,0 +1,24 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A vantagem de mudar em estado puro (PROJ-0943)
+Data: 14/07/2025
+Gerente: Brenda Azevedo
+
+Status atual: Em andamento
+Percentual de conclusão: 25.6%
+Data de início: 31/03/2025
+Data de término planejada: 23/03/2026
+Data de término real/prevista: 13/03/2026
+Atraso atual: 0 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.04
+Valor Planejado (PV): R$ 1287719.71
+Valor Agregado (EV): R$ 1121147.12
+
+Tarefas críticas:
+- Testes de aceitação do usuário
+- Testes de segurança
+- Desenvolvimento do módulo de autenticação
+- Implementação do módulo de notificações
+- Configuração da infraestrutura
+
+Tarefas atrasadas:

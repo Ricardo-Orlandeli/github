@@ -1,0 +1,31 @@
+RELATÓRIO DE STATUS DE RISCOS
+Projeto: A certeza de mudar antes de tudo (PROJ-0433)
+Data: 14/07/2025
+Gerente: Caleb Azevedo
+
+Riscos identificados:
+- R01: Resistência dos usuários à mudança
+  Probabilidade: 4/5, Impacto: 4/5, Nível: Alto
+  Mitigação: Refinar estimativas com base em dados históricos
+
+- R02: Resistência dos usuários à mudança
+  Probabilidade: 3/5, Impacto: 2/5, Nível: Baixo
+  Mitigação: Melhorar a documentação de requisitos
+
+- R03: Problemas de compatibilidade
+  Probabilidade: 3/5, Impacto: 5/5, Nível: Médio
+  Mitigação: Refinar estimativas com base em dados históricos
+
+- R04: Resistência dos usuários à mudança
+  Probabilidade: 3/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Gerenciar dependências ativamente
+
+Riscos ocorridos:
+- R01 (ocorrido em 07/02/2025)
+  Impacto real: Insatisfação dos stakeholders
+  Ações tomadas: Implementação de controles adicionais
+
+- R02 (ocorrido em 05/10/2024)
+  Impacto real: Redução de funcionalidades
+  Ações tomadas: Realocação de recursos
+

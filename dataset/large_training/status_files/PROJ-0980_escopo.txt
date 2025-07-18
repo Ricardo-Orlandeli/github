@@ -1,0 +1,28 @@
+RELATÓRIO DE STATUS DE ESCOPO
+Projeto: A segurança de avançar com confiança (PROJ-0980)
+Data: 14/07/2025
+Gerente: Luiz Felipe Marques
+
+Escopo original: Sistema para a segurança de avançar com confiança
+Houve mudança de escopo: Sim
+Descrição das mudanças: Expansão do escopo para incluir funcionalidades adicionais
+Impacto no cronograma: 15 dias
+Impacto no custo: R$ 383432.28
+
+Solicitações de mudança:
+- SCM-01: Adição de relatórios gerenciais
+- SCM-02: Alteração na interface do usuário
+- SCM-03: Integração com sistema legado
+- SCM-04: Mudança no banco de dados
+- SCM-05: Adição de funcionalidade de autenticação biométrica
+
+Requisitos atuais:
+- REQ-01: O sistema deve passar por testes de segurança
+- REQ-02: O sistema deve passar por testes de segurança
+- REQ-03: O sistema deve ter backup automático diário
+- REQ-04: O sistema deve permitir exportação de dados em formato CSV
+- REQ-05: O sistema deve implementar criptografia de dados sensíveis
+- REQ-06: O sistema deve permitir integração com APIs externas
+- REQ-07: O sistema deve permitir autenticação de usuários
+- REQ-08: O sistema deve permitir exportação de dados em formato CSV
+- REQ-09: O sistema deve permitir integração com APIs externas

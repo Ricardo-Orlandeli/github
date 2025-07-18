@@ -1,0 +1,26 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: O poder de realizar seus sonhos com toda a tranquilidade (PROJ-0021)
+Data: 14/07/2025
+Gerente: Alexandre da Mota
+
+Status atual: Em andamento
+Percentual de conclusão: 88.0%
+Data de início: 25/03/2024
+Data de término planejada: 01/02/2025
+Data de término real/prevista: 22/02/2025
+Atraso atual: 163 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.07
+Valor Planejado (PV): R$ 3144719.00
+Valor Agregado (EV): R$ 2768196.96
+
+Tarefas críticas:
+- Configuração da infraestrutura
+- Desenvolvimento do módulo de autenticação
+- Integração com sistema de pagamentos
+- Testes de segurança
+- Desenvolvimento da interface do usuário
+- Implementação do módulo de relatórios
+- Desenvolvimento da interface do usuário
+
+Tarefas atrasadas:

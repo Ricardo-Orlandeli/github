@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A liberdade de ganhar mais rapidamente (PROJ-0560)
+Data: 14/07/2025
+Gerente: Nicolas Fonseca
+
+Orçamento inicial: R$ 431568.00
+Custo real atual: R$ 83820.04
+Desvio orçamentário: -22.72%
+Índice de Desempenho de Custo (CPI): 1.25
+Valor Agregado (EV): R$ 104453.61
+Estimativa para conclusão: R$ 262496.83
+Estimativa no término (EAC): R$ 346316.88
+Variação no término (VAC): R$ 85251.12
+
+Detalhamento por categoria:
+- Pessoal: R$ 50115.65 (59.8%)
+- Equipamentos: R$ 10033.35 (12.0%)
+- Software: R$ 10062.99 (12.0%)
+- Serviços: R$ 8722.70 (10.4%)
+- Outros: R$ 4885.36 (5.8%)

@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O conforto de inovar com confiança (PROJ-0072)
+Data: 14/07/2025
+Gerente: Maria Eduarda Sampaio
+
+Orçamento inicial: R$ 3634225.00
+Custo real atual: R$ 2435377.81
+Desvio orçamentário: -8.92%
+Índice de Desempenho de Custo (CPI): 0.97
+Valor Agregado (EV): R$ 2357128.61
+Estimativa para conclusão: R$ 1319491.93
+Estimativa no término (EAC): R$ 3754869.74
+Variação no término (VAC): R$ -120644.74
+
+Detalhamento por categoria:
+- Pessoal: R$ 1292563.45 (53.1%)
+- Equipamentos: R$ 330643.55 (13.6%)
+- Software: R$ 238735.00 (9.8%)
+- Serviços: R$ 355096.17 (14.6%)
+- Outros: R$ 218339.63 (9.0%)

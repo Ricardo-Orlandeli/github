@@ -1,0 +1,25 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: O direito de realizar seus sonhos naturalmente (PROJ-0394)
+Data: 14/07/2025
+Gerente: Danilo da Cruz
+
+Status atual: Atrasado
+Percentual de conclusão: 61.1%
+Data de início: 28/04/2024
+Data de término planejada: 28/05/2024
+Data de término real/prevista: 08/10/2024
+Atraso atual: 412 dias
+Motivo do atraso: Problemas técnicos inesperados
+Índice de Desempenho de Cronograma (SPI): 0.61
+Valor Planejado (PV): R$ 1410842.00
+Valor Agregado (EV): R$ 861375.43
+
+Tarefas críticas:
+- Integração com sistema de pagamentos
+- Desenvolvimento do painel administrativo
+- Configuração da infraestrutura
+- Implementação do sistema de backup
+
+Tarefas atrasadas:
+- Desenvolvimento do painel administrativo
+- Integração com sistema de pagamentos

@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A liberdade de concretizar seus projetos naturalmente (PROJ-0812)
+Data: 14/07/2025
+Gerente: Sr. Caio Melo
+
+Orçamento inicial: R$ 2468161.00
+Custo real atual: R$ 2772679.67
+Desvio orçamentário: 12.34%
+Índice de Desempenho de Custo (CPI): 0.89
+Valor Agregado (EV): R$ 2465692.84
+Estimativa para conclusão: R$ 2775.46
+Estimativa no término (EAC): R$ 2775455.12
+Variação no término (VAC): R$ -307294.12
+
+Detalhamento por categoria:
+- Pessoal: R$ 1501112.09 (54.1%)
+- Equipamentos: R$ 329111.65 (11.9%)
+- Software: R$ 299166.43 (10.8%)
+- Serviços: R$ 473846.30 (17.1%)
+- Outros: R$ 169443.18 (6.1%)

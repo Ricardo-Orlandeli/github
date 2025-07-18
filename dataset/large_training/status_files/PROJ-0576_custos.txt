@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O prazer de avançar antes de tudo (PROJ-0576)
+Data: 14/07/2025
+Gerente: Ian Teixeira
+
+Orçamento inicial: R$ 2228058.00
+Custo real atual: R$ 2663680.90
+Desvio orçamentário: 177.88%
+Índice de Desempenho de Custo (CPI): 0.84
+Valor Agregado (EV): R$ 2228058.00
+Estimativa para conclusão: R$ 0.00
+Estimativa no término (EAC): R$ 2663680.90
+Variação no término (VAC): R$ -435622.90
+
+Detalhamento por categoria:
+- Pessoal: R$ 1433763.96 (53.8%)
+- Equipamentos: R$ 422214.53 (15.9%)
+- Software: R$ 358074.16 (13.4%)
+- Serviços: R$ 296759.38 (11.1%)
+- Outros: R$ 152868.86 (5.7%)

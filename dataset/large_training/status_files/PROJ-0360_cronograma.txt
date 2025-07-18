@@ -1,0 +1,26 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A segurança de ganhar de maneira eficaz (PROJ-0360)
+Data: 14/07/2025
+Gerente: Maria Julia Jesus
+
+Status atual: Em andamento
+Percentual de conclusão: 29.8%
+Data de início: 24/05/2025
+Data de término planejada: 12/10/2025
+Data de término real/prevista: 08/11/2025
+Atraso atual: 0 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.13
+Valor Planejado (PV): R$ 1368110.81
+Valor Agregado (EV): R$ 1126341.49
+
+Tarefas críticas:
+- Implementação da API REST
+- Migração de dados legados
+- Desenvolvimento do painel administrativo
+- Testes de segurança
+- Desenvolvimento do módulo de autenticação
+- Implementação do sistema de backup
+- Implementação do módulo de relatórios
+
+Tarefas atrasadas:

@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A possibilidade de avançar mais rapidamente (PROJ-0092)
+Data: 14/07/2025
+Gerente: Melissa Barros
+
+Orçamento inicial: R$ 2934857.00
+Custo real atual: R$ 2471371.05
+Desvio orçamentário: -15.79%
+Índice de Desempenho de Custo (CPI): 1.04
+Valor Agregado (EV): R$ 2568291.32
+Estimativa para conclusão: R$ 352732.49
+Estimativa no término (EAC): R$ 2824103.54
+Variação no término (VAC): R$ 110753.46
+
+Detalhamento por categoria:
+- Pessoal: R$ 1252408.80 (50.7%)
+- Equipamentos: R$ 322344.65 (13.0%)
+- Software: R$ 239910.27 (9.7%)
+- Serviços: R$ 445420.17 (18.0%)
+- Outros: R$ 211287.17 (8.5%)

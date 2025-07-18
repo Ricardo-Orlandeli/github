@@ -1,0 +1,23 @@
+RELATÓRIO DE STATUS DE RISCOS
+Projeto: A certeza de evoluir mais facilmente (PROJ-0686)
+Data: 14/07/2025
+Gerente: Sr. Davi Luiz Souza
+
+Riscos identificados:
+- R01: Problemas de comunicação com stakeholders
+  Probabilidade: 4/5, Impacto: 4/5, Nível: Alto
+  Mitigação: Melhorar a documentação de requisitos
+
+- R02: Estimativas imprecisas
+  Probabilidade: 5/5, Impacto: 2/5, Nível: Médio
+  Mitigação: Melhorar a documentação de requisitos
+
+- R03: Rotatividade de pessoal-chave
+  Probabilidade: 3/5, Impacto: 5/5, Nível: Médio
+  Mitigação: Testar compatibilidade em diferentes ambientes
+
+Riscos ocorridos:
+- R01 (ocorrido em 19/08/2024)
+  Impacto real: Perda de dados
+  Ações tomadas: Implementação de soluções alternativas
+

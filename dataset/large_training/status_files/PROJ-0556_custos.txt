@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O poder de inovar simplesmente (PROJ-0556)
+Data: 14/07/2025
+Gerente: Alice Borges
+
+Orçamento inicial: R$ 387823.00
+Custo real atual: R$ 325250.83
+Desvio orçamentário: -16.13%
+Índice de Desempenho de Custo (CPI): 1.02
+Valor Agregado (EV): R$ 333324.43
+Estimativa para conclusão: R$ 53178.53
+Estimativa no término (EAC): R$ 378429.36
+Variação no término (VAC): R$ 9393.64
+
+Detalhamento por categoria:
+- Pessoal: R$ 176771.90 (54.3%)
+- Equipamentos: R$ 35918.36 (11.0%)
+- Software: R$ 41413.47 (12.7%)
+- Serviços: R$ 47842.06 (14.7%)
+- Outros: R$ 23305.03 (7.2%)

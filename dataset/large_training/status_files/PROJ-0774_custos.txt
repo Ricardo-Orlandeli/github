@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A certeza de inovar antes de tudo (PROJ-0774)
+Data: 14/07/2025
+Gerente: João Pedro Macedo
+
+Orçamento inicial: R$ 752783.00
+Custo real atual: R$ 633918.21
+Desvio orçamentário: 118.57%
+Índice de Desempenho de Custo (CPI): 1.19
+Valor Agregado (EV): R$ 752783.00
+Estimativa para conclusão: R$ 0.00
+Estimativa no término (EAC): R$ 633918.21
+Variação no término (VAC): R$ 118864.79
+
+Detalhamento por categoria:
+- Pessoal: R$ 314626.43 (49.6%)
+- Equipamentos: R$ 119086.43 (18.8%)
+- Software: R$ 54128.20 (8.5%)
+- Serviços: R$ 91685.94 (14.5%)
+- Outros: R$ 54391.21 (8.6%)

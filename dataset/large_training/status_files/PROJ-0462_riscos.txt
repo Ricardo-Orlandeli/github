@@ -1,0 +1,35 @@
+RELATÓRIO DE STATUS DE RISCOS
+Projeto: O poder de mudar com confiança (PROJ-0462)
+Data: 14/07/2025
+Gerente: Miguel Nogueira
+
+Riscos identificados:
+- R01: Mudanças regulatórias
+  Probabilidade: 3/5, Impacto: 3/5, Nível: Médio
+  Mitigação: Monitorar mudanças regulatórias
+
+- R02: Resistência dos usuários à mudança
+  Probabilidade: 1/5, Impacto: 3/5, Nível: Baixo
+  Mitigação: Implementar redundância de infraestrutura
+
+- R03: Dependências externas não cumpridas
+  Probabilidade: 2/5, Impacto: 2/5, Nível: Baixo
+  Mitigação: Comunicar benefícios da mudança
+
+- R04: Rotatividade de pessoal-chave
+  Probabilidade: 2/5, Impacto: 4/5, Nível: Médio
+  Mitigação: Gerenciar dependências ativamente
+
+Riscos ocorridos:
+- R02 (ocorrido em 05/10/2024)
+  Impacto real: Insatisfação dos stakeholders
+  Ações tomadas: Revisão do orçamento
+
+- R04 (ocorrido em 27/05/2024)
+  Impacto real: Insatisfação dos stakeholders
+  Ações tomadas: Realocação de recursos
+
+- R01 (ocorrido em 17/06/2024)
+  Impacto real: Perda de recursos-chave
+  Ações tomadas: Realocação de recursos
+

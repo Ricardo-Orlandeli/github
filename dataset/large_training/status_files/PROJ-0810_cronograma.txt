@@ -1,0 +1,25 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A liberdade de atingir seus objetivos com confiança (PROJ-0810)
+Data: 14/07/2025
+Gerente: Kaique Garcia
+
+Status atual: Em andamento
+Percentual de conclusão: 95.9%
+Data de início: 25/12/2023
+Data de término planejada: 28/06/2024
+Data de término real/prevista: 15/07/2024
+Atraso atual: 381 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 0.85
+Valor Planejado (PV): R$ 1069716.00
+Valor Agregado (EV): R$ 1026033.37
+
+Tarefas críticas:
+- Migração de dados legados
+- Desenvolvimento do painel administrativo
+- Desenvolvimento do painel administrativo
+- Implementação do módulo de análise de dados
+- Implementação do módulo de exportação de dados
+- Desenvolvimento da interface do usuário
+
+Tarefas atrasadas:

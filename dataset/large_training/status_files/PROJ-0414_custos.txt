@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A liberdade de conseguir mais facilmente (PROJ-0414)
+Data: 14/07/2025
+Gerente: Maria Helena da Rocha
+
+Orçamento inicial: R$ 87978.00
+Custo real atual: R$ 79762.19
+Desvio orçamentário: -9.34%
+Índice de Desempenho de Custo (CPI): 0.83
+Valor Agregado (EV): R$ 65991.28
+Estimativa para conclusão: R$ 26574.86
+Estimativa no término (EAC): R$ 106337.05
+Variação no término (VAC): R$ -18359.05
+
+Detalhamento por categoria:
+- Pessoal: R$ 35474.07 (44.5%)
+- Equipamentos: R$ 15131.06 (19.0%)
+- Software: R$ 10299.20 (12.9%)
+- Serviços: R$ 13724.08 (17.2%)
+- Outros: R$ 5133.78 (6.4%)

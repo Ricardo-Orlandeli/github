@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A segurança de evoluir em estado puro (PROJ-0273)
+Data: 14/07/2025
+Gerente: Dra. Helena Azevedo
+
+Orçamento inicial: R$ 75362.00
+Custo real atual: R$ 40344.29
+Desvio orçamentário: -13.64%
+Índice de Desempenho de Custo (CPI): 0.84
+Valor Agregado (EV): R$ 34047.71
+Estimativa para conclusão: R$ 48954.71
+Estimativa no término (EAC): R$ 89299.00
+Variação no término (VAC): R$ -13937.00
+
+Detalhamento por categoria:
+- Pessoal: R$ 22265.25 (55.2%)
+- Equipamentos: R$ 6682.95 (16.6%)
+- Software: R$ 2976.76 (7.4%)
+- Serviços: R$ 5228.62 (13.0%)
+- Outros: R$ 3190.71 (7.9%)

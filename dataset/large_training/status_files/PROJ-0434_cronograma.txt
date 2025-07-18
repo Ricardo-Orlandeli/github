@@ -1,0 +1,26 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A possibilidade de atingir seus objetivos naturalmente (PROJ-0434)
+Data: 14/07/2025
+Gerente: Luiz Felipe Castro
+
+Status atual: Cancelado
+Percentual de conclusão: 72.7%
+Data de início: 11/04/2025
+Data de término planejada: 14/08/2025
+Data de término real/prevista: 10/07/2025
+Atraso atual: 0 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 0.97
+Valor Planejado (PV): R$ 3425454.75
+Valor Agregado (EV): R$ 3310946.29
+
+Tarefas críticas:
+- Desenvolvimento do painel administrativo
+- Migração de dados legados
+- Testes de aceitação do usuário
+- Implementação do sistema de backup
+- Implementação do módulo de análise de dados
+- Configuração do ambiente de produção
+- Desenvolvimento da interface do usuário
+
+Tarefas atrasadas:

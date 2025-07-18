@@ -1,0 +1,23 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A possibilidade de mudar em estado puro (PROJ-0845)
+Data: 14/07/2025
+Gerente: Dr. Juan das Neves
+
+Status atual: Concluído
+Percentual de conclusão: 100.0%
+Data de início: 12/04/2024
+Data de término planejada: 06/07/2024
+Data de término real/prevista: 20/06/2024
+Atraso atual: 373 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.06
+Valor Planejado (PV): R$ 1406760.00
+Valor Agregado (EV): R$ 1406760.00
+
+Tarefas críticas:
+- Testes de segurança
+- Desenvolvimento do módulo de autenticação
+- Implementação do módulo de notificações
+- Migração de dados legados
+
+Tarefas atrasadas:

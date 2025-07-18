@@ -1,0 +1,26 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A possibilidade de ganhar sem preocupação (PROJ-0518)
+Data: 14/07/2025
+Gerente: Maria Flor Alves
+
+Status atual: Em andamento
+Percentual de conclusão: 98.3%
+Data de início: 28/08/2024
+Data de término planejada: 19/06/2025
+Data de término real/prevista: 09/07/2025
+Atraso atual: 25 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.10
+Valor Planejado (PV): R$ 3641741.00
+Valor Agregado (EV): R$ 3581016.34
+
+Tarefas críticas:
+- Configuração da infraestrutura
+- Configuração do ambiente de produção
+- Testes de segurança
+- Desenvolvimento do módulo de autenticação
+- Implementação do módulo de relatórios
+- Implementação do módulo de notificações
+- Implementação do módulo de relatórios
+
+Tarefas atrasadas:

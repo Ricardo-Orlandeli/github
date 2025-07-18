@@ -1,0 +1,24 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A simplicidade de evoluir mais facilmente (PROJ-0572)
+Data: 14/07/2025
+Gerente: Agatha Aragão
+
+Status atual: Concluído
+Percentual de conclusão: 100.0%
+Data de início: 22/09/2024
+Data de término planejada: 26/08/2025
+Data de término real/prevista: 06/09/2025
+Atraso atual: 0 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 0.97
+Valor Planejado (PV): R$ 4112351.49
+Valor Agregado (EV): R$ 4711779.00
+
+Tarefas críticas:
+- Integração com sistema de pagamentos
+- Integração com sistema de pagamentos
+- Desenvolvimento da interface do usuário
+- Configuração do ambiente de produção
+- Testes de aceitação do usuário
+
+Tarefas atrasadas:

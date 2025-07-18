@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A certeza de avançar direto da fonte (PROJ-0146)
+Data: 14/07/2025
+Gerente: Lorena Melo
+
+Orçamento inicial: R$ 4875093.00
+Custo real atual: R$ 1451598.70
+Desvio orçamentário: -70.22%
+Índice de Desempenho de Custo (CPI): 0.84
+Valor Agregado (EV): R$ 1225204.80
+Estimativa para conclusão: R$ 4324316.23
+Estimativa no término (EAC): R$ 5775914.93
+Variação no término (VAC): R$ -900821.93
+
+Detalhamento por categoria:
+- Pessoal: R$ 805787.70 (55.5%)
+- Equipamentos: R$ 182457.22 (12.6%)
+- Software: R$ 86694.29 (6.0%)
+- Serviços: R$ 265460.83 (18.3%)
+- Outros: R$ 111198.67 (7.7%)

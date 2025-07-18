@@ -1,0 +1,23 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A arte de atingir seus objetivos de maneira eficaz (PROJ-0022)
+Data: 14/07/2025
+Gerente: Danilo Monteiro
+
+Status atual: Cancelado
+Percentual de conclusão: 36.1%
+Data de início: 01/09/2023
+Data de término planejada: 04/01/2024
+Data de término real/prevista: 16/10/2023
+Atraso atual: 557 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 0.36
+Valor Planejado (PV): R$ 295505.00
+Valor Agregado (EV): R$ 106576.27
+
+Tarefas críticas:
+- Implementação do módulo de relatórios
+- Integração com sistema de pagamentos
+- Configuração do ambiente de produção
+- Implementação do módulo de análise de dados
+
+Tarefas atrasadas:

@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A certeza de concretizar seus projetos com força total (PROJ-0746)
+Data: 14/07/2025
+Gerente: Sr. Marcos Vinicius Moraes
+
+Orçamento inicial: R$ 2034667.00
+Custo real atual: R$ 1631453.90
+Desvio orçamentário: -19.82%
+Índice de Desempenho de Custo (CPI): 1.25
+Valor Agregado (EV): R$ 2032632.33
+Estimativa para conclusão: R$ 1633.09
+Estimativa no término (EAC): R$ 1633086.99
+Variação no término (VAC): R$ 401580.01
+
+Detalhamento por categoria:
+- Pessoal: R$ 843956.32 (51.7%)
+- Equipamentos: R$ 193587.62 (11.9%)
+- Software: R$ 198256.24 (12.2%)
+- Serviços: R$ 278760.71 (17.1%)
+- Outros: R$ 116893.00 (7.2%)

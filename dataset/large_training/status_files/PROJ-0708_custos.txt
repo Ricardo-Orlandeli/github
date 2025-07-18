@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A arte de evoluir com toda a tranquilidade (PROJ-0708)
+Data: 14/07/2025
+Gerente: Lívia Andrade
+
+Orçamento inicial: R$ 3564480.00
+Custo real atual: R$ 3765660.86
+Desvio orçamentário: 5.64%
+Índice de Desempenho de Custo (CPI): 0.95
+Valor Agregado (EV): R$ 3560915.52
+Estimativa para conclusão: R$ 3769.43
+Estimativa no término (EAC): R$ 3769430.29
+Variação no término (VAC): R$ -204950.29
+
+Detalhamento por categoria:
+- Pessoal: R$ 1760140.20 (46.7%)
+- Equipamentos: R$ 633237.05 (16.8%)
+- Software: R$ 262440.19 (7.0%)
+- Serviços: R$ 813008.25 (21.6%)
+- Outros: R$ 296835.18 (7.9%)

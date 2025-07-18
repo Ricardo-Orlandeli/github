@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A simplicidade de evoluir mais rapidamente (PROJ-0355)
+Data: 14/07/2025
+Gerente: Ísis Andrade
+
+Orçamento inicial: R$ 3863220.00
+Custo real atual: R$ 268088.54
+Desvio orçamentário: 3.43%
+Índice de Desempenho de Custo (CPI): 1.11
+Valor Agregado (EV): R$ 296265.56
+Estimativa para conclusão: R$ 3227711.05
+Estimativa no término (EAC): R$ 3495799.59
+Variação no término (VAC): R$ 367420.41
+
+Detalhamento por categoria:
+- Pessoal: R$ 144051.87 (53.7%)
+- Equipamentos: R$ 45955.50 (17.1%)
+- Software: R$ 17708.81 (6.6%)
+- Serviços: R$ 46357.16 (17.3%)
+- Outros: R$ 14015.20 (5.2%)

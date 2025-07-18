@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O prazer de avançar sem preocupação (PROJ-0948)
+Data: 14/07/2025
+Gerente: Bella Lima
+
+Orçamento inicial: R$ 3392930.00
+Custo real atual: R$ 3847722.88
+Desvio orçamentário: 13.40%
+Índice de Desempenho de Custo (CPI): 0.88
+Valor Agregado (EV): R$ 3389537.07
+Estimativa para conclusão: R$ 3851.57
+Estimativa no término (EAC): R$ 3851574.45
+Variação no término (VAC): R$ -458644.45
+
+Detalhamento por categoria:
+- Pessoal: R$ 1868945.50 (48.6%)
+- Equipamentos: R$ 729576.34 (19.0%)
+- Software: R$ 295183.35 (7.7%)
+- Serviços: R$ 576673.05 (15.0%)
+- Outros: R$ 377344.63 (9.8%)

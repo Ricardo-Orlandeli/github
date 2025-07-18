@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O direito de conseguir com confiança (PROJ-0991)
+Data: 14/07/2025
+Gerente: Dr. Benicio Moura
+
+Orçamento inicial: R$ 1699795.00
+Custo real atual: R$ 901845.97
+Desvio orçamentário: -13.82%
+Índice de Desempenho de Custo (CPI): 1.08
+Valor Agregado (EV): R$ 971949.17
+Estimativa para conclusão: R$ 675348.92
+Estimativa no término (EAC): R$ 1577194.89
+Variação no término (VAC): R$ 122600.11
+
+Detalhamento por categoria:
+- Pessoal: R$ 472089.15 (52.3%)
+- Equipamentos: R$ 148409.49 (16.5%)
+- Software: R$ 55247.35 (6.1%)
+- Serviços: R$ 160351.24 (17.8%)
+- Outros: R$ 65748.74 (7.3%)

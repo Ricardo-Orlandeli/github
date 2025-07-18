@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O prazer de inovar antes de tudo (PROJ-0825)
+Data: 14/07/2025
+Gerente: Sra. Manuella Carvalho
+
+Orçamento inicial: R$ 1754840.00
+Custo real atual: R$ 2045347.12
+Desvio orçamentário: 16.55%
+Índice de Desempenho de Custo (CPI): 0.86
+Valor Agregado (EV): R$ 1754840.00
+Estimativa para conclusão: R$ 0.00
+Estimativa no término (EAC): R$ 2045347.12
+Variação no término (VAC): R$ -290507.12
+
+Detalhamento por categoria:
+- Pessoal: R$ 1128774.47 (55.2%)
+- Equipamentos: R$ 339385.32 (16.6%)
+- Software: R$ 158447.30 (7.7%)
+- Serviços: R$ 299757.05 (14.7%)
+- Outros: R$ 118982.98 (5.8%)

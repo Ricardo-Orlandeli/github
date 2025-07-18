@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O conforto de avançar com toda a tranquilidade (PROJ-0008)
+Data: 14/07/2025
+Gerente: Danilo da Luz
+
+Orçamento inicial: R$ 2249169.00
+Custo real atual: R$ 2142131.50
+Desvio orçamentário: 10281.27%
+Índice de Desempenho de Custo (CPI): 1.05
+Valor Agregado (EV): R$ 2249169.00
+Estimativa para conclusão: R$ 0.00
+Estimativa no término (EAC): R$ 2142131.50
+Variação no término (VAC): R$ 107037.50
+
+Detalhamento por categoria:
+- Pessoal: R$ 1017997.75 (47.5%)
+- Equipamentos: R$ 359476.87 (16.8%)
+- Software: R$ 208511.97 (9.7%)
+- Serviços: R$ 347609.82 (16.2%)
+- Outros: R$ 208535.08 (9.7%)

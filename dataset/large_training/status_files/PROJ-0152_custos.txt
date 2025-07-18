@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A simplicidade de ganhar em estado puro (PROJ-0152)
+Data: 14/07/2025
+Gerente: Rebeca da Paz
+
+Orçamento inicial: R$ 3960779.00
+Custo real atual: R$ 3190454.60
+Desvio orçamentário: -19.45%
+Índice de Desempenho de Custo (CPI): 1.24
+Valor Agregado (EV): R$ 3960779.00
+Estimativa para conclusão: R$ 0.00
+Estimativa no término (EAC): R$ 3190454.60
+Variação no término (VAC): R$ 770324.40
+
+Detalhamento por categoria:
+- Pessoal: R$ 1500328.15 (47.0%)
+- Equipamentos: R$ 572888.39 (18.0%)
+- Software: R$ 384687.91 (12.1%)
+- Serviços: R$ 535177.15 (16.8%)
+- Outros: R$ 197373.00 (6.2%)

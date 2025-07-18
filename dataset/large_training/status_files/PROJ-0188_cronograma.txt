@@ -1,0 +1,25 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: O prazer de realizar seus sonhos direto da fonte (PROJ-0188)
+Data: 14/07/2025
+Gerente: Mariana Azevedo
+
+Status atual: Em andamento
+Percentual de conclusão: 99.9%
+Data de início: 15/02/2024
+Data de término planejada: 03/02/2025
+Data de término real/prevista: 06/02/2025
+Atraso atual: 161 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 0.96
+Valor Planejado (PV): R$ 3523617.00
+Valor Agregado (EV): R$ 3520093.38
+
+Tarefas críticas:
+- Implementação do sistema de backup
+- Testes de segurança
+- Testes de aceitação do usuário
+- Implementação do módulo de análise de dados
+- Implementação do módulo de relatórios
+- Testes de aceitação do usuário
+
+Tarefas atrasadas:

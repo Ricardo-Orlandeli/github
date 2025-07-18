@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A segurança de atingir seus objetivos em estado puro (PROJ-0742)
+Data: 14/07/2025
+Gerente: José Pedro Vargas
+
+Orçamento inicial: R$ 4934783.00
+Custo real atual: R$ 2740939.93
+Desvio orçamentário: 5.24%
+Índice de Desempenho de Custo (CPI): 0.75
+Valor Agregado (EV): R$ 2068942.81
+Estimativa para conclusão: R$ 3796671.32
+Estimativa no término (EAC): R$ 6537611.24
+Variação no término (VAC): R$ -1602828.24
+
+Detalhamento por categoria:
+- Pessoal: R$ 1296350.64 (47.3%)
+- Equipamentos: R$ 422674.68 (15.4%)
+- Software: R$ 229990.45 (8.4%)
+- Serviços: R$ 513891.63 (18.7%)
+- Outros: R$ 278032.52 (10.1%)

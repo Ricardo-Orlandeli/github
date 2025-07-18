@@ -1,0 +1,24 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A segurança de evoluir antes de tudo (PROJ-0757)
+Data: 14/07/2025
+Gerente: Bianca Lopes
+
+Status atual: Em andamento
+Percentual de conclusão: 99.9%
+Data de início: 19/08/2023
+Data de término planejada: 06/10/2023
+Data de término real/prevista: 25/10/2023
+Atraso atual: 647 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 0.99
+Valor Planejado (PV): R$ 1899446.00
+Valor Agregado (EV): R$ 1897546.55
+
+Tarefas críticas:
+- Migração de dados legados
+- Desenvolvimento do painel administrativo
+- Implementação do módulo de relatórios
+- Migração de dados legados
+- Desenvolvimento do painel administrativo
+
+Tarefas atrasadas:

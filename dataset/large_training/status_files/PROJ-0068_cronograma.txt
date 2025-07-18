@@ -1,0 +1,24 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A vantagem de ganhar direto da fonte (PROJ-0068)
+Data: 14/07/2025
+Gerente: Gabriela da Cruz
+
+Status atual: Atrasado
+Percentual de conclusão: 44.2%
+Data de início: 04/03/2025
+Data de término planejada: 09/11/2025
+Data de término real/prevista: 20/01/2026
+Atraso atual: 0 dias
+Motivo do atraso: Problemas técnicos inesperados
+Índice de Desempenho de Cronograma (SPI): 0.84
+Valor Planejado (PV): R$ 87493.30
+Valor Agregado (EV): R$ 73241.33
+
+Tarefas críticas:
+- Desenvolvimento da interface do usuário
+- Integração com sistema de pagamentos
+- Desenvolvimento da interface do usuário
+- Desenvolvimento da interface do usuário
+
+Tarefas atrasadas:
+- Desenvolvimento da interface do usuário

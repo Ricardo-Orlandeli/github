@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A segurança de realizar seus sonhos com toda a tranquilidade (PROJ-0373)
+Data: 14/07/2025
+Gerente: Rafaela da Rocha
+
+Orçamento inicial: R$ 2561310.00
+Custo real atual: R$ 2139459.48
+Desvio orçamentário: -16.47%
+Índice de Desempenho de Custo (CPI): 0.88
+Valor Agregado (EV): R$ 1878844.02
+Estimativa para conclusão: R$ 777131.20
+Estimativa no término (EAC): R$ 2916590.68
+Variação no término (VAC): R$ -355280.68
+
+Detalhamento por categoria:
+- Pessoal: R$ 946911.19 (44.3%)
+- Equipamentos: R$ 380100.32 (17.8%)
+- Software: R$ 306983.25 (14.3%)
+- Serviços: R$ 331052.18 (15.5%)
+- Outros: R$ 174412.53 (8.2%)

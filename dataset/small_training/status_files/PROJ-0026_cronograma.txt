@@ -1,0 +1,27 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: O conforto de avançar com toda a tranquilidade (PROJ-0026)
+Data: 14/07/2025
+Gerente: Luigi Silva
+
+Status atual: Concluído
+Percentual de conclusão: 100.0%
+Data de início: 27/06/2024
+Data de término planejada: 09/11/2024
+Data de término real/prevista: 29/10/2024
+Atraso atual: 247 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 0.97
+Valor Planejado (PV): R$ 128052.00
+Valor Agregado (EV): R$ 128052.00
+
+Tarefas críticas:
+- Desenvolvimento da interface do usuário
+- Implementação do módulo de relatórios
+- Configuração do ambiente de produção
+- Configuração do ambiente de produção
+- Implementação do módulo de notificações
+- Implementação do módulo de exportação de dados
+- Testes de aceitação do usuário
+- Desenvolvimento do módulo de autenticação
+
+Tarefas atrasadas:

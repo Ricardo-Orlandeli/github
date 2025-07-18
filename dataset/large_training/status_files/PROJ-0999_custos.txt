@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A segurança de concretizar seus projetos antes de tudo (PROJ-0999)
+Data: 14/07/2025
+Gerente: Sra. Mariane Novais
+
+Orçamento inicial: R$ 1991402.00
+Custo real atual: R$ 131425.74
+Desvio orçamentário: -31.29%
+Índice de Desempenho de Custo (CPI): 1.21
+Valor Agregado (EV): R$ 159679.52
+Estimativa para conclusão: R$ 1507616.53
+Estimativa no término (EAC): R$ 1639042.28
+Variação no término (VAC): R$ 352359.72
+
+Detalhamento por categoria:
+- Pessoal: R$ 66274.30 (50.4%)
+- Equipamentos: R$ 21176.15 (16.1%)
+- Software: R$ 9275.32 (7.1%)
+- Serviços: R$ 21319.84 (16.2%)
+- Outros: R$ 13380.13 (10.2%)

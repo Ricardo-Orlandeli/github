@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A simplicidade de conseguir com confiança (PROJ-0821)
+Data: 14/07/2025
+Gerente: Eloah Camargo
+
+Orçamento inicial: R$ 1102053.00
+Custo real atual: R$ 738231.90
+Desvio orçamentário: -30.67%
+Índice de Desempenho de Custo (CPI): 1.18
+Valor Agregado (EV): R$ 872963.79
+Estimativa para conclusão: R$ 193731.94
+Estimativa no término (EAC): R$ 931963.84
+Variação no término (VAC): R$ 170089.16
+
+Detalhamento por categoria:
+- Pessoal: R$ 387431.56 (52.5%)
+- Equipamentos: R$ 120132.79 (16.3%)
+- Software: R$ 97093.25 (13.2%)
+- Serviços: R$ 72810.62 (9.9%)
+- Outros: R$ 60763.69 (8.2%)

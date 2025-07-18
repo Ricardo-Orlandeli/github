@@ -1,0 +1,22 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: O conforto de mudar naturalmente (PROJ-0880)
+Data: 14/07/2025
+Gerente: Sr. Henry Gabriel Costa
+
+Status atual: Em andamento
+Percentual de conclusão: 38.8%
+Data de início: 13/03/2025
+Data de término planejada: 25/01/2026
+Data de término real/prevista: 16/01/2026
+Atraso atual: 0 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.03
+Valor Planejado (PV): R$ 1792143.65
+Valor Agregado (EV): R$ 1796012.04
+
+Tarefas críticas:
+- Implementação do sistema de backup
+- Implementação da API REST
+- Desenvolvimento do módulo de autenticação
+
+Tarefas atrasadas:

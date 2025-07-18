@@ -1,0 +1,25 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A possibilidade de mudar com confiança (PROJ-0691)
+Data: 14/07/2025
+Gerente: Luiz Felipe Camargo
+
+Status atual: Em andamento
+Percentual de conclusão: 99.9%
+Data de início: 15/12/2023
+Data de término planejada: 18/07/2024
+Data de término real/prevista: 16/08/2024
+Atraso atual: 361 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 0.94
+Valor Planejado (PV): R$ 1411109.00
+Valor Agregado (EV): R$ 1409697.89
+
+Tarefas críticas:
+- Integração com sistema de pagamentos
+- Implementação do sistema de backup
+- Integração com sistema de pagamentos
+- Desenvolvimento do módulo de autenticação
+- Testes de segurança
+- Implementação do sistema de backup
+
+Tarefas atrasadas:

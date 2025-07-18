@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A liberdade de evoluir direto da fonte (PROJ-0270)
+Data: 14/07/2025
+Gerente: Sr. Marcelo Rodrigues
+
+Orçamento inicial: R$ 2881671.00
+Custo real atual: R$ 2747238.51
+Desvio orçamentário: -4.67%
+Índice de Desempenho de Custo (CPI): 1.05
+Valor Agregado (EV): R$ 2881671.00
+Estimativa para conclusão: R$ 0.00
+Estimativa no término (EAC): R$ 2747238.51
+Variação no término (VAC): R$ 134432.49
+
+Detalhamento por categoria:
+- Pessoal: R$ 1384472.60 (50.4%)
+- Equipamentos: R$ 414029.56 (15.1%)
+- Software: R$ 357220.63 (13.0%)
+- Serviços: R$ 352869.81 (12.8%)
+- Outros: R$ 238645.91 (8.7%)

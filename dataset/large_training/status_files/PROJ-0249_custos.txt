@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A segurança de inovar sem preocupação (PROJ-0249)
+Data: 14/07/2025
+Gerente: Mateus Nunes
+
+Orçamento inicial: R$ 3337332.00
+Custo real atual: R$ 3522228.04
+Desvio orçamentário: 5.54%
+Índice de Desempenho de Custo (CPI): 0.95
+Valor Agregado (EV): R$ 3333994.67
+Estimativa para conclusão: R$ 3525.75
+Estimativa no término (EAC): R$ 3525753.80
+Variação no término (VAC): R$ -188421.80
+
+Detalhamento por categoria:
+- Pessoal: R$ 1628751.57 (46.2%)
+- Equipamentos: R$ 629477.74 (17.9%)
+- Software: R$ 452469.77 (12.8%)
+- Serviços: R$ 567528.78 (16.1%)
+- Outros: R$ 244000.19 (6.9%)

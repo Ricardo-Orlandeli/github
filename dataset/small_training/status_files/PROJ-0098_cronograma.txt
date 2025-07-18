@@ -1,0 +1,25 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A possibilidade de realizar seus sonhos naturalmente (PROJ-0098)
+Data: 14/07/2025
+Gerente: Ravi Lucca Porto
+
+Status atual: Cancelado
+Percentual de conclusão: 78.1%
+Data de início: 29/07/2024
+Data de término planejada: 29/03/2025
+Data de término real/prevista: 03/02/2025
+Atraso atual: 107 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 0.78
+Valor Planejado (PV): R$ 3113653.00
+Valor Agregado (EV): R$ 2431770.03
+
+Tarefas críticas:
+- Implementação do módulo de notificações
+- Implementação do módulo de análise de dados
+- Testes de segurança
+- Migração de dados legados
+- Desenvolvimento da interface do usuário
+- Testes de segurança
+
+Tarefas atrasadas:

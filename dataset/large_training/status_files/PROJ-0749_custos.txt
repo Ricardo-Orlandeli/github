@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O prazer de inovar com confiança (PROJ-0749)
+Data: 14/07/2025
+Gerente: Hadassa Cunha
+
+Orçamento inicial: R$ 380208.00
+Custo real atual: R$ 402792.87
+Desvio orçamentário: 5.94%
+Índice de Desempenho de Custo (CPI): 0.94
+Valor Agregado (EV): R$ 380208.00
+Estimativa para conclusão: R$ 0.00
+Estimativa no término (EAC): R$ 402792.87
+Variação no término (VAC): R$ -22584.87
+
+Detalhamento por categoria:
+- Pessoal: R$ 194446.42 (48.3%)
+- Equipamentos: R$ 66504.70 (16.5%)
+- Software: R$ 55969.59 (13.9%)
+- Serviços: R$ 45487.14 (11.3%)
+- Outros: R$ 40385.01 (10.0%)

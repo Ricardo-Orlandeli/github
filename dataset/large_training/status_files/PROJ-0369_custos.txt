@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A arte de inovar antes de tudo (PROJ-0369)
+Data: 14/07/2025
+Gerente: Benicio Nogueira
+
+Orçamento inicial: R$ 2877467.00
+Custo real atual: R$ 1629997.64
+Desvio orçamentário: -12.12%
+Índice de Desempenho de Custo (CPI): 0.92
+Valor Agregado (EV): R$ 1506624.12
+Estimativa para conclusão: R$ 1483097.63
+Estimativa no término (EAC): R$ 3113095.27
+Variação no término (VAC): R$ -235628.27
+
+Detalhamento por categoria:
+- Pessoal: R$ 789686.68 (48.4%)
+- Equipamentos: R$ 287232.19 (17.6%)
+- Software: R$ 182736.32 (11.2%)
+- Serviços: R$ 260103.57 (16.0%)
+- Outros: R$ 110238.88 (6.8%)

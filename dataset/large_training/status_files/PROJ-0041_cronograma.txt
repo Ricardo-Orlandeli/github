@@ -1,0 +1,22 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A segurança de evoluir sem preocupação (PROJ-0041)
+Data: 14/07/2025
+Gerente: Catarina Duarte
+
+Status atual: Em andamento
+Percentual de conclusão: 99.9%
+Data de início: 22/07/2023
+Data de término planejada: 14/09/2023
+Data de término real/prevista: 01/09/2023
+Atraso atual: 669 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 0.95
+Valor Planejado (PV): R$ 3891056.00
+Valor Agregado (EV): R$ 3887164.94
+
+Tarefas críticas:
+- Integração com sistema de pagamentos
+- Implementação da API REST
+- Implementação do módulo de exportação de dados
+
+Tarefas atrasadas:

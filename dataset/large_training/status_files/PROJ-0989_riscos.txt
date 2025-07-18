@@ -1,0 +1,27 @@
+RELATÓRIO DE STATUS DE RISCOS
+Projeto: A possibilidade de concretizar seus projetos mais facilmente (PROJ-0989)
+Data: 14/07/2025
+Gerente: Marcelo Sá
+
+Riscos identificados:
+- R01: Mudanças regulatórias
+  Probabilidade: 1/5, Impacto: 5/5, Nível: Baixo
+  Mitigação: Otimizar código e infraestrutura
+
+- R02: Requisitos mal definidos
+  Probabilidade: 1/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Implementar redundância de infraestrutura
+
+- R03: Estimativas imprecisas
+  Probabilidade: 3/5, Impacto: 2/5, Nível: Baixo
+  Mitigação: Estabelecer canais de comunicação claros
+
+Riscos ocorridos:
+- R01 (ocorrido em 26/04/2025)
+  Impacto real: Problemas de qualidade
+  Ações tomadas: Implementação de controles adicionais
+
+- R02 (ocorrido em 12/05/2025)
+  Impacto real: Insatisfação dos stakeholders
+  Ações tomadas: Realocação de recursos
+

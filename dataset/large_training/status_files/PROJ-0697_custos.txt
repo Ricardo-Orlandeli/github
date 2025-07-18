@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O direito de mudar naturalmente (PROJ-0697)
+Data: 14/07/2025
+Gerente: Melina da Mota
+
+Orçamento inicial: R$ 3485336.00
+Custo real atual: R$ 3698152.45
+Desvio orçamentário: 6.11%
+Índice de Desempenho de Custo (CPI): 0.85
+Valor Agregado (EV): R$ 3140445.33
+Estimativa para conclusão: R$ 406139.30
+Estimativa no término (EAC): R$ 4104291.76
+Variação no término (VAC): R$ -618955.76
+
+Detalhamento por categoria:
+- Pessoal: R$ 2258866.67 (61.1%)
+- Equipamentos: R$ 449313.22 (12.1%)
+- Software: R$ 261112.10 (7.1%)
+- Serviços: R$ 443432.77 (12.0%)
+- Outros: R$ 285427.69 (7.7%)

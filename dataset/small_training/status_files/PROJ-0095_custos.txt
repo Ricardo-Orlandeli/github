@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A segurança de evoluir com toda a tranquilidade (PROJ-0095)
+Data: 14/07/2025
+Gerente: Srta. Isabel Borges
+
+Orçamento inicial: R$ 734245.00
+Custo real atual: R$ 375588.09
+Desvio orçamentário: -48.85%
+Índice de Desempenho de Custo (CPI): 0.73
+Valor Agregado (EV): R$ 272974.77
+Estimativa para conclusão: R$ 634665.26
+Estimativa no término (EAC): R$ 1010253.34
+Variação no término (VAC): R$ -276008.34
+
+Detalhamento por categoria:
+- Pessoal: R$ 195735.37 (52.1%)
+- Equipamentos: R$ 39567.95 (10.5%)
+- Software: R$ 42893.41 (11.4%)
+- Serviços: R$ 76856.16 (20.5%)
+- Outros: R$ 20535.19 (5.5%)

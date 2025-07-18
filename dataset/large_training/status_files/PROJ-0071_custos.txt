@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A certeza de ganhar em estado puro (PROJ-0071)
+Data: 14/07/2025
+Gerente: Kaique Peixoto
+
+Orçamento inicial: R$ 2849610.00
+Custo real atual: R$ 2380240.21
+Desvio orçamentário: -16.47%
+Índice de Desempenho de Custo (CPI): 1.20
+Valor Agregado (EV): R$ 2849610.00
+Estimativa para conclusão: R$ 0.00
+Estimativa no término (EAC): R$ 2380240.21
+Variação no término (VAC): R$ 469369.79
+
+Detalhamento por categoria:
+- Pessoal: R$ 1228875.30 (51.6%)
+- Equipamentos: R$ 278575.62 (11.7%)
+- Software: R$ 257438.20 (10.8%)
+- Serviços: R$ 431634.87 (18.1%)
+- Outros: R$ 183716.22 (7.7%)

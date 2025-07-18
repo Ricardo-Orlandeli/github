@@ -1,0 +1,23 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: O prazer de inovar com toda a tranquilidade (PROJ-0741)
+Data: 14/07/2025
+Gerente: João Guilherme Vieira
+
+Status atual: Em andamento
+Percentual de conclusão: 53.3%
+Data de início: 11/03/2025
+Data de término planejada: 21/11/2025
+Data de término real/prevista: 16/12/2025
+Atraso atual: 0 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 0.96
+Valor Planejado (PV): R$ 1102438.73
+Valor Agregado (EV): R$ 1197856.46
+
+Tarefas críticas:
+- Implementação do sistema de backup
+- Configuração da infraestrutura
+- Migração de dados legados
+- Desenvolvimento do painel administrativo
+
+Tarefas atrasadas:

@@ -1,0 +1,23 @@
+RELATÓRIO DE STATUS DE RISCOS
+Projeto: A simplicidade de avançar antes de tudo (PROJ-0993)
+Data: 14/07/2025
+Gerente: João Felipe Farias
+
+Riscos identificados:
+- R01: Problemas de integração com sistemas legados
+  Probabilidade: 2/5, Impacto: 2/5, Nível: Baixo
+  Mitigação: Buscar fornecedores alternativos
+
+- R02: Resistência dos usuários à mudança
+  Probabilidade: 2/5, Impacto: 2/5, Nível: Baixo
+  Mitigação: Realizar testes de integração antecipados
+
+- R03: Falhas de segurança
+  Probabilidade: 5/5, Impacto: 4/5, Nível: Alto
+  Mitigação: Monitorar mudanças regulatórias
+
+Riscos ocorridos:
+- R03 (ocorrido em 17/05/2025)
+  Impacto real: Redução de funcionalidades
+  Ações tomadas: Revisão de processos
+

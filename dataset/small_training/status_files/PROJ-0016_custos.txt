@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A arte de ganhar em estado puro (PROJ-0016)
+Data: 14/07/2025
+Gerente: Nicole Jesus
+
+Orçamento inicial: R$ 4526581.00
+Custo real atual: R$ 4090761.90
+Desvio orçamentário: -9.63%
+Índice de Desempenho de Custo (CPI): 1.11
+Valor Agregado (EV): R$ 4522054.42
+Estimativa para conclusão: R$ 4094.86
+Estimativa no término (EAC): R$ 4094856.76
+Variação no término (VAC): R$ 431724.24
+
+Detalhamento por categoria:
+- Pessoal: R$ 2050568.77 (50.1%)
+- Equipamentos: R$ 451045.57 (11.0%)
+- Software: R$ 608171.42 (14.9%)
+- Serviços: R$ 603315.29 (14.7%)
+- Outros: R$ 377660.84 (9.2%)

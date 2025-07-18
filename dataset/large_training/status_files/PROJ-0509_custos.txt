@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O direito de evoluir direto da fonte (PROJ-0509)
+Data: 14/07/2025
+Gerente: Joana Novais
+
+Orçamento inicial: R$ 3666416.00
+Custo real atual: R$ 3458593.76
+Desvio orçamentário: -5.67%
+Índice de Desempenho de Custo (CPI): 0.96
+Valor Agregado (EV): R$ 3324303.34
+Estimativa para conclusão: R$ 355932.83
+Estimativa no término (EAC): R$ 3814526.59
+Variação no término (VAC): R$ -148110.59
+
+Detalhamento por categoria:
+- Pessoal: R$ 1770874.68 (51.2%)
+- Equipamentos: R$ 389798.79 (11.3%)
+- Software: R$ 410998.48 (11.9%)
+- Serviços: R$ 689626.39 (19.9%)
+- Outros: R$ 197295.42 (5.7%)

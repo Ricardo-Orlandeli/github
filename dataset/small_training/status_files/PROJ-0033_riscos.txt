@@ -1,0 +1,35 @@
+RELATÓRIO DE STATUS DE RISCOS
+Projeto: A vantagem de conseguir sem preocupação (PROJ-0033)
+Data: 14/07/2025
+Gerente: Davi Moreira
+
+Riscos identificados:
+- R01: Problemas de desempenho
+  Probabilidade: 2/5, Impacto: 2/5, Nível: Baixo
+  Mitigação: Contratar pessoal adicional
+
+- R02: Problemas de comunicação com stakeholders
+  Probabilidade: 1/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Estabelecer canais de comunicação claros
+
+- R03: Atraso na entrega de componentes críticos
+  Probabilidade: 4/5, Impacto: 5/5, Nível: Alto
+  Mitigação: Implementar plano de contingência
+
+- R04: Estimativas imprecisas
+  Probabilidade: 4/5, Impacto: 5/5, Nível: Alto
+  Mitigação: Contratar pessoal adicional
+
+Riscos ocorridos:
+- R03 (ocorrido em 25/06/2025)
+  Impacto real: Aumento de 10% nos custos
+  Ações tomadas: Ajuste no cronograma
+
+- R02 (ocorrido em 08/07/2025)
+  Impacto real: Redução de funcionalidades
+  Ações tomadas: Contratação de recursos adicionais
+
+- R01 (ocorrido em 03/07/2025)
+  Impacto real: Aumento de 10% nos custos
+  Ações tomadas: Comunicação intensificada com stakeholders
+

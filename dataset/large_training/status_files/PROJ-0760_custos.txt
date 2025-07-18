@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A arte de realizar seus sonhos com confiança (PROJ-0760)
+Data: 14/07/2025
+Gerente: Nicolas Machado
+
+Orçamento inicial: R$ 3360670.00
+Custo real atual: R$ 2813203.50
+Desvio orçamentário: -16.29%
+Índice de Desempenho de Custo (CPI): 1.19
+Valor Agregado (EV): R$ 3357309.33
+Estimativa para conclusão: R$ 2816.02
+Estimativa no término (EAC): R$ 2816019.52
+Variação no término (VAC): R$ 544650.48
+
+Detalhamento por categoria:
+- Pessoal: R$ 1523125.74 (54.1%)
+- Equipamentos: R$ 341593.07 (12.1%)
+- Software: R$ 253646.80 (9.0%)
+- Serviços: R$ 440597.45 (15.7%)
+- Outros: R$ 254240.44 (9.0%)

@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A liberdade de conseguir mais rapidamente (PROJ-0455)
+Data: 14/07/2025
+Gerente: Dra. Liz Macedo
+
+Orçamento inicial: R$ 4840794.00
+Custo real atual: R$ 5205701.60
+Desvio orçamentário: 7.54%
+Índice de Desempenho de Custo (CPI): 0.93
+Valor Agregado (EV): R$ 4835953.21
+Estimativa para conclusão: R$ 5210.91
+Estimativa no término (EAC): R$ 5210912.51
+Variação no término (VAC): R$ -370118.51
+
+Detalhamento por categoria:
+- Pessoal: R$ 2657932.23 (51.1%)
+- Equipamentos: R$ 880971.61 (16.9%)
+- Software: R$ 551241.31 (10.6%)
+- Serviços: R$ 661072.26 (12.7%)
+- Outros: R$ 454484.19 (8.7%)

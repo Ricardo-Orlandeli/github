@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O conforto de ganhar em estado puro (PROJ-0417)
+Data: 14/07/2025
+Gerente: Helena Lopes
+
+Orçamento inicial: R$ 2602416.00
+Custo real atual: R$ 2564903.96
+Desvio orçamentário: 85.52%
+Índice de Desempenho de Custo (CPI): 1.01
+Valor Agregado (EV): R$ 2602416.00
+Estimativa para conclusão: R$ 0.00
+Estimativa no término (EAC): R$ 2564903.96
+Variação no término (VAC): R$ 37512.04
+
+Detalhamento por categoria:
+- Pessoal: R$ 1485741.26 (57.9%)
+- Equipamentos: R$ 329811.33 (12.9%)
+- Software: R$ 143111.82 (5.6%)
+- Serviços: R$ 371352.59 (14.5%)
+- Outros: R$ 234886.96 (9.2%)

@@ -1,0 +1,23 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A arte de avançar direto da fonte (PROJ-0036)
+Data: 14/07/2025
+Gerente: Srta. Aylla Pastor
+
+Status atual: Em andamento
+Percentual de conclusão: 76.1%
+Data de início: 10/11/2024
+Data de término planejada: 02/08/2025
+Data de término real/prevista: 18/08/2025
+Atraso atual: 0 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.14
+Valor Planejado (PV): R$ 3924851.09
+Valor Agregado (EV): R$ 3216194.78
+
+Tarefas críticas:
+- Implementação do módulo de relatórios
+- Implementação do módulo de relatórios
+- Implementação do módulo de exportação de dados
+- Desenvolvimento do painel administrativo
+
+Tarefas atrasadas:

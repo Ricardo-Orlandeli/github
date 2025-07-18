@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O poder de realizar seus sonhos naturalmente (PROJ-0295)
+Data: 14/07/2025
+Gerente: Helena Aparecida
+
+Orçamento inicial: R$ 2753678.00
+Custo real atual: R$ 1393296.76
+Desvio orçamentário: 785.46%
+Índice de Desempenho de Custo (CPI): 0.79
+Valor Agregado (EV): R$ 1106797.71
+Estimativa para conclusão: R$ 2073181.88
+Estimativa no término (EAC): R$ 3466478.64
+Variação no término (VAC): R$ -712800.64
+
+Detalhamento por categoria:
+- Pessoal: R$ 737150.56 (52.9%)
+- Equipamentos: R$ 237561.43 (17.1%)
+- Software: R$ 102283.43 (7.3%)
+- Serviços: R$ 197039.89 (14.1%)
+- Outros: R$ 119261.45 (8.6%)

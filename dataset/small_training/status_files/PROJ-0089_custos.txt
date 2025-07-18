@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A simplicidade de evoluir de maneira eficaz (PROJ-0089)
+Data: 14/07/2025
+Gerente: Dr. Raul Pastor
+
+Orçamento inicial: R$ 4324397.00
+Custo real atual: R$ 3724327.93
+Desvio orçamentário: -13.88%
+Índice de Desempenho de Custo (CPI): 1.15
+Valor Agregado (EV): R$ 4273380.06
+Estimativa para conclusão: R$ 44462.18
+Estimativa no término (EAC): R$ 3768790.11
+Variação no término (VAC): R$ 555606.89
+
+Detalhamento por categoria:
+- Pessoal: R$ 1993307.97 (53.5%)
+- Equipamentos: R$ 408123.93 (11.0%)
+- Software: R$ 507850.58 (13.6%)
+- Serviços: R$ 500543.15 (13.4%)
+- Outros: R$ 314502.30 (8.4%)

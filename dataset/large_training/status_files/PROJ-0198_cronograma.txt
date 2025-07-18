@@ -1,0 +1,23 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: O conforto de avançar com confiança (PROJ-0198)
+Data: 14/07/2025
+Gerente: Kevin Albuquerque
+
+Status atual: Atrasado
+Percentual de conclusão: 73.3%
+Data de início: 15/08/2023
+Data de término planejada: 21/12/2023
+Data de término real/prevista: 05/01/2024
+Atraso atual: 571 dias
+Motivo do atraso: Atraso na entrega de componentes por fornecedores
+Índice de Desempenho de Cronograma (SPI): 0.73
+Valor Planejado (PV): R$ 3643067.00
+Valor Agregado (EV): R$ 2669554.86
+
+Tarefas críticas:
+- Testes de segurança
+- Desenvolvimento do módulo de autenticação
+- Testes de segurança
+
+Tarefas atrasadas:
+- Testes de segurança

@@ -1,0 +1,27 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A vantagem de avançar sem preocupação (PROJ-0644)
+Data: 14/07/2025
+Gerente: Sr. Guilherme Rocha
+
+Status atual: Em andamento
+Percentual de conclusão: 89.3%
+Data de início: 08/09/2024
+Data de término planejada: 03/01/2025
+Data de término real/prevista: 15/01/2025
+Atraso atual: 192 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 0.97
+Valor Planejado (PV): R$ 1459763.00
+Valor Agregado (EV): R$ 1303710.71
+
+Tarefas críticas:
+- Implementação do sistema de backup
+- Implementação da API REST
+- Implementação do módulo de relatórios
+- Configuração do ambiente de produção
+- Implementação do sistema de backup
+- Implementação do módulo de exportação de dados
+- Implementação do módulo de relatórios
+- Implementação da API REST
+
+Tarefas atrasadas:

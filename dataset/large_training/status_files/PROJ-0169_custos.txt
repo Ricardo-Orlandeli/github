@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A liberdade de mudar de maneira eficaz (PROJ-0169)
+Data: 14/07/2025
+Gerente: Benjamin Gonçalves
+
+Orçamento inicial: R$ 3517185.00
+Custo real atual: R$ 2643144.40
+Desvio orçamentário: -24.85%
+Índice de Desempenho de Custo (CPI): 1.13
+Valor Agregado (EV): R$ 2977743.23
+Estimativa para conclusão: R$ 478826.54
+Estimativa no término (EAC): R$ 3121970.94
+Variação no término (VAC): R$ 395214.06
+
+Detalhamento por categoria:
+- Pessoal: R$ 1340894.76 (50.7%)
+- Equipamentos: R$ 329732.21 (12.5%)
+- Software: R$ 175347.27 (6.6%)
+- Serviços: R$ 529151.45 (20.0%)
+- Outros: R$ 268018.71 (10.1%)

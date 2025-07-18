@@ -1,0 +1,47 @@
+RELATÓRIO DE STATUS DE RISCOS
+Projeto: A simplicidade de realizar seus sonhos antes de tudo (PROJ-0724)
+Data: 14/07/2025
+Gerente: Beatriz Lima
+
+Riscos identificados:
+- R01: Falhas de segurança
+  Probabilidade: 3/5, Impacto: 4/5, Nível: Médio
+  Mitigação: Otimizar código e infraestrutura
+
+- R02: Resistência dos usuários à mudança
+  Probabilidade: 1/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Monitorar mudanças regulatórias
+
+- R03: Resistência dos usuários à mudança
+  Probabilidade: 5/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Implementar redundância de infraestrutura
+
+- R04: Mudanças regulatórias
+  Probabilidade: 1/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Otimizar código e infraestrutura
+
+- R05: Falhas de infraestrutura
+  Probabilidade: 5/5, Impacto: 2/5, Nível: Médio
+  Mitigação: Otimizar código e infraestrutura
+
+- R06: Problemas de compatibilidade
+  Probabilidade: 4/5, Impacto: 5/5, Nível: Alto
+  Mitigação: Monitorar mudanças regulatórias
+
+- R07: Atraso na entrega de componentes críticos
+  Probabilidade: 5/5, Impacto: 3/5, Nível: Médio
+  Mitigação: Gerenciar dependências ativamente
+
+Riscos ocorridos:
+- R04 (ocorrido em 09/07/2025)
+  Impacto real: Problemas de qualidade
+  Ações tomadas: Revisão de prioridades
+
+- R07 (ocorrido em 26/02/2025)
+  Impacto real: Atraso de 2 semanas no cronograma
+  Ações tomadas: Realocação de recursos
+
+- R06 (ocorrido em 30/01/2025)
+  Impacto real: Problemas de qualidade
+  Ações tomadas: Revisão de processos
+

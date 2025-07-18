@@ -1,0 +1,23 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A vantagem de conseguir mais facilmente (PROJ-0473)
+Data: 14/07/2025
+Gerente: Sr. Ravi Lucca da Costa
+
+Status atual: Atrasado
+Percentual de conclusão: 47.1%
+Data de início: 22/12/2024
+Data de término planejada: 08/12/2025
+Data de término real/prevista: 11/04/2026
+Atraso atual: 0 dias
+Motivo do atraso: Problemas de comunicação
+Índice de Desempenho de Cronograma (SPI): 0.81
+Valor Planejado (PV): R$ 632016.99
+Valor Agregado (EV): R$ 511793.91
+
+Tarefas críticas:
+- Testes de segurança
+- Integração com sistema de pagamentos
+- Implementação do sistema de backup
+
+Tarefas atrasadas:
+- Integração com sistema de pagamentos

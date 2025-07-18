@@ -1,0 +1,27 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A vantagem de avançar naturalmente (PROJ-0319)
+Data: 14/07/2025
+Gerente: Maya da Mata
+
+Status atual: Concluído
+Percentual de conclusão: 100.0%
+Data de início: 07/02/2024
+Data de término planejada: 12/07/2024
+Data de término real/prevista: 13/07/2024
+Atraso atual: 367 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.02
+Valor Planejado (PV): R$ 3320507.00
+Valor Agregado (EV): R$ 3320507.00
+
+Tarefas críticas:
+- Integração com sistema de pagamentos
+- Implementação do módulo de notificações
+- Desenvolvimento do painel administrativo
+- Implementação do sistema de backup
+- Configuração da infraestrutura
+- Implementação do módulo de análise de dados
+- Desenvolvimento do módulo de autenticação
+- Desenvolvimento do painel administrativo
+
+Tarefas atrasadas:

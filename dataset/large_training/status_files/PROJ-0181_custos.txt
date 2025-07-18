@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A possibilidade de atingir seus objetivos mais facilmente (PROJ-0181)
+Data: 14/07/2025
+Gerente: Maria Vitória Ramos
+
+Orçamento inicial: R$ 3611389.00
+Custo real atual: R$ 3813238.34
+Desvio orçamentário: 5.59%
+Índice de Desempenho de Custo (CPI): 0.95
+Valor Agregado (EV): R$ 3611389.00
+Estimativa para conclusão: R$ 0.00
+Estimativa no término (EAC): R$ 3813238.34
+Variação no término (VAC): R$ -201849.34
+
+Detalhamento por categoria:
+- Pessoal: R$ 1767575.58 (46.4%)
+- Equipamentos: R$ 580341.74 (15.2%)
+- Software: R$ 444339.64 (11.7%)
+- Serviços: R$ 685708.89 (18.0%)
+- Outros: R$ 335272.49 (8.8%)

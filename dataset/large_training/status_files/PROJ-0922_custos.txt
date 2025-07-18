@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O prazer de avançar sem preocupação (PROJ-0922)
+Data: 14/07/2025
+Gerente: Sra. Amanda Siqueira
+
+Orçamento inicial: R$ 2448137.00
+Custo real atual: R$ 1895155.42
+Desvio orçamentário: -22.59%
+Índice de Desempenho de Custo (CPI): 1.23
+Valor Agregado (EV): R$ 2332161.58
+Estimativa para conclusão: R$ 94243.66
+Estimativa no término (EAC): R$ 1989399.08
+Variação no término (VAC): R$ 458737.92
+
+Detalhamento por categoria:
+- Pessoal: R$ 876007.12 (46.2%)
+- Equipamentos: R$ 270596.99 (14.3%)
+- Software: R$ 261134.32 (13.8%)
+- Serviços: R$ 295579.33 (15.6%)
+- Outros: R$ 191837.66 (10.1%)

@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O direito de realizar seus sonhos de maneira eficaz (PROJ-0792)
+Data: 14/07/2025
+Gerente: Sophia Rios
+
+Orçamento inicial: R$ 1238925.00
+Custo real atual: R$ 1246201.91
+Desvio orçamentário: 0.59%
+Índice de Desempenho de Custo (CPI): 0.99
+Valor Agregado (EV): R$ 1238925.00
+Estimativa para conclusão: R$ 0.00
+Estimativa no término (EAC): R$ 1246201.91
+Variação no término (VAC): R$ -7276.91
+
+Detalhamento por categoria:
+- Pessoal: R$ 591318.36 (47.4%)
+- Equipamentos: R$ 169003.38 (13.6%)
+- Software: R$ 115578.85 (9.3%)
+- Serviços: R$ 239033.44 (19.2%)
+- Outros: R$ 131267.87 (10.5%)

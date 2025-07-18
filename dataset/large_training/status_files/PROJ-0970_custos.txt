@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A possibilidade de avançar mais facilmente (PROJ-0970)
+Data: 14/07/2025
+Gerente: Sr. Luiz Miguel Vieira
+
+Orçamento inicial: R$ 2490944.00
+Custo real atual: R$ 1716370.44
+Desvio orçamentário: -4.41%
+Índice de Desempenho de Custo (CPI): 1.15
+Valor Agregado (EV): R$ 1975965.64
+Estimativa para conclusão: R$ 447322.37
+Estimativa no término (EAC): R$ 2163692.82
+Variação no término (VAC): R$ 327251.18
+
+Detalhamento por categoria:
+- Pessoal: R$ 952594.58 (55.5%)
+- Equipamentos: R$ 233491.46 (13.6%)
+- Software: R$ 88272.33 (5.1%)
+- Serviços: R$ 326866.35 (19.0%)
+- Outros: R$ 115145.71 (6.7%)

@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A vantagem de ganhar simplesmente (PROJ-0438)
+Data: 14/07/2025
+Gerente: Rhavi Silva
+
+Orçamento inicial: R$ 248690.00
+Custo real atual: R$ 206645.05
+Desvio orçamentário: -16.91%
+Índice de Desempenho de Custo (CPI): 1.20
+Valor Agregado (EV): R$ 248690.00
+Estimativa para conclusão: R$ 0.00
+Estimativa no término (EAC): R$ 206645.05
+Variação no término (VAC): R$ 42044.95
+
+Detalhamento por categoria:
+- Pessoal: R$ 101641.90 (49.2%)
+- Equipamentos: R$ 29936.24 (14.5%)
+- Software: R$ 14961.86 (7.2%)
+- Serviços: R$ 43700.83 (21.1%)
+- Outros: R$ 16404.21 (7.9%)

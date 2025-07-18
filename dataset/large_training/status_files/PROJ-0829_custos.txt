@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O poder de inovar mais rapidamente (PROJ-0829)
+Data: 14/07/2025
+Gerente: Luiz Felipe Dias
+
+Orçamento inicial: R$ 3128788.00
+Custo real atual: R$ 2460877.99
+Desvio orçamentário: -21.35%
+Índice de Desempenho de Custo (CPI): 1.16
+Valor Agregado (EV): R$ 2856747.30
+Estimativa para conclusão: R$ 234343.09
+Estimativa no término (EAC): R$ 2695221.08
+Variação no término (VAC): R$ 433566.92
+
+Detalhamento por categoria:
+- Pessoal: R$ 1312077.53 (53.3%)
+- Equipamentos: R$ 474419.64 (19.3%)
+- Software: R$ 252506.62 (10.3%)
+- Serviços: R$ 273525.64 (11.1%)
+- Outros: R$ 148348.55 (6.0%)

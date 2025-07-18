@@ -1,0 +1,28 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: O poder de mudar em estado puro (PROJ-0210)
+Data: 14/07/2025
+Gerente: Eduarda Araújo
+
+Status atual: Atrasado
+Percentual de conclusão: 56.0%
+Data de início: 14/06/2024
+Data de término planejada: 14/02/2025
+Data de término real/prevista: 04/07/2025
+Atraso atual: 150 dias
+Motivo do atraso: Problemas de integração com sistemas legados
+Índice de Desempenho de Cronograma (SPI): 0.56
+Valor Planejado (PV): R$ 1297547.00
+Valor Agregado (EV): R$ 726405.47
+
+Tarefas críticas:
+- Integração com sistema de pagamentos
+- Implementação do módulo de exportação de dados
+- Configuração do ambiente de produção
+- Testes de segurança
+- Testes de segurança
+- Configuração do ambiente de produção
+- Integração com sistema de pagamentos
+
+Tarefas atrasadas:
+- Configuração do ambiente de produção
+- Testes de segurança

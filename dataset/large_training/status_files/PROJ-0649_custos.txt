@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A vantagem de atingir seus objetivos mais rapidamente (PROJ-0649)
+Data: 14/07/2025
+Gerente: Sarah Fernandes
+
+Orçamento inicial: R$ 621082.00
+Custo real atual: R$ 722032.62
+Desvio orçamentário: 16.25%
+Índice de Desempenho de Custo (CPI): 0.86
+Valor Agregado (EV): R$ 621082.00
+Estimativa para conclusão: R$ 0.00
+Estimativa no término (EAC): R$ 722032.62
+Variação no término (VAC): R$ -100950.62
+
+Detalhamento por categoria:
+- Pessoal: R$ 356692.33 (49.4%)
+- Equipamentos: R$ 115337.44 (16.0%)
+- Software: R$ 97142.99 (13.5%)
+- Serviços: R$ 97870.74 (13.6%)
+- Outros: R$ 54989.12 (7.6%)

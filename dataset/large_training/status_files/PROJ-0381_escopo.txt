@@ -1,0 +1,19 @@
+RELATÓRIO DE STATUS DE ESCOPO
+Projeto: A vantagem de mudar mais facilmente (PROJ-0381)
+Data: 14/07/2025
+Gerente: Maria Flor da Luz
+
+Escopo original: Sistema para a vantagem de mudar mais facilmente
+Houve mudança de escopo: Não
+Descrição das mudanças: N/A
+Impacto no cronograma: 0 dias
+Impacto no custo: R$ 0.00
+
+Solicitações de mudança:
+
+Requisitos atuais:
+- REQ-01: O sistema deve ter documentação completa
+- REQ-02: O sistema deve permitir integração com APIs externas
+- REQ-03: O sistema deve ter controle de acesso baseado em perfis
+- REQ-04: O sistema deve permitir integração com APIs externas
+- REQ-05: O sistema deve ter alta disponibilidade (99.9%)

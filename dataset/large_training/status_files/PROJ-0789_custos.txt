@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A certeza de mudar com confiança (PROJ-0789)
+Data: 14/07/2025
+Gerente: Kaique Novaes
+
+Orçamento inicial: R$ 2047771.00
+Custo real atual: R$ 1858692.36
+Desvio orçamentário: -9.23%
+Índice de Desempenho de Custo (CPI): 1.03
+Valor Agregado (EV): R$ 1915364.66
+Estimativa para conclusão: R$ 128488.67
+Estimativa no término (EAC): R$ 1987181.02
+Variação no término (VAC): R$ 60589.98
+
+Detalhamento por categoria:
+- Pessoal: R$ 969552.69 (52.2%)
+- Equipamentos: R$ 248299.68 (13.4%)
+- Software: R$ 242679.50 (13.1%)
+- Serviços: R$ 278153.47 (15.0%)
+- Outros: R$ 120007.02 (6.5%)

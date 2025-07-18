@@ -1,0 +1,29 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A vantagem de ganhar de maneira eficaz (PROJ-0624)
+Data: 14/07/2025
+Gerente: Alice Aparecida
+
+Status atual: Atrasado
+Percentual de conclusão: 82.2%
+Data de início: 17/03/2025
+Data de término planejada: 21/05/2025
+Data de término real/prevista: 08/08/2025
+Atraso atual: 54 dias
+Motivo do atraso: Problemas técnicos inesperados
+Índice de Desempenho de Cronograma (SPI): 0.82
+Valor Planejado (PV): R$ 2055305.00
+Valor Agregado (EV): R$ 1688482.54
+
+Tarefas críticas:
+- Desenvolvimento da interface do usuário
+- Integração com sistema de pagamentos
+- Integração com sistema de pagamentos
+- Migração de dados legados
+- Desenvolvimento do módulo de autenticação
+- Integração com sistema de pagamentos
+- Implementação do sistema de backup
+- Testes de segurança
+
+Tarefas atrasadas:
+- Desenvolvimento do módulo de autenticação
+- Integração com sistema de pagamentos

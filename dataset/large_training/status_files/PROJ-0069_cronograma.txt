@@ -1,0 +1,24 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A liberdade de mudar direto da fonte (PROJ-0069)
+Data: 14/07/2025
+Gerente: Catarina Farias
+
+Status atual: Em andamento
+Percentual de conclusão: 85.6%
+Data de início: 04/01/2025
+Data de término planejada: 05/09/2025
+Data de término real/prevista: 03/10/2025
+Atraso atual: 0 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.14
+Valor Planejado (PV): R$ 2131590.53
+Valor Agregado (EV): R$ 2329789.99
+
+Tarefas críticas:
+- Implementação do módulo de relatórios
+- Desenvolvimento do módulo de autenticação
+- Migração de dados legados
+- Integração com sistema de pagamentos
+- Testes de aceitação do usuário
+
+Tarefas atrasadas:

@@ -1,0 +1,23 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A arte de evoluir com toda a tranquilidade (PROJ-0708)
+Data: 14/07/2025
+Gerente: Lívia Andrade
+
+Status atual: Em andamento
+Percentual de conclusão: 99.9%
+Data de início: 20/09/2023
+Data de término planejada: 21/10/2023
+Data de término real/prevista: 04/11/2023
+Atraso atual: 632 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 0.91
+Valor Planejado (PV): R$ 3564480.00
+Valor Agregado (EV): R$ 3560915.52
+
+Tarefas críticas:
+- Configuração do ambiente de produção
+- Configuração do ambiente de produção
+- Implementação do módulo de relatórios
+- Testes de segurança
+
+Tarefas atrasadas:

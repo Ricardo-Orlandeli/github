@@ -1,0 +1,26 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: O conforto de evoluir antes de tudo (PROJ-0755)
+Data: 14/07/2025
+Gerente: Luana Albuquerque
+
+Status atual: Em andamento
+Percentual de conclusão: 99.9%
+Data de início: 07/08/2023
+Data de término planejada: 13/10/2023
+Data de término real/prevista: 06/11/2023
+Atraso atual: 640 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 0.88
+Valor Planejado (PV): R$ 4539831.00
+Valor Agregado (EV): R$ 4535291.17
+
+Tarefas críticas:
+- Implementação do módulo de exportação de dados
+- Implementação da API REST
+- Configuração do ambiente de produção
+- Testes de segurança
+- Implementação do módulo de relatórios
+- Desenvolvimento do módulo de autenticação
+- Implementação do módulo de relatórios
+
+Tarefas atrasadas:

@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A simplicidade de avançar antes de tudo (PROJ-0993)
+Data: 14/07/2025
+Gerente: João Felipe Farias
+
+Orçamento inicial: R$ 3812147.00
+Custo real atual: R$ 1458807.21
+Desvio orçamentário: -27.47%
+Índice de Desempenho de Custo (CPI): 1.17
+Valor Agregado (EV): R$ 1704754.52
+Estimativa para conclusão: R$ 1803356.03
+Estimativa no término (EAC): R$ 3262163.24
+Variação no término (VAC): R$ 549983.76
+
+Detalhamento por categoria:
+- Pessoal: R$ 823965.56 (56.5%)
+- Equipamentos: R$ 217702.25 (14.9%)
+- Software: R$ 124783.09 (8.6%)
+- Serviços: R$ 188382.65 (12.9%)
+- Outros: R$ 103973.66 (7.1%)

@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A possibilidade de mudar mais facilmente (PROJ-0214)
+Data: 14/07/2025
+Gerente: Bianca Barros
+
+Orçamento inicial: R$ 2375730.00
+Custo real atual: R$ 1890334.61
+Desvio orçamentário: -20.43%
+Índice de Desempenho de Custo (CPI): 1.20
+Valor Agregado (EV): R$ 2269456.10
+Estimativa para conclusão: R$ 88520.43
+Estimativa no término (EAC): R$ 1978855.04
+Variação no término (VAC): R$ 396874.96
+
+Detalhamento por categoria:
+- Pessoal: R$ 1118125.04 (59.1%)
+- Equipamentos: R$ 205651.84 (10.9%)
+- Software: R$ 191669.07 (10.1%)
+- Serviços: R$ 226889.15 (12.0%)
+- Outros: R$ 147999.50 (7.8%)

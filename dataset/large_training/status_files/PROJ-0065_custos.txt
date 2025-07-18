@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O direito de atingir seus objetivos direto da fonte (PROJ-0065)
+Data: 14/07/2025
+Gerente: Diego Machado
+
+Orçamento inicial: R$ 2535258.00
+Custo real atual: R$ 2512257.65
+Desvio orçamentário: -0.91%
+Índice de Desempenho de Custo (CPI): 0.70
+Valor Agregado (EV): R$ 1754649.73
+Estimativa para conclusão: R$ 1117652.76
+Estimativa no término (EAC): R$ 3629910.41
+Variação no término (VAC): R$ -1094652.41
+
+Detalhamento por categoria:
+- Pessoal: R$ 1357800.34 (54.0%)
+- Equipamentos: R$ 425478.75 (16.9%)
+- Software: R$ 161580.61 (6.4%)
+- Serviços: R$ 415762.64 (16.5%)
+- Outros: R$ 151635.32 (6.0%)

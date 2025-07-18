@@ -1,0 +1,26 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A liberdade de evoluir de maneira eficaz (PROJ-0865)
+Data: 14/07/2025
+Gerente: Ísis da Conceição
+
+Status atual: Atrasado
+Percentual de conclusão: 62.0%
+Data de início: 05/09/2023
+Data de término planejada: 29/07/2024
+Data de término real/prevista: 07/10/2024
+Atraso atual: 350 dias
+Motivo do atraso: Falhas em testes de aceitação
+Índice de Desempenho de Cronograma (SPI): 0.62
+Valor Planejado (PV): R$ 4597946.00
+Valor Agregado (EV): R$ 2851613.77
+
+Tarefas críticas:
+- Implementação do módulo de notificações
+- Desenvolvimento do painel administrativo
+- Migração de dados legados
+- Desenvolvimento do módulo de autenticação
+
+Tarefas atrasadas:
+- Desenvolvimento do módulo de autenticação
+- Desenvolvimento do painel administrativo
+- Implementação do módulo de notificações

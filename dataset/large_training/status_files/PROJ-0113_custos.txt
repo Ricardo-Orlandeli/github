@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O conforto de ganhar com força total (PROJ-0113)
+Data: 14/07/2025
+Gerente: Thales Freitas
+
+Orçamento inicial: R$ 1026169.00
+Custo real atual: R$ 1069244.76
+Desvio orçamentário: 4.20%
+Índice de Desempenho de Custo (CPI): 0.96
+Valor Agregado (EV): R$ 1025142.83
+Estimativa para conclusão: R$ 1070.32
+Estimativa no término (EAC): R$ 1070315.08
+Variação no término (VAC): R$ -44146.08
+
+Detalhamento por categoria:
+- Pessoal: R$ 498533.46 (46.6%)
+- Equipamentos: R$ 217817.59 (20.4%)
+- Software: R$ 126324.40 (11.8%)
+- Serviços: R$ 121386.19 (11.4%)
+- Outros: R$ 105183.12 (9.8%)

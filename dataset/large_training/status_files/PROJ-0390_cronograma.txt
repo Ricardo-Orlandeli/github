@@ -1,0 +1,27 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A certeza de atingir seus objetivos simplesmente (PROJ-0390)
+Data: 14/07/2025
+Gerente: Maria Helena Araújo
+
+Status atual: Em andamento
+Percentual de conclusão: 11.4%
+Data de início: 28/06/2025
+Data de término planejada: 24/10/2025
+Data de término real/prevista: 26/10/2025
+Atraso atual: 0 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.09
+Valor Planejado (PV): R$ 563745.90
+Valor Agregado (EV): R$ 472325.63
+
+Tarefas críticas:
+- Configuração do ambiente de produção
+- Desenvolvimento do painel administrativo
+- Testes de segurança
+- Implementação do módulo de notificações
+- Desenvolvimento da interface do usuário
+- Desenvolvimento do módulo de autenticação
+- Implementação do módulo de análise de dados
+- Implementação da API REST
+
+Tarefas atrasadas:

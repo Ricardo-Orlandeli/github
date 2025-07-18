@@ -1,0 +1,25 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: O poder de realizar seus sonhos sem preocupação (PROJ-0985)
+Data: 14/07/2025
+Gerente: Emanuel Martins
+
+Status atual: Em andamento
+Percentual de conclusão: 99.9%
+Data de início: 18/07/2023
+Data de término planejada: 27/10/2023
+Data de término real/prevista: 13/11/2023
+Atraso atual: 626 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 0.99
+Valor Planejado (PV): R$ 2216145.00
+Valor Agregado (EV): R$ 2213928.86
+
+Tarefas críticas:
+- Configuração da infraestrutura
+- Implementação do módulo de exportação de dados
+- Testes de segurança
+- Implementação do módulo de análise de dados
+- Desenvolvimento da interface do usuário
+- Desenvolvimento do módulo de autenticação
+
+Tarefas atrasadas:

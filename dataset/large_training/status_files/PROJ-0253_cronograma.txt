@@ -1,0 +1,27 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: O poder de concretizar seus projetos de maneira eficaz (PROJ-0253)
+Data: 14/07/2025
+Gerente: Luan Fernandes
+
+Status atual: Em andamento
+Percentual de conclusão: 16.3%
+Data de início: 06/06/2025
+Data de término planejada: 19/01/2026
+Data de término real/prevista: 04/01/2026
+Atraso atual: 0 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 0.92
+Valor Planejado (PV): R$ 149451.82
+Valor Agregado (EV): R$ 145228.11
+
+Tarefas críticas:
+- Implementação do módulo de análise de dados
+- Desenvolvimento do painel administrativo
+- Testes de segurança
+- Migração de dados legados
+- Configuração da infraestrutura
+- Desenvolvimento do painel administrativo
+- Desenvolvimento da interface do usuário
+- Migração de dados legados
+
+Tarefas atrasadas:

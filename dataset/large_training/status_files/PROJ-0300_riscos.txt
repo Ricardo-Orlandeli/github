@@ -1,0 +1,31 @@
+RELATÓRIO DE STATUS DE RISCOS
+Projeto: A liberdade de inovar naturalmente (PROJ-0300)
+Data: 14/07/2025
+Gerente: Maria Luísa Camargo
+
+Riscos identificados:
+- R01: Problemas de compatibilidade
+  Probabilidade: 2/5, Impacto: 3/5, Nível: Baixo
+  Mitigação: Testar compatibilidade em diferentes ambientes
+
+- R02: Falhas de segurança
+  Probabilidade: 4/5, Impacto: 5/5, Nível: Alto
+  Mitigação: Comunicar benefícios da mudança
+
+- R03: Estimativas imprecisas
+  Probabilidade: 2/5, Impacto: 3/5, Nível: Baixo
+  Mitigação: Realizar testes de integração antecipados
+
+- R04: Problemas de comunicação com stakeholders
+  Probabilidade: 2/5, Impacto: 5/5, Nível: Médio
+  Mitigação: Implementar redundância de infraestrutura
+
+Riscos ocorridos:
+- R03 (ocorrido em 08/05/2025)
+  Impacto real: Falhas de segurança
+  Ações tomadas: Implementação do plano de contingência
+
+- R01 (ocorrido em 02/02/2025)
+  Impacto real: Perda de recursos-chave
+  Ações tomadas: Realocação de recursos
+

@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A possibilidade de mudar mais rapidamente (PROJ-0661)
+Data: 14/07/2025
+Gerente: Dr. Benício Correia
+
+Orçamento inicial: R$ 687988.00
+Custo real atual: R$ 541458.22
+Desvio orçamentário: -21.30%
+Índice de Desempenho de Custo (CPI): 1.09
+Valor Agregado (EV): R$ 587908.28
+Estimativa para conclusão: R$ 92172.52
+Estimativa no término (EAC): R$ 633630.74
+Variação no término (VAC): R$ 54357.26
+
+Detalhamento por categoria:
+- Pessoal: R$ 299326.75 (55.3%)
+- Equipamentos: R$ 106023.00 (19.6%)
+- Software: R$ 37380.31 (6.9%)
+- Serviços: R$ 66777.59 (12.3%)
+- Outros: R$ 31950.57 (5.9%)

@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A arte de atingir seus objetivos com toda a tranquilidade (PROJ-0030)
+Data: 14/07/2025
+Gerente: Sra. Ana Carolina da Rocha
+
+Orçamento inicial: R$ 4105920.00
+Custo real atual: R$ 3988805.95
+Desvio orçamentário: -2.85%
+Índice de Desempenho de Custo (CPI): 0.90
+Valor Agregado (EV): R$ 3595431.39
+Estimativa para conclusão: R$ 566340.94
+Estimativa no término (EAC): R$ 4555146.89
+Variação no término (VAC): R$ -449226.89
+
+Detalhamento por categoria:
+- Pessoal: R$ 2320079.85 (58.2%)
+- Equipamentos: R$ 495634.54 (12.4%)
+- Software: R$ 405435.94 (10.2%)
+- Serviços: R$ 486283.54 (12.2%)
+- Outros: R$ 281372.08 (7.1%)

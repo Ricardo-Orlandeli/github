@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O direito de atingir seus objetivos mais rapidamente (PROJ-0012)
+Data: 14/07/2025
+Gerente: Diego Pimenta
+
+Orçamento inicial: R$ 4791372.00
+Custo real atual: R$ 4556674.49
+Desvio orçamentário: -4.90%
+Índice de Desempenho de Custo (CPI): 1.05
+Valor Agregado (EV): R$ 4786580.63
+Estimativa para conclusão: R$ 4561.24
+Estimativa no término (EAC): R$ 4561235.72
+Variação no término (VAC): R$ 230136.28
+
+Detalhamento por categoria:
+- Pessoal: R$ 2461819.94 (54.0%)
+- Equipamentos: R$ 564172.99 (12.4%)
+- Software: R$ 578261.77 (12.7%)
+- Serviços: R$ 577871.75 (12.7%)
+- Outros: R$ 374548.03 (8.2%)

@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A certeza de evoluir simplesmente (PROJ-0278)
+Data: 14/07/2025
+Gerente: Sra. Lívia Costa
+
+Orçamento inicial: R$ 281611.00
+Custo real atual: R$ 293716.90
+Desvio orçamentário: 9.57%
+Índice de Desempenho de Custo (CPI): 0.96
+Valor Agregado (EV): R$ 281329.39
+Estimativa para conclusão: R$ 294.01
+Estimativa no término (EAC): R$ 294010.91
+Variação no término (VAC): R$ -12399.91
+
+Detalhamento por categoria:
+- Pessoal: R$ 162954.07 (55.5%)
+- Equipamentos: R$ 34232.77 (11.7%)
+- Software: R$ 30598.23 (10.4%)
+- Serviços: R$ 43624.30 (14.9%)
+- Outros: R$ 22307.53 (7.6%)

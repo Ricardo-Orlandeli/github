@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A possibilidade de conseguir com toda a tranquilidade (PROJ-0057)
+Data: 14/07/2025
+Gerente: Sr. Apollo Sousa
+
+Orçamento inicial: R$ 2936121.00
+Custo real atual: R$ 2610686.38
+Desvio orçamentário: -11.08%
+Índice de Desempenho de Custo (CPI): 0.95
+Valor Agregado (EV): R$ 2470460.44
+Estimativa para conclusão: R$ 492091.94
+Estimativa no término (EAC): R$ 3102778.31
+Variação no término (VAC): R$ -166657.31
+
+Detalhamento por categoria:
+- Pessoal: R$ 1503090.36 (57.6%)
+- Equipamentos: R$ 319466.41 (12.2%)
+- Software: R$ 218227.15 (8.4%)
+- Serviços: R$ 346122.97 (13.3%)
+- Outros: R$ 223779.49 (8.6%)

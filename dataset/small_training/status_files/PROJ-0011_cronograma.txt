@@ -1,0 +1,26 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A liberdade de ganhar mais rapidamente (PROJ-0011)
+Data: 14/07/2025
+Gerente: Catarina Martins
+
+Status atual: Atrasado
+Percentual de conclusão: 71.1%
+Data de início: 24/11/2024
+Data de término planejada: 17/05/2025
+Data de término real/prevista: 07/07/2025
+Atraso atual: 58 dias
+Motivo do atraso: Rotatividade de pessoal-chave
+Índice de Desempenho de Cronograma (SPI): 0.71
+Valor Planejado (PV): R$ 4268687.00
+Valor Agregado (EV): R$ 3034967.80
+
+Tarefas críticas:
+- Integração com sistema de pagamentos
+- Integração com sistema de pagamentos
+- Implementação da API REST
+- Implementação do módulo de análise de dados
+- Testes de segurança
+
+Tarefas atrasadas:
+- Implementação do módulo de análise de dados
+- Testes de segurança

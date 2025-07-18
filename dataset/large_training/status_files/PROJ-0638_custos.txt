@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A simplicidade de conseguir direto da fonte (PROJ-0638)
+Data: 14/07/2025
+Gerente: Pedro Lucas Siqueira
+
+Orçamento inicial: R$ 3769122.00
+Custo real atual: R$ 3974789.09
+Desvio orçamentário: 5.46%
+Índice de Desempenho de Custo (CPI): 0.95
+Valor Agregado (EV): R$ 3765352.88
+Estimativa para conclusão: R$ 3978.77
+Estimativa no término (EAC): R$ 3978767.85
+Variação no término (VAC): R$ -209645.85
+
+Detalhamento por categoria:
+- Pessoal: R$ 2064408.30 (51.9%)
+- Equipamentos: R$ 438738.67 (11.0%)
+- Software: R$ 495879.04 (12.5%)
+- Serviços: R$ 710231.79 (17.9%)
+- Outros: R$ 265531.29 (6.7%)

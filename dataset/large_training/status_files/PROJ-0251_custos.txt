@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A possibilidade de evoluir com confiança (PROJ-0251)
+Data: 14/07/2025
+Gerente: Caio da Rosa
+
+Orçamento inicial: R$ 3355417.00
+Custo real atual: R$ 755345.51
+Desvio orçamentário: -6.47%
+Índice de Desempenho de Custo (CPI): 1.16
+Valor Agregado (EV): R$ 879703.14
+Estimativa para conclusão: R$ 2125739.09
+Estimativa no término (EAC): R$ 2881084.59
+Variação no término (VAC): R$ 474332.41
+
+Detalhamento por categoria:
+- Pessoal: R$ 381845.68 (50.6%)
+- Equipamentos: R$ 151689.78 (20.1%)
+- Software: R$ 56865.41 (7.5%)
+- Serviços: R$ 112738.62 (14.9%)
+- Outros: R$ 52206.02 (6.9%)

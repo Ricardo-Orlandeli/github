@@ -1,0 +1,26 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: O conforto de concretizar seus projetos de maneira eficaz (PROJ-0464)
+Data: 14/07/2025
+Gerente: Maya Araújo
+
+Status atual: Em andamento
+Percentual de conclusão: 89.5%
+Data de início: 16/05/2025
+Data de término planejada: 01/08/2025
+Data de término real/prevista: 29/07/2025
+Atraso atual: 0 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.06
+Valor Planejado (PV): R$ 3495238.92
+Valor Agregado (EV): R$ 4081158.66
+
+Tarefas críticas:
+- Testes de segurança
+- Implementação do módulo de relatórios
+- Implementação do módulo de exportação de dados
+- Implementação do sistema de backup
+- Desenvolvimento da interface do usuário
+- Desenvolvimento do painel administrativo
+- Desenvolvimento do módulo de autenticação
+
+Tarefas atrasadas:

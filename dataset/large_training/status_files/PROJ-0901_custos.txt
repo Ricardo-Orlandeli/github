@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A possibilidade de mudar direto da fonte (PROJ-0901)
+Data: 14/07/2025
+Gerente: Maria Vitória da Costa
+
+Orçamento inicial: R$ 2820094.00
+Custo real atual: R$ 2496286.16
+Desvio orçamentário: -11.48%
+Índice de Desempenho de Custo (CPI): 0.95
+Valor Agregado (EV): R$ 2371078.23
+Estimativa para conclusão: R$ 472726.64
+Estimativa no término (EAC): R$ 2969012.80
+Variação no término (VAC): R$ -148918.80
+
+Detalhamento por categoria:
+- Pessoal: R$ 1321980.84 (53.0%)
+- Equipamentos: R$ 280107.16 (11.2%)
+- Software: R$ 196706.99 (7.9%)
+- Serviços: R$ 486683.39 (19.5%)
+- Outros: R$ 210807.78 (8.4%)

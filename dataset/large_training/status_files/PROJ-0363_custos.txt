@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O poder de inovar com confiança (PROJ-0363)
+Data: 14/07/2025
+Gerente: Dra. Ayla Lima
+
+Orçamento inicial: R$ 111773.00
+Custo real atual: R$ 61512.68
+Desvio orçamentário: -10.98%
+Índice de Desempenho de Custo (CPI): 0.92
+Valor Agregado (EV): R$ 56325.39
+Estimativa para conclusão: R$ 60554.06
+Estimativa no término (EAC): R$ 122066.75
+Variação no término (VAC): R$ -10293.75
+
+Detalhamento por categoria:
+- Pessoal: R$ 27587.40 (44.8%)
+- Equipamentos: R$ 12210.47 (19.9%)
+- Software: R$ 4974.21 (8.1%)
+- Serviços: R$ 11579.26 (18.8%)
+- Outros: R$ 5161.36 (8.4%)

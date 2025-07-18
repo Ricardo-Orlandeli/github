@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A segurança de mudar sem preocupação (PROJ-0020)
+Data: 14/07/2025
+Gerente: Sra. Camila Nunes
+
+Orçamento inicial: R$ 3154220.00
+Custo real atual: R$ 1796682.61
+Desvio orçamentário: -43.04%
+Índice de Desempenho de Custo (CPI): 0.95
+Valor Agregado (EV): R$ 1706080.66
+Estimativa para conclusão: R$ 1525043.23
+Estimativa no término (EAC): R$ 3321725.84
+Variação no término (VAC): R$ -167505.84
+
+Detalhamento por categoria:
+- Pessoal: R$ 1001936.04 (55.8%)
+- Equipamentos: R$ 253057.36 (14.1%)
+- Software: R$ 97150.82 (5.4%)
+- Serviços: R$ 304175.81 (16.9%)
+- Outros: R$ 140362.57 (7.8%)

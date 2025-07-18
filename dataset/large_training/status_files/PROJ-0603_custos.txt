@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O prazer de conseguir com toda a tranquilidade (PROJ-0603)
+Data: 14/07/2025
+Gerente: Sophia Borges
+
+Orçamento inicial: R$ 287489.00
+Custo real atual: R$ 262171.94
+Desvio orçamentário: -8.81%
+Índice de Desempenho de Custo (CPI): 1.10
+Valor Agregado (EV): R$ 287489.00
+Estimativa para conclusão: R$ 0.00
+Estimativa no término (EAC): R$ 262171.94
+Variação no término (VAC): R$ 25317.06
+
+Detalhamento por categoria:
+- Pessoal: R$ 144411.94 (55.1%)
+- Equipamentos: R$ 25881.68 (9.9%)
+- Software: R$ 22407.05 (8.5%)
+- Serviços: R$ 45211.79 (17.2%)
+- Outros: R$ 24259.49 (9.3%)

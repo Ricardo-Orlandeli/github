@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A possibilidade de mudar naturalmente (PROJ-0003)
+Data: 14/07/2025
+Gerente: Mateus Moraes
+
+Orçamento inicial: R$ 4022823.00
+Custo real atual: R$ 4425370.87
+Desvio orçamentário: 10.01%
+Índice de Desempenho de Custo (CPI): 0.91
+Valor Agregado (EV): R$ 4018800.18
+Estimativa para conclusão: R$ 4429.80
+Estimativa no término (EAC): R$ 4429800.67
+Variação no término (VAC): R$ -406977.67
+
+Detalhamento por categoria:
+- Pessoal: R$ 2021998.37 (45.7%)
+- Equipamentos: R$ 662310.93 (15.0%)
+- Software: R$ 576142.59 (13.0%)
+- Serviços: R$ 813373.39 (18.4%)
+- Outros: R$ 351545.58 (7.9%)

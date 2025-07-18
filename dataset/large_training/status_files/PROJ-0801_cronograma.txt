@@ -1,0 +1,23 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A simplicidade de evoluir com confiança (PROJ-0801)
+Data: 14/07/2025
+Gerente: Bruna Rocha
+
+Status atual: Em andamento
+Percentual de conclusão: 99.9%
+Data de início: 23/08/2024
+Data de término planejada: 16/06/2025
+Data de término real/prevista: 08/06/2025
+Atraso atual: 28 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 0.89
+Valor Planejado (PV): R$ 1078975.00
+Valor Agregado (EV): R$ 1077896.03
+
+Tarefas críticas:
+- Implementação do módulo de notificações
+- Implementação do módulo de notificações
+- Testes de aceitação do usuário
+- Configuração do ambiente de produção
+
+Tarefas atrasadas:

@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A simplicidade de realizar seus sonhos com força total (PROJ-0400)
+Data: 14/07/2025
+Gerente: Emanuel Novaes
+
+Orçamento inicial: R$ 4711981.00
+Custo real atual: R$ 4347097.05
+Desvio orçamentário: -7.74%
+Índice de Desempenho de Custo (CPI): 1.08
+Valor Agregado (EV): R$ 4707269.02
+Estimativa para conclusão: R$ 4351.45
+Estimativa no término (EAC): R$ 4351448.50
+Variação no término (VAC): R$ 360532.50
+
+Detalhamento por categoria:
+- Pessoal: R$ 2303113.12 (53.0%)
+- Equipamentos: R$ 449156.81 (10.3%)
+- Software: R$ 609963.49 (14.0%)
+- Serviços: R$ 768037.95 (17.7%)
+- Outros: R$ 216825.68 (5.0%)

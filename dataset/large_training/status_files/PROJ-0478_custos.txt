@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A liberdade de inovar sem preocupação (PROJ-0478)
+Data: 14/07/2025
+Gerente: João Miguel Teixeira
+
+Orçamento inicial: R$ 4725914.00
+Custo real atual: R$ 4837217.89
+Desvio orçamentário: 2.36%
+Índice de Desempenho de Custo (CPI): 0.98
+Valor Agregado (EV): R$ 4725914.00
+Estimativa para conclusão: R$ 0.00
+Estimativa no término (EAC): R$ 4837217.89
+Variação no término (VAC): R$ -111303.89
+
+Detalhamento por categoria:
+- Pessoal: R$ 2780419.63 (57.5%)
+- Equipamentos: R$ 633565.84 (13.1%)
+- Software: R$ 416530.70 (8.6%)
+- Serviços: R$ 642509.49 (13.3%)
+- Outros: R$ 364192.23 (7.5%)

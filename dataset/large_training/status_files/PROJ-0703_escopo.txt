@@ -1,0 +1,23 @@
+RELATÓRIO DE STATUS DE ESCOPO
+Projeto: O direito de evoluir antes de tudo (PROJ-0703)
+Data: 14/07/2025
+Gerente: Sr. Rael Nunes
+
+Escopo original: Sistema para o direito de evoluir antes de tudo
+Houve mudança de escopo: Sim
+Descrição das mudanças: Adição de novos requisitos de segurança
+Impacto no cronograma: 13 dias
+Impacto no custo: R$ 146523.76
+
+Solicitações de mudança:
+- SCM-01: Mudança na arquitetura do sistema
+
+Requisitos atuais:
+- REQ-01: O sistema deve permitir autenticação de usuários
+- REQ-02: O sistema deve ser compatível com dispositivos móveis
+- REQ-03: O sistema deve ter backup automático diário
+- REQ-04: O sistema deve ter alta disponibilidade (99.9%)
+- REQ-05: O sistema deve processar transações em menos de 2 seconds
+- REQ-06: O sistema deve ter backup automático diário
+- REQ-07: O sistema deve ter controle de acesso baseado em perfis
+- REQ-08: O sistema deve ser escalável para suportar até 10.000 usuários simultâneos

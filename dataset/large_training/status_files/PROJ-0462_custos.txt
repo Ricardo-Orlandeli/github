@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O poder de mudar com confiança (PROJ-0462)
+Data: 14/07/2025
+Gerente: Miguel Nogueira
+
+Orçamento inicial: R$ 4275700.00
+Custo real atual: R$ 4144061.76
+Desvio orçamentário: -3.08%
+Índice de Desempenho de Custo (CPI): 1.03
+Valor Agregado (EV): R$ 4271424.30
+Estimativa para conclusão: R$ 4148.21
+Estimativa no término (EAC): R$ 4148209.97
+Variação no término (VAC): R$ 127490.03
+
+Detalhamento por categoria:
+- Pessoal: R$ 1944638.86 (46.9%)
+- Equipamentos: R$ 510241.15 (12.3%)
+- Software: R$ 619041.68 (14.9%)
+- Serviços: R$ 659468.03 (15.9%)
+- Outros: R$ 410672.04 (9.9%)

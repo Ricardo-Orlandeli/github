@@ -1,0 +1,25 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A simplicidade de conseguir direto da fonte (PROJ-0638)
+Data: 14/07/2025
+Gerente: Pedro Lucas Siqueira
+
+Status atual: Em andamento
+Percentual de conclusão: 99.9%
+Data de início: 25/11/2023
+Data de término planejada: 02/07/2024
+Data de término real/prevista: 30/07/2024
+Atraso atual: 377 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 0.88
+Valor Planejado (PV): R$ 3769122.00
+Valor Agregado (EV): R$ 3765352.88
+
+Tarefas críticas:
+- Implementação do módulo de relatórios
+- Testes de aceitação do usuário
+- Implementação do sistema de backup
+- Implementação do módulo de relatórios
+- Testes de segurança
+- Implementação do sistema de backup
+
+Tarefas atrasadas:

@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O direito de avançar em estado puro (PROJ-0542)
+Data: 14/07/2025
+Gerente: Mariane Abreu
+
+Orçamento inicial: R$ 222681.00
+Custo real atual: R$ 154332.16
+Desvio orçamentário: -30.69%
+Índice de Desempenho de Custo (CPI): 0.92
+Valor Agregado (EV): R$ 141350.18
+Estimativa para conclusão: R$ 88800.46
+Estimativa no término (EAC): R$ 243132.61
+Variação no término (VAC): R$ -20451.61
+
+Detalhamento por categoria:
+- Pessoal: R$ 70754.16 (45.8%)
+- Equipamentos: R$ 26704.23 (17.3%)
+- Software: R$ 20706.68 (13.4%)
+- Serviços: R$ 26001.29 (16.8%)
+- Outros: R$ 10165.80 (6.6%)

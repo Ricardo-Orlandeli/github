@@ -1,0 +1,26 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A simplicidade de conseguir simplesmente (PROJ-0056)
+Data: 14/07/2025
+Gerente: Brenda da Costa
+
+Status atual: Concluído
+Percentual de conclusão: 100.0%
+Data de início: 01/08/2024
+Data de término planejada: 16/06/2025
+Data de término real/prevista: 28/05/2025
+Atraso atual: 28 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 0.97
+Valor Planejado (PV): R$ 4790739.00
+Valor Agregado (EV): R$ 4790739.00
+
+Tarefas críticas:
+- Configuração do ambiente de produção
+- Desenvolvimento do módulo de autenticação
+- Desenvolvimento da interface do usuário
+- Implementação da API REST
+- Migração de dados legados
+- Migração de dados legados
+- Implementação do módulo de análise de dados
+
+Tarefas atrasadas:

@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O conforto de atingir seus objetivos antes de tudo (PROJ-0409)
+Data: 14/07/2025
+Gerente: Luiz Otávio Cassiano
+
+Orçamento inicial: R$ 881894.00
+Custo real atual: R$ 1030020.39
+Desvio orçamentário: 16.80%
+Índice de Desempenho de Custo (CPI): 0.86
+Valor Agregado (EV): R$ 881012.11
+Estimativa para conclusão: R$ 1031.05
+Estimativa no término (EAC): R$ 1031051.44
+Variação no término (VAC): R$ -149157.44
+
+Detalhamento por categoria:
+- Pessoal: R$ 499302.93 (48.5%)
+- Equipamentos: R$ 185391.11 (18.0%)
+- Software: R$ 120135.75 (11.7%)
+- Serviços: R$ 148152.43 (14.4%)
+- Outros: R$ 77038.17 (7.5%)

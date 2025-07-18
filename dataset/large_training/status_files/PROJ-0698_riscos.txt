@@ -1,0 +1,31 @@
+RELATÓRIO DE STATUS DE RISCOS
+Projeto: A arte de ganhar sem preocupação (PROJ-0698)
+Data: 14/07/2025
+Gerente: Vitor Sá
+
+Riscos identificados:
+- R01: Falhas de segurança
+  Probabilidade: 4/5, Impacto: 4/5, Nível: Alto
+  Mitigação: Realizar testes de aceitação com usuários-chave
+
+- R02: Mudanças regulatórias
+  Probabilidade: 4/5, Impacto: 4/5, Nível: Alto
+  Mitigação: Melhorar a documentação de requisitos
+
+- R03: Indisponibilidade de recursos especializados
+  Probabilidade: 2/5, Impacto: 3/5, Nível: Baixo
+  Mitigação: Fortalecer medidas de segurança
+
+Riscos ocorridos:
+- R01 (ocorrido em 23/02/2025)
+  Impacto real: Problemas de qualidade
+  Ações tomadas: Ajuste no cronograma
+
+- R02 (ocorrido em 27/06/2024)
+  Impacto real: Perda de dados
+  Ações tomadas: Revisão do orçamento
+
+- R03 (ocorrido em 04/07/2024)
+  Impacto real: Retrabalho significativo
+  Ações tomadas: Implementação do plano de contingência
+

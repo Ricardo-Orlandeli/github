@@ -1,0 +1,25 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: O prazer de inovar antes de tudo (PROJ-0825)
+Data: 14/07/2025
+Gerente: Sra. Manuella Carvalho
+
+Status atual: Concluído
+Percentual de conclusão: 100.0%
+Data de início: 18/04/2024
+Data de término planejada: 16/01/2025
+Data de término real/prevista: 11/01/2025
+Atraso atual: 179 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.05
+Valor Planejado (PV): R$ 1754840.00
+Valor Agregado (EV): R$ 1754840.00
+
+Tarefas críticas:
+- Implementação do módulo de exportação de dados
+- Implementação do módulo de relatórios
+- Implementação do módulo de notificações
+- Migração de dados legados
+- Configuração da infraestrutura
+- Testes de segurança
+
+Tarefas atrasadas:

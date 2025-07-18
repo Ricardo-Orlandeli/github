@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O poder de concretizar seus projetos mais facilmente (PROJ-0809)
+Data: 14/07/2025
+Gerente: Antonella Porto
+
+Orçamento inicial: R$ 1165193.00
+Custo real atual: R$ 994912.74
+Desvio orçamentário: 281.99%
+Índice de Desempenho de Custo (CPI): 1.17
+Valor Agregado (EV): R$ 1165193.00
+Estimativa para conclusão: R$ 0.00
+Estimativa no término (EAC): R$ 994912.74
+Variação no término (VAC): R$ 170280.26
+
+Detalhamento por categoria:
+- Pessoal: R$ 566286.33 (56.9%)
+- Equipamentos: R$ 116162.73 (11.7%)
+- Software: R$ 79800.30 (8.0%)
+- Serviços: R$ 175068.04 (17.6%)
+- Outros: R$ 57595.35 (5.8%)

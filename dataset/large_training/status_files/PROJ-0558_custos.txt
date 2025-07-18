@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A certeza de conseguir antes de tudo (PROJ-0558)
+Data: 14/07/2025
+Gerente: Olívia Costa
+
+Orçamento inicial: R$ 3961983.00
+Custo real atual: R$ 2207345.31
+Desvio orçamentário: -44.29%
+Índice de Desempenho de Custo (CPI): 0.93
+Valor Agregado (EV): R$ 2046871.76
+Estimativa para conclusão: R$ 2065254.83
+Estimativa no término (EAC): R$ 4272600.13
+Variação no término (VAC): R$ -310617.13
+
+Detalhamento por categoria:
+- Pessoal: R$ 1006447.28 (45.6%)
+- Equipamentos: R$ 229838.00 (10.4%)
+- Software: R$ 322880.33 (14.6%)
+- Serviços: R$ 445125.66 (20.2%)
+- Outros: R$ 203054.04 (9.2%)

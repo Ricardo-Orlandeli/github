@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O conforto de realizar seus sonhos simplesmente (PROJ-0164)
+Data: 14/07/2025
+Gerente: Fernando Alves
+
+Orçamento inicial: R$ 4243025.00
+Custo real atual: R$ 4574324.82
+Desvio orçamentário: 7.81%
+Índice de Desempenho de Custo (CPI): 0.93
+Valor Agregado (EV): R$ 4243025.00
+Estimativa para conclusão: R$ 0.00
+Estimativa no término (EAC): R$ 4574324.82
+Variação no término (VAC): R$ -331299.82
+
+Detalhamento por categoria:
+- Pessoal: R$ 2409044.27 (52.7%)
+- Equipamentos: R$ 534050.76 (11.7%)
+- Software: R$ 678271.30 (14.8%)
+- Serviços: R$ 562975.94 (12.3%)
+- Outros: R$ 389982.54 (8.5%)

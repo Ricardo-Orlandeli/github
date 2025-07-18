@@ -1,0 +1,28 @@
+RELATÓRIO DE STATUS DE ESCOPO
+Projeto: A vantagem de realizar seus sonhos simplesmente (PROJ-0052)
+Data: 14/07/2025
+Gerente: Sra. Agatha Campos
+
+Escopo original: Sistema para a vantagem de realizar seus sonhos simplesmente
+Houve mudança de escopo: Sim
+Descrição das mudanças: Alteração nas especificações técnicas
+Impacto no cronograma: 51 dias
+Impacto no custo: R$ 8347.65
+
+Solicitações de mudança:
+- SCM-01: Integração com sistema legado
+- SCM-02: Integração com sistema legado
+- SCM-03: Mudança na arquitetura do sistema
+
+Requisitos atuais:
+- REQ-01: O sistema deve permitir exportação de dados em formato CSV
+- REQ-02: O sistema deve passar por testes de segurança
+- REQ-03: O sistema deve ter alta disponibilidade (99.9%)
+- REQ-04: O sistema deve implementar criptografia de dados sensíveis
+- REQ-05: O sistema deve permitir integração com APIs externas
+- REQ-06: O sistema deve passar por testes de segurança
+- REQ-07: O sistema deve permitir autenticação de usuários
+- REQ-08: O sistema deve processar transações em menos de 2 seconds
+- REQ-09: O sistema deve registrar logs de auditoria
+- REQ-10: O sistema deve processar transações em menos de 2 seconds
+- REQ-11: O sistema deve ter interface responsiva

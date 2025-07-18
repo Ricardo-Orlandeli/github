@@ -1,0 +1,25 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A certeza de conseguir antes de tudo (PROJ-0311)
+Data: 14/07/2025
+Gerente: Ayla Fonseca
+
+Status atual: Em andamento
+Percentual de conclusão: 99.9%
+Data de início: 19/03/2024
+Data de término planejada: 27/04/2024
+Data de término real/prevista: 16/05/2024
+Atraso atual: 443 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 0.88
+Valor Planejado (PV): R$ 66970.00
+Valor Agregado (EV): R$ 66903.03
+
+Tarefas críticas:
+- Implementação do módulo de relatórios
+- Testes de aceitação do usuário
+- Desenvolvimento do painel administrativo
+- Testes de segurança
+- Desenvolvimento do módulo de autenticação
+- Testes de aceitação do usuário
+
+Tarefas atrasadas:

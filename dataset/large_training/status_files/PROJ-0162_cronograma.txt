@@ -1,0 +1,26 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A arte de realizar seus sonhos antes de tudo (PROJ-0162)
+Data: 14/07/2025
+Gerente: Leonardo Montenegro
+
+Status atual: Em andamento
+Percentual de conclusão: 99.9%
+Data de início: 08/10/2023
+Data de término planejada: 14/08/2024
+Data de término real/prevista: 29/08/2024
+Atraso atual: 334 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.03
+Valor Planejado (PV): R$ 4411685.00
+Valor Agregado (EV): R$ 4407273.32
+
+Tarefas críticas:
+- Configuração do ambiente de produção
+- Desenvolvimento do painel administrativo
+- Migração de dados legados
+- Implementação do módulo de relatórios
+- Testes de segurança
+- Desenvolvimento do painel administrativo
+- Integração com sistema de pagamentos
+
+Tarefas atrasadas:

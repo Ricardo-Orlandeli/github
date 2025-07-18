@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A certeza de conseguir antes de tudo (PROJ-0892)
+Data: 14/07/2025
+Gerente: Maria Flor Pimenta
+
+Orçamento inicial: R$ 61987.00
+Custo real atual: R$ 67829.11
+Desvio orçamentário: 9.42%
+Índice de Desempenho de Custo (CPI): 0.91
+Valor Agregado (EV): R$ 61987.00
+Estimativa para conclusão: R$ 0.00
+Estimativa no término (EAC): R$ 67829.11
+Variação no término (VAC): R$ -5842.11
+
+Detalhamento por categoria:
+- Pessoal: R$ 33109.11 (48.8%)
+- Equipamentos: R$ 12714.29 (18.7%)
+- Software: R$ 8650.74 (12.8%)
+- Serviços: R$ 8791.41 (13.0%)
+- Outros: R$ 4563.56 (6.7%)

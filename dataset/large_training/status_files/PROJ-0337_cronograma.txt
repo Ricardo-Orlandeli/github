@@ -1,0 +1,22 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A vantagem de atingir seus objetivos mais facilmente (PROJ-0337)
+Data: 14/07/2025
+Gerente: Luiz Fernando Correia
+
+Status atual: Em andamento
+Percentual de conclusão: 69.0%
+Data de início: 11/06/2025
+Data de término planejada: 06/08/2025
+Data de término real/prevista: 13/08/2025
+Atraso atual: 0 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.04
+Valor Planejado (PV): R$ 1931969.68
+Valor Agregado (EV): R$ 2261834.80
+
+Tarefas críticas:
+- Testes de aceitação do usuário
+- Desenvolvimento do módulo de autenticação
+- Testes de segurança
+
+Tarefas atrasadas:

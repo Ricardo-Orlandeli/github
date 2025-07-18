@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A certeza de inovar direto da fonte (PROJ-0804)
+Data: 14/07/2025
+Gerente: Yuri da Mata
+
+Orçamento inicial: R$ 4665674.00
+Custo real atual: R$ 3161202.72
+Desvio orçamentário: -32.25%
+Índice de Desempenho de Custo (CPI): 0.93
+Valor Agregado (EV): R$ 2925227.49
+Estimativa para conclusão: R$ 1880846.62
+Estimativa no término (EAC): R$ 5042049.34
+Variação no término (VAC): R$ -376375.34
+
+Detalhamento por categoria:
+- Pessoal: R$ 1720877.42 (54.4%)
+- Equipamentos: R$ 471336.89 (14.9%)
+- Software: R$ 272315.16 (8.6%)
+- Serviços: R$ 506817.46 (16.0%)
+- Outros: R$ 189855.79 (6.0%)

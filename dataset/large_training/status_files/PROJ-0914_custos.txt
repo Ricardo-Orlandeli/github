@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O conforto de ganhar mais rapidamente (PROJ-0914)
+Data: 14/07/2025
+Gerente: Sr. Rafael Aparecida
+
+Orçamento inicial: R$ 4040882.00
+Custo real atual: R$ 3816024.11
+Desvio orçamentário: 820.75%
+Índice de Desempenho de Custo (CPI): 0.88
+Valor Agregado (EV): R$ 3376480.12
+Estimativa para conclusão: R$ 750892.50
+Estimativa no término (EAC): R$ 4566916.61
+Variação no término (VAC): R$ -526034.61
+
+Detalhamento por categoria:
+- Pessoal: R$ 1876010.33 (49.2%)
+- Equipamentos: R$ 590896.67 (15.5%)
+- Software: R$ 374270.53 (9.8%)
+- Serviços: R$ 558862.73 (14.6%)
+- Outros: R$ 415983.85 (10.9%)

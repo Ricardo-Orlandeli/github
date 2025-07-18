@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A possibilidade de inovar com confiança (PROJ-0077)
+Data: 14/07/2025
+Gerente: Mateus Casa Grande
+
+Orçamento inicial: R$ 3052326.00
+Custo real atual: R$ 2997589.93
+Desvio orçamentário: -1.79%
+Índice de Desempenho de Custo (CPI): 0.84
+Valor Agregado (EV): R$ 2524826.46
+Estimativa para conclusão: R$ 626271.68
+Estimativa no término (EAC): R$ 3623861.61
+Variação no término (VAC): R$ -571535.61
+
+Detalhamento por categoria:
+- Pessoal: R$ 1451733.00 (48.4%)
+- Equipamentos: R$ 522324.83 (17.4%)
+- Software: R$ 403556.74 (13.5%)
+- Serviços: R$ 422789.67 (14.1%)
+- Outros: R$ 197185.69 (6.6%)

@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A liberdade de ganhar mais facilmente (PROJ-0635)
+Data: 14/07/2025
+Gerente: Sr. Vitor da Mata
+
+Orçamento inicial: R$ 3685535.00
+Custo real atual: R$ 3689925.03
+Desvio orçamentário: 569.22%
+Índice de Desempenho de Custo (CPI): 1.00
+Valor Agregado (EV): R$ 3685535.00
+Estimativa para conclusão: R$ 0.00
+Estimativa no término (EAC): R$ 3689925.03
+Variação no término (VAC): R$ -4390.03
+
+Detalhamento por categoria:
+- Pessoal: R$ 1714295.56 (46.5%)
+- Equipamentos: R$ 644126.76 (17.5%)
+- Software: R$ 238452.85 (6.5%)
+- Serviços: R$ 792008.39 (21.5%)
+- Outros: R$ 301041.46 (8.2%)

@@ -1,0 +1,35 @@
+RELATÓRIO DE STATUS DE RISCOS
+Projeto: A segurança de ganhar simplesmente (PROJ-0102)
+Data: 14/07/2025
+Gerente: Luana Cavalcante
+
+Riscos identificados:
+- R01: Rotatividade de pessoal-chave
+  Probabilidade: 3/5, Impacto: 2/5, Nível: Baixo
+  Mitigação: Testar compatibilidade em diferentes ambientes
+
+- R02: Dependências externas não cumpridas
+  Probabilidade: 2/5, Impacto: 4/5, Nível: Médio
+  Mitigação: Monitorar mudanças regulatórias
+
+- R03: Problemas de desempenho
+  Probabilidade: 3/5, Impacto: 2/5, Nível: Baixo
+  Mitigação: Refinar estimativas com base em dados históricos
+
+- R04: Mudanças regulatórias
+  Probabilidade: 1/5, Impacto: 2/5, Nível: Baixo
+  Mitigação: Contratar pessoal adicional
+
+Riscos ocorridos:
+- R04 (ocorrido em 21/05/2025)
+  Impacto real: Aumento de 10% nos custos
+  Ações tomadas: Revisão de processos
+
+- R01 (ocorrido em 13/04/2025)
+  Impacto real: Insatisfação dos stakeholders
+  Ações tomadas: Revisão de prioridades
+
+- R02 (ocorrido em 22/03/2025)
+  Impacto real: Problemas de qualidade
+  Ações tomadas: Revisão de prioridades
+

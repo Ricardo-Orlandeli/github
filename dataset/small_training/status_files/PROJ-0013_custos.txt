@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A segurança de inovar sem preocupação (PROJ-0013)
+Data: 14/07/2025
+Gerente: Manuella Lima
+
+Orçamento inicial: R$ 862115.00
+Custo real atual: R$ 810149.40
+Desvio orçamentário: -6.03%
+Índice de Desempenho de Custo (CPI): 0.87
+Valor Agregado (EV): R$ 707143.03
+Estimativa para conclusão: R$ 177546.04
+Estimativa no término (EAC): R$ 987695.45
+Variação no término (VAC): R$ -125580.45
+
+Detalhamento por categoria:
+- Pessoal: R$ 402198.98 (49.6%)
+- Equipamentos: R$ 129123.96 (15.9%)
+- Software: R$ 89155.50 (11.0%)
+- Serviços: R$ 131258.08 (16.2%)
+- Outros: R$ 58412.88 (7.2%)

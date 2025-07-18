@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O direito de evoluir mais facilmente (PROJ-0029)
+Data: 14/07/2025
+Gerente: Allana Pires
+
+Orçamento inicial: R$ 2577912.00
+Custo real atual: R$ 2848602.01
+Desvio orçamentário: 10.50%
+Índice de Desempenho de Custo (CPI): 0.90
+Valor Agregado (EV): R$ 2575334.09
+Estimativa para conclusão: R$ 2851.45
+Estimativa no término (EAC): R$ 2851453.46
+Variação no término (VAC): R$ -273541.46
+
+Detalhamento por categoria:
+- Pessoal: R$ 1432353.08 (50.3%)
+- Equipamentos: R$ 496582.35 (17.4%)
+- Software: R$ 291237.64 (10.2%)
+- Serviços: R$ 458530.98 (16.1%)
+- Outros: R$ 169897.97 (6.0%)

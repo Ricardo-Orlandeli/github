@@ -1,0 +1,23 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A arte de ganhar direto da fonte (PROJ-0091)
+Data: 14/07/2025
+Gerente: Maria Helena Costa
+
+Status atual: Em andamento
+Percentual de conclusão: 99.9%
+Data de início: 17/09/2024
+Data de término planejada: 15/06/2025
+Data de término real/prevista: 20/06/2025
+Atraso atual: 29 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.10
+Valor Planejado (PV): R$ 2354485.00
+Valor Agregado (EV): R$ 2352130.52
+
+Tarefas críticas:
+- Implementação do módulo de relatórios
+- Desenvolvimento da interface do usuário
+- Implementação da API REST
+- Desenvolvimento do módulo de autenticação
+
+Tarefas atrasadas:

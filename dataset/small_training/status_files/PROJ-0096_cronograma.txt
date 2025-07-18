@@ -1,0 +1,27 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A certeza de realizar seus sonhos mais facilmente (PROJ-0096)
+Data: 14/07/2025
+Gerente: Miguel Vieira
+
+Status atual: Em andamento
+Percentual de conclusão: 99.9%
+Data de início: 10/10/2024
+Data de término planejada: 02/06/2025
+Data de término real/prevista: 26/06/2025
+Atraso atual: 42 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.11
+Valor Planejado (PV): R$ 1238409.00
+Valor Agregado (EV): R$ 1237170.59
+
+Tarefas críticas:
+- Desenvolvimento do módulo de autenticação
+- Desenvolvimento da interface do usuário
+- Implementação do sistema de backup
+- Testes de segurança
+- Implementação do módulo de relatórios
+- Desenvolvimento do módulo de autenticação
+- Configuração da infraestrutura
+- Desenvolvimento da interface do usuário
+
+Tarefas atrasadas:

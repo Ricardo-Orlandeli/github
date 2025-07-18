@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O conforto de mudar simplesmente (PROJ-0470)
+Data: 14/07/2025
+Gerente: Dr. Vitor Hugo Correia
+
+Orçamento inicial: R$ 3545544.00
+Custo real atual: R$ 293308.67
+Desvio orçamentário: 14.54%
+Índice de Desempenho de Custo (CPI): 0.89
+Valor Agregado (EV): R$ 261185.91
+Estimativa para conclusão: R$ 3688295.01
+Estimativa no término (EAC): R$ 3981603.67
+Variação no término (VAC): R$ -436059.67
+
+Detalhamento por categoria:
+- Pessoal: R$ 151231.62 (51.6%)
+- Equipamentos: R$ 44769.16 (15.3%)
+- Software: R$ 29608.22 (10.1%)
+- Serviços: R$ 49458.45 (16.9%)
+- Outros: R$ 18241.22 (6.2%)

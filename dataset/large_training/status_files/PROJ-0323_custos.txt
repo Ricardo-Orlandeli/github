@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O poder de evoluir mais facilmente (PROJ-0323)
+Data: 14/07/2025
+Gerente: Lunna Câmara
+
+Orçamento inicial: R$ 4579834.00
+Custo real atual: R$ 4584996.80
+Desvio orçamentário: 0.11%
+Índice de Desempenho de Custo (CPI): 0.74
+Valor Agregado (EV): R$ 3409194.74
+Estimativa para conclusão: R$ 1574382.72
+Estimativa no término (EAC): R$ 6159379.52
+Variação no término (VAC): R$ -1579545.52
+
+Detalhamento por categoria:
+- Pessoal: R$ 2533953.46 (55.3%)
+- Equipamentos: R$ 707355.87 (15.4%)
+- Software: R$ 406089.31 (8.9%)
+- Serviços: R$ 513918.04 (11.2%)
+- Outros: R$ 423680.12 (9.2%)

@@ -1,0 +1,22 @@
+RELATÓRIO DE STATUS DE ESCOPO
+Projeto: A certeza de conseguir mais facilmente (PROJ-0639)
+Data: 14/07/2025
+Gerente: Oliver Albuquerque
+
+Escopo original: Sistema para a certeza de conseguir mais facilmente
+Houve mudança de escopo: Sim
+Descrição das mudanças: Expansão do escopo para incluir funcionalidades adicionais
+Impacto no cronograma: 55 dias
+Impacto no custo: R$ 727628.08
+
+Solicitações de mudança:
+- SCM-01: Implementação de módulo de exportação de dados
+- SCM-02: Alteração na interface do usuário
+
+Requisitos atuais:
+- REQ-01: O sistema deve ser compatível com navegadores modernos
+- REQ-02: O sistema deve permitir integração com APIs externas
+- REQ-03: O sistema deve ter documentação completa
+- REQ-04: O sistema deve ter controle de acesso baseado em perfis
+- REQ-05: O sistema deve ter alta disponibilidade (99.9%)
+- REQ-06: O sistema deve permitir exportação de dados em formato CSV

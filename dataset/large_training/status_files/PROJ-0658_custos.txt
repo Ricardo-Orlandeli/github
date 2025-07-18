@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O direito de atingir seus objetivos naturalmente (PROJ-0658)
+Data: 14/07/2025
+Gerente: Hellena Casa Grande
+
+Orçamento inicial: R$ 2848518.00
+Custo real atual: R$ 3181687.62
+Desvio orçamentário: 11.70%
+Índice de Desempenho de Custo (CPI): 0.89
+Valor Agregado (EV): R$ 2845669.48
+Estimativa para conclusão: R$ 3184.87
+Estimativa no término (EAC): R$ 3184872.49
+Variação no término (VAC): R$ -336354.49
+
+Detalhamento por categoria:
+- Pessoal: R$ 1497770.77 (47.1%)
+- Equipamentos: R$ 613490.25 (19.3%)
+- Software: R$ 361214.57 (11.4%)
+- Serviços: R$ 432530.27 (13.6%)
+- Outros: R$ 276681.76 (8.7%)

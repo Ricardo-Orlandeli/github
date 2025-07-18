@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O conforto de atingir seus objetivos mais rapidamente (PROJ-0255)
+Data: 14/07/2025
+Gerente: Mariana Castro
+
+Orçamento inicial: R$ 4198464.00
+Custo real atual: R$ 2132605.47
+Desvio orçamentário: -9.26%
+Índice de Desempenho de Custo (CPI): 0.74
+Valor Agregado (EV): R$ 1578394.17
+Estimativa para conclusão: R$ 3540037.94
+Estimativa no término (EAC): R$ 5672643.40
+Variação no término (VAC): R$ -1474179.40
+
+Detalhamento por categoria:
+- Pessoal: R$ 1062720.99 (49.8%)
+- Equipamentos: R$ 319040.73 (15.0%)
+- Software: R$ 241975.19 (11.3%)
+- Serviços: R$ 297445.16 (13.9%)
+- Outros: R$ 211423.40 (9.9%)

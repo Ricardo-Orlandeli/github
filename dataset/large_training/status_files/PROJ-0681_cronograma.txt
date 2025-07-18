@@ -1,0 +1,23 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A segurança de conseguir em estado puro (PROJ-0681)
+Data: 14/07/2025
+Gerente: Sr. Bernardo Cavalcanti
+
+Status atual: Concluído
+Percentual de conclusão: 100.0%
+Data de início: 12/10/2024
+Data de término planejada: 30/11/2024
+Data de término real/prevista: 19/12/2024
+Atraso atual: 226 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.07
+Valor Planejado (PV): R$ 3307135.00
+Valor Agregado (EV): R$ 3307135.00
+
+Tarefas críticas:
+- Implementação do módulo de notificações
+- Implementação do sistema de backup
+- Testes de aceitação do usuário
+- Configuração da infraestrutura
+
+Tarefas atrasadas:

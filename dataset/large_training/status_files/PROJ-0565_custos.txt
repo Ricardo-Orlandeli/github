@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A certeza de realizar seus sonhos em estado puro (PROJ-0565)
+Data: 14/07/2025
+Gerente: Pedro Henrique da Mota
+
+Orçamento inicial: R$ 4300983.00
+Custo real atual: R$ 4282397.53
+Desvio orçamentário: -0.43%
+Índice de Desempenho de Custo (CPI): 1.00
+Valor Agregado (EV): R$ 4300983.00
+Estimativa para conclusão: R$ 0.00
+Estimativa no término (EAC): R$ 4282397.53
+Variação no término (VAC): R$ 18585.47
+
+Detalhamento por categoria:
+- Pessoal: R$ 2376250.43 (55.5%)
+- Equipamentos: R$ 547834.69 (12.8%)
+- Software: R$ 568135.32 (13.3%)
+- Serviços: R$ 525792.82 (12.3%)
+- Outros: R$ 264384.27 (6.2%)

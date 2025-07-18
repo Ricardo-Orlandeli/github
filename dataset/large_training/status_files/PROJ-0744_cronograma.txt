@@ -1,0 +1,25 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A arte de atingir seus objetivos mais facilmente (PROJ-0744)
+Data: 14/07/2025
+Gerente: Felipe Novaes
+
+Status atual: Em andamento
+Percentual de conclusão: 99.9%
+Data de início: 27/01/2025
+Data de término planejada: 01/07/2025
+Data de término real/prevista: 19/06/2025
+Atraso atual: 13 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.08
+Valor Planejado (PV): R$ 4581010.00
+Valor Agregado (EV): R$ 4576428.99
+
+Tarefas críticas:
+- Implementação do módulo de relatórios
+- Implementação do sistema de backup
+- Implementação do módulo de exportação de dados
+- Implementação da API REST
+- Implementação da API REST
+- Implementação do módulo de relatórios
+
+Tarefas atrasadas:

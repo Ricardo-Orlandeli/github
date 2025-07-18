@@ -1,0 +1,22 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: O conforto de avançar com confiança (PROJ-0091)
+Data: 14/07/2025
+Gerente: Mariana Mendes
+
+Status atual: Em andamento
+Percentual de conclusão: 97.1%
+Data de início: 18/03/2024
+Data de término planejada: 01/03/2025
+Data de término real/prevista: 28/03/2025
+Atraso atual: 135 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.11
+Valor Planejado (PV): R$ 4975314.00
+Valor Agregado (EV): R$ 4833316.56
+
+Tarefas críticas:
+- Desenvolvimento do módulo de autenticação
+- Implementação do módulo de análise de dados
+- Migração de dados legados
+
+Tarefas atrasadas:

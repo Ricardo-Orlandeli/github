@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O prazer de inovar direto da fonte (PROJ-0764)
+Data: 14/07/2025
+Gerente: Ana Laura Vargas
+
+Orçamento inicial: R$ 4519693.00
+Custo real atual: R$ 3660011.73
+Desvio orçamentário: -19.02%
+Índice de Desempenho de Custo (CPI): 1.23
+Valor Agregado (EV): R$ 4515173.31
+Estimativa para conclusão: R$ 3663.68
+Estimativa no término (EAC): R$ 3663675.41
+Variação no término (VAC): R$ 856017.59
+
+Detalhamento por categoria:
+- Pessoal: R$ 1861786.41 (50.9%)
+- Equipamentos: R$ 463806.29 (12.7%)
+- Software: R$ 390012.91 (10.7%)
+- Serviços: R$ 700419.35 (19.1%)
+- Outros: R$ 243986.76 (6.7%)

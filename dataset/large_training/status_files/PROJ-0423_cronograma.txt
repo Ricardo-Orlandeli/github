@@ -1,0 +1,24 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A liberdade de concretizar seus projetos simplesmente (PROJ-0423)
+Data: 14/07/2025
+Gerente: Ágatha Montenegro
+
+Status atual: Em andamento
+Percentual de conclusão: 99.9%
+Data de início: 17/03/2025
+Data de término planejada: 24/05/2025
+Data de término real/prevista: 17/06/2025
+Atraso atual: 51 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.05
+Valor Planejado (PV): R$ 2595063.00
+Valor Agregado (EV): R$ 2592467.94
+
+Tarefas críticas:
+- Implementação da API REST
+- Testes de segurança
+- Configuração da infraestrutura
+- Implementação do módulo de exportação de dados
+- Implementação do módulo de exportação de dados
+
+Tarefas atrasadas:

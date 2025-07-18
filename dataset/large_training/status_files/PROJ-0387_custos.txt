@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O prazer de inovar naturalmente (PROJ-0387)
+Data: 14/07/2025
+Gerente: Matteo Siqueira
+
+Orçamento inicial: R$ 2254197.00
+Custo real atual: R$ 926542.17
+Desvio orçamentário: 8.48%
+Índice de Desempenho de Custo (CPI): 0.82
+Valor Agregado (EV): R$ 756002.81
+Estimativa para conclusão: R$ 1836157.34
+Estimativa no término (EAC): R$ 2762699.51
+Variação no término (VAC): R$ -508502.51
+
+Detalhamento por categoria:
+- Pessoal: R$ 513134.31 (55.4%)
+- Equipamentos: R$ 106731.79 (11.5%)
+- Software: R$ 64921.48 (7.0%)
+- Serviços: R$ 169988.73 (18.3%)
+- Outros: R$ 71765.86 (7.7%)

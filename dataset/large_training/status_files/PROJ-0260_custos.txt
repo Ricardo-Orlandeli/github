@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O poder de ganhar direto da fonte (PROJ-0260)
+Data: 14/07/2025
+Gerente: Antony Azevedo
+
+Orçamento inicial: R$ 3884108.00
+Custo real atual: R$ 3690080.09
+Desvio orçamentário: -5.00%
+Índice de Desempenho de Custo (CPI): 1.05
+Valor Agregado (EV): R$ 3880223.89
+Estimativa para conclusão: R$ 3693.77
+Estimativa no término (EAC): R$ 3693773.86
+Variação no término (VAC): R$ 190334.14
+
+Detalhamento por categoria:
+- Pessoal: R$ 1901928.53 (51.5%)
+- Equipamentos: R$ 482512.08 (13.1%)
+- Software: R$ 475056.31 (12.9%)
+- Serviços: R$ 500914.32 (13.6%)
+- Outros: R$ 329668.85 (8.9%)

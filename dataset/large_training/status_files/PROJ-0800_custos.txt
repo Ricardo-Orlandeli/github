@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A simplicidade de ganhar naturalmente (PROJ-0800)
+Data: 14/07/2025
+Gerente: Raquel da Mata
+
+Orçamento inicial: R$ 443844.00
+Custo real atual: R$ 412547.82
+Desvio orçamentário: -7.05%
+Índice de Desempenho de Custo (CPI): 0.95
+Valor Agregado (EV): R$ 390031.94
+Estimativa para conclusão: R$ 56918.54
+Estimativa no término (EAC): R$ 469466.36
+Variação no término (VAC): R$ -25622.36
+
+Detalhamento por categoria:
+- Pessoal: R$ 198395.93 (48.1%)
+- Equipamentos: R$ 79849.65 (19.4%)
+- Software: R$ 53771.61 (13.0%)
+- Serviços: R$ 52388.58 (12.7%)
+- Outros: R$ 28142.05 (6.8%)

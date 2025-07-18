@@ -1,0 +1,29 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A simplicidade de ganhar com toda a tranquilidade (PROJ-0641)
+Data: 14/07/2025
+Gerente: Arthur Fernandes
+
+Status atual: Atrasado
+Percentual de conclusão: 51.9%
+Data de início: 16/10/2024
+Data de término planejada: 20/12/2024
+Data de término real/prevista: 25/02/2025
+Atraso atual: 206 dias
+Motivo do atraso: Problemas de comunicação
+Índice de Desempenho de Cronograma (SPI): 0.52
+Valor Planejado (PV): R$ 1552577.00
+Valor Agregado (EV): R$ 805068.48
+
+Tarefas críticas:
+- Implementação do sistema de backup
+- Implementação do módulo de exportação de dados
+- Desenvolvimento do painel administrativo
+- Implementação do módulo de relatórios
+- Testes de aceitação do usuário
+- Desenvolvimento do painel administrativo
+- Implementação do módulo de exportação de dados
+
+Tarefas atrasadas:
+- Testes de aceitação do usuário
+- Implementação do módulo de exportação de dados
+- Implementação do sistema de backup

@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O poder de inovar mais facilmente (PROJ-0093)
+Data: 14/07/2025
+Gerente: Daniela Barros
+
+Orçamento inicial: R$ 747037.00
+Custo real atual: R$ 111818.51
+Desvio orçamentário: -85.03%
+Índice de Desempenho de Custo (CPI): 0.74
+Valor Agregado (EV): R$ 82428.73
+Estimativa para conclusão: R$ 901572.90
+Estimativa no término (EAC): R$ 1013391.41
+Variação no término (VAC): R$ -266354.41
+
+Detalhamento por categoria:
+- Pessoal: R$ 59482.70 (53.2%)
+- Equipamentos: R$ 18975.03 (17.0%)
+- Software: R$ 8631.92 (7.7%)
+- Serviços: R$ 17156.04 (15.3%)
+- Outros: R$ 7572.82 (6.8%)

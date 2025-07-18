@@ -1,0 +1,23 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: O conforto de realizar seus sonhos simplesmente (PROJ-0164)
+Data: 14/07/2025
+Gerente: Fernando Alves
+
+Status atual: Concluído
+Percentual de conclusão: 100.0%
+Data de início: 23/10/2024
+Data de término planejada: 12/05/2025
+Data de término real/prevista: 01/06/2025
+Atraso atual: 63 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.02
+Valor Planejado (PV): R$ 4243025.00
+Valor Agregado (EV): R$ 4243025.00
+
+Tarefas críticas:
+- Implementação do sistema de backup
+- Configuração do ambiente de produção
+- Integração com sistema de pagamentos
+- Implementação do módulo de análise de dados
+
+Tarefas atrasadas:

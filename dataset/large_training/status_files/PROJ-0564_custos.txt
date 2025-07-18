@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O conforto de mudar em estado puro (PROJ-0564)
+Data: 14/07/2025
+Gerente: Luiz Henrique Cunha
+
+Orçamento inicial: R$ 4504147.00
+Custo real atual: R$ 4553738.80
+Desvio orçamentário: 1.10%
+Índice de Desempenho de Custo (CPI): 0.87
+Valor Agregado (EV): R$ 3976772.07
+Estimativa para conclusão: R$ 603888.70
+Estimativa no término (EAC): R$ 5157627.50
+Variação no término (VAC): R$ -653480.50
+
+Detalhamento por categoria:
+- Pessoal: R$ 2707669.90 (59.5%)
+- Equipamentos: R$ 573170.53 (12.6%)
+- Software: R$ 239995.03 (5.3%)
+- Serviços: R$ 718324.90 (15.8%)
+- Outros: R$ 314578.45 (6.9%)

@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O prazer de conseguir de maneira eficaz (PROJ-0530)
+Data: 14/07/2025
+Gerente: Dr. João Miguel Pimenta
+
+Orçamento inicial: R$ 1080898.00
+Custo real atual: R$ 1233046.02
+Desvio orçamentário: 14.08%
+Índice de Desempenho de Custo (CPI): 0.88
+Valor Agregado (EV): R$ 1080898.00
+Estimativa para conclusão: R$ 0.00
+Estimativa no término (EAC): R$ 1233046.02
+Variação no término (VAC): R$ -152148.02
+
+Detalhamento por categoria:
+- Pessoal: R$ 679380.61 (55.1%)
+- Equipamentos: R$ 121011.29 (9.8%)
+- Software: R$ 137746.84 (11.2%)
+- Serviços: R$ 193261.39 (15.7%)
+- Outros: R$ 101645.88 (8.2%)

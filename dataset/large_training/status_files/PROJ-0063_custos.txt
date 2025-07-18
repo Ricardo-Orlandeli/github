@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A simplicidade de concretizar seus projetos mais rapidamente (PROJ-0063)
+Data: 14/07/2025
+Gerente: Clarice Gonçalves
+
+Orçamento inicial: R$ 466665.00
+Custo real atual: R$ 503194.93
+Desvio orçamentário: 7.83%
+Índice de Desempenho de Custo (CPI): 0.93
+Valor Agregado (EV): R$ 466198.34
+Estimativa para conclusão: R$ 503.70
+Estimativa no término (EAC): R$ 503698.63
+Variação no término (VAC): R$ -37033.63
+
+Detalhamento por categoria:
+- Pessoal: R$ 236870.58 (47.1%)
+- Equipamentos: R$ 89204.05 (17.7%)
+- Software: R$ 68794.66 (13.7%)
+- Serviços: R$ 58883.42 (11.7%)
+- Outros: R$ 49442.22 (9.8%)

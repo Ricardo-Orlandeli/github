@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O direito de ganhar naturalmente (PROJ-0207)
+Data: 14/07/2025
+Gerente: João Miguel Duarte
+
+Orçamento inicial: R$ 2642772.00
+Custo real atual: R$ 2832105.74
+Desvio orçamentário: 7.16%
+Índice de Desempenho de Custo (CPI): 0.93
+Valor Agregado (EV): R$ 2642772.00
+Estimativa para conclusão: R$ 0.00
+Estimativa no término (EAC): R$ 2832105.74
+Variação no término (VAC): R$ -189333.74
+
+Detalhamento por categoria:
+- Pessoal: R$ 1430418.33 (50.5%)
+- Equipamentos: R$ 464528.09 (16.4%)
+- Software: R$ 289418.35 (10.2%)
+- Serviços: R$ 419967.09 (14.8%)
+- Outros: R$ 227773.87 (8.0%)

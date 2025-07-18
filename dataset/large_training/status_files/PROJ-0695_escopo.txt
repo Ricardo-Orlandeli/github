@@ -1,0 +1,24 @@
+RELATÓRIO DE STATUS DE ESCOPO
+Projeto: A simplicidade de ganhar com força total (PROJ-0695)
+Data: 14/07/2025
+Gerente: Davi Luiz Sousa
+
+Escopo original: Sistema para a simplicidade de ganhar com força total
+Houve mudança de escopo: Sim
+Descrição das mudanças: Adição de novos requisitos de segurança
+Impacto no cronograma: 59 dias
+Impacto no custo: R$ 361259.36
+
+Solicitações de mudança:
+- SCM-01: Adição de relatórios gerenciais
+- SCM-02: Alteração na interface do usuário
+- SCM-03: Alteração nos requisitos de desempenho
+
+Requisitos atuais:
+- REQ-01: O sistema deve ser compatível com navegadores modernos
+- REQ-02: O sistema deve permitir autenticação de usuários
+- REQ-03: O sistema deve permitir exportação de dados em formato CSV
+- REQ-04: O sistema deve implementar criptografia de dados sensíveis
+- REQ-05: O sistema deve permitir integração com APIs externas
+- REQ-06: O sistema deve ter controle de acesso baseado em perfis
+- REQ-07: O sistema deve ter alta disponibilidade (99.9%)

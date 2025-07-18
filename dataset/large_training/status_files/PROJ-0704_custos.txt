@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O poder de avançar simplesmente (PROJ-0704)
+Data: 14/07/2025
+Gerente: Asafe Cavalcanti
+
+Orçamento inicial: R$ 4718909.00
+Custo real atual: R$ 4748465.91
+Desvio orçamentário: 0.63%
+Índice de Desempenho de Custo (CPI): 0.99
+Valor Agregado (EV): R$ 4714190.09
+Estimativa para conclusão: R$ 4753.22
+Estimativa no término (EAC): R$ 4753219.13
+Variação no término (VAC): R$ -34310.13
+
+Detalhamento por categoria:
+- Pessoal: R$ 2565743.36 (54.0%)
+- Equipamentos: R$ 721304.04 (15.2%)
+- Software: R$ 373334.76 (7.9%)
+- Serviços: R$ 668311.74 (14.1%)
+- Outros: R$ 419772.02 (8.8%)

@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O poder de conseguir com toda a tranquilidade (PROJ-0670)
+Data: 14/07/2025
+Gerente: Lucas Gabriel Araújo
+
+Orçamento inicial: R$ 4614938.00
+Custo real atual: R$ 4962688.97
+Desvio orçamentário: 7.54%
+Índice de Desempenho de Custo (CPI): 0.85
+Valor Agregado (EV): R$ 4199584.62
+Estimativa para conclusão: R$ 490827.03
+Estimativa no término (EAC): R$ 5453516.00
+Variação no término (VAC): R$ -838578.00
+
+Detalhamento por categoria:
+- Pessoal: R$ 2414776.33 (48.7%)
+- Equipamentos: R$ 541368.26 (10.9%)
+- Software: R$ 594656.08 (12.0%)
+- Serviços: R$ 951695.28 (19.2%)
+- Outros: R$ 460193.01 (9.3%)

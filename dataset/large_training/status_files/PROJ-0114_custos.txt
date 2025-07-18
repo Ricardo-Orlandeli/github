@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A liberdade de realizar seus sonhos simplesmente (PROJ-0114)
+Data: 14/07/2025
+Gerente: Dr. Bernardo Aparecida
+
+Orçamento inicial: R$ 1395261.00
+Custo real atual: R$ 1227667.99
+Desvio orçamentário: -1.33%
+Índice de Desempenho de Custo (CPI): 0.89
+Valor Agregado (EV): R$ 1097510.81
+Estimativa para conclusão: R$ 333061.29
+Estimativa no término (EAC): R$ 1560729.29
+Variação no término (VAC): R$ -165468.29
+
+Detalhamento por categoria:
+- Pessoal: R$ 579319.32 (47.2%)
+- Equipamentos: R$ 239951.52 (19.5%)
+- Software: R$ 65263.86 (5.3%)
+- Serviços: R$ 238907.97 (19.5%)
+- Outros: R$ 104225.34 (8.5%)

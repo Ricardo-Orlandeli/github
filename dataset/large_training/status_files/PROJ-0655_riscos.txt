@@ -1,0 +1,27 @@
+RELATÓRIO DE STATUS DE RISCOS
+Projeto: A certeza de mudar com força total (PROJ-0655)
+Data: 14/07/2025
+Gerente: Natália Alves
+
+Riscos identificados:
+- R01: Problemas de desempenho
+  Probabilidade: 3/5, Impacto: 3/5, Nível: Médio
+  Mitigação: Buscar fornecedores alternativos
+
+- R02: Problemas de desempenho
+  Probabilidade: 1/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Realizar testes de integração antecipados
+
+- R03: Dependências externas não cumpridas
+  Probabilidade: 5/5, Impacto: 3/5, Nível: Médio
+  Mitigação: Realizar testes de aceitação com usuários-chave
+
+Riscos ocorridos:
+- R02 (ocorrido em 05/04/2025)
+  Impacto real: Falhas de segurança
+  Ações tomadas: Revisão de processos
+
+- R01 (ocorrido em 20/07/2024)
+  Impacto real: Perda de recursos-chave
+  Ações tomadas: Implementação de soluções alternativas
+

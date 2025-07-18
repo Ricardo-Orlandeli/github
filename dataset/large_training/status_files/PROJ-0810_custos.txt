@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A liberdade de atingir seus objetivos com confiança (PROJ-0810)
+Data: 14/07/2025
+Gerente: Kaique Garcia
+
+Orçamento inicial: R$ 1069716.00
+Custo real atual: R$ 942874.64
+Desvio orçamentário: -11.86%
+Índice de Desempenho de Custo (CPI): 1.09
+Valor Agregado (EV): R$ 1026033.37
+Estimativa para conclusão: R$ 40142.21
+Estimativa no término (EAC): R$ 983016.85
+Variação no término (VAC): R$ 86699.15
+
+Detalhamento por categoria:
+- Pessoal: R$ 441371.51 (46.8%)
+- Equipamentos: R$ 197596.36 (21.0%)
+- Software: R$ 135828.47 (14.4%)
+- Serviços: R$ 104244.15 (11.1%)
+- Outros: R$ 63834.15 (6.8%)

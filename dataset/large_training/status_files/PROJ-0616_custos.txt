@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O direito de realizar seus sonhos simplesmente (PROJ-0616)
+Data: 14/07/2025
+Gerente: Pietra Carvalho
+
+Orçamento inicial: R$ 4006210.00
+Custo real atual: R$ 3923570.87
+Desvio orçamentário: -2.06%
+Índice de Desempenho de Custo (CPI): 1.02
+Valor Agregado (EV): R$ 4006210.00
+Estimativa para conclusão: R$ 0.00
+Estimativa no término (EAC): R$ 3923570.87
+Variação no término (VAC): R$ 82639.13
+
+Detalhamento por categoria:
+- Pessoal: R$ 2225509.98 (56.7%)
+- Equipamentos: R$ 566884.22 (14.4%)
+- Software: R$ 396073.98 (10.1%)
+- Serviços: R$ 485719.81 (12.4%)
+- Outros: R$ 249382.88 (6.4%)

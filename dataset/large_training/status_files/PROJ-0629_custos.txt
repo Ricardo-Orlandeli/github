@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A liberdade de avançar mais facilmente (PROJ-0629)
+Data: 14/07/2025
+Gerente: Dr. Anthony Gabriel Abreu
+
+Orçamento inicial: R$ 3737982.00
+Custo real atual: R$ 3366696.09
+Desvio orçamentário: -9.93%
+Índice de Desempenho de Custo (CPI): 0.91
+Valor Agregado (EV): R$ 3063086.81
+Estimativa para conclusão: R$ 741789.95
+Estimativa no término (EAC): R$ 4108486.04
+Variação no término (VAC): R$ -370504.04
+
+Detalhamento por categoria:
+- Pessoal: R$ 1661307.00 (49.3%)
+- Equipamentos: R$ 673733.41 (20.0%)
+- Software: R$ 216211.29 (6.4%)
+- Serviços: R$ 515884.24 (15.3%)
+- Outros: R$ 299560.16 (8.9%)

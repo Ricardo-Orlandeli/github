@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O poder de realizar seus sonhos naturalmente (PROJ-0857)
+Data: 14/07/2025
+Gerente: Joaquim Sales
+
+Orçamento inicial: R$ 650348.00
+Custo real atual: R$ 586753.74
+Desvio orçamentário: -9.78%
+Índice de Desempenho de Custo (CPI): 1.11
+Valor Agregado (EV): R$ 649697.65
+Estimativa para conclusão: R$ 587.34
+Estimativa no término (EAC): R$ 587341.08
+Variação no término (VAC): R$ 63006.92
+
+Detalhamento por categoria:
+- Pessoal: R$ 319246.67 (54.4%)
+- Equipamentos: R$ 95662.19 (16.3%)
+- Software: R$ 51570.00 (8.8%)
+- Serviços: R$ 81635.15 (13.9%)
+- Outros: R$ 38639.73 (6.6%)

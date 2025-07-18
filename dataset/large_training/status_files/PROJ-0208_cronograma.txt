@@ -1,0 +1,29 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A certeza de mudar com força total (PROJ-0208)
+Data: 14/07/2025
+Gerente: João Castro
+
+Status atual: Atrasado
+Percentual de conclusão: 55.2%
+Data de início: 06/09/2024
+Data de término planejada: 13/02/2025
+Data de término real/prevista: 19/05/2025
+Atraso atual: 151 dias
+Motivo do atraso: Problemas de integração com sistemas legados
+Índice de Desempenho de Cronograma (SPI): 0.55
+Valor Planejado (PV): R$ 1745821.00
+Valor Agregado (EV): R$ 963694.52
+
+Tarefas críticas:
+- Implementação do módulo de relatórios
+- Desenvolvimento do painel administrativo
+- Configuração do ambiente de produção
+- Implementação do módulo de exportação de dados
+- Configuração da infraestrutura
+- Testes de segurança
+- Implementação do módulo de análise de dados
+- Configuração do ambiente de produção
+
+Tarefas atrasadas:
+- Configuração do ambiente de produção
+- Desenvolvimento do painel administrativo

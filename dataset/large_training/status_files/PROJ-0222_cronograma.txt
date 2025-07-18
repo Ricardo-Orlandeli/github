@@ -1,0 +1,26 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A vantagem de mudar em estado puro (PROJ-0222)
+Data: 14/07/2025
+Gerente: Sr. Thales Gonçalves
+
+Status atual: Em andamento
+Percentual de conclusão: 90.8%
+Data de início: 30/07/2023
+Data de término planejada: 05/02/2024
+Data de término real/prevista: 05/02/2024
+Atraso atual: 525 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.14
+Valor Planejado (PV): R$ 2540939.00
+Valor Agregado (EV): R$ 2306180.83
+
+Tarefas críticas:
+- Testes de segurança
+- Desenvolvimento do painel administrativo
+- Configuração da infraestrutura
+- Implementação do sistema de backup
+- Implementação da API REST
+- Configuração do ambiente de produção
+- Integração com sistema de pagamentos
+
+Tarefas atrasadas:

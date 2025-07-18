@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A segurança de mudar com confiança (PROJ-0097)
+Data: 14/07/2025
+Gerente: Otávio da Mata
+
+Orçamento inicial: R$ 3398223.00
+Custo real atual: R$ 2897252.59
+Desvio orçamentário: 288.90%
+Índice de Desempenho de Custo (CPI): 0.77
+Valor Agregado (EV): R$ 2222682.65
+Estimativa para conclusão: R$ 1532309.31
+Estimativa no término (EAC): R$ 4429561.89
+Variação no término (VAC): R$ -1031338.89
+
+Detalhamento por categoria:
+- Pessoal: R$ 1411385.25 (48.7%)
+- Equipamentos: R$ 517880.45 (17.9%)
+- Software: R$ 157742.10 (5.4%)
+- Serviços: R$ 563882.60 (19.5%)
+- Outros: R$ 246362.19 (8.5%)

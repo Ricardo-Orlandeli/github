@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A segurança de evoluir com força total (PROJ-0068)
+Data: 14/07/2025
+Gerente: Aurora Correia
+
+Orçamento inicial: R$ 1158798.00
+Custo real atual: R$ 361922.61
+Desvio orçamentário: -32.05%
+Índice de Desempenho de Custo (CPI): 0.88
+Valor Agregado (EV): R$ 319204.09
+Estimativa para conclusão: R$ 951955.28
+Estimativa no término (EAC): R$ 1313877.89
+Variação no término (VAC): R$ -155079.89
+
+Detalhamento por categoria:
+- Pessoal: R$ 199269.12 (55.1%)
+- Equipamentos: R$ 54236.45 (15.0%)
+- Software: R$ 43819.44 (12.1%)
+- Serviços: R$ 34224.05 (9.5%)
+- Outros: R$ 30373.55 (8.4%)

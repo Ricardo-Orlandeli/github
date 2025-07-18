@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O conforto de evoluir sem preocupação (PROJ-0039)
+Data: 14/07/2025
+Gerente: Srta. Emanuella Leão
+
+Orçamento inicial: R$ 519948.00
+Custo real atual: R$ 364615.98
+Desvio orçamentário: 6.96%
+Índice de Desempenho de Custo (CPI): 0.78
+Valor Agregado (EV): R$ 284307.31
+Estimativa para conclusão: R$ 302202.42
+Estimativa no término (EAC): R$ 666818.40
+Variação no término (VAC): R$ -146870.40
+
+Detalhamento por categoria:
+- Pessoal: R$ 201893.58 (55.4%)
+- Equipamentos: R$ 58617.84 (16.1%)
+- Software: R$ 19551.57 (5.4%)
+- Serviços: R$ 59455.37 (16.3%)
+- Outros: R$ 25097.62 (6.9%)

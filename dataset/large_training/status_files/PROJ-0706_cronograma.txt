@@ -1,0 +1,26 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A arte de inovar naturalmente (PROJ-0706)
+Data: 14/07/2025
+Gerente: Maria Luísa Guerra
+
+Status atual: Em andamento
+Percentual de conclusão: 99.9%
+Data de início: 19/11/2024
+Data de término planejada: 05/07/2025
+Data de término real/prevista: 28/06/2025
+Atraso atual: 9 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.03
+Valor Planejado (PV): R$ 4958940.00
+Valor Agregado (EV): R$ 4953981.06
+
+Tarefas críticas:
+- Implementação do sistema de backup
+- Implementação do módulo de relatórios
+- Configuração do ambiente de produção
+- Implementação do módulo de exportação de dados
+- Implementação da API REST
+- Testes de segurança
+- Implementação do módulo de exportação de dados
+
+Tarefas atrasadas:

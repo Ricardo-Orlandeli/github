@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A simplicidade de ganhar com força total (PROJ-0695)
+Data: 14/07/2025
+Gerente: Davi Luiz Sousa
+
+Orçamento inicial: R$ 2448172.00
+Custo real atual: R$ 2262691.28
+Desvio orçamentário: -7.58%
+Índice de Desempenho de Custo (CPI): 0.98
+Valor Agregado (EV): R$ 2217101.19
+Estimativa para conclusão: R$ 235822.30
+Estimativa no término (EAC): R$ 2498513.59
+Variação no término (VAC): R$ -50341.59
+
+Detalhamento por categoria:
+- Pessoal: R$ 1202226.00 (53.1%)
+- Equipamentos: R$ 305479.89 (13.5%)
+- Software: R$ 316632.70 (14.0%)
+- Serviços: R$ 236207.01 (10.4%)
+- Outros: R$ 202145.69 (8.9%)

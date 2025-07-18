@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A simplicidade de realizar seus sonhos em estado puro (PROJ-0234)
+Data: 14/07/2025
+Gerente: Sra. Isabela da Mata
+
+Orçamento inicial: R$ 2015365.00
+Custo real atual: R$ 2189234.28
+Desvio orçamentário: 165.10%
+Índice de Desempenho de Custo (CPI): 0.92
+Valor Agregado (EV): R$ 2015365.00
+Estimativa para conclusão: R$ 0.00
+Estimativa no término (EAC): R$ 2189234.28
+Variação no término (VAC): R$ -173869.28
+
+Detalhamento por categoria:
+- Pessoal: R$ 1135980.22 (51.9%)
+- Equipamentos: R$ 339967.19 (15.5%)
+- Software: R$ 276647.41 (12.6%)
+- Serviços: R$ 231946.63 (10.6%)
+- Outros: R$ 204692.83 (9.3%)

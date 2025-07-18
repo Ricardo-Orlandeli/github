@@ -1,0 +1,24 @@
+RELATÓRIO DE STATUS DE ESCOPO
+Projeto: A certeza de avançar direto da fonte (PROJ-0146)
+Data: 14/07/2025
+Gerente: Lorena Melo
+
+Escopo original: Sistema para a certeza de avançar direto da fonte
+Houve mudança de escopo: Sim
+Descrição das mudanças: Redução do escopo devido a restrições orçamentárias
+Impacto no cronograma: 46 dias
+Impacto no custo: R$ 531371.63
+
+Solicitações de mudança:
+- SCM-01: Mudança na arquitetura do sistema
+- SCM-02: Implementação de módulo de exportação de dados
+
+Requisitos atuais:
+- REQ-01: O sistema deve permitir exportação de dados em formato CSV
+- REQ-02: O sistema deve ter interface responsiva
+- REQ-03: O sistema deve passar por testes de segurança
+- REQ-04: O sistema deve ter interface responsiva
+- REQ-05: O sistema deve ser compatível com navegadores modernos
+- REQ-06: O sistema deve permitir integração com APIs externas
+- REQ-07: O sistema deve ser escalável para suportar até 10.000 usuários simultâneos
+- REQ-08: O sistema deve ser compatível com navegadores modernos

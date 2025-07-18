@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O prazer de evoluir sem preocupação (PROJ-0900)
+Data: 14/07/2025
+Gerente: Sophie Sales
+
+Orçamento inicial: R$ 935839.00
+Custo real atual: R$ 965733.79
+Desvio orçamentário: 3.19%
+Índice de Desempenho de Custo (CPI): 0.97
+Valor Agregado (EV): R$ 934903.16
+Estimativa para conclusão: R$ 966.70
+Estimativa no término (EAC): R$ 966700.49
+Variação no término (VAC): R$ -30861.49
+
+Detalhamento por categoria:
+- Pessoal: R$ 529852.01 (54.9%)
+- Equipamentos: R$ 117066.45 (12.1%)
+- Software: R$ 94307.73 (9.8%)
+- Serviços: R$ 174899.45 (18.1%)
+- Outros: R$ 49608.15 (5.1%)

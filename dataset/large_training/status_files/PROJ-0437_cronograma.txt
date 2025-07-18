@@ -1,0 +1,25 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A arte de concretizar seus projetos direto da fonte (PROJ-0437)
+Data: 14/07/2025
+Gerente: Isabelly Teixeira
+
+Status atual: Em andamento
+Percentual de conclusão: 99.9%
+Data de início: 22/02/2024
+Data de término planejada: 09/01/2025
+Data de término real/prevista: 04/01/2025
+Atraso atual: 186 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.12
+Valor Planejado (PV): R$ 2716253.00
+Valor Agregado (EV): R$ 2713536.75
+
+Tarefas críticas:
+- Testes de aceitação do usuário
+- Testes de segurança
+- Implementação do módulo de notificações
+- Integração com sistema de pagamentos
+- Implementação da API REST
+- Configuração da infraestrutura
+
+Tarefas atrasadas:

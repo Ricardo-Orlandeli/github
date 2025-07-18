@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A possibilidade de concretizar seus projetos naturalmente (PROJ-0933)
+Data: 14/07/2025
+Gerente: Dante Ferreira
+
+Orçamento inicial: R$ 2794044.00
+Custo real atual: R$ 1431923.23
+Desvio orçamentário: -2.60%
+Índice de Desempenho de Custo (CPI): 1.04
+Valor Agregado (EV): R$ 1484008.51
+Estimativa para conclusão: R$ 1264056.26
+Estimativa no término (EAC): R$ 2695979.50
+Variação no término (VAC): R$ 98064.50
+
+Detalhamento por categoria:
+- Pessoal: R$ 730215.55 (51.0%)
+- Equipamentos: R$ 222246.18 (15.5%)
+- Software: R$ 161058.30 (11.2%)
+- Serviços: R$ 238637.35 (16.7%)
+- Outros: R$ 79765.86 (5.6%)

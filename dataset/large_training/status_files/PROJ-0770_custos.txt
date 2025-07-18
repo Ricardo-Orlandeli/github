@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A certeza de conseguir com toda a tranquilidade (PROJ-0770)
+Data: 14/07/2025
+Gerente: Henry Gabriel Pimenta
+
+Orçamento inicial: R$ 2564355.00
+Custo real atual: R$ 1743170.68
+Desvio orçamentário: -32.02%
+Índice de Desempenho de Custo (CPI): 1.20
+Valor Agregado (EV): R$ 2095202.97
+Estimativa para conclusão: R$ 390325.94
+Estimativa no término (EAC): R$ 2133496.61
+Variação no término (VAC): R$ 430858.39
+
+Detalhamento por categoria:
+- Pessoal: R$ 952812.26 (54.7%)
+- Equipamentos: R$ 266356.20 (15.3%)
+- Software: R$ 128141.91 (7.4%)
+- Serviços: R$ 238774.65 (13.7%)
+- Outros: R$ 157085.65 (9.0%)

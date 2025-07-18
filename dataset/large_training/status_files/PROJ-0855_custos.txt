@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O direito de avançar direto da fonte (PROJ-0855)
+Data: 14/07/2025
+Gerente: Pedro Lucas Martins
+
+Orçamento inicial: R$ 2264258.00
+Custo real atual: R$ 1686249.05
+Desvio orçamentário: -25.53%
+Índice de Desempenho de Custo (CPI): 0.98
+Valor Agregado (EV): R$ 1654158.92
+Estimativa para conclusão: R$ 621934.80
+Estimativa no término (EAC): R$ 2308183.85
+Variação no término (VAC): R$ -43925.85
+
+Detalhamento por categoria:
+- Pessoal: R$ 926933.41 (55.0%)
+- Equipamentos: R$ 233973.35 (13.9%)
+- Software: R$ 172925.50 (10.3%)
+- Serviços: R$ 273456.58 (16.2%)
+- Outros: R$ 78960.21 (4.7%)

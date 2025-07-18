@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O prazer de avançar com força total (PROJ-0875)
+Data: 14/07/2025
+Gerente: Ravi Lucca Pacheco
+
+Orçamento inicial: R$ 600433.00
+Custo real atual: R$ 411549.38
+Desvio orçamentário: -31.46%
+Índice de Desempenho de Custo (CPI): 0.77
+Valor Agregado (EV): R$ 317973.73
+Estimativa para conclusão: R$ 365583.47
+Estimativa no término (EAC): R$ 777132.86
+Variação no término (VAC): R$ -176699.86
+
+Detalhamento por categoria:
+- Pessoal: R$ 244838.00 (59.5%)
+- Equipamentos: R$ 51809.40 (12.6%)
+- Software: R$ 26153.94 (6.4%)
+- Serviços: R$ 53451.77 (13.0%)
+- Outros: R$ 35296.28 (8.6%)

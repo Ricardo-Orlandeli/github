@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O poder de ganhar com força total (PROJ-0777)
+Data: 14/07/2025
+Gerente: Gustavo Henrique Mendonça
+
+Orçamento inicial: R$ 3189498.00
+Custo real atual: R$ 3137979.33
+Desvio orçamentário: -1.62%
+Índice de Desempenho de Custo (CPI): 1.02
+Valor Agregado (EV): R$ 3189498.00
+Estimativa para conclusão: R$ 0.00
+Estimativa no término (EAC): R$ 3137979.33
+Variação no término (VAC): R$ 51518.67
+
+Detalhamento por categoria:
+- Pessoal: R$ 1514624.53 (48.3%)
+- Equipamentos: R$ 491766.47 (15.7%)
+- Software: R$ 305717.93 (9.7%)
+- Serviços: R$ 541934.20 (17.3%)
+- Outros: R$ 283936.20 (9.0%)

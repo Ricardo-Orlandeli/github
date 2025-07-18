@@ -1,0 +1,27 @@
+RELATÓRIO DE STATUS DE RISCOS
+Projeto: A simplicidade de evoluir direto da fonte (PROJ-0687)
+Data: 14/07/2025
+Gerente: Henry Gabriel Pimenta
+
+Riscos identificados:
+- R01: Estimativas imprecisas
+  Probabilidade: 5/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Fortalecer medidas de segurança
+
+- R02: Estimativas imprecisas
+  Probabilidade: 4/5, Impacto: 5/5, Nível: Alto
+  Mitigação: Implementar plano de contingência
+
+- R03: Indisponibilidade de recursos especializados
+  Probabilidade: 5/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Comunicar benefícios da mudança
+
+Riscos ocorridos:
+- R01 (ocorrido em 23/06/2025)
+  Impacto real: Problemas de qualidade
+  Ações tomadas: Comunicação intensificada com stakeholders
+
+- R03 (ocorrido em 06/08/2024)
+  Impacto real: Problemas de qualidade
+  Ações tomadas: Implementação de soluções alternativas
+

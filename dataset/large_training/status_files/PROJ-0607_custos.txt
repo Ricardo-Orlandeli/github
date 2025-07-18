@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A simplicidade de inovar mais rapidamente (PROJ-0607)
+Data: 14/07/2025
+Gerente: Bruno Ferreira
+
+Orçamento inicial: R$ 2948620.00
+Custo real atual: R$ 3310678.79
+Desvio orçamentário: 12.28%
+Índice de Desempenho de Custo (CPI): 0.86
+Valor Agregado (EV): R$ 2852054.84
+Estimativa para conclusão: R$ 112093.29
+Estimativa no término (EAC): R$ 3422772.08
+Variação no término (VAC): R$ -474152.08
+
+Detalhamento por categoria:
+- Pessoal: R$ 1700962.75 (51.4%)
+- Equipamentos: R$ 492600.33 (14.9%)
+- Software: R$ 246453.36 (7.4%)
+- Serviços: R$ 596640.15 (18.0%)
+- Outros: R$ 274022.19 (8.3%)

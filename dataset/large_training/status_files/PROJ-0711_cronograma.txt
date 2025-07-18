@@ -1,0 +1,22 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A possibilidade de conseguir mais rapidamente (PROJ-0711)
+Data: 14/07/2025
+Gerente: Eduarda Siqueira
+
+Status atual: Em andamento
+Percentual de conclusão: 16.5%
+Data de início: 31/05/2025
+Data de término planejada: 11/03/2026
+Data de término real/prevista: 25/02/2026
+Atraso atual: 0 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 0.93
+Valor Planejado (PV): R$ 187038.27
+Valor Agregado (EV): R$ 199493.46
+
+Tarefas críticas:
+- Implementação do módulo de relatórios
+- Testes de aceitação do usuário
+- Implementação do módulo de notificações
+
+Tarefas atrasadas:

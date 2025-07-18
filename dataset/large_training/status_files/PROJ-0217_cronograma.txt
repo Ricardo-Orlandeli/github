@@ -1,0 +1,25 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A liberdade de evoluir em estado puro (PROJ-0217)
+Data: 14/07/2025
+Gerente: Nathan Garcia
+
+Status atual: Em andamento
+Percentual de conclusão: 84.3%
+Data de início: 28/08/2024
+Data de término planejada: 22/07/2025
+Data de término real/prevista: 24/07/2025
+Atraso atual: 0 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 0.92
+Valor Planejado (PV): R$ 109618.54
+Valor Agregado (EV): R$ 94716.66
+
+Tarefas críticas:
+- Desenvolvimento da interface do usuário
+- Testes de segurança
+- Testes de aceitação do usuário
+- Implementação do módulo de relatórios
+- Desenvolvimento do painel administrativo
+- Configuração da infraestrutura
+
+Tarefas atrasadas:

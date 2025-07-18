@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O prazer de inovar naturalmente (PROJ-0647)
+Data: 14/07/2025
+Gerente: Eloá Ferreira
+
+Orçamento inicial: R$ 390871.00
+Custo real atual: R$ 407686.84
+Desvio orçamentário: 4.30%
+Índice de Desempenho de Custo (CPI): 0.96
+Valor Agregado (EV): R$ 390480.13
+Estimativa para conclusão: R$ 408.09
+Estimativa no término (EAC): R$ 408094.94
+Variação no término (VAC): R$ -17223.94
+
+Detalhamento por categoria:
+- Pessoal: R$ 201853.85 (49.5%)
+- Equipamentos: R$ 62770.14 (15.4%)
+- Software: R$ 50290.70 (12.3%)
+- Serviços: R$ 63717.04 (15.6%)
+- Outros: R$ 29055.11 (7.1%)

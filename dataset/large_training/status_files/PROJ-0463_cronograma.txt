@@ -1,0 +1,27 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: O poder de concretizar seus projetos sem preocupação (PROJ-0463)
+Data: 14/07/2025
+Gerente: Sr. Apollo Castro
+
+Status atual: Concluído
+Percentual de conclusão: 100.0%
+Data de início: 12/01/2025
+Data de término planejada: 24/07/2025
+Data de término real/prevista: 31/07/2025
+Atraso atual: 0 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.00
+Valor Planejado (PV): R$ 1255493.78
+Valor Agregado (EV): R$ 1324100.00
+
+Tarefas críticas:
+- Implementação do sistema de backup
+- Implementação da API REST
+- Desenvolvimento do módulo de autenticação
+- Implementação do módulo de exportação de dados
+- Implementação do módulo de notificações
+- Implementação da API REST
+- Implementação da API REST
+- Integração com sistema de pagamentos
+
+Tarefas atrasadas:

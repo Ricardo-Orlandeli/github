@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O direito de avançar mais facilmente (PROJ-0248)
+Data: 14/07/2025
+Gerente: Ana Pires
+
+Orçamento inicial: R$ 2632049.00
+Custo real atual: R$ 2524208.20
+Desvio orçamentário: -4.10%
+Índice de Desempenho de Custo (CPI): 0.90
+Valor Agregado (EV): R$ 2268251.36
+Estimativa para conclusão: R$ 404849.74
+Estimativa no término (EAC): R$ 2929057.94
+Variação no término (VAC): R$ -297008.94
+
+Detalhamento por categoria:
+- Pessoal: R$ 1323979.51 (52.5%)
+- Equipamentos: R$ 396848.51 (15.7%)
+- Software: R$ 156700.34 (6.2%)
+- Serviços: R$ 402254.02 (15.9%)
+- Outros: R$ 244425.81 (9.7%)

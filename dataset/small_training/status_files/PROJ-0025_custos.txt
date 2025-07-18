@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A possibilidade de evoluir de maneira eficaz (PROJ-0025)
+Data: 14/07/2025
+Gerente: Breno Moraes
+
+Orçamento inicial: R$ 2529711.00
+Custo real atual: R$ 759118.18
+Desvio orçamentário: -13.07%
+Índice de Desempenho de Custo (CPI): 1.04
+Valor Agregado (EV): R$ 789235.76
+Estimativa para conclusão: R$ 1674057.93
+Estimativa no término (EAC): R$ 2433176.11
+Variação no término (VAC): R$ 96534.89
+
+Detalhamento por categoria:
+- Pessoal: R$ 367309.41 (48.4%)
+- Equipamentos: R$ 141828.32 (18.7%)
+- Software: R$ 93569.52 (12.3%)
+- Serviços: R$ 95500.07 (12.6%)
+- Outros: R$ 60910.85 (8.0%)

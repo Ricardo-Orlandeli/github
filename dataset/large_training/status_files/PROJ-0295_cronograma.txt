@@ -1,0 +1,27 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: O poder de realizar seus sonhos naturalmente (PROJ-0295)
+Data: 14/07/2025
+Gerente: Helena Aparecida
+
+Status atual: Cancelado
+Percentual de conclusão: 40.2%
+Data de início: 30/06/2025
+Data de término planejada: 02/03/2026
+Data de término real/prevista: 06/10/2025
+Atraso atual: 0 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 7.03
+Valor Planejado (PV): R$ 157353.03
+Valor Agregado (EV): R$ 1106797.71
+
+Tarefas críticas:
+- Testes de aceitação do usuário
+- Desenvolvimento do painel administrativo
+- Integração com sistema de pagamentos
+- Configuração do ambiente de produção
+- Desenvolvimento do painel administrativo
+- Implementação do módulo de análise de dados
+- Testes de aceitação do usuário
+- Implementação do sistema de backup
+
+Tarefas atrasadas:

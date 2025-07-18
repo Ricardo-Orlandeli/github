@@ -1,0 +1,25 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A certeza de mudar simplesmente (PROJ-0365)
+Data: 14/07/2025
+Gerente: Srta. Heloisa Silveira
+
+Status atual: Concluído
+Percentual de conclusão: 100.0%
+Data de início: 08/11/2024
+Data de término planejada: 29/10/2025
+Data de término real/prevista: 14/11/2025
+Atraso atual: 0 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 0.97
+Valor Planejado (PV): R$ 3335970.25
+Valor Agregado (EV): R$ 4775280.00
+
+Tarefas críticas:
+- Testes de segurança
+- Desenvolvimento do módulo de autenticação
+- Desenvolvimento da interface do usuário
+- Migração de dados legados
+- Migração de dados legados
+- Desenvolvimento da interface do usuário
+
+Tarefas atrasadas:

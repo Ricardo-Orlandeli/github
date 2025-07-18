@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A certeza de realizar seus sonhos sem preocupação (PROJ-0815)
+Data: 14/07/2025
+Gerente: Allana Lopes
+
+Orçamento inicial: R$ 4178671.00
+Custo real atual: R$ 233802.19
+Desvio orçamentário: -21.27%
+Índice de Desempenho de Custo (CPI): 0.70
+Valor Agregado (EV): R$ 162925.20
+Estimativa para conclusão: R$ 5762706.68
+Estimativa no término (EAC): R$ 5996508.87
+Variação no término (VAC): R$ -1817837.87
+
+Detalhamento por categoria:
+- Pessoal: R$ 106554.84 (45.6%)
+- Equipamentos: R$ 48002.97 (20.5%)
+- Software: R$ 14592.66 (6.2%)
+- Serviços: R$ 39422.90 (16.9%)
+- Outros: R$ 25228.82 (10.8%)

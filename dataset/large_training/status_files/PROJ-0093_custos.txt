@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O prazer de conseguir com força total (PROJ-0093)
+Data: 14/07/2025
+Gerente: Joana Oliveira
+
+Orçamento inicial: R$ 727745.00
+Custo real atual: R$ 413843.95
+Desvio orçamentário: -28.57%
+Índice de Desempenho de Custo (CPI): 0.71
+Valor Agregado (EV): R$ 295769.64
+Estimativa para conclusão: R$ 604424.42
+Estimativa no término (EAC): R$ 1018268.37
+Variação no término (VAC): R$ -290523.37
+
+Detalhamento por categoria:
+- Pessoal: R$ 183712.30 (44.4%)
+- Equipamentos: R$ 79288.32 (19.2%)
+- Software: R$ 49400.82 (11.9%)
+- Serviços: R$ 79041.75 (19.1%)
+- Outros: R$ 22400.76 (5.4%)

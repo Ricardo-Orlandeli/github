@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A liberdade de evoluir naturalmente (PROJ-0660)
+Data: 14/07/2025
+Gerente: Luiz Fernando das Neves
+
+Orçamento inicial: R$ 2374985.00
+Custo real atual: R$ 2035230.79
+Desvio orçamentário: -14.31%
+Índice de Desempenho de Custo (CPI): 1.17
+Valor Agregado (EV): R$ 2372610.02
+Estimativa para conclusão: R$ 2037.27
+Estimativa no término (EAC): R$ 2037268.06
+Variação no término (VAC): R$ 337716.94
+
+Detalhamento por categoria:
+- Pessoal: R$ 997043.31 (49.0%)
+- Equipamentos: R$ 279559.15 (13.7%)
+- Software: R$ 197811.04 (9.7%)
+- Serviços: R$ 375476.37 (18.4%)
+- Outros: R$ 185340.91 (9.1%)

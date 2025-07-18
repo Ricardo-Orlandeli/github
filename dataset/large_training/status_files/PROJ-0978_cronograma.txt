@@ -1,0 +1,22 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: O direito de realizar seus sonhos naturalmente (PROJ-0978)
+Data: 14/07/2025
+Gerente: José Pedro Duarte
+
+Status atual: Concluído
+Percentual de conclusão: 100.0%
+Data de início: 31/12/2024
+Data de término planejada: 19/03/2025
+Data de término real/prevista: 24/03/2025
+Atraso atual: 117 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.10
+Valor Planejado (PV): R$ 2404305.00
+Valor Agregado (EV): R$ 2404305.00
+
+Tarefas críticas:
+- Testes de segurança
+- Desenvolvimento do painel administrativo
+- Configuração da infraestrutura
+
+Tarefas atrasadas:

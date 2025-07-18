@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A vantagem de realizar seus sonhos mais facilmente (PROJ-0640)
+Data: 14/07/2025
+Gerente: Eloah Novais
+
+Orçamento inicial: R$ 136782.00
+Custo real atual: R$ 147742.98
+Desvio orçamentário: 809.11%
+Índice de Desempenho de Custo (CPI): 0.93
+Valor Agregado (EV): R$ 136782.00
+Estimativa para conclusão: R$ 0.00
+Estimativa no término (EAC): R$ 147742.98
+Variação no término (VAC): R$ -10960.98
+
+Detalhamento por categoria:
+- Pessoal: R$ 84275.88 (57.0%)
+- Equipamentos: R$ 17716.44 (12.0%)
+- Software: R$ 14341.55 (9.7%)
+- Serviços: R$ 20290.22 (13.7%)
+- Outros: R$ 11118.89 (7.5%)

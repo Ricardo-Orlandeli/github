@@ -1,0 +1,43 @@
+RELATÓRIO DE STATUS DE RISCOS
+Projeto: O direito de avançar com toda a tranquilidade (PROJ-0010)
+Data: 14/07/2025
+Gerente: Marcelo Viana
+
+Riscos identificados:
+- R01: Estimativas imprecisas
+  Probabilidade: 4/5, Impacto: 5/5, Nível: Alto
+  Mitigação: Realizar testes de aceitação com usuários-chave
+
+- R02: Falhas de infraestrutura
+  Probabilidade: 4/5, Impacto: 3/5, Nível: Médio
+  Mitigação: Buscar fornecedores alternativos
+
+- R03: Atraso na entrega de componentes críticos
+  Probabilidade: 2/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Realizar testes de aceitação com usuários-chave
+
+- R04: Problemas de compatibilidade
+  Probabilidade: 2/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Buscar fornecedores alternativos
+
+- R05: Falhas de infraestrutura
+  Probabilidade: 1/5, Impacto: 3/5, Nível: Baixo
+  Mitigação: Buscar fornecedores alternativos
+
+- R06: Indisponibilidade de recursos especializados
+  Probabilidade: 4/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Melhorar a documentação de requisitos
+
+Riscos ocorridos:
+- R05 (ocorrido em 05/07/2024)
+  Impacto real: Indisponibilidade temporária
+  Ações tomadas: Revisão do orçamento
+
+- R01 (ocorrido em 27/06/2024)
+  Impacto real: Redução de funcionalidades
+  Ações tomadas: Ajuste no cronograma
+
+- R06 (ocorrido em 12/01/2025)
+  Impacto real: Falhas de segurança
+  Ações tomadas: Revisão do orçamento
+

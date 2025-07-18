@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O poder de ganhar sem preocupação (PROJ-0614)
+Data: 14/07/2025
+Gerente: Erick Barros
+
+Orçamento inicial: R$ 1619172.00
+Custo real atual: R$ 1557396.05
+Desvio orçamentário: -3.82%
+Índice de Desempenho de Custo (CPI): 1.04
+Valor Agregado (EV): R$ 1617552.83
+Estimativa para conclusão: R$ 1558.96
+Estimativa no término (EAC): R$ 1558955.00
+Variação no término (VAC): R$ 60217.00
+
+Detalhamento por categoria:
+- Pessoal: R$ 732502.48 (47.0%)
+- Equipamentos: R$ 268586.05 (17.2%)
+- Software: R$ 184357.31 (11.8%)
+- Serviços: R$ 263837.26 (16.9%)
+- Outros: R$ 108112.96 (6.9%)

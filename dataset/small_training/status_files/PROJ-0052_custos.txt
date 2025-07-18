@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O conforto de evoluir simplesmente (PROJ-0052)
+Data: 14/07/2025
+Gerente: Emanuella Novais
+
+Orçamento inicial: R$ 4273199.00
+Custo real atual: R$ 3613306.81
+Desvio orçamentário: 651.62%
+Índice de Desempenho de Custo (CPI): 1.18
+Valor Agregado (EV): R$ 4273199.00
+Estimativa para conclusão: R$ 0.00
+Estimativa no término (EAC): R$ 3613306.81
+Variação no término (VAC): R$ 659892.19
+
+Detalhamento por categoria:
+- Pessoal: R$ 1862688.85 (51.6%)
+- Equipamentos: R$ 505169.34 (14.0%)
+- Software: R$ 381569.59 (10.6%)
+- Serviços: R$ 462900.88 (12.8%)
+- Outros: R$ 400978.15 (11.1%)

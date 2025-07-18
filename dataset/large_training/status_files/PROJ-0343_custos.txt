@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O direito de inovar com toda a tranquilidade (PROJ-0343)
+Data: 14/07/2025
+Gerente: Noah Camargo
+
+Orçamento inicial: R$ 4584620.00
+Custo real atual: R$ 1674465.03
+Desvio orçamentário: 10.83%
+Índice de Desempenho de Custo (CPI): 0.91
+Valor Agregado (EV): R$ 1518493.79
+Estimativa para conclusão: R$ 3381061.63
+Estimativa no término (EAC): R$ 5055526.66
+Variação no término (VAC): R$ -470906.66
+
+Detalhamento por categoria:
+- Pessoal: R$ 871154.26 (52.0%)
+- Equipamentos: R$ 226774.18 (13.5%)
+- Software: R$ 111100.64 (6.6%)
+- Serviços: R$ 348717.66 (20.8%)
+- Outros: R$ 116718.28 (7.0%)

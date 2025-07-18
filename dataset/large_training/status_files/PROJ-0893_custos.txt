@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O prazer de evoluir sem preocupação (PROJ-0893)
+Data: 14/07/2025
+Gerente: Dra. Nina Albuquerque
+
+Orçamento inicial: R$ 3714229.00
+Custo real atual: R$ 3511068.71
+Desvio orçamentário: -5.47%
+Índice de Desempenho de Custo (CPI): 1.06
+Valor Agregado (EV): R$ 3714229.00
+Estimativa para conclusão: R$ 0.00
+Estimativa no término (EAC): R$ 3511068.71
+Variação no término (VAC): R$ 203160.29
+
+Detalhamento por categoria:
+- Pessoal: R$ 1909487.11 (54.4%)
+- Equipamentos: R$ 392283.88 (11.2%)
+- Software: R$ 395526.31 (11.3%)
+- Serviços: R$ 503138.43 (14.3%)
+- Outros: R$ 310632.98 (8.8%)

@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A liberdade de evoluir de maneira eficaz (PROJ-0865)
+Data: 14/07/2025
+Gerente: Ísis da Conceição
+
+Orçamento inicial: R$ 4597946.00
+Custo real atual: R$ 3743582.69
+Desvio orçamentário: -18.58%
+Índice de Desempenho de Custo (CPI): 0.76
+Valor Agregado (EV): R$ 2851613.77
+Estimativa para conclusão: R$ 2292575.23
+Estimativa no término (EAC): R$ 6036157.92
+Variação no término (VAC): R$ -1438211.92
+
+Detalhamento por categoria:
+- Pessoal: R$ 1667351.39 (44.5%)
+- Equipamentos: R$ 701895.64 (18.7%)
+- Software: R$ 472848.92 (12.6%)
+- Serviços: R$ 645021.20 (17.2%)
+- Outros: R$ 256465.54 (6.9%)

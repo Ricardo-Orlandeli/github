@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O conforto de atingir seus objetivos de maneira eficaz (PROJ-0103)
+Data: 14/07/2025
+Gerente: Luna da Conceição
+
+Orçamento inicial: R$ 3854615.00
+Custo real atual: R$ 3815549.91
+Desvio orçamentário: -1.01%
+Índice de Desempenho de Custo (CPI): 0.81
+Valor Agregado (EV): R$ 3105222.38
+Estimativa para conclusão: R$ 920818.09
+Estimativa no término (EAC): R$ 4736368.00
+Variação no término (VAC): R$ -881753.00
+
+Detalhamento por categoria:
+- Pessoal: R$ 2248067.95 (58.9%)
+- Equipamentos: R$ 563095.06 (14.8%)
+- Software: R$ 219906.58 (5.8%)
+- Serviços: R$ 544342.21 (14.3%)
+- Outros: R$ 240138.12 (6.3%)

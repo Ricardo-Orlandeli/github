@@ -1,0 +1,22 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A liberdade de evoluir naturalmente (PROJ-0416)
+Data: 14/07/2025
+Gerente: Maria Eduarda Jesus
+
+Status atual: Em andamento
+Percentual de conclusão: 81.0%
+Data de início: 12/05/2024
+Data de término planejada: 21/08/2024
+Data de término real/prevista: 03/09/2024
+Atraso atual: 327 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.05
+Valor Planejado (PV): R$ 2090056.00
+Valor Agregado (EV): R$ 1693224.12
+
+Tarefas críticas:
+- Implementação do módulo de análise de dados
+- Desenvolvimento do painel administrativo
+- Implementação do módulo de notificações
+
+Tarefas atrasadas:

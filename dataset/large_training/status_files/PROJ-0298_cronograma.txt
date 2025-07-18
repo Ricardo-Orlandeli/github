@@ -1,0 +1,23 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A segurança de avançar simplesmente (PROJ-0298)
+Data: 14/07/2025
+Gerente: Alexandre Duarte
+
+Status atual: Em andamento
+Percentual de conclusão: 94.5%
+Data de início: 07/12/2023
+Data de término planejada: 21/10/2024
+Data de término real/prevista: 11/10/2024
+Atraso atual: 266 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 0.92
+Valor Planejado (PV): R$ 1807956.00
+Valor Agregado (EV): R$ 1707705.77
+
+Tarefas críticas:
+- Desenvolvimento do módulo de autenticação
+- Testes de segurança
+- Migração de dados legados
+- Implementação do módulo de análise de dados
+
+Tarefas atrasadas:

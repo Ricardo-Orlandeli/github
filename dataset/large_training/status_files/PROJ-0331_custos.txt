@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A possibilidade de atingir seus objetivos com confiança (PROJ-0331)
+Data: 14/07/2025
+Gerente: Luiza das Neves
+
+Orçamento inicial: R$ 1030082.00
+Custo real atual: R$ 1006028.72
+Desvio orçamentário: -2.34%
+Índice de Desempenho de Custo (CPI): 1.02
+Valor Agregado (EV): R$ 1030082.00
+Estimativa para conclusão: R$ 0.00
+Estimativa no término (EAC): R$ 1006028.72
+Variação no término (VAC): R$ 24053.28
+
+Detalhamento por categoria:
+- Pessoal: R$ 476967.69 (47.4%)
+- Equipamentos: R$ 192431.40 (19.1%)
+- Software: R$ 92592.66 (9.2%)
+- Serviços: R$ 153770.56 (15.3%)
+- Outros: R$ 90266.42 (9.0%)

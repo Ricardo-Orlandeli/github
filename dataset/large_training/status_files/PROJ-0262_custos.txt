@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O prazer de evoluir naturalmente (PROJ-0262)
+Data: 14/07/2025
+Gerente: Maria Luiza Castro
+
+Orçamento inicial: R$ 2365634.00
+Custo real atual: R$ 2391888.84
+Desvio orçamentário: 1.11%
+Índice de Desempenho de Custo (CPI): 0.91
+Valor Agregado (EV): R$ 2173315.87
+Estimativa para conclusão: R$ 211659.79
+Estimativa no término (EAC): R$ 2603548.63
+Variação no término (VAC): R$ -237914.63
+
+Detalhamento por categoria:
+- Pessoal: R$ 1245523.76 (52.1%)
+- Equipamentos: R$ 291109.47 (12.2%)
+- Software: R$ 355776.70 (14.9%)
+- Serviços: R$ 318506.87 (13.3%)
+- Outros: R$ 180972.06 (7.6%)

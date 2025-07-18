@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O conforto de evoluir simplesmente (PROJ-0992)
+Data: 14/07/2025
+Gerente: Marcela Cassiano
+
+Orçamento inicial: R$ 1555820.00
+Custo real atual: R$ 1548425.72
+Desvio orçamentário: -0.48%
+Índice de Desempenho de Custo (CPI): 0.72
+Valor Agregado (EV): R$ 1118383.26
+Estimativa para conclusão: R$ 605640.59
+Estimativa no término (EAC): R$ 2154066.32
+Variação no término (VAC): R$ -598246.32
+
+Detalhamento por categoria:
+- Pessoal: R$ 813717.92 (52.6%)
+- Equipamentos: R$ 258548.87 (16.7%)
+- Software: R$ 145442.19 (9.4%)
+- Serviços: R$ 213994.93 (13.8%)
+- Outros: R$ 116721.81 (7.5%)

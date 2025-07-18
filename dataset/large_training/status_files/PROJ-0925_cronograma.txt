@@ -1,0 +1,25 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: O prazer de realizar seus sonhos simplesmente (PROJ-0925)
+Data: 14/07/2025
+Gerente: Dra. Alexia Silva
+
+Status atual: Em andamento
+Percentual de conclusão: 99.9%
+Data de início: 14/05/2024
+Data de término planejada: 11/03/2025
+Data de término real/prevista: 20/03/2025
+Atraso atual: 125 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.10
+Valor Planejado (PV): R$ 497017.00
+Valor Agregado (EV): R$ 496519.98
+
+Tarefas críticas:
+- Implementação do módulo de análise de dados
+- Testes de aceitação do usuário
+- Implementação do módulo de análise de dados
+- Implementação do módulo de exportação de dados
+- Desenvolvimento da interface do usuário
+- Implementação do módulo de exportação de dados
+
+Tarefas atrasadas:

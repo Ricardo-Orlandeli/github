@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A vantagem de atingir seus objetivos com força total (PROJ-0802)
+Data: 14/07/2025
+Gerente: Caroline da Rosa
+
+Orçamento inicial: R$ 418741.00
+Custo real atual: R$ 416493.55
+Desvio orçamentário: 81.01%
+Índice de Desempenho de Custo (CPI): 1.01
+Valor Agregado (EV): R$ 418741.00
+Estimativa para conclusão: R$ 0.00
+Estimativa no término (EAC): R$ 416493.55
+Variação no término (VAC): R$ 2247.45
+
+Detalhamento por categoria:
+- Pessoal: R$ 224566.14 (53.9%)
+- Equipamentos: R$ 45500.29 (10.9%)
+- Software: R$ 47714.12 (11.5%)
+- Serviços: R$ 73220.36 (17.6%)
+- Outros: R$ 25492.63 (6.1%)

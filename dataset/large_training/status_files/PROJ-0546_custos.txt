@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O conforto de ganhar simplesmente (PROJ-0546)
+Data: 14/07/2025
+Gerente: Dra. Sara Caldeira
+
+Orçamento inicial: R$ 1891522.00
+Custo real atual: R$ 2065687.54
+Desvio orçamentário: 9.21%
+Índice de Desempenho de Custo (CPI): 0.89
+Valor Agregado (EV): R$ 1847026.13
+Estimativa para conclusão: R$ 49763.54
+Estimativa no término (EAC): R$ 2115451.07
+Variação no término (VAC): R$ -223929.07
+
+Detalhamento por categoria:
+- Pessoal: R$ 1181433.83 (57.2%)
+- Equipamentos: R$ 350967.54 (17.0%)
+- Software: R$ 179067.64 (8.7%)
+- Serviços: R$ 244004.26 (11.8%)
+- Outros: R$ 110214.27 (5.3%)

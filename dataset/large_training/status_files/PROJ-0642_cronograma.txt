@@ -1,0 +1,22 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A possibilidade de ganhar com confiança (PROJ-0642)
+Data: 14/07/2025
+Gerente: Maria Júlia Almeida
+
+Status atual: Concluído
+Percentual de conclusão: 100.0%
+Data de início: 20/12/2024
+Data de término planejada: 02/04/2025
+Data de término real/prevista: 05/03/2025
+Atraso atual: 103 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.00
+Valor Planejado (PV): R$ 1138577.00
+Valor Agregado (EV): R$ 1138577.00
+
+Tarefas críticas:
+- Implementação do módulo de exportação de dados
+- Implementação do módulo de relatórios
+- Implementação do módulo de exportação de dados
+
+Tarefas atrasadas:

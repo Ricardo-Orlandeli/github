@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O conforto de inovar direto da fonte (PROJ-0701)
+Data: 14/07/2025
+Gerente: Dr. Anthony Vieira
+
+Orçamento inicial: R$ 4627486.00
+Custo real atual: R$ 3337451.26
+Desvio orçamentário: 87.38%
+Índice de Desempenho de Custo (CPI): 0.70
+Valor Agregado (EV): R$ 2337115.12
+Estimativa para conclusão: R$ 3270699.46
+Estimativa no término (EAC): R$ 6608150.72
+Variação no término (VAC): R$ -1980664.72
+
+Detalhamento por categoria:
+- Pessoal: R$ 1452271.73 (43.5%)
+- Equipamentos: R$ 663693.08 (19.9%)
+- Software: R$ 205488.57 (6.2%)
+- Serviços: R$ 705560.20 (21.1%)
+- Outros: R$ 310437.69 (9.3%)

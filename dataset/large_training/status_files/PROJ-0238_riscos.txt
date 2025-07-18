@@ -1,0 +1,43 @@
+RELATÓRIO DE STATUS DE RISCOS
+Projeto: O poder de inovar simplesmente (PROJ-0238)
+Data: 14/07/2025
+Gerente: Erick Cassiano
+
+Riscos identificados:
+- R01: Rotatividade de pessoal-chave
+  Probabilidade: 4/5, Impacto: 5/5, Nível: Alto
+  Mitigação: Melhorar a documentação de requisitos
+
+- R02: Atraso na entrega de componentes críticos
+  Probabilidade: 1/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Realizar testes de integração antecipados
+
+- R03: Resistência dos usuários à mudança
+  Probabilidade: 2/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Monitorar mudanças regulatórias
+
+- R04: Problemas de comunicação com stakeholders
+  Probabilidade: 2/5, Impacto: 3/5, Nível: Baixo
+  Mitigação: Contratar pessoal adicional
+
+- R05: Problemas de compatibilidade
+  Probabilidade: 4/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Implementar redundância de infraestrutura
+
+- R06: Problemas de compatibilidade
+  Probabilidade: 5/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Realizar testes de aceitação com usuários-chave
+
+Riscos ocorridos:
+- R03 (ocorrido em 17/03/2025)
+  Impacto real: Perda de dados
+  Ações tomadas: Realocação de recursos
+
+- R05 (ocorrido em 10/04/2025)
+  Impacto real: Insatisfação dos stakeholders
+  Ações tomadas: Contratação de recursos adicionais
+
+- R04 (ocorrido em 08/09/2024)
+  Impacto real: Insatisfação dos stakeholders
+  Ações tomadas: Revisão do orçamento
+

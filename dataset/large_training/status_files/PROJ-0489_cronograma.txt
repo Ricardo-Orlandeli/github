@@ -1,0 +1,26 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A segurança de mudar com força total (PROJ-0489)
+Data: 14/07/2025
+Gerente: Mirella Ribeiro
+
+Status atual: Atrasado
+Percentual de conclusão: 87.2%
+Data de início: 06/12/2024
+Data de término planejada: 06/03/2025
+Data de término real/prevista: 05/05/2025
+Atraso atual: 130 dias
+Motivo do atraso: Falhas em testes de aceitação
+Índice de Desempenho de Cronograma (SPI): 0.87
+Valor Planejado (PV): R$ 2988881.00
+Valor Agregado (EV): R$ 2605775.83
+
+Tarefas críticas:
+- Implementação do módulo de relatórios
+- Implementação do módulo de exportação de dados
+- Desenvolvimento da interface do usuário
+- Desenvolvimento do painel administrativo
+- Implementação do módulo de relatórios
+- Testes de aceitação do usuário
+
+Tarefas atrasadas:
+- Implementação do módulo de relatórios

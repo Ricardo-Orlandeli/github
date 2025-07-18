@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O direito de conseguir simplesmente (PROJ-0330)
+Data: 14/07/2025
+Gerente: Eduardo Garcia
+
+Orçamento inicial: R$ 3555091.00
+Custo real atual: R$ 4177190.64
+Desvio orçamentário: 17.50%
+Índice de Desempenho de Custo (CPI): 0.85
+Valor Agregado (EV): R$ 3551535.91
+Estimativa para conclusão: R$ 4181.37
+Estimativa no término (EAC): R$ 4181372.01
+Variação no término (VAC): R$ -626281.01
+
+Detalhamento por categoria:
+- Pessoal: R$ 2521358.31 (60.4%)
+- Equipamentos: R$ 537228.04 (12.9%)
+- Software: R$ 242964.71 (5.8%)
+- Serviços: R$ 604602.08 (14.5%)
+- Outros: R$ 271037.50 (6.5%)

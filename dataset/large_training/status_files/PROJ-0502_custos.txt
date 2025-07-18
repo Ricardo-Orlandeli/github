@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O conforto de realizar seus sonhos antes de tudo (PROJ-0502)
+Data: 14/07/2025
+Gerente: Ana Júlia Martins
+
+Orçamento inicial: R$ 1820115.00
+Custo real atual: R$ 2177046.88
+Desvio orçamentário: 19.61%
+Índice de Desempenho de Custo (CPI): 0.84
+Valor Agregado (EV): R$ 1818294.89
+Estimativa para conclusão: R$ 2179.23
+Estimativa no término (EAC): R$ 2179226.11
+Variação no término (VAC): R$ -359111.11
+
+Detalhamento por categoria:
+- Pessoal: R$ 1084219.35 (49.8%)
+- Equipamentos: R$ 384758.06 (17.7%)
+- Software: R$ 177807.17 (8.2%)
+- Serviços: R$ 370328.65 (17.0%)
+- Outros: R$ 159933.66 (7.3%)

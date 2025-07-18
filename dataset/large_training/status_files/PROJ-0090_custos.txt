@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O conforto de atingir seus objetivos antes de tudo (PROJ-0090)
+Data: 14/07/2025
+Gerente: João Miguel Fogaça
+
+Orçamento inicial: R$ 4534022.00
+Custo real atual: R$ 3812215.64
+Desvio orçamentário: -15.92%
+Índice de Desempenho de Custo (CPI): 1.19
+Valor Agregado (EV): R$ 4534022.00
+Estimativa para conclusão: R$ 0.00
+Estimativa no término (EAC): R$ 3812215.64
+Variação no término (VAC): R$ 721806.36
+
+Detalhamento por categoria:
+- Pessoal: R$ 2088432.84 (54.8%)
+- Equipamentos: R$ 504065.41 (13.2%)
+- Software: R$ 349203.58 (9.2%)
+- Serviços: R$ 574142.14 (15.1%)
+- Outros: R$ 296371.66 (7.8%)

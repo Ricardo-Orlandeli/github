@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A possibilidade de ganhar sem preocupação (PROJ-0611)
+Data: 14/07/2025
+Gerente: Ana Júlia Barbosa
+
+Orçamento inicial: R$ 370547.00
+Custo real atual: R$ 313195.92
+Desvio orçamentário: -15.48%
+Índice de Desempenho de Custo (CPI): 1.18
+Valor Agregado (EV): R$ 370176.45
+Estimativa para conclusão: R$ 313.51
+Estimativa no término (EAC): R$ 313509.43
+Variação no término (VAC): R$ 57037.57
+
+Detalhamento por categoria:
+- Pessoal: R$ 148121.76 (47.3%)
+- Equipamentos: R$ 63410.60 (20.2%)
+- Software: R$ 32964.38 (10.5%)
+- Serviços: R$ 44786.50 (14.3%)
+- Outros: R$ 23912.68 (7.6%)

@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A vantagem de atingir seus objetivos sem preocupação (PROJ-0657)
+Data: 14/07/2025
+Gerente: Alice Aparecida
+
+Orçamento inicial: R$ 2561870.00
+Custo real atual: R$ 2081239.54
+Desvio orçamentário: -18.76%
+Índice de Desempenho de Custo (CPI): 1.21
+Valor Agregado (EV): R$ 2525920.47
+Estimativa para conclusão: R$ 29620.72
+Estimativa no término (EAC): R$ 2110860.26
+Variação no término (VAC): R$ 451009.74
+
+Detalhamento por categoria:
+- Pessoal: R$ 991782.32 (47.7%)
+- Equipamentos: R$ 403206.21 (19.4%)
+- Software: R$ 257859.86 (12.4%)
+- Serviços: R$ 258661.18 (12.4%)
+- Outros: R$ 169729.98 (8.2%)

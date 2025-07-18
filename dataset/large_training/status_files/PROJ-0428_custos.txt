@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O direito de ganhar simplesmente (PROJ-0428)
+Data: 14/07/2025
+Gerente: Lívia Leão
+
+Orçamento inicial: R$ 2744469.00
+Custo real atual: R$ 2714361.88
+Desvio orçamentário: -1.10%
+Índice de Desempenho de Custo (CPI): 1.01
+Valor Agregado (EV): R$ 2744469.00
+Estimativa para conclusão: R$ 0.00
+Estimativa no término (EAC): R$ 2714361.88
+Variação no término (VAC): R$ 30107.12
+
+Detalhamento por categoria:
+- Pessoal: R$ 1336487.35 (49.2%)
+- Equipamentos: R$ 445557.27 (16.4%)
+- Software: R$ 253360.76 (9.3%)
+- Serviços: R$ 471596.62 (17.4%)
+- Outros: R$ 207359.88 (7.6%)

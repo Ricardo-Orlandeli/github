@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A possibilidade de concretizar seus projetos mais facilmente (PROJ-0989)
+Data: 14/07/2025
+Gerente: Marcelo Sá
+
+Orçamento inicial: R$ 4282439.00
+Custo real atual: R$ 737466.91
+Desvio orçamentário: -25.23%
+Índice de Desempenho de Custo (CPI): 1.16
+Valor Agregado (EV): R$ 856196.29
+Estimativa para conclusão: R$ 2951123.07
+Estimativa no término (EAC): R$ 3688589.98
+Variação no término (VAC): R$ 593849.02
+
+Detalhamento por categoria:
+- Pessoal: R$ 373591.30 (50.7%)
+- Equipamentos: R$ 129831.08 (17.6%)
+- Software: R$ 90074.82 (12.2%)
+- Serviços: R$ 97409.66 (13.2%)
+- Outros: R$ 46560.05 (6.3%)

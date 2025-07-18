@@ -1,0 +1,23 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: O poder de inovar simplesmente (PROJ-0556)
+Data: 14/07/2025
+Gerente: Alice Borges
+
+Status atual: Em andamento
+Percentual de conclusão: 85.9%
+Data de início: 02/02/2024
+Data de término planejada: 22/11/2024
+Data de término real/prevista: 11/12/2024
+Atraso atual: 234 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.10
+Valor Planejado (PV): R$ 387823.00
+Valor Agregado (EV): R$ 333324.43
+
+Tarefas críticas:
+- Implementação do módulo de relatórios
+- Configuração do ambiente de produção
+- Implementação da API REST
+- Testes de aceitação do usuário
+
+Tarefas atrasadas:

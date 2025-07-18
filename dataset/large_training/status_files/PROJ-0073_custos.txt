@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A segurança de conseguir mais rapidamente (PROJ-0073)
+Data: 14/07/2025
+Gerente: Sra. Lorena Abreu
+
+Orçamento inicial: R$ 4985715.00
+Custo real atual: R$ 5776937.46
+Desvio orçamentário: 15.87%
+Índice de Desempenho de Custo (CPI): 0.86
+Valor Agregado (EV): R$ 4980729.29
+Estimativa para conclusão: R$ 5782.72
+Estimativa no término (EAC): R$ 5782720.18
+Variação no término (VAC): R$ -797005.18
+
+Detalhamento por categoria:
+- Pessoal: R$ 3088433.93 (53.5%)
+- Equipamentos: R$ 901663.92 (15.6%)
+- Software: R$ 456545.11 (7.9%)
+- Serviços: R$ 900143.15 (15.6%)
+- Outros: R$ 430151.35 (7.4%)

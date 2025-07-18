@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O prazer de inovar mais rapidamente (PROJ-0075)
+Data: 14/07/2025
+Gerente: Ryan Guerra
+
+Orçamento inicial: R$ 4008564.00
+Custo real atual: R$ 3852007.28
+Desvio orçamentário: -3.91%
+Índice de Desempenho de Custo (CPI): 1.04
+Valor Agregado (EV): R$ 4004555.44
+Estimativa para conclusão: R$ 3855.86
+Estimativa no término (EAC): R$ 3855863.14
+Variação no término (VAC): R$ 152700.86
+
+Detalhamento por categoria:
+- Pessoal: R$ 1918346.53 (49.8%)
+- Equipamentos: R$ 483801.73 (12.6%)
+- Software: R$ 363046.70 (9.4%)
+- Serviços: R$ 805189.94 (20.9%)
+- Outros: R$ 281622.37 (7.3%)

@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A liberdade de atingir seus objetivos mais rapidamente (PROJ-0878)
+Data: 14/07/2025
+Gerente: Henry Machado
+
+Orçamento inicial: R$ 3641755.00
+Custo real atual: R$ 2606084.04
+Desvio orçamentário: -28.44%
+Índice de Desempenho de Custo (CPI): 0.88
+Valor Agregado (EV): R$ 2285903.72
+Estimativa para conclusão: R$ 1545761.69
+Estimativa no término (EAC): R$ 4151845.73
+Variação no término (VAC): R$ -510090.73
+
+Detalhamento por categoria:
+- Pessoal: R$ 1291597.83 (49.6%)
+- Equipamentos: R$ 550073.83 (21.1%)
+- Software: R$ 189608.52 (7.3%)
+- Serviços: R$ 319703.74 (12.3%)
+- Outros: R$ 255100.13 (9.8%)

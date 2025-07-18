@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A arte de concretizar seus projetos naturalmente (PROJ-1000)
+Data: 14/07/2025
+Gerente: Sra. Valentina Carvalho
+
+Orçamento inicial: R$ 3472624.00
+Custo real atual: R$ 3160271.24
+Desvio orçamentário: -8.99%
+Índice de Desempenho de Custo (CPI): 1.10
+Valor Agregado (EV): R$ 3472624.00
+Estimativa para conclusão: R$ 0.00
+Estimativa no término (EAC): R$ 3160271.24
+Variação no término (VAC): R$ 312352.76
+
+Detalhamento por categoria:
+- Pessoal: R$ 1599158.20 (50.6%)
+- Equipamentos: R$ 323565.22 (10.2%)
+- Software: R$ 418130.90 (13.2%)
+- Serviços: R$ 579754.12 (18.3%)
+- Outros: R$ 239662.80 (7.6%)

@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A vantagem de avançar naturalmente (PROJ-0319)
+Data: 14/07/2025
+Gerente: Maya da Mata
+
+Orçamento inicial: R$ 3320507.00
+Custo real atual: R$ 3316952.74
+Desvio orçamentário: -0.11%
+Índice de Desempenho de Custo (CPI): 1.00
+Valor Agregado (EV): R$ 3320507.00
+Estimativa para conclusão: R$ 0.00
+Estimativa no término (EAC): R$ 3316952.74
+Variação no término (VAC): R$ 3554.26
+
+Detalhamento por categoria:
+- Pessoal: R$ 1631111.54 (49.2%)
+- Equipamentos: R$ 462021.43 (13.9%)
+- Software: R$ 489018.98 (14.7%)
+- Serviços: R$ 543043.88 (16.4%)
+- Outros: R$ 191756.91 (5.8%)

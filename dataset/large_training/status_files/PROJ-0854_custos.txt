@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A liberdade de evoluir sem preocupação (PROJ-0854)
+Data: 14/07/2025
+Gerente: Letícia Pires
+
+Orçamento inicial: R$ 1860725.00
+Custo real atual: R$ 2051293.41
+Desvio orçamentário: 10.24%
+Índice de Desempenho de Custo (CPI): 0.91
+Valor Agregado (EV): R$ 1858864.28
+Estimativa para conclusão: R$ 2053.35
+Estimativa no término (EAC): R$ 2053346.76
+Variação no término (VAC): R$ -192621.76
+
+Detalhamento por categoria:
+- Pessoal: R$ 1067389.28 (52.0%)
+- Equipamentos: R$ 390947.04 (19.1%)
+- Software: R$ 191516.55 (9.3%)
+- Serviços: R$ 274344.69 (13.4%)
+- Outros: R$ 127095.85 (6.2%)

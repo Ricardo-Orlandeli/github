@@ -1,0 +1,25 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A arte de mudar sem preocupação (PROJ-0766)
+Data: 14/07/2025
+Gerente: Sra. Maria Vitória Lima
+
+Status atual: Concluído
+Percentual de conclusão: 100.0%
+Data de início: 14/02/2024
+Data de término planejada: 13/09/2024
+Data de término real/prevista: 03/09/2024
+Atraso atual: 304 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.04
+Valor Planejado (PV): R$ 2779738.00
+Valor Agregado (EV): R$ 2779738.00
+
+Tarefas críticas:
+- Implementação do módulo de notificações
+- Configuração do ambiente de produção
+- Migração de dados legados
+- Integração com sistema de pagamentos
+- Migração de dados legados
+- Implementação do módulo de exportação de dados
+
+Tarefas atrasadas:

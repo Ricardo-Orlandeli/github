@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A vantagem de atingir seus objetivos antes de tudo (PROJ-0623)
+Data: 14/07/2025
+Gerente: Benjamin Pereira
+
+Orçamento inicial: R$ 4587638.00
+Custo real atual: R$ 5441898.52
+Desvio orçamentário: 18.62%
+Índice de Desempenho de Custo (CPI): 0.76
+Valor Agregado (EV): R$ 4124510.42
+Estimativa para conclusão: R$ 611052.72
+Estimativa no término (EAC): R$ 6052951.25
+Variação no término (VAC): R$ -1465313.25
+
+Detalhamento por categoria:
+- Pessoal: R$ 2824854.69 (51.9%)
+- Equipamentos: R$ 762417.91 (14.0%)
+- Software: R$ 565609.67 (10.4%)
+- Serviços: R$ 869029.22 (16.0%)
+- Outros: R$ 419987.03 (7.7%)

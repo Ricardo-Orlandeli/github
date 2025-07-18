@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A certeza de inovar com confiança (PROJ-0183)
+Data: 14/07/2025
+Gerente: Kevin Macedo
+
+Orçamento inicial: R$ 4916183.00
+Custo real atual: R$ 5074455.52
+Desvio orçamentário: 3.22%
+Índice de Desempenho de Custo (CPI): 0.97
+Valor Agregado (EV): R$ 4911266.82
+Estimativa para conclusão: R$ 5079.54
+Estimativa no término (EAC): R$ 5079535.05
+Variação no término (VAC): R$ -163352.05
+
+Detalhamento por categoria:
+- Pessoal: R$ 2557951.78 (50.4%)
+- Equipamentos: R$ 656335.39 (12.9%)
+- Software: R$ 681756.02 (13.4%)
+- Serviços: R$ 687757.47 (13.6%)
+- Outros: R$ 490654.86 (9.7%)

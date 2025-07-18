@@ -1,0 +1,26 @@
+RELATÓRIO DE STATUS DE ESCOPO
+Projeto: A vantagem de atingir seus objetivos de maneira eficaz (PROJ-0938)
+Data: 14/07/2025
+Gerente: Joaquim Montenegro
+
+Escopo original: Sistema para a vantagem de atingir seus objetivos de maneira eficaz
+Houve mudança de escopo: Sim
+Descrição das mudanças: Expansão do escopo para incluir funcionalidades adicionais
+Impacto no cronograma: 32 dias
+Impacto no custo: R$ 468309.60
+
+Solicitações de mudança:
+- SCM-01: Alteração nos requisitos de desempenho
+- SCM-02: Mudança no banco de dados
+- SCM-03: Mudança no banco de dados
+- SCM-04: Adição de funcionalidade de autenticação biométrica
+
+Requisitos atuais:
+- REQ-01: O sistema deve permitir integração com APIs externas
+- REQ-02: O sistema deve ter controle de acesso baseado em perfis
+- REQ-03: O sistema deve permitir exportação de dados em formato CSV
+- REQ-04: O sistema deve passar por testes de segurança
+- REQ-05: O sistema deve ter interface responsiva
+- REQ-06: O sistema deve processar transações em menos de 2 seconds
+- REQ-07: O sistema deve passar por testes de segurança
+- REQ-08: O sistema deve permitir autenticação de usuários

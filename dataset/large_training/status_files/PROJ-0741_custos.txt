@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O prazer de inovar com toda a tranquilidade (PROJ-0741)
+Data: 14/07/2025
+Gerente: João Guilherme Vieira
+
+Orçamento inicial: R$ 2248975.00
+Custo real atual: R$ 1137696.59
+Desvio orçamentário: 3.20%
+Índice de Desempenho de Custo (CPI): 1.05
+Valor Agregado (EV): R$ 1197856.46
+Estimativa para conclusão: R$ 998328.28
+Estimativa no término (EAC): R$ 2136024.86
+Variação no término (VAC): R$ 112950.14
+
+Detalhamento por categoria:
+- Pessoal: R$ 600241.63 (52.8%)
+- Equipamentos: R$ 184955.77 (16.3%)
+- Software: R$ 147268.67 (12.9%)
+- Serviços: R$ 138493.29 (12.2%)
+- Outros: R$ 66737.23 (5.9%)

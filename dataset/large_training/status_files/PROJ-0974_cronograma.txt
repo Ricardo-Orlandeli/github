@@ -1,0 +1,23 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A segurança de concretizar seus projetos de maneira eficaz (PROJ-0974)
+Data: 14/07/2025
+Gerente: Daniela Alves
+
+Status atual: Em andamento
+Percentual de conclusão: 86.4%
+Data de início: 29/11/2024
+Data de término planejada: 16/06/2025
+Data de término real/prevista: 19/06/2025
+Atraso atual: 28 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.01
+Valor Planejado (PV): R$ 827986.00
+Valor Agregado (EV): R$ 715152.48
+
+Tarefas críticas:
+- Testes de aceitação do usuário
+- Migração de dados legados
+- Implementação do módulo de exportação de dados
+- Desenvolvimento do módulo de autenticação
+
+Tarefas atrasadas:

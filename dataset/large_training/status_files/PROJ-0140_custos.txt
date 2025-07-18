@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O poder de realizar seus sonhos com confiança (PROJ-0140)
+Data: 14/07/2025
+Gerente: Dr. Gael Henrique Moraes
+
+Orçamento inicial: R$ 4121943.00
+Custo real atual: R$ 4260977.58
+Desvio orçamentário: 3.37%
+Índice de Desempenho de Custo (CPI): 0.97
+Valor Agregado (EV): R$ 4117821.06
+Estimativa para conclusão: R$ 4265.24
+Estimativa no término (EAC): R$ 4265242.82
+Variação no término (VAC): R$ -143299.82
+
+Detalhamento por categoria:
+- Pessoal: R$ 2277037.62 (53.4%)
+- Equipamentos: R$ 526452.39 (12.4%)
+- Software: R$ 503998.58 (11.8%)
+- Serviços: R$ 678556.02 (15.9%)
+- Outros: R$ 274932.98 (6.5%)

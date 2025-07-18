@@ -1,0 +1,23 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: O conforto de avançar com confiança (PROJ-0307)
+Data: 14/07/2025
+Gerente: João Vitor da Mota
+
+Status atual: Em andamento
+Percentual de conclusão: 99.9%
+Data de início: 19/07/2024
+Data de término planejada: 02/04/2025
+Data de término real/prevista: 15/04/2025
+Atraso atual: 103 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.10
+Valor Planejado (PV): R$ 3473584.00
+Valor Agregado (EV): R$ 3470110.42
+
+Tarefas críticas:
+- Implementação do módulo de exportação de dados
+- Configuração do ambiente de produção
+- Desenvolvimento do módulo de autenticação
+- Configuração da infraestrutura
+
+Tarefas atrasadas:

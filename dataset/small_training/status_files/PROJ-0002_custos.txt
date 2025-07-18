@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A liberdade de ganhar mais rapidamente (PROJ-0002)
+Data: 14/07/2025
+Gerente: Hellena Rodrigues
+
+Orçamento inicial: R$ 1737377.00
+Custo real atual: R$ 1315213.80
+Desvio orçamentário: 17.59%
+Índice de Desempenho de Custo (CPI): 0.67
+Valor Agregado (EV): R$ 878229.19
+Estimativa para conclusão: R$ 1286638.00
+Estimativa no término (EAC): R$ 2601851.80
+Variação no término (VAC): R$ -864474.80
+
+Detalhamento por categoria:
+- Pessoal: R$ 734584.30 (55.9%)
+- Equipamentos: R$ 199331.01 (15.2%)
+- Software: R$ 141043.33 (10.7%)
+- Serviços: R$ 155379.24 (11.8%)
+- Outros: R$ 84875.93 (6.5%)

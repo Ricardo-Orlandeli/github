@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A liberdade de atingir seus objetivos mais facilmente (PROJ-0713)
+Data: 14/07/2025
+Gerente: Sara Rezende
+
+Orçamento inicial: R$ 2292012.00
+Custo real atual: R$ 1147901.23
+Desvio orçamentário: -4.45%
+Índice de Desempenho de Custo (CPI): 0.94
+Valor Agregado (EV): R$ 1081725.54
+Estimativa para conclusão: R$ 1284326.99
+Estimativa no término (EAC): R$ 2432228.22
+Variação no término (VAC): R$ -140216.22
+
+Detalhamento por categoria:
+- Pessoal: R$ 597296.83 (52.0%)
+- Equipamentos: R$ 239152.19 (20.8%)
+- Software: R$ 77574.69 (6.8%)
+- Serviços: R$ 165093.70 (14.4%)
+- Outros: R$ 68783.82 (6.0%)

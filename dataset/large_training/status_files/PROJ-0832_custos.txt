@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O conforto de inovar simplesmente (PROJ-0832)
+Data: 14/07/2025
+Gerente: Ana Carolina Ramos
+
+Orçamento inicial: R$ 4286499.00
+Custo real atual: R$ 5077266.25
+Desvio orçamentário: 18.45%
+Índice de Desempenho de Custo (CPI): 0.75
+Valor Agregado (EV): R$ 3787750.15
+Estimativa para conclusão: R$ 668544.81
+Estimativa no término (EAC): R$ 5745811.07
+Variação no término (VAC): R$ -1459312.07
+
+Detalhamento por categoria:
+- Pessoal: R$ 2512064.46 (49.5%)
+- Equipamentos: R$ 926852.19 (18.3%)
+- Software: R$ 355680.48 (7.0%)
+- Serviços: R$ 973781.00 (19.2%)
+- Outros: R$ 308888.12 (6.1%)

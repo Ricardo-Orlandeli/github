@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A certeza de avançar direto da fonte (PROJ-0276)
+Data: 14/07/2025
+Gerente: Matheus Carvalho
+
+Orçamento inicial: R$ 3680298.00
+Custo real atual: R$ 3116009.79
+Desvio orçamentário: -15.33%
+Índice de Desempenho de Custo (CPI): 0.99
+Valor Agregado (EV): R$ 3071331.50
+Estimativa para conclusão: R$ 617825.06
+Estimativa no término (EAC): R$ 3733834.85
+Variação no término (VAC): R$ -53536.85
+
+Detalhamento por categoria:
+- Pessoal: R$ 1667809.88 (53.5%)
+- Equipamentos: R$ 362409.76 (11.6%)
+- Software: R$ 359038.65 (11.5%)
+- Serviços: R$ 483100.25 (15.5%)
+- Outros: R$ 243651.25 (7.8%)

@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A arte de mudar sem preocupação (PROJ-0766)
+Data: 14/07/2025
+Gerente: Sra. Maria Vitória Lima
+
+Orçamento inicial: R$ 2779738.00
+Custo real atual: R$ 3020331.37
+Desvio orçamentário: 8.66%
+Índice de Desempenho de Custo (CPI): 0.92
+Valor Agregado (EV): R$ 2779738.00
+Estimativa para conclusão: R$ 0.00
+Estimativa no término (EAC): R$ 3020331.37
+Variação no término (VAC): R$ -240593.37
+
+Detalhamento por categoria:
+- Pessoal: R$ 1488678.67 (49.3%)
+- Equipamentos: R$ 582209.04 (19.3%)
+- Software: R$ 181298.38 (6.0%)
+- Serviços: R$ 497310.82 (16.5%)
+- Outros: R$ 270834.46 (9.0%)

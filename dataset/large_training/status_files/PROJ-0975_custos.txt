@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O prazer de mudar simplesmente (PROJ-0975)
+Data: 14/07/2025
+Gerente: Allana Sales
+
+Orçamento inicial: R$ 3160274.00
+Custo real atual: R$ 4034755.04
+Desvio orçamentário: 27.67%
+Índice de Desempenho de Custo (CPI): 0.69
+Valor Agregado (EV): R$ 2786473.90
+Estimativa para conclusão: R$ 541254.61
+Estimativa no término (EAC): R$ 4576009.66
+Variação no término (VAC): R$ -1415735.66
+
+Detalhamento por categoria:
+- Pessoal: R$ 2208024.60 (54.7%)
+- Equipamentos: R$ 628844.27 (15.6%)
+- Software: R$ 449881.55 (11.2%)
+- Serviços: R$ 411660.59 (10.2%)
+- Outros: R$ 336344.04 (8.3%)

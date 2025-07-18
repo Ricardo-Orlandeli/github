@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O direito de mudar antes de tudo (PROJ-0043)
+Data: 14/07/2025
+Gerente: Henry Gabriel da Rosa
+
+Orçamento inicial: R$ 2628132.00
+Custo real atual: R$ 2579488.86
+Desvio orçamentário: -1.85%
+Índice de Desempenho de Custo (CPI): 1.02
+Valor Agregado (EV): R$ 2625503.87
+Estimativa para conclusão: R$ 2582.07
+Estimativa no término (EAC): R$ 2582070.93
+Variação no término (VAC): R$ 46061.07
+
+Detalhamento por categoria:
+- Pessoal: R$ 1336319.17 (51.8%)
+- Equipamentos: R$ 468761.37 (18.2%)
+- Software: R$ 156356.37 (6.1%)
+- Serviços: R$ 386072.70 (15.0%)
+- Outros: R$ 231979.25 (9.0%)

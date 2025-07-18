@@ -1,0 +1,24 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A vantagem de inovar em estado puro (PROJ-0515)
+Data: 14/07/2025
+Gerente: Lívia Ribeiro
+
+Status atual: Cancelado
+Percentual de conclusão: 33.1%
+Data de início: 04/01/2025
+Data de término planejada: 25/02/2025
+Data de término real/prevista: 21/01/2025
+Atraso atual: 139 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 0.33
+Valor Planejado (PV): R$ 4346900.00
+Valor Agregado (EV): R$ 1436849.93
+
+Tarefas críticas:
+- Testes de aceitação do usuário
+- Implementação do módulo de exportação de dados
+- Implementação do módulo de relatórios
+- Implementação do sistema de backup
+- Configuração da infraestrutura
+
+Tarefas atrasadas:

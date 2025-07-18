@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O conforto de evoluir naturalmente (PROJ-0353)
+Data: 14/07/2025
+Gerente: Maria Julia Cirino
+
+Orçamento inicial: R$ 4817270.00
+Custo real atual: R$ 5417565.73
+Desvio orçamentário: 12.46%
+Índice de Desempenho de Custo (CPI): 0.80
+Valor Agregado (EV): R$ 4311925.44
+Estimativa para conclusão: R$ 634922.24
+Estimativa no término (EAC): R$ 6052487.98
+Variação no término (VAC): R$ -1235217.98
+
+Detalhamento por categoria:
+- Pessoal: R$ 2864764.38 (52.9%)
+- Equipamentos: R$ 747856.53 (13.8%)
+- Software: R$ 814162.75 (15.0%)
+- Serviços: R$ 658067.20 (12.1%)
+- Outros: R$ 332714.88 (6.1%)

@@ -1,0 +1,27 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A possibilidade de evoluir sem preocupação (PROJ-0005)
+Data: 14/07/2025
+Gerente: Gael Câmara
+
+Status atual: Concluído
+Percentual de conclusão: 100.0%
+Data de início: 28/10/2023
+Data de término planejada: 14/08/2024
+Data de término real/prevista: 01/08/2024
+Atraso atual: 334 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.01
+Valor Planejado (PV): R$ 1720926.00
+Valor Agregado (EV): R$ 1720926.00
+
+Tarefas críticas:
+- Implementação do módulo de notificações
+- Testes de aceitação do usuário
+- Implementação do módulo de notificações
+- Implementação do sistema de backup
+- Migração de dados legados
+- Configuração do ambiente de produção
+- Desenvolvimento do módulo de autenticação
+- Desenvolvimento da interface do usuário
+
+Tarefas atrasadas:

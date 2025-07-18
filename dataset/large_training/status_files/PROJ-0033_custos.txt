@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O direito de mudar com toda a tranquilidade (PROJ-0033)
+Data: 14/07/2025
+Gerente: Rebeca Rocha
+
+Orçamento inicial: R$ 2187175.00
+Custo real atual: R$ 2008131.96
+Desvio orçamentário: -8.19%
+Índice de Desempenho de Custo (CPI): 0.95
+Valor Agregado (EV): R$ 1910515.08
+Estimativa para conclusão: R$ 290795.73
+Estimativa no término (EAC): R$ 2298927.69
+Variação no término (VAC): R$ -111752.69
+
+Detalhamento por categoria:
+- Pessoal: R$ 1084199.79 (54.0%)
+- Equipamentos: R$ 374880.76 (18.7%)
+- Software: R$ 151468.56 (7.5%)
+- Serviços: R$ 257349.60 (12.8%)
+- Outros: R$ 140233.26 (7.0%)

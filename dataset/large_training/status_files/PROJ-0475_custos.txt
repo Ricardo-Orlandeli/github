@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A segurança de concretizar seus projetos com confiança (PROJ-0475)
+Data: 14/07/2025
+Gerente: Liam Cunha
+
+Orçamento inicial: R$ 1974672.00
+Custo real atual: R$ 1796530.36
+Desvio orçamentário: -9.02%
+Índice de Desempenho de Custo (CPI): 1.10
+Valor Agregado (EV): R$ 1974672.00
+Estimativa para conclusão: R$ 0.00
+Estimativa no término (EAC): R$ 1796530.36
+Variação no término (VAC): R$ 178141.64
+
+Detalhamento por categoria:
+- Pessoal: R$ 1112034.18 (61.9%)
+- Equipamentos: R$ 263573.06 (14.7%)
+- Software: R$ 104060.44 (5.8%)
+- Serviços: R$ 218659.78 (12.2%)
+- Outros: R$ 98202.90 (5.5%)

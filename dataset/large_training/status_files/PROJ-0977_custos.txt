@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A liberdade de inovar mais rapidamente (PROJ-0977)
+Data: 14/07/2025
+Gerente: Miguel Pereira
+
+Orçamento inicial: R$ 2674767.00
+Custo real atual: R$ 2733109.34
+Desvio orçamentário: 2.18%
+Índice de Desempenho de Custo (CPI): 0.98
+Valor Agregado (EV): R$ 2672092.23
+Estimativa para conclusão: R$ 2735.85
+Estimativa no término (EAC): R$ 2735845.19
+Variação no término (VAC): R$ -61078.19
+
+Detalhamento por categoria:
+- Pessoal: R$ 1436363.18 (52.6%)
+- Equipamentos: R$ 476786.74 (17.4%)
+- Software: R$ 160645.20 (5.9%)
+- Serviços: R$ 478781.67 (17.5%)
+- Outros: R$ 180532.55 (6.6%)

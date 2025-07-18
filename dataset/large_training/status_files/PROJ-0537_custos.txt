@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O poder de concretizar seus projetos simplesmente (PROJ-0537)
+Data: 14/07/2025
+Gerente: Eduarda Lopes
+
+Orçamento inicial: R$ 329197.00
+Custo real atual: R$ 309768.78
+Desvio orçamentário: -5.90%
+Índice de Desempenho de Custo (CPI): 1.01
+Valor Agregado (EV): R$ 313388.63
+Estimativa para conclusão: R$ 15625.77
+Estimativa no término (EAC): R$ 325394.55
+Variação no término (VAC): R$ 3802.45
+
+Detalhamento por categoria:
+- Pessoal: R$ 162716.24 (52.5%)
+- Equipamentos: R$ 52760.03 (17.0%)
+- Software: R$ 31813.86 (10.3%)
+- Serviços: R$ 43157.66 (13.9%)
+- Outros: R$ 19320.99 (6.2%)

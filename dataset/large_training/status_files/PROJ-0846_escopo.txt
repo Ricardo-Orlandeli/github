@@ -1,0 +1,26 @@
+RELATÓRIO DE STATUS DE ESCOPO
+Projeto: A simplicidade de inovar mais rapidamente (PROJ-0846)
+Data: 14/07/2025
+Gerente: Gael Henrique Pacheco
+
+Escopo original: Sistema para a simplicidade de inovar mais rapidamente
+Houve mudança de escopo: Sim
+Descrição das mudanças: Redução do escopo devido a restrições orçamentárias
+Impacto no cronograma: 52 dias
+Impacto no custo: R$ 401291.45
+
+Solicitações de mudança:
+- SCM-01: Integração com sistema legado
+- SCM-02: Alteração nos requisitos de desempenho
+- SCM-03: Implementação de módulo de exportação de dados
+- SCM-04: Integração com sistema legado
+
+Requisitos atuais:
+- REQ-01: O sistema deve passar por testes de segurança
+- REQ-02: O sistema deve implementar criptografia de dados sensíveis
+- REQ-03: O sistema deve permitir exportação de dados em formato CSV
+- REQ-04: O sistema deve registrar logs de auditoria
+- REQ-05: O sistema deve registrar logs de auditoria
+- REQ-06: O sistema deve ser compatível com navegadores modernos
+- REQ-07: O sistema deve ter alta disponibilidade (99.9%)
+- REQ-08: O sistema deve ter interface responsiva

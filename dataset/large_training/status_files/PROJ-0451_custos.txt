@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A possibilidade de ganhar naturalmente (PROJ-0451)
+Data: 14/07/2025
+Gerente: Stephany Vargas
+
+Orçamento inicial: R$ 116251.00
+Custo real atual: R$ 125942.46
+Desvio orçamentário: 8.34%
+Índice de Desempenho de Custo (CPI): 0.92
+Valor Agregado (EV): R$ 116134.75
+Estimativa para conclusão: R$ 126.07
+Estimativa no término (EAC): R$ 126068.53
+Variação no término (VAC): R$ -9817.53
+
+Detalhamento por categoria:
+- Pessoal: R$ 60884.15 (48.3%)
+- Equipamentos: R$ 18718.90 (14.9%)
+- Software: R$ 18222.79 (14.5%)
+- Serviços: R$ 20755.67 (16.5%)
+- Outros: R$ 7360.96 (5.8%)

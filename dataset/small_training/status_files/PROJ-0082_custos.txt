@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A vantagem de mudar de maneira eficaz (PROJ-0082)
+Data: 14/07/2025
+Gerente: Isabela Brito
+
+Orçamento inicial: R$ 194389.00
+Custo real atual: R$ 199654.31
+Desvio orçamentário: 41.35%
+Índice de Desempenho de Custo (CPI): 0.85
+Valor Agregado (EV): R$ 169115.02
+Estimativa para conclusão: R$ 29838.03
+Estimativa no término (EAC): R$ 229492.34
+Variação no término (VAC): R$ -35103.34
+
+Detalhamento por categoria:
+- Pessoal: R$ 109825.37 (55.0%)
+- Equipamentos: R$ 29377.70 (14.7%)
+- Software: R$ 21804.22 (10.9%)
+- Serviços: R$ 20732.34 (10.4%)
+- Outros: R$ 17914.69 (9.0%)

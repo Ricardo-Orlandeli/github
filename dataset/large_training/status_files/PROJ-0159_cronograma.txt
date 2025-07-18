@@ -1,0 +1,23 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A certeza de mudar em estado puro (PROJ-0159)
+Data: 14/07/2025
+Gerente: Joaquim Gonçalves
+
+Status atual: Concluído
+Percentual de conclusão: 100.0%
+Data de início: 12/04/2025
+Data de término planejada: 15/11/2025
+Data de término real/prevista: 18/10/2025
+Atraso atual: 0 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.08
+Valor Planejado (PV): R$ 2078307.43
+Valor Agregado (EV): R$ 4849384.00
+
+Tarefas críticas:
+- Configuração da infraestrutura
+- Implementação da API REST
+- Testes de aceitação do usuário
+- Migração de dados legados
+
+Tarefas atrasadas:

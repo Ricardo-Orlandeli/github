@@ -1,0 +1,27 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: O prazer de avançar com confiança (PROJ-0840)
+Data: 14/07/2025
+Gerente: Giovanna Almeida
+
+Status atual: Em andamento
+Percentual de conclusão: 80.9%
+Data de início: 18/02/2024
+Data de término planejada: 26/12/2024
+Data de término real/prevista: 17/12/2024
+Atraso atual: 200 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.15
+Valor Planejado (PV): R$ 2504734.00
+Valor Agregado (EV): R$ 2027039.01
+
+Tarefas críticas:
+- Desenvolvimento da interface do usuário
+- Configuração do ambiente de produção
+- Desenvolvimento do módulo de autenticação
+- Testes de aceitação do usuário
+- Desenvolvimento do módulo de autenticação
+- Testes de aceitação do usuário
+- Integração com sistema de pagamentos
+- Desenvolvimento da interface do usuário
+
+Tarefas atrasadas:

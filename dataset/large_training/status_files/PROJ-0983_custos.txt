@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O prazer de mudar com confiança (PROJ-0983)
+Data: 14/07/2025
+Gerente: Antony Correia
+
+Orçamento inicial: R$ 498126.00
+Custo real atual: R$ 426996.63
+Desvio orçamentário: -14.28%
+Índice de Desempenho de Custo (CPI): 0.98
+Valor Agregado (EV): R$ 418843.36
+Estimativa para conclusão: R$ 80825.96
+Estimativa no término (EAC): R$ 507822.60
+Variação no término (VAC): R$ -9696.60
+
+Detalhamento por categoria:
+- Pessoal: R$ 212190.23 (49.7%)
+- Equipamentos: R$ 55842.50 (13.1%)
+- Software: R$ 56765.04 (13.3%)
+- Serviços: R$ 65945.44 (15.4%)
+- Outros: R$ 36253.42 (8.5%)

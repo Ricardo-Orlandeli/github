@@ -1,0 +1,24 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A simplicidade de atingir seus objetivos com toda a tranquilidade (PROJ-0100)
+Data: 14/07/2025
+Gerente: Caleb Oliveira
+
+Status atual: Em andamento
+Percentual de conclusão: 99.6%
+Data de início: 29/01/2024
+Data de término planejada: 12/01/2025
+Data de término real/prevista: 04/02/2025
+Atraso atual: 183 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.13
+Valor Planejado (PV): R$ 4489549.00
+Valor Agregado (EV): R$ 4473279.73
+
+Tarefas críticas:
+- Implementação do módulo de notificações
+- Implementação do módulo de exportação de dados
+- Configuração do ambiente de produção
+- Implementação do módulo de relatórios
+- Desenvolvimento da interface do usuário
+
+Tarefas atrasadas:

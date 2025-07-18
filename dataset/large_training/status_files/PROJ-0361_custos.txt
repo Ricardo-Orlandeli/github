@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O conforto de concretizar seus projetos antes de tudo (PROJ-0361)
+Data: 14/07/2025
+Gerente: Dra. Aurora Ramos
+
+Orçamento inicial: R$ 457574.00
+Custo real atual: R$ 357247.70
+Desvio orçamentário: -21.93%
+Índice de Desempenho de Custo (CPI): 0.70
+Valor Agregado (EV): R$ 251180.35
+Estimativa para conclusão: R$ 293548.67
+Estimativa no término (EAC): R$ 650796.37
+Variação no término (VAC): R$ -193222.37
+
+Detalhamento por categoria:
+- Pessoal: R$ 213643.56 (59.8%)
+- Equipamentos: R$ 41479.02 (11.6%)
+- Software: R$ 25473.24 (7.1%)
+- Serviços: R$ 42092.94 (11.8%)
+- Outros: R$ 34558.94 (9.7%)

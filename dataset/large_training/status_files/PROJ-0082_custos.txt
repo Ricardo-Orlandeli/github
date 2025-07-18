@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A certeza de inovar sem preocupação (PROJ-0082)
+Data: 14/07/2025
+Gerente: Stephany Silva
+
+Orçamento inicial: R$ 769691.00
+Custo real atual: R$ 617821.22
+Desvio orçamentário: -19.73%
+Índice de Desempenho de Custo (CPI): 1.24
+Valor Agregado (EV): R$ 768921.31
+Estimativa para conclusão: R$ 618.44
+Estimativa no término (EAC): R$ 618439.66
+Variação no término (VAC): R$ 151251.34
+
+Detalhamento por categoria:
+- Pessoal: R$ 326241.26 (52.8%)
+- Equipamentos: R$ 97889.59 (15.8%)
+- Software: R$ 47893.48 (7.8%)
+- Serviços: R$ 87426.46 (14.2%)
+- Outros: R$ 58370.42 (9.4%)

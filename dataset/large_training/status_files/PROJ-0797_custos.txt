@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A possibilidade de realizar seus sonhos de maneira eficaz (PROJ-0797)
+Data: 14/07/2025
+Gerente: Sra. Maria Flor Peixoto
+
+Orçamento inicial: R$ 4917719.00
+Custo real atual: R$ 5420532.60
+Desvio orçamentário: 10.22%
+Índice de Desempenho de Custo (CPI): 0.91
+Valor Agregado (EV): R$ 4917719.00
+Estimativa para conclusão: R$ 0.00
+Estimativa no término (EAC): R$ 5420532.60
+Variação no término (VAC): R$ -502813.60
+
+Detalhamento por categoria:
+- Pessoal: R$ 2911109.52 (53.7%)
+- Equipamentos: R$ 779301.35 (14.4%)
+- Software: R$ 564287.98 (10.4%)
+- Serviços: R$ 684060.99 (12.6%)
+- Outros: R$ 481772.77 (8.9%)

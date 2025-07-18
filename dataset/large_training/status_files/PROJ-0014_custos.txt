@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O prazer de evoluir direto da fonte (PROJ-0014)
+Data: 14/07/2025
+Gerente: Carolina da Rocha
+
+Orçamento inicial: R$ 3220019.00
+Custo real atual: R$ 2145945.47
+Desvio orçamentário: -33.36%
+Índice de Desempenho de Custo (CPI): 0.96
+Valor Agregado (EV): R$ 2054825.71
+Estimativa para conclusão: R$ 1216862.94
+Estimativa no término (EAC): R$ 3362808.42
+Variação no término (VAC): R$ -142789.42
+
+Detalhamento por categoria:
+- Pessoal: R$ 1255438.40 (58.5%)
+- Equipamentos: R$ 293840.45 (13.7%)
+- Software: R$ 149782.15 (7.0%)
+- Serviços: R$ 317494.14 (14.8%)
+- Outros: R$ 129390.33 (6.0%)

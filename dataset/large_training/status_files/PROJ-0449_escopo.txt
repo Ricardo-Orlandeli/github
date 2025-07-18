@@ -1,0 +1,19 @@
+RELATÓRIO DE STATUS DE ESCOPO
+Projeto: A vantagem de atingir seus objetivos antes de tudo (PROJ-0449)
+Data: 14/07/2025
+Gerente: Mariana Mendonça
+
+Escopo original: Sistema para a vantagem de atingir seus objetivos antes de tudo
+Houve mudança de escopo: Não
+Descrição das mudanças: N/A
+Impacto no cronograma: 0 dias
+Impacto no custo: R$ 0.00
+
+Solicitações de mudança:
+
+Requisitos atuais:
+- REQ-01: O sistema deve ter documentação completa
+- REQ-02: O sistema deve ter documentação completa
+- REQ-03: O sistema deve permitir integração com APIs externas
+- REQ-04: O sistema deve permitir exportação de dados em formato CSV
+- REQ-05: O sistema deve ter documentação completa

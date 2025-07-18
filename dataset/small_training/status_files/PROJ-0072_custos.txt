@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O prazer de concretizar seus projetos mais facilmente (PROJ-0072)
+Data: 14/07/2025
+Gerente: Jade Vargas
+
+Orçamento inicial: R$ 3520745.00
+Custo real atual: R$ 351212.57
+Desvio orçamentário: -45.04%
+Índice de Desempenho de Custo (CPI): 0.96
+Valor Agregado (EV): R$ 338304.12
+Estimativa para conclusão: R$ 3303871.18
+Estimativa no término (EAC): R$ 3655083.75
+Variação no término (VAC): R$ -134338.75
+
+Detalhamento por categoria:
+- Pessoal: R$ 181923.33 (51.8%)
+- Equipamentos: R$ 46549.97 (13.3%)
+- Software: R$ 27538.44 (7.8%)
+- Serviços: R$ 64592.72 (18.4%)
+- Outros: R$ 30608.12 (8.7%)

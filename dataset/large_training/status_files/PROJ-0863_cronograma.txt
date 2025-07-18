@@ -1,0 +1,27 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: O prazer de evoluir mais rapidamente (PROJ-0863)
+Data: 14/07/2025
+Gerente: João Guilherme Moraes
+
+Status atual: Concluído
+Percentual de conclusão: 100.0%
+Data de início: 15/07/2023
+Data de término planejada: 24/06/2024
+Data de término real/prevista: 02/06/2024
+Atraso atual: 385 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.03
+Valor Planejado (PV): R$ 4156827.00
+Valor Agregado (EV): R$ 4156827.00
+
+Tarefas críticas:
+- Desenvolvimento do painel administrativo
+- Desenvolvimento da interface do usuário
+- Implementação do módulo de análise de dados
+- Desenvolvimento da interface do usuário
+- Desenvolvimento da interface do usuário
+- Desenvolvimento da interface do usuário
+- Desenvolvimento do painel administrativo
+- Integração com sistema de pagamentos
+
+Tarefas atrasadas:

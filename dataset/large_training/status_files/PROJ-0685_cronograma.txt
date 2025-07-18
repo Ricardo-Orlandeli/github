@@ -1,0 +1,24 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: O poder de evoluir com força total (PROJ-0685)
+Data: 14/07/2025
+Gerente: Maria Isis Freitas
+
+Status atual: Concluído
+Percentual de conclusão: 100.0%
+Data de início: 14/06/2024
+Data de término planejada: 26/04/2025
+Data de término real/prevista: 11/05/2025
+Atraso atual: 79 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 0.99
+Valor Planejado (PV): R$ 1217164.00
+Valor Agregado (EV): R$ 1217164.00
+
+Tarefas críticas:
+- Implementação do módulo de análise de dados
+- Implementação do módulo de notificações
+- Migração de dados legados
+- Implementação do módulo de exportação de dados
+- Desenvolvimento do painel administrativo
+
+Tarefas atrasadas:

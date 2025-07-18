@@ -1,0 +1,27 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A arte de evoluir em estado puro (PROJ-0747)
+Data: 14/07/2025
+Gerente: Luara Souza
+
+Status atual: Em andamento
+Percentual de conclusão: 99.9%
+Data de início: 22/08/2023
+Data de término planejada: 29/11/2023
+Data de término real/prevista: 05/12/2023
+Atraso atual: 593 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 0.91
+Valor Planejado (PV): R$ 3891337.00
+Valor Agregado (EV): R$ 3887445.66
+
+Tarefas críticas:
+- Implementação do módulo de exportação de dados
+- Testes de aceitação do usuário
+- Desenvolvimento da interface do usuário
+- Implementação do módulo de exportação de dados
+- Configuração da infraestrutura
+- Desenvolvimento da interface do usuário
+- Desenvolvimento do módulo de autenticação
+- Configuração do ambiente de produção
+
+Tarefas atrasadas:

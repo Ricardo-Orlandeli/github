@@ -1,0 +1,25 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A segurança de realizar seus sonhos naturalmente (PROJ-0410)
+Data: 14/07/2025
+Gerente: Giovanna Rios
+
+Status atual: Em andamento
+Percentual de conclusão: 99.9%
+Data de início: 21/09/2024
+Data de término planejada: 08/06/2025
+Data de término real/prevista: 25/05/2025
+Atraso atual: 36 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 0.95
+Valor Planejado (PV): R$ 2391791.00
+Valor Agregado (EV): R$ 2389399.21
+
+Tarefas críticas:
+- Implementação da API REST
+- Desenvolvimento da interface do usuário
+- Integração com sistema de pagamentos
+- Implementação do módulo de relatórios
+- Integração com sistema de pagamentos
+- Implementação do módulo de análise de dados
+
+Tarefas atrasadas:

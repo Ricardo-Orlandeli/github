@@ -1,0 +1,27 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A possibilidade de evoluir com confiança (PROJ-0858)
+Data: 14/07/2025
+Gerente: Letícia Rios
+
+Status atual: Atrasado
+Percentual de conclusão: 79.0%
+Data de início: 12/01/2024
+Data de término planejada: 11/04/2024
+Data de término real/prevista: 06/07/2024
+Atraso atual: 459 dias
+Motivo do atraso: Problemas de comunicação
+Índice de Desempenho de Cronograma (SPI): 0.79
+Valor Planejado (PV): R$ 3604278.00
+Valor Agregado (EV): R$ 2849097.92
+
+Tarefas críticas:
+- Implementação do módulo de análise de dados
+- Testes de segurança
+- Testes de segurança
+- Implementação do módulo de relatórios
+- Desenvolvimento do painel administrativo
+- Testes de segurança
+
+Tarefas atrasadas:
+- Testes de segurança
+- Testes de segurança

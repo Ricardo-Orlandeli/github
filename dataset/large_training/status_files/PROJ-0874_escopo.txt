@@ -1,0 +1,22 @@
+RELATÓRIO DE STATUS DE ESCOPO
+Projeto: A arte de ganhar direto da fonte (PROJ-0874)
+Data: 14/07/2025
+Gerente: Ravi Lucca da Cunha
+
+Escopo original: Sistema para a arte de ganhar direto da fonte
+Houve mudança de escopo: Sim
+Descrição das mudanças: Redução do escopo devido a restrições orçamentárias
+Impacto no cronograma: 41 dias
+Impacto no custo: R$ 688528.24
+
+Solicitações de mudança:
+- SCM-01: Alteração na interface do usuário
+- SCM-02: Adição de relatórios gerenciais
+
+Requisitos atuais:
+- REQ-01: O sistema deve ter documentação completa
+- REQ-02: O sistema deve permitir exportação de dados em formato CSV
+- REQ-03: O sistema deve ter alta disponibilidade (99.9%)
+- REQ-04: O sistema deve registrar logs de auditoria
+- REQ-05: O sistema deve passar por testes de segurança
+- REQ-06: O sistema deve permitir integração com APIs externas

@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A certeza de concretizar seus projetos com toda a tranquilidade (PROJ-0441)
+Data: 14/07/2025
+Gerente: Maria Luísa Moraes
+
+Orçamento inicial: R$ 4054285.00
+Custo real atual: R$ 3109958.54
+Desvio orçamentário: -23.29%
+Índice de Desempenho de Custo (CPI): 0.90
+Valor Agregado (EV): R$ 2806111.48
+Estimativa para conclusão: R$ 1383326.32
+Estimativa no término (EAC): R$ 4493284.86
+Variação no término (VAC): R$ -438999.86
+
+Detalhamento por categoria:
+- Pessoal: R$ 1702990.07 (54.8%)
+- Equipamentos: R$ 365858.02 (11.8%)
+- Software: R$ 345686.92 (11.1%)
+- Serviços: R$ 368932.11 (11.9%)
+- Outros: R$ 326491.41 (10.5%)

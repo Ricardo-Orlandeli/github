@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A liberdade de inovar mais facilmente (PROJ-0636)
+Data: 14/07/2025
+Gerente: Breno Novaes
+
+Orçamento inicial: R$ 2092722.00
+Custo real atual: R$ 1717079.03
+Desvio orçamentário: 3.47%
+Índice de Desempenho de Custo (CPI): 1.22
+Valor Agregado (EV): R$ 2092722.00
+Estimativa para conclusão: R$ 0.00
+Estimativa no término (EAC): R$ 1717079.03
+Variação no término (VAC): R$ 375642.97
+
+Detalhamento por categoria:
+- Pessoal: R$ 880049.30 (51.3%)
+- Equipamentos: R$ 316684.68 (18.4%)
+- Software: R$ 105172.31 (6.1%)
+- Serviços: R$ 296354.43 (17.3%)
+- Outros: R$ 118818.31 (6.9%)

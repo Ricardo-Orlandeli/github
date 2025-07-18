@@ -1,0 +1,27 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: O direito de concretizar seus projetos direto da fonte (PROJ-0075)
+Data: 14/07/2025
+Gerente: Agatha Borges
+
+Status atual: Em andamento
+Percentual de conclusão: 80.6%
+Data de início: 10/08/2023
+Data de término planejada: 15/05/2024
+Data de término real/prevista: 02/05/2024
+Atraso atual: 425 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.10
+Valor Planejado (PV): R$ 2522347.00
+Valor Agregado (EV): R$ 2033609.38
+
+Tarefas críticas:
+- Migração de dados legados
+- Implementação do módulo de relatórios
+- Implementação do módulo de notificações
+- Desenvolvimento do painel administrativo
+- Desenvolvimento do painel administrativo
+- Implementação do módulo de notificações
+- Migração de dados legados
+- Configuração da infraestrutura
+
+Tarefas atrasadas:

@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A segurança de conseguir em estado puro (PROJ-0681)
+Data: 14/07/2025
+Gerente: Sr. Bernardo Cavalcanti
+
+Orçamento inicial: R$ 3307135.00
+Custo real atual: R$ 3505640.11
+Desvio orçamentário: 6.00%
+Índice de Desempenho de Custo (CPI): 0.94
+Valor Agregado (EV): R$ 3307135.00
+Estimativa para conclusão: R$ 0.00
+Estimativa no término (EAC): R$ 3505640.11
+Variação no término (VAC): R$ -198505.11
+
+Detalhamento por categoria:
+- Pessoal: R$ 1881720.35 (53.7%)
+- Equipamentos: R$ 714865.08 (20.4%)
+- Software: R$ 202128.54 (5.8%)
+- Serviços: R$ 455053.04 (13.0%)
+- Outros: R$ 251873.10 (7.2%)

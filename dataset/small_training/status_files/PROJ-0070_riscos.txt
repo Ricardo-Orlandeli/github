@@ -1,0 +1,27 @@
+RELATÓRIO DE STATUS DE RISCOS
+Projeto: A segurança de conseguir em estado puro (PROJ-0070)
+Data: 14/07/2025
+Gerente: Maria Alice Montenegro
+
+Riscos identificados:
+- R01: Dependências externas não cumpridas
+  Probabilidade: 5/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Refinar estimativas com base em dados históricos
+
+- R02: Atraso na entrega de componentes críticos
+  Probabilidade: 2/5, Impacto: 5/5, Nível: Médio
+  Mitigação: Monitorar mudanças regulatórias
+
+- R03: Problemas de desempenho
+  Probabilidade: 1/5, Impacto: 3/5, Nível: Baixo
+  Mitigação: Monitorar mudanças regulatórias
+
+Riscos ocorridos:
+- R01 (ocorrido em 05/06/2025)
+  Impacto real: Insatisfação dos stakeholders
+  Ações tomadas: Revisão de prioridades
+
+- R02 (ocorrido em 14/06/2025)
+  Impacto real: Aumento de 10% nos custos
+  Ações tomadas: Comunicação intensificada com stakeholders
+

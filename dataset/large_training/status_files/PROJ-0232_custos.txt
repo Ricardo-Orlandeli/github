@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O poder de mudar simplesmente (PROJ-0232)
+Data: 14/07/2025
+Gerente: Léo Aragão
+
+Orçamento inicial: R$ 1022442.00
+Custo real atual: R$ 925304.43
+Desvio orçamentário: -9.50%
+Índice de Desempenho de Custo (CPI): 0.99
+Valor Agregado (EV): R$ 917503.67
+Estimativa para conclusão: R$ 105830.53
+Estimativa no término (EAC): R$ 1031134.96
+Variação no término (VAC): R$ -8692.96
+
+Detalhamento por categoria:
+- Pessoal: R$ 445303.54 (48.1%)
+- Equipamentos: R$ 162692.34 (17.6%)
+- Software: R$ 138791.58 (15.0%)
+- Serviços: R$ 111525.67 (12.1%)
+- Outros: R$ 66991.30 (7.2%)

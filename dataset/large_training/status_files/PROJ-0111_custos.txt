@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A vantagem de mudar mais rapidamente (PROJ-0111)
+Data: 14/07/2025
+Gerente: Nina Leão
+
+Orçamento inicial: R$ 2570436.00
+Custo real atual: R$ 1717733.00
+Desvio orçamentário: -33.17%
+Índice de Desempenho de Custo (CPI): 1.24
+Valor Agregado (EV): R$ 2129152.16
+Estimativa para conclusão: R$ 356013.93
+Estimativa no término (EAC): R$ 2073746.93
+Variação no término (VAC): R$ 496689.07
+
+Detalhamento por categoria:
+- Pessoal: R$ 988278.70 (57.5%)
+- Equipamentos: R$ 259853.81 (15.1%)
+- Software: R$ 131410.29 (7.7%)
+- Serviços: R$ 190802.93 (11.1%)
+- Outros: R$ 147387.27 (8.6%)

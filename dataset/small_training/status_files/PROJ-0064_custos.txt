@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A vantagem de realizar seus sonhos sem preocupação (PROJ-0064)
+Data: 14/07/2025
+Gerente: Sr. Isaac Ferreira
+
+Orçamento inicial: R$ 215644.00
+Custo real atual: R$ 229896.23
+Desvio orçamentário: 6.61%
+Índice de Desempenho de Custo (CPI): 0.90
+Valor Agregado (EV): R$ 206483.14
+Estimativa para conclusão: R$ 10199.60
+Estimativa no término (EAC): R$ 240095.83
+Variação no término (VAC): R$ -24451.83
+
+Detalhamento por categoria:
+- Pessoal: R$ 98353.51 (42.8%)
+- Equipamentos: R$ 43773.14 (19.0%)
+- Software: R$ 24755.54 (10.8%)
+- Serviços: R$ 43336.72 (18.9%)
+- Outros: R$ 19677.32 (8.6%)

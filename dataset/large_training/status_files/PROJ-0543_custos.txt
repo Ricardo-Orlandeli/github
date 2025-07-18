@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O conforto de evoluir de maneira eficaz (PROJ-0543)
+Data: 14/07/2025
+Gerente: Sr. Matheus Souza
+
+Orçamento inicial: R$ 4738869.00
+Custo real atual: R$ 4903971.75
+Desvio orçamentário: 3.48%
+Índice de Desempenho de Custo (CPI): 0.97
+Valor Agregado (EV): R$ 4738869.00
+Estimativa para conclusão: R$ 0.00
+Estimativa no término (EAC): R$ 4903971.75
+Variação no término (VAC): R$ -165102.75
+
+Detalhamento por categoria:
+- Pessoal: R$ 2452370.09 (50.0%)
+- Equipamentos: R$ 693709.80 (14.1%)
+- Software: R$ 306988.89 (6.3%)
+- Serviços: R$ 945564.51 (19.3%)
+- Outros: R$ 505338.46 (10.3%)

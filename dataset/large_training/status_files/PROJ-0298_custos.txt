@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A segurança de avançar simplesmente (PROJ-0298)
+Data: 14/07/2025
+Gerente: Alexandre Duarte
+
+Orçamento inicial: R$ 1807956.00
+Custo real atual: R$ 1984868.28
+Desvio orçamentário: 9.79%
+Índice de Desempenho de Custo (CPI): 0.86
+Valor Agregado (EV): R$ 1707705.77
+Estimativa para conclusão: R$ 116520.96
+Estimativa no término (EAC): R$ 2101389.24
+Variação no término (VAC): R$ -293433.24
+
+Detalhamento por categoria:
+- Pessoal: R$ 1000584.50 (50.4%)
+- Equipamentos: R$ 352181.51 (17.7%)
+- Software: R$ 214662.58 (10.8%)
+- Serviços: R$ 300451.80 (15.1%)
+- Outros: R$ 116987.88 (5.9%)

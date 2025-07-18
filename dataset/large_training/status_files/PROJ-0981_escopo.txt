@@ -1,0 +1,24 @@
+RELATÓRIO DE STATUS DE ESCOPO
+Projeto: O poder de realizar seus sonhos com força total (PROJ-0981)
+Data: 14/07/2025
+Gerente: Pietra Santos
+
+Escopo original: Sistema para o poder de realizar seus sonhos com força total
+Houve mudança de escopo: Não
+Descrição das mudanças: N/A
+Impacto no cronograma: 0 dias
+Impacto no custo: R$ 0.00
+
+Solicitações de mudança:
+
+Requisitos atuais:
+- REQ-01: O sistema deve ser escalável para suportar até 10.000 usuários simultâneos
+- REQ-02: O sistema deve permitir exportação de dados em formato CSV
+- REQ-03: O sistema deve implementar criptografia de dados sensíveis
+- REQ-04: O sistema deve processar transações em menos de 2 seconds
+- REQ-05: O sistema deve ter interface responsiva
+- REQ-06: O sistema deve ser compatível com navegadores modernos
+- REQ-07: O sistema deve implementar criptografia de dados sensíveis
+- REQ-08: O sistema deve passar por testes de segurança
+- REQ-09: O sistema deve ter controle de acesso baseado em perfis
+- REQ-10: O sistema deve processar transações em menos de 2 seconds

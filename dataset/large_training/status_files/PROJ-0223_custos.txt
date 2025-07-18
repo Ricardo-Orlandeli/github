@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O prazer de realizar seus sonhos com toda a tranquilidade (PROJ-0223)
+Data: 14/07/2025
+Gerente: João Vitor Souza
+
+Orçamento inicial: R$ 2208515.00
+Custo real atual: R$ 1326123.82
+Desvio orçamentário: 8.22%
+Índice de Desempenho de Custo (CPI): 0.75
+Valor Agregado (EV): R$ 992362.44
+Estimativa para conclusão: R$ 1625181.30
+Estimativa no término (EAC): R$ 2951305.12
+Variação no término (VAC): R$ -742790.12
+
+Detalhamento por categoria:
+- Pessoal: R$ 705554.55 (53.2%)
+- Equipamentos: R$ 202495.16 (15.3%)
+- Software: R$ 166421.12 (12.5%)
+- Serviços: R$ 137214.72 (10.3%)
+- Outros: R$ 114438.28 (8.6%)

@@ -1,0 +1,23 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A arte de atingir seus objetivos mais rapidamente (PROJ-0490)
+Data: 14/07/2025
+Gerente: José Ribeiro
+
+Status atual: Em andamento
+Percentual de conclusão: 78.9%
+Data de início: 21/01/2025
+Data de término planejada: 17/08/2025
+Data de término real/prevista: 16/09/2025
+Atraso atual: 0 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.06
+Valor Planejado (PV): R$ 2117256.26
+Valor Agregado (EV): R$ 1996980.51
+
+Tarefas críticas:
+- Configuração da infraestrutura
+- Implementação do sistema de backup
+- Testes de segurança
+- Implementação do módulo de relatórios
+
+Tarefas atrasadas:

@@ -1,0 +1,27 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A liberdade de ganhar mais rapidamente (PROJ-0002)
+Data: 14/07/2025
+Gerente: Hellena Rodrigues
+
+Status atual: Atrasado
+Percentual de conclusão: 50.5%
+Data de início: 29/12/2024
+Data de término planejada: 31/10/2025
+Data de término real/prevista: 20/02/2026
+Atraso atual: 0 dias
+Motivo do atraso: Recursos insuficientes
+Índice de Desempenho de Cronograma (SPI): 0.79
+Valor Planejado (PV): R$ 1118507.42
+Valor Agregado (EV): R$ 878229.19
+
+Tarefas críticas:
+- Testes de segurança
+- Implementação do módulo de exportação de dados
+- Implementação do módulo de análise de dados
+- Integração com sistema de pagamentos
+- Implementação do módulo de exportação de dados
+- Implementação do módulo de relatórios
+- Testes de segurança
+
+Tarefas atrasadas:
+- Testes de segurança

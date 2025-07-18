@@ -1,0 +1,26 @@
+RELATÓRIO DE STATUS DE ESCOPO
+Projeto: A liberdade de inovar sem preocupação (PROJ-0632)
+Data: 14/07/2025
+Gerente: Lucca Moraes
+
+Escopo original: Sistema para a liberdade de inovar sem preocupação
+Houve mudança de escopo: Sim
+Descrição das mudanças: Mudança na plataforma de implementação
+Impacto no cronograma: 34 dias
+Impacto no custo: R$ 175225.58
+
+Solicitações de mudança:
+- SCM-01: Adição de funcionalidade de autenticação biométrica
+- SCM-02: Integração com sistema legado
+- SCM-03: Alteração na interface do usuário
+
+Requisitos atuais:
+- REQ-01: O sistema deve ter interface responsiva
+- REQ-02: O sistema deve permitir exportação de dados em formato CSV
+- REQ-03: O sistema deve processar transações em menos de 2 seconds
+- REQ-04: O sistema deve processar transações em menos de 2 seconds
+- REQ-05: O sistema deve ter interface responsiva
+- REQ-06: O sistema deve registrar logs de auditoria
+- REQ-07: O sistema deve ter backup automático diário
+- REQ-08: O sistema deve implementar criptografia de dados sensíveis
+- REQ-09: O sistema deve registrar logs de auditoria

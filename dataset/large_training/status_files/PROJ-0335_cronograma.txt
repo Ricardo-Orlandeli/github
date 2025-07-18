@@ -1,0 +1,27 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: O conforto de concretizar seus projetos mais facilmente (PROJ-0335)
+Data: 14/07/2025
+Gerente: Francisco Jesus
+
+Status atual: Concluído
+Percentual de conclusão: 100.0%
+Data de início: 15/12/2023
+Data de término planejada: 23/11/2024
+Data de término real/prevista: 21/12/2024
+Atraso atual: 233 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.02
+Valor Planejado (PV): R$ 3353904.00
+Valor Agregado (EV): R$ 3353904.00
+
+Tarefas críticas:
+- Implementação do módulo de notificações
+- Desenvolvimento do módulo de autenticação
+- Implementação do módulo de análise de dados
+- Desenvolvimento da interface do usuário
+- Implementação do módulo de exportação de dados
+- Implementação do módulo de notificações
+- Testes de segurança
+- Integração com sistema de pagamentos
+
+Tarefas atrasadas:

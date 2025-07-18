@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O direito de mudar com força total (PROJ-0347)
+Data: 14/07/2025
+Gerente: Marina Farias
+
+Orçamento inicial: R$ 3243070.00
+Custo real atual: R$ 3004980.17
+Desvio orçamentário: -7.34%
+Índice de Desempenho de Custo (CPI): 1.08
+Valor Agregado (EV): R$ 3243070.00
+Estimativa para conclusão: R$ 0.00
+Estimativa no término (EAC): R$ 3004980.17
+Variação no término (VAC): R$ 238089.83
+
+Detalhamento por categoria:
+- Pessoal: R$ 1285296.51 (42.8%)
+- Equipamentos: R$ 582758.75 (19.4%)
+- Software: R$ 432018.24 (14.4%)
+- Serviços: R$ 516213.97 (17.2%)
+- Outros: R$ 188692.70 (6.3%)

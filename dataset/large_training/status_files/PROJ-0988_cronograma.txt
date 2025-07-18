@@ -1,0 +1,24 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: O prazer de avançar simplesmente (PROJ-0988)
+Data: 14/07/2025
+Gerente: Nina da Cunha
+
+Status atual: Em andamento
+Percentual de conclusão: 99.9%
+Data de início: 15/11/2023
+Data de término planejada: 15/08/2024
+Data de término real/prevista: 03/09/2024
+Atraso atual: 333 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.15
+Valor Planejado (PV): R$ 1667793.00
+Valor Agregado (EV): R$ 1666125.21
+
+Tarefas críticas:
+- Configuração do ambiente de produção
+- Implementação do módulo de relatórios
+- Configuração da infraestrutura
+- Desenvolvimento da interface do usuário
+- Implementação do módulo de relatórios
+
+Tarefas atrasadas:

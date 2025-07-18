@@ -1,0 +1,26 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A vantagem de concretizar seus projetos com toda a tranquilidade (PROJ-0018)
+Data: 14/07/2025
+Gerente: Juan Fogaça
+
+Status atual: Em andamento
+Percentual de conclusão: 80.9%
+Data de início: 23/03/2025
+Data de término planejada: 26/05/2025
+Data de término real/prevista: 01/06/2025
+Atraso atual: 49 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.05
+Valor Planejado (PV): R$ 1015405.00
+Valor Agregado (EV): R$ 821497.22
+
+Tarefas críticas:
+- Implementação da API REST
+- Implementação do módulo de notificações
+- Testes de segurança
+- Testes de aceitação do usuário
+- Implementação do módulo de notificações
+- Implementação do módulo de relatórios
+- Implementação da API REST
+
+Tarefas atrasadas:

@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A segurança de inovar com força total (PROJ-0334)
+Data: 14/07/2025
+Gerente: Maria Luiza Oliveira
+
+Orçamento inicial: R$ 4272090.00
+Custo real atual: R$ 1071178.62
+Desvio orçamentário: -8.37%
+Índice de Desempenho de Custo (CPI): 0.97
+Valor Agregado (EV): R$ 1034094.16
+Estimativa para conclusão: R$ 3354116.13
+Estimativa no término (EAC): R$ 4425294.75
+Variação no término (VAC): R$ -153204.75
+
+Detalhamento por categoria:
+- Pessoal: R$ 535657.20 (50.0%)
+- Equipamentos: R$ 130592.68 (12.2%)
+- Software: R$ 108119.52 (10.1%)
+- Serviços: R$ 218705.86 (20.4%)
+- Outros: R$ 78103.36 (7.3%)

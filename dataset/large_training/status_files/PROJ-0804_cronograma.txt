@@ -1,0 +1,25 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A certeza de inovar direto da fonte (PROJ-0804)
+Data: 14/07/2025
+Gerente: Yuri da Mata
+
+Status atual: Atrasado
+Percentual de conclusão: 62.7%
+Data de início: 29/07/2023
+Data de término planejada: 05/05/2024
+Data de término real/prevista: 01/09/2024
+Atraso atual: 435 dias
+Motivo do atraso: Dependências externas não cumpridas
+Índice de Desempenho de Cronograma (SPI): 0.63
+Valor Planejado (PV): R$ 4665674.00
+Valor Agregado (EV): R$ 2925227.49
+
+Tarefas críticas:
+- Implementação do módulo de notificações
+- Implementação do sistema de backup
+- Desenvolvimento do painel administrativo
+
+Tarefas atrasadas:
+- Implementação do sistema de backup
+- Desenvolvimento do painel administrativo
+- Implementação do módulo de notificações

@@ -1,0 +1,23 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A certeza de concretizar seus projetos com força total (PROJ-0746)
+Data: 14/07/2025
+Gerente: Sr. Marcos Vinicius Moraes
+
+Status atual: Em andamento
+Percentual de conclusão: 99.9%
+Data de início: 11/03/2025
+Data de término planejada: 13/07/2025
+Data de término real/prevista: 30/07/2025
+Atraso atual: 1 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 0.87
+Valor Planejado (PV): R$ 2034667.00
+Valor Agregado (EV): R$ 2032632.33
+
+Tarefas críticas:
+- Testes de aceitação do usuário
+- Implementação do módulo de análise de dados
+- Integração com sistema de pagamentos
+- Implementação do módulo de análise de dados
+
+Tarefas atrasadas:

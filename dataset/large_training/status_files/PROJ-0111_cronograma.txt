@@ -1,0 +1,27 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A vantagem de mudar mais rapidamente (PROJ-0111)
+Data: 14/07/2025
+Gerente: Nina Leão
+
+Status atual: Em andamento
+Percentual de conclusão: 82.8%
+Data de início: 14/04/2024
+Data de término planejada: 01/04/2025
+Data de término real/prevista: 10/04/2025
+Atraso atual: 104 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 0.90
+Valor Planejado (PV): R$ 2570436.00
+Valor Agregado (EV): R$ 2129152.16
+
+Tarefas críticas:
+- Integração com sistema de pagamentos
+- Testes de segurança
+- Desenvolvimento do painel administrativo
+- Integração com sistema de pagamentos
+- Implementação do módulo de exportação de dados
+- Migração de dados legados
+- Testes de segurança
+- Testes de aceitação do usuário
+
+Tarefas atrasadas:

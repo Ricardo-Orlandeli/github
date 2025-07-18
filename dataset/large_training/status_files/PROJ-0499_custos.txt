@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A liberdade de realizar seus sonhos direto da fonte (PROJ-0499)
+Data: 14/07/2025
+Gerente: Sra. Maria Luísa Macedo
+
+Orçamento inicial: R$ 4682464.00
+Custo real atual: R$ 5055623.81
+Desvio orçamentário: 7.97%
+Índice de Desempenho de Custo (CPI): 0.93
+Valor Agregado (EV): R$ 4682464.00
+Estimativa para conclusão: R$ 0.00
+Estimativa no término (EAC): R$ 5055623.81
+Variação no término (VAC): R$ -373159.81
+
+Detalhamento por categoria:
+- Pessoal: R$ 2530595.11 (50.1%)
+- Equipamentos: R$ 703641.63 (13.9%)
+- Software: R$ 658362.27 (13.0%)
+- Serviços: R$ 831043.43 (16.4%)
+- Outros: R$ 331981.37 (6.6%)

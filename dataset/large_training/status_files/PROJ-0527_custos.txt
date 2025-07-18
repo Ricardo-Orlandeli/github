@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O prazer de inovar naturalmente (PROJ-0527)
+Data: 14/07/2025
+Gerente: Gabrielly Novaes
+
+Orçamento inicial: R$ 1509619.00
+Custo real atual: R$ 1689899.22
+Desvio orçamentário: 19.89%
+Índice de Desempenho de Custo (CPI): 0.87
+Valor Agregado (EV): R$ 1476567.21
+Estimativa para conclusão: R$ 37827.05
+Estimativa no término (EAC): R$ 1727726.28
+Variação no término (VAC): R$ -218107.28
+
+Detalhamento por categoria:
+- Pessoal: R$ 809394.04 (47.9%)
+- Equipamentos: R$ 217464.79 (12.9%)
+- Software: R$ 226405.49 (13.4%)
+- Serviços: R$ 253287.08 (15.0%)
+- Outros: R$ 183347.83 (10.8%)

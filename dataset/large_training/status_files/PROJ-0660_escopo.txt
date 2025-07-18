@@ -1,0 +1,25 @@
+RELATÓRIO DE STATUS DE ESCOPO
+Projeto: A liberdade de evoluir naturalmente (PROJ-0660)
+Data: 14/07/2025
+Gerente: Luiz Fernando das Neves
+
+Escopo original: Sistema para a liberdade de evoluir naturalmente
+Houve mudança de escopo: Sim
+Descrição das mudanças: Expansão do escopo para incluir funcionalidades adicionais
+Impacto no cronograma: 57 dias
+Impacto no custo: R$ 333919.22
+
+Solicitações de mudança:
+- SCM-01: Adição de relatórios gerenciais
+- SCM-02: Adição de relatórios gerenciais
+- SCM-03: Adição de funcionalidade de autenticação biométrica
+- SCM-04: Alteração na interface do usuário
+
+Requisitos atuais:
+- REQ-01: O sistema deve ter alta disponibilidade (99.9%)
+- REQ-02: O sistema deve processar transações em menos de 2 seconds
+- REQ-03: O sistema deve permitir integração com APIs externas
+- REQ-04: O sistema deve processar transações em menos de 2 seconds
+- REQ-05: O sistema deve permitir autenticação de usuários
+- REQ-06: O sistema deve passar por testes de segurança
+- REQ-07: O sistema deve permitir integração com APIs externas

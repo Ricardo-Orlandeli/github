@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O conforto de realizar seus sonhos direto da fonte (PROJ-0864)
+Data: 14/07/2025
+Gerente: Letícia Moreira
+
+Orçamento inicial: R$ 1110032.00
+Custo real atual: R$ 1113047.79
+Desvio orçamentário: 0.27%
+Índice de Desempenho de Custo (CPI): 0.70
+Valor Agregado (EV): R$ 783838.89
+Estimativa para conclusão: R$ 463192.78
+Estimativa no término (EAC): R$ 1576240.57
+Variação no término (VAC): R$ -466208.57
+
+Detalhamento por categoria:
+- Pessoal: R$ 605603.64 (54.4%)
+- Equipamentos: R$ 125281.13 (11.3%)
+- Software: R$ 95533.43 (8.6%)
+- Serviços: R$ 192931.30 (17.3%)
+- Outros: R$ 93698.29 (8.4%)

@@ -1,0 +1,24 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A possibilidade de mudar antes de tudo (PROJ-0926)
+Data: 14/07/2025
+Gerente: Isabelly Costa
+
+Status atual: Em andamento
+Percentual de conclusão: 84.4%
+Data de início: 27/09/2023
+Data de término planejada: 29/10/2023
+Data de término real/prevista: 24/11/2023
+Atraso atual: 624 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 0.85
+Valor Planejado (PV): R$ 3735642.00
+Valor Agregado (EV): R$ 3154340.21
+
+Tarefas críticas:
+- Implementação do módulo de relatórios
+- Configuração da infraestrutura
+- Implementação do módulo de exportação de dados
+- Implementação da API REST
+- Migração de dados legados
+
+Tarefas atrasadas:

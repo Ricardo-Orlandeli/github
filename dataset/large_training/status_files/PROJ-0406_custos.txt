@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A certeza de ganhar direto da fonte (PROJ-0406)
+Data: 14/07/2025
+Gerente: Ravi Vieira
+
+Orçamento inicial: R$ 795172.00
+Custo real atual: R$ 950806.49
+Desvio orçamentário: 19.57%
+Índice de Desempenho de Custo (CPI): 0.84
+Valor Agregado (EV): R$ 795172.00
+Estimativa para conclusão: R$ 0.00
+Estimativa no término (EAC): R$ 950806.49
+Variação no término (VAC): R$ -155634.49
+
+Detalhamento por categoria:
+- Pessoal: R$ 486485.28 (51.2%)
+- Equipamentos: R$ 145461.97 (15.3%)
+- Software: R$ 133219.41 (14.0%)
+- Serviços: R$ 122823.94 (12.9%)
+- Outros: R$ 62815.89 (6.6%)

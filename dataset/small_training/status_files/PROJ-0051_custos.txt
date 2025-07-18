@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A liberdade de realizar seus sonhos com confiança (PROJ-0051)
+Data: 14/07/2025
+Gerente: Emanuella Novaes
+
+Orçamento inicial: R$ 2587615.00
+Custo real atual: R$ 2764879.07
+Desvio orçamentário: 6.85%
+Índice de Desempenho de Custo (CPI): 0.94
+Valor Agregado (EV): R$ 2587615.00
+Estimativa para conclusão: R$ 0.00
+Estimativa no término (EAC): R$ 2764879.07
+Variação no término (VAC): R$ -177264.07
+
+Detalhamento por categoria:
+- Pessoal: R$ 1697580.95 (61.4%)
+- Equipamentos: R$ 305542.16 (11.1%)
+- Software: R$ 199377.46 (7.2%)
+- Serviços: R$ 343324.33 (12.4%)
+- Outros: R$ 219054.16 (7.9%)

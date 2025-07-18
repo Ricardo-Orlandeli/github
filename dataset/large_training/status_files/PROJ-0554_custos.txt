@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A arte de mudar antes de tudo (PROJ-0554)
+Data: 14/07/2025
+Gerente: Arthur Gomes
+
+Orçamento inicial: R$ 4424839.00
+Custo real atual: R$ 4348806.52
+Desvio orçamentário: -1.72%
+Índice de Desempenho de Custo (CPI): 1.02
+Valor Agregado (EV): R$ 4424839.00
+Estimativa para conclusão: R$ 0.00
+Estimativa no término (EAC): R$ 4348806.52
+Variação no término (VAC): R$ 76032.48
+
+Detalhamento por categoria:
+- Pessoal: R$ 2388681.23 (54.9%)
+- Equipamentos: R$ 876792.66 (20.2%)
+- Software: R$ 317046.06 (7.3%)
+- Serviços: R$ 523831.14 (12.0%)
+- Outros: R$ 242455.43 (5.6%)

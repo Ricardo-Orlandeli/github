@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O conforto de realizar seus sonhos sem preocupação (PROJ-0672)
+Data: 14/07/2025
+Gerente: Henrique Rios
+
+Orçamento inicial: R$ 3251834.00
+Custo real atual: R$ 3116904.12
+Desvio orçamentário: -4.15%
+Índice de Desempenho de Custo (CPI): 0.94
+Valor Agregado (EV): R$ 2933456.56
+Estimativa para conclusão: R$ 338287.59
+Estimativa no término (EAC): R$ 3455191.71
+Variação no término (VAC): R$ -203357.71
+
+Detalhamento por categoria:
+- Pessoal: R$ 1678675.57 (53.9%)
+- Equipamentos: R$ 447492.95 (14.4%)
+- Software: R$ 307757.82 (9.9%)
+- Serviços: R$ 500923.24 (16.1%)
+- Outros: R$ 182054.55 (5.8%)

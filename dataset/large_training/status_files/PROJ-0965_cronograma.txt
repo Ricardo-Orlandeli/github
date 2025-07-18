@@ -1,0 +1,24 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: O conforto de atingir seus objetivos direto da fonte (PROJ-0965)
+Data: 14/07/2025
+Gerente: Raquel Leão
+
+Status atual: Atrasado
+Percentual de conclusão: 59.9%
+Data de início: 18/12/2023
+Data de término planejada: 07/08/2024
+Data de término real/prevista: 20/12/2024
+Atraso atual: 341 dias
+Motivo do atraso: Rotatividade de pessoal-chave
+Índice de Desempenho de Cronograma (SPI): 0.60
+Valor Planejado (PV): R$ 647397.00
+Valor Agregado (EV): R$ 387483.13
+
+Tarefas críticas:
+- Integração com sistema de pagamentos
+- Desenvolvimento da interface do usuário
+- Testes de aceitação do usuário
+
+Tarefas atrasadas:
+- Integração com sistema de pagamentos
+- Testes de aceitação do usuário

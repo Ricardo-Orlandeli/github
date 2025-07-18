@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A possibilidade de realizar seus sonhos simplesmente (PROJ-0562)
+Data: 14/07/2025
+Gerente: Gustavo Henrique da Cruz
+
+Orçamento inicial: R$ 2004884.00
+Custo real atual: R$ 1256084.94
+Desvio orçamentário: -37.35%
+Índice de Desempenho de Custo (CPI): 0.84
+Valor Agregado (EV): R$ 1056812.92
+Estimativa para conclusão: R$ 1126838.79
+Estimativa no término (EAC): R$ 2382923.73
+Variação no término (VAC): R$ -378039.73
+
+Detalhamento por categoria:
+- Pessoal: R$ 637221.32 (50.7%)
+- Equipamentos: R$ 169040.80 (13.5%)
+- Software: R$ 162718.43 (13.0%)
+- Serviços: R$ 187614.36 (14.9%)
+- Outros: R$ 99490.02 (7.9%)

@@ -1,0 +1,29 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A simplicidade de conseguir sem preocupação (PROJ-0061)
+Data: 14/07/2025
+Gerente: Benjamim Pires
+
+Status atual: Atrasado
+Percentual de conclusão: 68.5%
+Data de início: 24/03/2024
+Data de término planejada: 05/08/2024
+Data de término real/prevista: 10/12/2024
+Atraso atual: 343 dias
+Motivo do atraso: Mudanças de requisitos não planejadas
+Índice de Desempenho de Cronograma (SPI): 0.69
+Valor Planejado (PV): R$ 2007736.00
+Valor Agregado (EV): R$ 1376223.16
+
+Tarefas críticas:
+- Implementação do sistema de backup
+- Implementação do sistema de backup
+- Implementação do módulo de relatórios
+- Implementação do módulo de exportação de dados
+- Desenvolvimento da interface do usuário
+- Migração de dados legados
+- Implementação do módulo de análise de dados
+- Implementação do módulo de exportação de dados
+
+Tarefas atrasadas:
+- Desenvolvimento da interface do usuário
+- Implementação do módulo de relatórios

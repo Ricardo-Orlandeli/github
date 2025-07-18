@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A liberdade de realizar seus sonhos com confiança (PROJ-0446)
+Data: 14/07/2025
+Gerente: Mirella Aragão
+
+Orçamento inicial: R$ 3673793.00
+Custo real atual: R$ 3919043.13
+Desvio orçamentário: 6.68%
+Índice de Desempenho de Custo (CPI): 0.84
+Valor Agregado (EV): R$ 3276218.86
+Estimativa para conclusão: R$ 475581.84
+Estimativa no término (EAC): R$ 4394624.98
+Variação no término (VAC): R$ -720831.98
+
+Detalhamento por categoria:
+- Pessoal: R$ 1969973.54 (50.3%)
+- Equipamentos: R$ 608163.09 (15.5%)
+- Software: R$ 621702.22 (15.9%)
+- Serviços: R$ 458324.35 (11.7%)
+- Outros: R$ 260879.94 (6.7%)

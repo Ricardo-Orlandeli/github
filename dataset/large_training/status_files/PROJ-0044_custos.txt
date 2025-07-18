@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O poder de avançar sem preocupação (PROJ-0044)
+Data: 14/07/2025
+Gerente: Léo Moraes
+
+Orçamento inicial: R$ 3211417.00
+Custo real atual: R$ 2634271.68
+Desvio orçamentário: -17.97%
+Índice de Desempenho de Custo (CPI): 0.79
+Valor Agregado (EV): R$ 2079250.50
+Estimativa para conclusão: R$ 1434379.43
+Estimativa no término (EAC): R$ 4068651.10
+Variação no término (VAC): R$ -857234.10
+
+Detalhamento por categoria:
+- Pessoal: R$ 1401207.36 (53.2%)
+- Equipamentos: R$ 408550.09 (15.5%)
+- Software: R$ 216464.38 (8.2%)
+- Serviços: R$ 463761.81 (17.6%)
+- Outros: R$ 144288.04 (5.5%)

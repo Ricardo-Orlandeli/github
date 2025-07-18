@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A simplicidade de evoluir direto da fonte (PROJ-0304)
+Data: 14/07/2025
+Gerente: Liz Nogueira
+
+Orçamento inicial: R$ 796134.00
+Custo real atual: R$ 78307.29
+Desvio orçamentário: -27.77%
+Índice de Desempenho de Custo (CPI): 0.70
+Valor Agregado (EV): R$ 55109.83
+Estimativa para conclusão: R$ 1052944.59
+Estimativa no término (EAC): R$ 1131251.88
+Variação no término (VAC): R$ -335117.88
+
+Detalhamento por categoria:
+- Pessoal: R$ 39530.11 (50.5%)
+- Equipamentos: R$ 12338.31 (15.8%)
+- Software: R$ 9494.86 (12.1%)
+- Serviços: R$ 9516.26 (12.2%)
+- Outros: R$ 7427.74 (9.5%)

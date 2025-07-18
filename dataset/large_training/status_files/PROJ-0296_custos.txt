@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A vantagem de evoluir com confiança (PROJ-0296)
+Data: 14/07/2025
+Gerente: Maria Liz da Rosa
+
+Orçamento inicial: R$ 1630609.00
+Custo real atual: R$ 1357334.20
+Desvio orçamentário: -16.76%
+Índice de Desempenho de Custo (CPI): 1.20
+Valor Agregado (EV): R$ 1628978.39
+Estimativa para conclusão: R$ 1358.69
+Estimativa no término (EAC): R$ 1358692.90
+Variação no término (VAC): R$ 271916.10
+
+Detalhamento por categoria:
+- Pessoal: R$ 657213.06 (48.4%)
+- Equipamentos: R$ 192977.15 (14.2%)
+- Software: R$ 166109.47 (12.2%)
+- Serviços: R$ 230846.79 (17.0%)
+- Outros: R$ 110187.74 (8.1%)

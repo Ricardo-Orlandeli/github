@@ -1,0 +1,22 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A segurança de evoluir mais rapidamente (PROJ-0547)
+Data: 14/07/2025
+Gerente: Yasmin da Paz
+
+Status atual: Em andamento
+Percentual de conclusão: 99.9%
+Data de início: 18/12/2024
+Data de término planejada: 20/05/2025
+Data de término real/prevista: 10/05/2025
+Atraso atual: 55 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.03
+Valor Planejado (PV): R$ 1623567.00
+Valor Agregado (EV): R$ 1621943.43
+
+Tarefas críticas:
+- Implementação da API REST
+- Testes de segurança
+- Desenvolvimento do módulo de autenticação
+
+Tarefas atrasadas:

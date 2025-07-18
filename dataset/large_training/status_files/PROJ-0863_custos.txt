@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O prazer de evoluir mais rapidamente (PROJ-0863)
+Data: 14/07/2025
+Gerente: João Guilherme Moraes
+
+Orçamento inicial: R$ 4156827.00
+Custo real atual: R$ 4396943.38
+Desvio orçamentário: 5.78%
+Índice de Desempenho de Custo (CPI): 0.95
+Valor Agregado (EV): R$ 4156827.00
+Estimativa para conclusão: R$ 0.00
+Estimativa no término (EAC): R$ 4396943.38
+Variação no término (VAC): R$ -240116.38
+
+Detalhamento por categoria:
+- Pessoal: R$ 1973154.13 (44.9%)
+- Equipamentos: R$ 743209.65 (16.9%)
+- Software: R$ 468464.94 (10.7%)
+- Serviços: R$ 797110.71 (18.1%)
+- Outros: R$ 415003.95 (9.4%)

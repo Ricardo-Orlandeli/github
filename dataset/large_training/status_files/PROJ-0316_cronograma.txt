@@ -1,0 +1,22 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A vantagem de inovar com toda a tranquilidade (PROJ-0316)
+Data: 14/07/2025
+Gerente: Thomas Melo
+
+Status atual: Concluído
+Percentual de conclusão: 100.0%
+Data de início: 25/09/2024
+Data de término planejada: 16/11/2024
+Data de término real/prevista: 08/12/2024
+Atraso atual: 240 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.08
+Valor Planejado (PV): R$ 497996.00
+Valor Agregado (EV): R$ 497996.00
+
+Tarefas críticas:
+- Configuração do ambiente de produção
+- Integração com sistema de pagamentos
+- Desenvolvimento do painel administrativo
+
+Tarefas atrasadas:

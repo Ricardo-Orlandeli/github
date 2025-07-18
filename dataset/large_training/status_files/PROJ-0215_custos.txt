@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A liberdade de conseguir com confiança (PROJ-0215)
+Data: 14/07/2025
+Gerente: Thomas Pereira
+
+Orçamento inicial: R$ 2430470.00
+Custo real atual: R$ 2657348.11
+Desvio orçamentário: 9.33%
+Índice de Desempenho de Custo (CPI): 0.91
+Valor Agregado (EV): R$ 2430470.00
+Estimativa para conclusão: R$ 0.00
+Estimativa no término (EAC): R$ 2657348.11
+Variação no término (VAC): R$ -226878.11
+
+Detalhamento por categoria:
+- Pessoal: R$ 1243571.80 (46.8%)
+- Equipamentos: R$ 407653.46 (15.3%)
+- Software: R$ 329602.40 (12.4%)
+- Serviços: R$ 433769.65 (16.3%)
+- Outros: R$ 242750.80 (9.1%)

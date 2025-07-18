@@ -1,0 +1,27 @@
+RELATÓRIO DE STATUS DE RISCOS
+Projeto: A certeza de evoluir com força total (PROJ-0117)
+Data: 14/07/2025
+Gerente: Apollo Vasconcelos
+
+Riscos identificados:
+- R01: Problemas de desempenho
+  Probabilidade: 2/5, Impacto: 2/5, Nível: Baixo
+  Mitigação: Testar compatibilidade em diferentes ambientes
+
+- R02: Indisponibilidade de recursos especializados
+  Probabilidade: 5/5, Impacto: 5/5, Nível: Alto
+  Mitigação: Monitorar mudanças regulatórias
+
+- R03: Falhas de infraestrutura
+  Probabilidade: 5/5, Impacto: 3/5, Nível: Médio
+  Mitigação: Refinar estimativas com base em dados históricos
+
+Riscos ocorridos:
+- R01 (ocorrido em 13/07/2025)
+  Impacto real: Perda de dados
+  Ações tomadas: Implementação do plano de contingência
+
+- R02 (ocorrido em 13/07/2025)
+  Impacto real: Indisponibilidade temporária
+  Ações tomadas: Comunicação intensificada com stakeholders
+

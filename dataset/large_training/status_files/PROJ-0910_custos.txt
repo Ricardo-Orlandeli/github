@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A liberdade de inovar simplesmente (PROJ-0910)
+Data: 14/07/2025
+Gerente: Luiz Henrique Sá
+
+Orçamento inicial: R$ 3620679.00
+Custo real atual: R$ 4262354.58
+Desvio orçamentário: 17.72%
+Índice de Desempenho de Custo (CPI): 0.85
+Valor Agregado (EV): R$ 3617058.32
+Estimativa para conclusão: R$ 4266.62
+Estimativa no término (EAC): R$ 4266621.20
+Variação no término (VAC): R$ -645942.20
+
+Detalhamento por categoria:
+- Pessoal: R$ 2162860.56 (50.7%)
+- Equipamentos: R$ 793160.52 (18.6%)
+- Software: R$ 309046.88 (7.3%)
+- Serviços: R$ 643483.80 (15.1%)
+- Outros: R$ 353802.81 (8.3%)

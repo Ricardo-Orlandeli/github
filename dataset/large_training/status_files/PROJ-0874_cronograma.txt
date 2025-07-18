@@ -1,0 +1,22 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A arte de ganhar direto da fonte (PROJ-0874)
+Data: 14/07/2025
+Gerente: Ravi Lucca da Cunha
+
+Status atual: Em andamento
+Percentual de conclusão: 99.9%
+Data de início: 19/11/2023
+Data de término planejada: 07/11/2024
+Data de término real/prevista: 30/11/2024
+Atraso atual: 249 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 0.95
+Valor Planejado (PV): R$ 4161659.00
+Valor Agregado (EV): R$ 4157497.34
+
+Tarefas críticas:
+- Implementação da API REST
+- Testes de aceitação do usuário
+- Implementação do sistema de backup
+
+Tarefas atrasadas:

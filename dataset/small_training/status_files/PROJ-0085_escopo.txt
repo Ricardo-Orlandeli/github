@@ -1,0 +1,25 @@
+RELATÓRIO DE STATUS DE ESCOPO
+Projeto: A simplicidade de realizar seus sonhos em estado puro (PROJ-0085)
+Data: 14/07/2025
+Gerente: Clara Araújo
+
+Escopo original: Sistema para a simplicidade de realizar seus sonhos em estado puro
+Houve mudança de escopo: Sim
+Descrição das mudanças: Mudança na plataforma de implementação
+Impacto no cronograma: 15 dias
+Impacto no custo: R$ 643247.48
+
+Solicitações de mudança:
+- SCM-01: Mudança no banco de dados
+- SCM-02: Integração com sistema legado
+- SCM-03: Integração com sistema legado
+- SCM-04: Implementação de módulo de exportação de dados
+- SCM-05: Adição de funcionalidade de autenticação biométrica
+
+Requisitos atuais:
+- REQ-01: O sistema deve implementar criptografia de dados sensíveis
+- REQ-02: O sistema deve ter documentação completa
+- REQ-03: O sistema deve ter documentação completa
+- REQ-04: O sistema deve ser compatível com navegadores modernos
+- REQ-05: O sistema deve ter documentação completa
+- REQ-06: O sistema deve ter interface responsiva

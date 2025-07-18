@@ -1,0 +1,27 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: O poder de realizar seus sonhos com confiança (PROJ-0140)
+Data: 14/07/2025
+Gerente: Dr. Gael Henrique Moraes
+
+Status atual: Em andamento
+Percentual de conclusão: 99.9%
+Data de início: 19/07/2023
+Data de término planejada: 17/02/2024
+Data de término real/prevista: 15/02/2024
+Atraso atual: 513 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.01
+Valor Planejado (PV): R$ 4121943.00
+Valor Agregado (EV): R$ 4117821.06
+
+Tarefas críticas:
+- Configuração do ambiente de produção
+- Configuração da infraestrutura
+- Integração com sistema de pagamentos
+- Implementação do módulo de relatórios
+- Implementação da API REST
+- Implementação da API REST
+- Testes de aceitação do usuário
+- Migração de dados legados
+
+Tarefas atrasadas:

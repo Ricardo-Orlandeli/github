@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A liberdade de mudar com toda a tranquilidade (PROJ-0786)
+Data: 14/07/2025
+Gerente: Sr. Samuel Brito
+
+Orçamento inicial: R$ 1367530.00
+Custo real atual: R$ 1513225.54
+Desvio orçamentário: 10.65%
+Índice de Desempenho de Custo (CPI): 0.90
+Valor Agregado (EV): R$ 1366162.47
+Estimativa para conclusão: R$ 1514.74
+Estimativa no término (EAC): R$ 1514740.28
+Variação no término (VAC): R$ -147210.28
+
+Detalhamento por categoria:
+- Pessoal: R$ 749583.08 (49.5%)
+- Equipamentos: R$ 251103.13 (16.6%)
+- Software: R$ 163306.76 (10.8%)
+- Serviços: R$ 189432.06 (12.5%)
+- Outros: R$ 159800.51 (10.6%)

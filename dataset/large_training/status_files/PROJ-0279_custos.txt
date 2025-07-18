@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A simplicidade de evoluir direto da fonte (PROJ-0279)
+Data: 14/07/2025
+Gerente: Dra. Bárbara da Mata
+
+Orçamento inicial: R$ 751656.00
+Custo real atual: R$ 670038.54
+Desvio orçamentário: -10.86%
+Índice de Desempenho de Custo (CPI): 1.12
+Valor Agregado (EV): R$ 750904.34
+Estimativa para conclusão: R$ 670.71
+Estimativa no término (EAC): R$ 670709.25
+Variação no término (VAC): R$ 80946.75
+
+Detalhamento por categoria:
+- Pessoal: R$ 318736.75 (47.6%)
+- Equipamentos: R$ 119902.24 (17.9%)
+- Software: R$ 64235.92 (9.6%)
+- Serviços: R$ 125490.43 (18.7%)
+- Outros: R$ 41673.19 (6.2%)

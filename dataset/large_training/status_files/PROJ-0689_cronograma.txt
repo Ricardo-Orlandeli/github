@@ -1,0 +1,28 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A segurança de conseguir mais rapidamente (PROJ-0689)
+Data: 14/07/2025
+Gerente: Raul Cunha
+
+Status atual: Atrasado
+Percentual de conclusão: 82.4%
+Data de início: 05/11/2024
+Data de término planejada: 14/12/2024
+Data de término real/prevista: 11/06/2025
+Atraso atual: 212 dias
+Motivo do atraso: Rotatividade de pessoal-chave
+Índice de Desempenho de Cronograma (SPI): 0.82
+Valor Planejado (PV): R$ 2953693.00
+Valor Agregado (EV): R$ 2433486.63
+
+Tarefas críticas:
+- Migração de dados legados
+- Implementação do módulo de análise de dados
+- Configuração da infraestrutura
+- Desenvolvimento do módulo de autenticação
+- Migração de dados legados
+- Implementação do sistema de backup
+
+Tarefas atrasadas:
+- Desenvolvimento do módulo de autenticação
+- Migração de dados legados
+- Implementação do sistema de backup

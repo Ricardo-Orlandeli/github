@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A liberdade de conseguir com força total (PROJ-0439)
+Data: 14/07/2025
+Gerente: Sra. Isis Alves
+
+Orçamento inicial: R$ 3715679.00
+Custo real atual: R$ 2805320.54
+Desvio orçamentário: -24.50%
+Índice de Desempenho de Custo (CPI): 0.76
+Valor Agregado (EV): R$ 2126303.77
+Estimativa para conclusão: R$ 2096928.50
+Estimativa no término (EAC): R$ 4902249.04
+Variação no término (VAC): R$ -1186570.04
+
+Detalhamento por categoria:
+- Pessoal: R$ 1556603.62 (55.5%)
+- Equipamentos: R$ 511364.51 (18.2%)
+- Software: R$ 210926.22 (7.5%)
+- Serviços: R$ 308785.30 (11.0%)
+- Outros: R$ 217640.89 (7.8%)

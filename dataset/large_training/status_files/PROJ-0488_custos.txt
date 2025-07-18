@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A vantagem de evoluir sem preocupação (PROJ-0488)
+Data: 14/07/2025
+Gerente: Bianca Mendes
+
+Orçamento inicial: R$ 554806.00
+Custo real atual: R$ 519354.69
+Desvio orçamentário: -6.39%
+Índice de Desempenho de Custo (CPI): 0.92
+Valor Agregado (EV): R$ 475770.56
+Estimativa para conclusão: R$ 86275.68
+Estimativa no término (EAC): R$ 605630.37
+Variação no término (VAC): R$ -50824.37
+
+Detalhamento por categoria:
+- Pessoal: R$ 254200.78 (48.9%)
+- Equipamentos: R$ 69520.53 (13.4%)
+- Software: R$ 70848.64 (13.6%)
+- Serviços: R$ 85138.01 (16.4%)
+- Outros: R$ 39646.73 (7.6%)

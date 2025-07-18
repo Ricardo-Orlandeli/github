@@ -1,0 +1,28 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A arte de ganhar em estado puro (PROJ-0831)
+Data: 14/07/2025
+Gerente: Antony Abreu
+
+Status atual: Atrasado
+Percentual de conclusão: 70.0%
+Data de início: 12/10/2023
+Data de término planejada: 06/04/2024
+Data de término real/prevista: 07/05/2024
+Atraso atual: 464 dias
+Motivo do atraso: Atraso na entrega de componentes por fornecedores
+Índice de Desempenho de Cronograma (SPI): 0.70
+Valor Planejado (PV): R$ 4881000.00
+Valor Agregado (EV): R$ 3417372.96
+
+Tarefas críticas:
+- Implementação da API REST
+- Implementação do módulo de relatórios
+- Desenvolvimento da interface do usuário
+- Testes de aceitação do usuário
+- Implementação do módulo de exportação de dados
+- Desenvolvimento do módulo de autenticação
+- Implementação do sistema de backup
+- Desenvolvimento do painel administrativo
+
+Tarefas atrasadas:
+- Implementação da API REST

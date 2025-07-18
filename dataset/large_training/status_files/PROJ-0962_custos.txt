@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A certeza de mudar de maneira eficaz (PROJ-0962)
+Data: 14/07/2025
+Gerente: Isadora Fogaça
+
+Orçamento inicial: R$ 4219689.00
+Custo real atual: R$ 4364563.67
+Desvio orçamentário: 3.43%
+Índice de Desempenho de Custo (CPI): 0.69
+Valor Agregado (EV): R$ 3010198.38
+Estimativa para conclusão: R$ 1753671.40
+Estimativa no término (EAC): R$ 6118235.07
+Variação no término (VAC): R$ -1898546.07
+
+Detalhamento por categoria:
+- Pessoal: R$ 2005053.15 (45.9%)
+- Equipamentos: R$ 784718.25 (18.0%)
+- Software: R$ 463867.24 (10.6%)
+- Serviços: R$ 808553.21 (18.5%)
+- Outros: R$ 302371.83 (6.9%)

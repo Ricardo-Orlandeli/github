@@ -1,0 +1,27 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A possibilidade de atingir seus objetivos com confiança (PROJ-0331)
+Data: 14/07/2025
+Gerente: Luiza das Neves
+
+Status atual: Concluído
+Percentual de conclusão: 100.0%
+Data de início: 27/09/2023
+Data de término planejada: 05/01/2024
+Data de término real/prevista: 14/01/2024
+Atraso atual: 556 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.05
+Valor Planejado (PV): R$ 1030082.00
+Valor Agregado (EV): R$ 1030082.00
+
+Tarefas críticas:
+- Configuração do ambiente de produção
+- Implementação do sistema de backup
+- Configuração do ambiente de produção
+- Implementação do módulo de exportação de dados
+- Implementação da API REST
+- Testes de segurança
+- Implementação do módulo de análise de dados
+- Testes de segurança
+
+Tarefas atrasadas:

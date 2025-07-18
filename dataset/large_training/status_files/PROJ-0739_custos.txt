@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O prazer de concretizar seus projetos antes de tudo (PROJ-0739)
+Data: 14/07/2025
+Gerente: Théo Aragão
+
+Orçamento inicial: R$ 4061709.00
+Custo real atual: R$ 3283521.12
+Desvio orçamentário: -19.16%
+Índice de Desempenho de Custo (CPI): 1.02
+Valor Agregado (EV): R$ 3345205.14
+Estimativa para conclusão: R$ 703291.86
+Estimativa no término (EAC): R$ 3986812.99
+Variação no término (VAC): R$ 74896.01
+
+Detalhamento por categoria:
+- Pessoal: R$ 1552045.34 (47.3%)
+- Equipamentos: R$ 634083.02 (19.3%)
+- Software: R$ 437699.91 (13.3%)
+- Serviços: R$ 376214.03 (11.5%)
+- Outros: R$ 283478.82 (8.6%)

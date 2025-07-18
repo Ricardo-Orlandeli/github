@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A certeza de atingir seus objetivos mais rapidamente (PROJ-0781)
+Data: 14/07/2025
+Gerente: Raquel Fonseca
+
+Orçamento inicial: R$ 431247.00
+Custo real atual: R$ 481424.60
+Desvio orçamentário: 11.64%
+Índice de Desempenho de Custo (CPI): 0.89
+Valor Agregado (EV): R$ 430815.75
+Estimativa para conclusão: R$ 481.91
+Estimativa no término (EAC): R$ 481906.51
+Variação no término (VAC): R$ -50659.51
+
+Detalhamento por categoria:
+- Pessoal: R$ 246693.49 (51.2%)
+- Equipamentos: R$ 62053.06 (12.9%)
+- Software: R$ 44818.39 (9.3%)
+- Serviços: R$ 84062.34 (17.5%)
+- Outros: R$ 43797.31 (9.1%)

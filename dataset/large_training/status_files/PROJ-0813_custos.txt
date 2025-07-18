@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A segurança de avançar com toda a tranquilidade (PROJ-0813)
+Data: 14/07/2025
+Gerente: Isabel Freitas
+
+Orçamento inicial: R$ 4701252.00
+Custo real atual: R$ 775060.25
+Desvio orçamentário: 0.46%
+Índice de Desempenho de Custo (CPI): 0.91
+Valor Agregado (EV): R$ 702867.82
+Estimativa para conclusão: R$ 4409063.19
+Estimativa no término (EAC): R$ 5184123.43
+Variação no término (VAC): R$ -482871.43
+
+Detalhamento por categoria:
+- Pessoal: R$ 344972.40 (44.5%)
+- Equipamentos: R$ 130749.98 (16.9%)
+- Software: R$ 92678.37 (12.0%)
+- Serviços: R$ 137991.37 (17.8%)
+- Outros: R$ 68668.13 (8.9%)

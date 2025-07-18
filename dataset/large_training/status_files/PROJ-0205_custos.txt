@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A segurança de concretizar seus projetos simplesmente (PROJ-0205)
+Data: 14/07/2025
+Gerente: Nina Moraes
+
+Orçamento inicial: R$ 2887200.00
+Custo real atual: R$ 2146770.68
+Desvio orçamentário: -25.65%
+Índice de Desempenho de Custo (CPI): 0.88
+Valor Agregado (EV): R$ 1891344.14
+Estimativa para conclusão: R$ 1130346.47
+Estimativa no término (EAC): R$ 3277117.15
+Variação no término (VAC): R$ -389917.15
+
+Detalhamento por categoria:
+- Pessoal: R$ 1130753.93 (52.7%)
+- Equipamentos: R$ 277990.38 (12.9%)
+- Software: R$ 266453.55 (12.4%)
+- Serviços: R$ 271606.65 (12.7%)
+- Outros: R$ 199966.16 (9.3%)

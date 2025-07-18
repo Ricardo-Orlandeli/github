@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A vantagem de realizar seus sonhos mais rapidamente (PROJ-0596)
+Data: 14/07/2025
+Gerente: Noah Fonseca
+
+Orçamento inicial: R$ 1282127.00
+Custo real atual: R$ 1272118.59
+Desvio orçamentário: -0.78%
+Índice de Desempenho de Custo (CPI): 1.01
+Valor Agregado (EV): R$ 1280844.87
+Estimativa para conclusão: R$ 1273.39
+Estimativa no término (EAC): R$ 1273391.98
+Variação no término (VAC): R$ 8735.02
+
+Detalhamento por categoria:
+- Pessoal: R$ 597110.58 (46.9%)
+- Equipamentos: R$ 221918.29 (17.4%)
+- Software: R$ 175368.14 (13.8%)
+- Serviços: R$ 181719.50 (14.3%)
+- Outros: R$ 96002.09 (7.5%)

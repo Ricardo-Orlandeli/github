@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE ESCOPO
+Projeto: A vantagem de inovar em estado puro (PROJ-0690)
+Data: 14/07/2025
+Gerente: Felipe Montenegro
+
+Escopo original: Sistema para a vantagem de inovar em estado puro
+Houve mudança de escopo: Sim
+Descrição das mudanças: Adição de novos requisitos de segurança
+Impacto no cronograma: 45 dias
+Impacto no custo: R$ 549787.78
+
+Solicitações de mudança:
+- SCM-01: Integração com sistema legado
+
+Requisitos atuais:
+- REQ-01: O sistema deve ter controle de acesso baseado em perfis
+- REQ-02: O sistema deve passar por testes de segurança
+- REQ-03: O sistema deve ter interface responsiva
+- REQ-04: O sistema deve ter alta disponibilidade (99.9%)
+- REQ-05: O sistema deve ser compatível com navegadores modernos

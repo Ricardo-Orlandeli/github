@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O conforto de avançar mais facilmente (PROJ-0516)
+Data: 14/07/2025
+Gerente: Sr. Cauã Garcia
+
+Orçamento inicial: R$ 2976008.00
+Custo real atual: R$ 2835800.12
+Desvio orçamentário: -4.71%
+Índice de Desempenho de Custo (CPI): 0.90
+Valor Agregado (EV): R$ 2540921.53
+Estimativa para conclusão: R$ 485579.05
+Estimativa no término (EAC): R$ 3321379.16
+Variação no término (VAC): R$ -345371.16
+
+Detalhamento por categoria:
+- Pessoal: R$ 1406626.93 (49.6%)
+- Equipamentos: R$ 442803.92 (15.6%)
+- Software: R$ 312552.69 (11.0%)
+- Serviços: R$ 520572.58 (18.4%)
+- Outros: R$ 153244.00 (5.4%)

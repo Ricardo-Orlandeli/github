@@ -1,0 +1,22 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A simplicidade de mudar simplesmente (PROJ-0696)
+Data: 14/07/2025
+Gerente: Letícia Mendonça
+
+Status atual: Em andamento
+Percentual de conclusão: 89.8%
+Data de início: 29/11/2024
+Data de término planejada: 02/07/2025
+Data de término real/prevista: 11/07/2025
+Atraso atual: 12 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.11
+Valor Planejado (PV): R$ 3212966.00
+Valor Agregado (EV): R$ 2884492.73
+
+Tarefas críticas:
+- Configuração da infraestrutura
+- Integração com sistema de pagamentos
+- Desenvolvimento do módulo de autenticação
+
+Tarefas atrasadas:

@@ -1,0 +1,23 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A arte de mudar mais rapidamente (PROJ-0733)
+Data: 14/07/2025
+Gerente: Sr. João Felipe da Rosa
+
+Status atual: Em andamento
+Percentual de conclusão: 63.8%
+Data de início: 20/01/2025
+Data de término planejada: 25/11/2025
+Data de término real/prevista: 15/11/2025
+Atraso atual: 0 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 0.88
+Valor Planejado (PV): R$ 877735.44
+Valor Agregado (EV): R$ 988800.03
+
+Tarefas críticas:
+- Desenvolvimento do painel administrativo
+- Testes de segurança
+- Implementação do módulo de exportação de dados
+- Testes de segurança
+
+Tarefas atrasadas:

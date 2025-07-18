@@ -1,0 +1,24 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A possibilidade de realizar seus sonhos com confiança (PROJ-0721)
+Data: 14/07/2025
+Gerente: Hadassa Melo
+
+Status atual: Em andamento
+Percentual de conclusão: 81.1%
+Data de início: 17/07/2023
+Data de término planejada: 20/12/2023
+Data de término real/prevista: 13/01/2024
+Atraso atual: 572 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.11
+Valor Planejado (PV): R$ 2979014.00
+Valor Agregado (EV): R$ 2417274.37
+
+Tarefas críticas:
+- Desenvolvimento da interface do usuário
+- Integração com sistema de pagamentos
+- Testes de segurança
+- Configuração da infraestrutura
+- Desenvolvimento da interface do usuário
+
+Tarefas atrasadas:

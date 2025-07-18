@@ -1,0 +1,29 @@
+RELATÓRIO DE STATUS DE ESCOPO
+Projeto: A vantagem de avançar sem preocupação (PROJ-0644)
+Data: 14/07/2025
+Gerente: Sr. Guilherme Rocha
+
+Escopo original: Sistema para a vantagem de avançar sem preocupação
+Houve mudança de escopo: Sim
+Descrição das mudanças: Redução do escopo devido a restrições orçamentárias
+Impacto no cronograma: 51 dias
+Impacto no custo: R$ 267735.32
+
+Solicitações de mudança:
+- SCM-01: Implementação de módulo de exportação de dados
+- SCM-02: Mudança na arquitetura do sistema
+
+Requisitos atuais:
+- REQ-01: O sistema deve ter documentação completa
+- REQ-02: O sistema deve ter documentação completa
+- REQ-03: O sistema deve ter documentação completa
+- REQ-04: O sistema deve ser escalável para suportar até 10.000 usuários simultâneos
+- REQ-05: O sistema deve ter controle de acesso baseado em perfis
+- REQ-06: O sistema deve implementar criptografia de dados sensíveis
+- REQ-07: O sistema deve ter backup automático diário
+- REQ-08: O sistema deve ter documentação completa
+- REQ-09: O sistema deve ser escalável para suportar até 10.000 usuários simultâneos
+- REQ-10: O sistema deve processar transações em menos de 2 seconds
+- REQ-11: O sistema deve ter interface responsiva
+- REQ-12: O sistema deve ser escalável para suportar até 10.000 usuários simultâneos
+- REQ-13: O sistema deve ter documentação completa

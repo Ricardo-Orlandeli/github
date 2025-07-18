@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A arte de realizar seus sonhos antes de tudo (PROJ-0022)
+Data: 14/07/2025
+Gerente: Marina Brito
+
+Orçamento inicial: R$ 4460848.00
+Custo real atual: R$ 4694158.18
+Desvio orçamentário: 5.23%
+Índice de Desempenho de Custo (CPI): 0.95
+Valor Agregado (EV): R$ 4460848.00
+Estimativa para conclusão: R$ 0.00
+Estimativa no término (EAC): R$ 4694158.18
+Variação no término (VAC): R$ -233310.18
+
+Detalhamento por categoria:
+- Pessoal: R$ 2387007.53 (50.9%)
+- Equipamentos: R$ 849549.67 (18.1%)
+- Software: R$ 547425.93 (11.7%)
+- Serviços: R$ 580391.65 (12.4%)
+- Outros: R$ 329783.40 (7.0%)

@@ -1,0 +1,24 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: O poder de realizar seus sonhos em estado puro (PROJ-0847)
+Data: 14/07/2025
+Gerente: Alexia Peixoto
+
+Status atual: Em andamento
+Percentual de conclusão: 33.2%
+Data de início: 05/04/2025
+Data de término planejada: 27/03/2026
+Data de término real/prevista: 26/04/2026
+Atraso atual: 0 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 0.90
+Valor Planejado (PV): R$ 1204957.58
+Valor Agregado (EV): R$ 1422233.12
+
+Tarefas críticas:
+- Testes de segurança
+- Desenvolvimento do módulo de autenticação
+- Implementação do módulo de relatórios
+- Migração de dados legados
+- Integração com sistema de pagamentos
+
+Tarefas atrasadas:

@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A segurança de inovar direto da fonte (PROJ-0599)
+Data: 14/07/2025
+Gerente: Arthur Miguel Marques
+
+Orçamento inicial: R$ 2790078.00
+Custo real atual: R$ 944332.26
+Desvio orçamentário: -12.58%
+Índice de Desempenho de Custo (CPI): 0.94
+Valor Agregado (EV): R$ 892193.25
+Estimativa para conclusão: R$ 2008795.52
+Estimativa no término (EAC): R$ 2953127.79
+Variação no término (VAC): R$ -163049.79
+
+Detalhamento por categoria:
+- Pessoal: R$ 494989.94 (52.4%)
+- Equipamentos: R$ 160729.87 (17.0%)
+- Software: R$ 75124.37 (8.0%)
+- Serviços: R$ 144920.82 (15.3%)
+- Outros: R$ 68567.27 (7.3%)

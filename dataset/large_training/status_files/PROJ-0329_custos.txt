@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A possibilidade de avançar antes de tudo (PROJ-0329)
+Data: 14/07/2025
+Gerente: Ana Vitória Albuquerque
+
+Orçamento inicial: R$ 1232877.00
+Custo real atual: R$ 841330.40
+Desvio orçamentário: -31.76%
+Índice de Desempenho de Custo (CPI): 1.19
+Valor Agregado (EV): R$ 1000901.16
+Estimativa para conclusão: R$ 194992.61
+Estimativa no término (EAC): R$ 1036323.01
+Variação no término (VAC): R$ 196553.99
+
+Detalhamento por categoria:
+- Pessoal: R$ 467893.12 (55.6%)
+- Equipamentos: R$ 130255.94 (15.5%)
+- Software: R$ 70962.02 (8.4%)
+- Serviços: R$ 128583.07 (15.3%)
+- Outros: R$ 43636.25 (5.2%)

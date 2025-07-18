@@ -1,0 +1,35 @@
+RELATÓRIO DE STATUS DE RISCOS
+Projeto: A liberdade de ganhar mais rapidamente (PROJ-0011)
+Data: 14/07/2025
+Gerente: Catarina Martins
+
+Riscos identificados:
+- R01: Falhas em testes de aceitação
+  Probabilidade: 2/5, Impacto: 3/5, Nível: Baixo
+  Mitigação: Estabelecer canais de comunicação claros
+
+- R02: Requisitos mal definidos
+  Probabilidade: 5/5, Impacto: 2/5, Nível: Médio
+  Mitigação: Otimizar código e infraestrutura
+
+- R03: Requisitos mal definidos
+  Probabilidade: 1/5, Impacto: 2/5, Nível: Baixo
+  Mitigação: Realizar testes de aceitação com usuários-chave
+
+- R04: Problemas de desempenho
+  Probabilidade: 3/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Implementar plano de contingência
+
+Riscos ocorridos:
+- R03 (ocorrido em 01/07/2025)
+  Impacto real: Aumento de 10% nos custos
+  Ações tomadas: Revisão de processos
+
+- R01 (ocorrido em 09/12/2024)
+  Impacto real: Perda de recursos-chave
+  Ações tomadas: Ajuste no cronograma
+
+- R02 (ocorrido em 07/04/2025)
+  Impacto real: Falhas de segurança
+  Ações tomadas: Contratação de recursos adicionais
+

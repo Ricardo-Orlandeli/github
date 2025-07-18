@@ -1,0 +1,26 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A certeza de mudar em estado puro (PROJ-0677)
+Data: 14/07/2025
+Gerente: Sr. Murilo Abreu
+
+Status atual: Concluído
+Percentual de conclusão: 100.0%
+Data de início: 19/09/2024
+Data de término planejada: 14/11/2024
+Data de término real/prevista: 09/11/2024
+Atraso atual: 242 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.03
+Valor Planejado (PV): R$ 1021447.00
+Valor Agregado (EV): R$ 1021447.00
+
+Tarefas críticas:
+- Implementação do sistema de backup
+- Implementação do módulo de notificações
+- Migração de dados legados
+- Testes de aceitação do usuário
+- Integração com sistema de pagamentos
+- Implementação do módulo de exportação de dados
+- Configuração do ambiente de produção
+
+Tarefas atrasadas:

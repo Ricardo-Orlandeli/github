@@ -1,0 +1,26 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A possibilidade de mudar simplesmente (PROJ-0176)
+Data: 14/07/2025
+Gerente: Esther Sampaio
+
+Status atual: Atrasado
+Percentual de conclusão: 84.0%
+Data de início: 02/11/2023
+Data de término planejada: 12/06/2024
+Data de término real/prevista: 20/10/2024
+Atraso atual: 397 dias
+Motivo do atraso: Problemas técnicos inesperados
+Índice de Desempenho de Cronograma (SPI): 0.84
+Valor Planejado (PV): R$ 2501020.00
+Valor Agregado (EV): R$ 2102058.62
+
+Tarefas críticas:
+- Desenvolvimento do painel administrativo
+- Implementação do módulo de relatórios
+- Implementação do módulo de notificações
+- Configuração do ambiente de produção
+- Integração com sistema de pagamentos
+- Implementação do módulo de notificações
+
+Tarefas atrasadas:
+- Integração com sistema de pagamentos

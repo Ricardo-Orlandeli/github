@@ -1,0 +1,25 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: O direito de ganhar com toda a tranquilidade (PROJ-0067)
+Data: 14/07/2025
+Gerente: Alice Viana
+
+Status atual: Em andamento
+Percentual de conclusão: 99.9%
+Data de início: 20/08/2024
+Data de término planejada: 30/04/2025
+Data de término real/prevista: 17/05/2025
+Atraso atual: 75 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 0.90
+Valor Planejado (PV): R$ 3564861.00
+Valor Agregado (EV): R$ 3561296.14
+
+Tarefas críticas:
+- Desenvolvimento da interface do usuário
+- Desenvolvimento do módulo de autenticação
+- Integração com sistema de pagamentos
+- Configuração do ambiente de produção
+- Desenvolvimento do módulo de autenticação
+- Implementação do sistema de backup
+
+Tarefas atrasadas:

@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O direito de atingir seus objetivos com toda a tranquilidade (PROJ-0467)
+Data: 14/07/2025
+Gerente: Srta. Maria Flor Nunes
+
+Orçamento inicial: R$ 3029201.00
+Custo real atual: R$ 2752910.77
+Desvio orçamentário: 170.80%
+Índice de Desempenho de Custo (CPI): 1.10
+Valor Agregado (EV): R$ 3029201.00
+Estimativa para conclusão: R$ 0.00
+Estimativa no término (EAC): R$ 2752910.77
+Variação no término (VAC): R$ 276290.23
+
+Detalhamento por categoria:
+- Pessoal: R$ 1406149.46 (51.1%)
+- Equipamentos: R$ 455069.18 (16.5%)
+- Software: R$ 209186.78 (7.6%)
+- Serviços: R$ 495218.37 (18.0%)
+- Outros: R$ 187286.98 (6.8%)

@@ -1,0 +1,24 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A liberdade de conseguir naturalmente (PROJ-0071)
+Data: 14/07/2025
+Gerente: Sra. Alice Duarte
+
+Status atual: Cancelado
+Percentual de conclusão: 19.1%
+Data de início: 15/12/2023
+Data de término planejada: 07/10/2024
+Data de término real/prevista: 09/02/2024
+Atraso atual: 280 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 0.19
+Valor Planejado (PV): R$ 2867117.00
+Valor Agregado (EV): R$ 546770.68
+
+Tarefas críticas:
+- Implementação do módulo de exportação de dados
+- Configuração do ambiente de produção
+- Migração de dados legados
+- Desenvolvimento da interface do usuário
+- Integração com sistema de pagamentos
+
+Tarefas atrasadas:

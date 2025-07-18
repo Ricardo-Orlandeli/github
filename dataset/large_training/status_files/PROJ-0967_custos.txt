@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O prazer de avançar com confiança (PROJ-0967)
+Data: 14/07/2025
+Gerente: Ana Clara Novaes
+
+Orçamento inicial: R$ 1492806.00
+Custo real atual: R$ 1443385.43
+Desvio orçamentário: -3.31%
+Índice de Desempenho de Custo (CPI): 0.81
+Valor Agregado (EV): R$ 1167866.92
+Estimativa para conclusão: R$ 401597.42
+Estimativa no término (EAC): R$ 1844982.84
+Variação no término (VAC): R$ -352176.84
+
+Detalhamento por categoria:
+- Pessoal: R$ 736331.19 (51.0%)
+- Equipamentos: R$ 249231.98 (17.3%)
+- Software: R$ 189554.06 (13.1%)
+- Serviços: R$ 199946.03 (13.9%)
+- Outros: R$ 68322.18 (4.7%)

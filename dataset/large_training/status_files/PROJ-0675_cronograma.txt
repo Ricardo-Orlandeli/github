@@ -1,0 +1,25 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: O direito de concretizar seus projetos mais facilmente (PROJ-0675)
+Data: 14/07/2025
+Gerente: Dra. Marcela Rocha
+
+Status atual: Atrasado
+Percentual de conclusão: 83.0%
+Data de início: 29/09/2023
+Data de término planejada: 17/08/2024
+Data de término real/prevista: 25/12/2024
+Atraso atual: 331 dias
+Motivo do atraso: Atraso na entrega de componentes por fornecedores
+Índice de Desempenho de Cronograma (SPI): 0.83
+Valor Planejado (PV): R$ 444309.00
+Valor Agregado (EV): R$ 368617.63
+
+Tarefas críticas:
+- Desenvolvimento do painel administrativo
+- Desenvolvimento do painel administrativo
+- Testes de aceitação do usuário
+- Implementação do módulo de relatórios
+- Implementação do módulo de relatórios
+
+Tarefas atrasadas:
+- Desenvolvimento do painel administrativo

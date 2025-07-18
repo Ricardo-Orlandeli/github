@@ -1,0 +1,22 @@
+RELATÓRIO DE STATUS DE ESCOPO
+Projeto: A liberdade de concretizar seus projetos em estado puro (PROJ-0700)
+Data: 14/07/2025
+Gerente: Léo Pimenta
+
+Escopo original: Sistema para a liberdade de concretizar seus projetos em estado puro
+Houve mudança de escopo: Não
+Descrição das mudanças: N/A
+Impacto no cronograma: 0 dias
+Impacto no custo: R$ 0.00
+
+Solicitações de mudança:
+
+Requisitos atuais:
+- REQ-01: O sistema deve ser compatível com navegadores modernos
+- REQ-02: O sistema deve processar transações em menos de 2 seconds
+- REQ-03: O sistema deve processar transações em menos de 2 seconds
+- REQ-04: O sistema deve permitir exportação de dados em formato CSV
+- REQ-05: O sistema deve ser compatível com navegadores modernos
+- REQ-06: O sistema deve permitir exportação de dados em formato CSV
+- REQ-07: O sistema deve permitir autenticação de usuários
+- REQ-08: O sistema deve implementar criptografia de dados sensíveis

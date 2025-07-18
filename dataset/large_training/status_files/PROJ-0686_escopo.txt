@@ -1,0 +1,27 @@
+RELATÓRIO DE STATUS DE ESCOPO
+Projeto: A certeza de evoluir mais facilmente (PROJ-0686)
+Data: 14/07/2025
+Gerente: Sr. Davi Luiz Souza
+
+Escopo original: Sistema para a certeza de evoluir mais facilmente
+Houve mudança de escopo: Sim
+Descrição das mudanças: Expansão do escopo para incluir funcionalidades adicionais
+Impacto no cronograma: 29 dias
+Impacto no custo: R$ 713883.61
+
+Solicitações de mudança:
+- SCM-01: Adição de funcionalidade de autenticação biométrica
+- SCM-02: Alteração na interface do usuário
+- SCM-03: Mudança na arquitetura do sistema
+- SCM-04: Adição de relatórios gerenciais
+- SCM-05: Alteração nos requisitos de desempenho
+
+Requisitos atuais:
+- REQ-01: O sistema deve ter controle de acesso baseado em perfis
+- REQ-02: O sistema deve ser compatível com dispositivos móveis
+- REQ-03: O sistema deve ter backup automático diário
+- REQ-04: O sistema deve ter controle de acesso baseado em perfis
+- REQ-05: O sistema deve ter interface responsiva
+- REQ-06: O sistema deve passar por testes de segurança
+- REQ-07: O sistema deve permitir exportação de dados em formato CSV
+- REQ-08: O sistema deve registrar logs de auditoria

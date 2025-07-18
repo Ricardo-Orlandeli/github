@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A possibilidade de inovar simplesmente (PROJ-0987)
+Data: 14/07/2025
+Gerente: Lorena Pacheco
+
+Orçamento inicial: R$ 2078836.00
+Custo real atual: R$ 1808258.67
+Desvio orçamentário: -13.02%
+Índice de Desempenho de Custo (CPI): 1.15
+Valor Agregado (EV): R$ 2078836.00
+Estimativa para conclusão: R$ 0.00
+Estimativa no término (EAC): R$ 1808258.67
+Variação no término (VAC): R$ 270577.33
+
+Detalhamento por categoria:
+- Pessoal: R$ 961772.83 (53.2%)
+- Equipamentos: R$ 226735.03 (12.5%)
+- Software: R$ 156632.76 (8.7%)
+- Serviços: R$ 276711.67 (15.3%)
+- Outros: R$ 186406.39 (10.3%)

@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A vantagem de atingir seus objetivos de maneira eficaz (PROJ-0938)
+Data: 14/07/2025
+Gerente: Joaquim Montenegro
+
+Orçamento inicial: R$ 3283540.00
+Custo real atual: R$ 2091977.74
+Desvio orçamentário: -22.34%
+Índice de Desempenho de Custo (CPI): 1.21
+Valor Agregado (EV): R$ 2533268.59
+Estimativa para conclusão: R$ 619575.48
+Estimativa no término (EAC): R$ 2711553.21
+Variação no término (VAC): R$ 571986.79
+
+Detalhamento por categoria:
+- Pessoal: R$ 1097599.63 (52.5%)
+- Equipamentos: R$ 285328.21 (13.6%)
+- Software: R$ 164250.42 (7.9%)
+- Serviços: R$ 346533.24 (16.6%)
+- Outros: R$ 198266.24 (9.5%)

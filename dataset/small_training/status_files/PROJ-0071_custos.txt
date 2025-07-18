@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A liberdade de conseguir naturalmente (PROJ-0071)
+Data: 14/07/2025
+Gerente: Sra. Alice Duarte
+
+Orçamento inicial: R$ 2867117.00
+Custo real atual: R$ 594835.60
+Desvio orçamentário: -79.25%
+Índice de Desempenho de Custo (CPI): 0.92
+Valor Agregado (EV): R$ 546770.68
+Estimativa para conclusão: R$ 2524320.78
+Estimativa no término (EAC): R$ 3119156.37
+Variação no término (VAC): R$ -252039.37
+
+Detalhamento por categoria:
+- Pessoal: R$ 308582.31 (51.9%)
+- Equipamentos: R$ 74775.88 (12.6%)
+- Software: R$ 69565.66 (11.7%)
+- Serviços: R$ 98021.85 (16.5%)
+- Outros: R$ 43889.89 (7.4%)

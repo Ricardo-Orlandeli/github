@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A vantagem de conseguir antes de tudo (PROJ-0728)
+Data: 14/07/2025
+Gerente: Sr. Apollo Peixoto
+
+Orçamento inicial: R$ 1916655.00
+Custo real atual: R$ 2098546.32
+Desvio orçamentário: 9.49%
+Índice de Desempenho de Custo (CPI): 0.75
+Valor Agregado (EV): R$ 1581736.49
+Estimativa para conclusão: R$ 444348.35
+Estimativa no término (EAC): R$ 2542894.67
+Variação no término (VAC): R$ -626239.67
+
+Detalhamento por categoria:
+- Pessoal: R$ 1075952.94 (51.3%)
+- Equipamentos: R$ 330114.48 (15.7%)
+- Software: R$ 212238.28 (10.1%)
+- Serviços: R$ 347117.01 (16.5%)
+- Outros: R$ 133123.62 (6.3%)

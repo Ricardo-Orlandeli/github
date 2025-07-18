@@ -1,0 +1,24 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: O poder de conseguir em estado puro (PROJ-0076)
+Data: 14/07/2025
+Gerente: Catarina Monteiro
+
+Status atual: Em andamento
+Percentual de conclusão: 99.9%
+Data de início: 13/10/2024
+Data de término planejada: 15/07/2025
+Data de término real/prevista: 31/07/2025
+Atraso atual: 0 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 0.93
+Valor Planejado (PV): R$ 885792.18
+Valor Agregado (EV): R$ 888135.98
+
+Tarefas críticas:
+- Desenvolvimento do módulo de autenticação
+- Migração de dados legados
+- Configuração do ambiente de produção
+- Testes de segurança
+- Implementação do módulo de exportação de dados
+
+Tarefas atrasadas:

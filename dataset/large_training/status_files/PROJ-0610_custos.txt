@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A possibilidade de ganhar simplesmente (PROJ-0610)
+Data: 14/07/2025
+Gerente: Joana Ribeiro
+
+Orçamento inicial: R$ 1625896.00
+Custo real atual: R$ 1590868.11
+Desvio orçamentário: -2.15%
+Índice de Desempenho de Custo (CPI): 1.02
+Valor Agregado (EV): R$ 1624270.10
+Estimativa para conclusão: R$ 1592.46
+Estimativa no término (EAC): R$ 1592460.57
+Variação no término (VAC): R$ 33435.43
+
+Detalhamento por categoria:
+- Pessoal: R$ 769904.74 (48.4%)
+- Equipamentos: R$ 212682.88 (13.4%)
+- Software: R$ 182426.10 (11.5%)
+- Serviços: R$ 267355.70 (16.8%)
+- Outros: R$ 158498.69 (10.0%)

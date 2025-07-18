@@ -1,0 +1,23 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A possibilidade de inovar mais facilmente (PROJ-0060)
+Data: 14/07/2025
+Gerente: Sr. Danilo Casa Grande
+
+Status atual: Em andamento
+Percentual de conclusão: 99.9%
+Data de início: 09/09/2023
+Data de término planejada: 08/05/2024
+Data de término real/prevista: 01/05/2024
+Atraso atual: 432 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 0.97
+Valor Planejado (PV): R$ 3523670.00
+Valor Agregado (EV): R$ 3520146.33
+
+Tarefas críticas:
+- Desenvolvimento da interface do usuário
+- Desenvolvimento do painel administrativo
+- Implementação da API REST
+- Implementação do módulo de exportação de dados
+
+Tarefas atrasadas:

@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A possibilidade de atingir seus objetivos direto da fonte (PROJ-0551)
+Data: 14/07/2025
+Gerente: Ana Beatriz Mendes
+
+Orçamento inicial: R$ 1723356.00
+Custo real atual: R$ 1541841.97
+Desvio orçamentário: -10.53%
+Índice de Desempenho de Custo (CPI): 0.80
+Valor Agregado (EV): R$ 1226607.97
+Estimativa para conclusão: R$ 624410.55
+Estimativa no término (EAC): R$ 2166252.52
+Variação no término (VAC): R$ -442896.52
+
+Detalhamento por categoria:
+- Pessoal: R$ 797870.30 (51.7%)
+- Equipamentos: R$ 210009.32 (13.6%)
+- Software: R$ 145541.74 (9.4%)
+- Serviços: R$ 294875.69 (19.1%)
+- Outros: R$ 93544.92 (6.1%)

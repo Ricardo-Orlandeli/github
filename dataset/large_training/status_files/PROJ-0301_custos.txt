@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A possibilidade de ganhar naturalmente (PROJ-0301)
+Data: 14/07/2025
+Gerente: Thomas Correia
+
+Orçamento inicial: R$ 1628793.00
+Custo real atual: R$ 1484218.22
+Desvio orçamentário: -8.88%
+Índice de Desempenho de Custo (CPI): 0.96
+Valor Agregado (EV): R$ 1423191.97
+Estimativa para conclusão: R$ 214417.17
+Estimativa no término (EAC): R$ 1698635.39
+Variação no término (VAC): R$ -69842.39
+
+Detalhamento por categoria:
+- Pessoal: R$ 732482.05 (49.4%)
+- Equipamentos: R$ 290464.55 (19.6%)
+- Software: R$ 99088.54 (6.7%)
+- Serviços: R$ 266713.51 (18.0%)
+- Outros: R$ 95469.56 (6.4%)

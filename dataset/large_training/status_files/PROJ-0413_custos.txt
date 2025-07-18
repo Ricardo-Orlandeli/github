@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O conforto de atingir seus objetivos antes de tudo (PROJ-0413)
+Data: 14/07/2025
+Gerente: Maria Luísa Siqueira
+
+Orçamento inicial: R$ 4238229.00
+Custo real atual: R$ 4420401.11
+Desvio orçamentário: 4.30%
+Índice de Desempenho de Custo (CPI): 0.90
+Valor Agregado (EV): R$ 3986805.38
+Estimativa para conclusão: R$ 278767.87
+Estimativa no término (EAC): R$ 4699168.98
+Variação no término (VAC): R$ -460939.98
+
+Detalhamento por categoria:
+- Pessoal: R$ 2193780.63 (49.6%)
+- Equipamentos: R$ 719193.58 (16.3%)
+- Software: R$ 592831.17 (13.4%)
+- Serviços: R$ 559381.78 (12.7%)
+- Outros: R$ 355213.95 (8.0%)

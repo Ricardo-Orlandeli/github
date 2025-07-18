@@ -1,0 +1,24 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: O poder de conseguir mais rapidamente (PROJ-0010)
+Data: 14/07/2025
+Gerente: Luiza Sá
+
+Status atual: Em andamento
+Percentual de conclusão: 90.4%
+Data de início: 29/08/2024
+Data de término planejada: 18/07/2025
+Data de término real/prevista: 28/07/2025
+Atraso atual: 0 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 0.95
+Valor Planejado (PV): R$ 3509859.23
+Valor Agregado (EV): R$ 3214350.43
+
+Tarefas críticas:
+- Implementação do módulo de análise de dados
+- Testes de aceitação do usuário
+- Configuração da infraestrutura
+- Configuração da infraestrutura
+- Implementação do sistema de backup
+
+Tarefas atrasadas:

@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A segurança de inovar naturalmente (PROJ-0201)
+Data: 14/07/2025
+Gerente: Sr. Isaque Martins
+
+Orçamento inicial: R$ 4535692.00
+Custo real atual: R$ 3984658.08
+Desvio orçamentário: -11.33%
+Índice de Desempenho de Custo (CPI): 1.14
+Valor Agregado (EV): R$ 4535692.00
+Estimativa para conclusão: R$ 0.00
+Estimativa no término (EAC): R$ 3984658.08
+Variação no término (VAC): R$ 551033.92
+
+Detalhamento por categoria:
+- Pessoal: R$ 1963103.86 (49.3%)
+- Equipamentos: R$ 785995.15 (19.7%)
+- Software: R$ 511974.53 (12.8%)
+- Serviços: R$ 420044.44 (10.5%)
+- Outros: R$ 303540.09 (7.6%)

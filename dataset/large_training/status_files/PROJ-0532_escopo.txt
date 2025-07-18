@@ -1,0 +1,26 @@
+RELATÓRIO DE STATUS DE ESCOPO
+Projeto: A arte de avançar mais facilmente (PROJ-0532)
+Data: 14/07/2025
+Gerente: Alexandre Mendonça
+
+Escopo original: Sistema para a arte de avançar mais facilmente
+Houve mudança de escopo: Sim
+Descrição das mudanças: Mudança na plataforma de implementação
+Impacto no cronograma: 16 dias
+Impacto no custo: R$ 294058.18
+
+Solicitações de mudança:
+- SCM-01: Alteração nos requisitos de desempenho
+- SCM-02: Adição de funcionalidade de autenticação biométrica
+- SCM-03: Alteração nos requisitos de desempenho
+- SCM-04: Alteração nos requisitos de desempenho
+
+Requisitos atuais:
+- REQ-01: O sistema deve ser escalável para suportar até 10.000 usuários simultâneos
+- REQ-02: O sistema deve processar transações em menos de 2 seconds
+- REQ-03: O sistema deve ter interface responsiva
+- REQ-04: O sistema deve ser compatível com navegadores modernos
+- REQ-05: O sistema deve ter alta disponibilidade (99.9%)
+- REQ-06: O sistema deve ter backup automático diário
+- REQ-07: O sistema deve processar transações em menos de 2 seconds
+- REQ-08: O sistema deve passar por testes de segurança

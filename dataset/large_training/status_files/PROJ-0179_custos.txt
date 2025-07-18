@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A possibilidade de evoluir com força total (PROJ-0179)
+Data: 14/07/2025
+Gerente: Vinícius Mendonça
+
+Orçamento inicial: R$ 4977292.00
+Custo real atual: R$ 5693858.68
+Desvio orçamentário: 14.40%
+Índice de Desempenho de Custo (CPI): 0.74
+Valor Agregado (EV): R$ 4225831.77
+Estimativa para conclusão: R$ 1012512.70
+Estimativa no término (EAC): R$ 6706371.38
+Variação no término (VAC): R$ -1729079.38
+
+Detalhamento por categoria:
+- Pessoal: R$ 2747240.13 (48.2%)
+- Equipamentos: R$ 1084605.43 (19.0%)
+- Software: R$ 407312.04 (7.2%)
+- Serviços: R$ 1091287.16 (19.2%)
+- Outros: R$ 363413.91 (6.4%)

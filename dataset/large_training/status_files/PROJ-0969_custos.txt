@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A arte de inovar mais rapidamente (PROJ-0969)
+Data: 14/07/2025
+Gerente: Bruna Sá
+
+Orçamento inicial: R$ 3630442.00
+Custo real atual: R$ 2689570.99
+Desvio orçamentário: -14.64%
+Índice de Desempenho de Custo (CPI): 1.23
+Valor Agregado (EV): R$ 3310980.85
+Estimativa para conclusão: R$ 259504.20
+Estimativa no término (EAC): R$ 2949075.20
+Variação no término (VAC): R$ 681366.80
+
+Detalhamento por categoria:
+- Pessoal: R$ 1406366.22 (52.3%)
+- Equipamentos: R$ 407126.29 (15.1%)
+- Software: R$ 165711.02 (6.2%)
+- Serviços: R$ 498155.58 (18.5%)
+- Outros: R$ 212211.89 (7.9%)

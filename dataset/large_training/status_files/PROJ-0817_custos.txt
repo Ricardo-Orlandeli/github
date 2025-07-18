@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O direito de atingir seus objetivos de maneira eficaz (PROJ-0817)
+Data: 14/07/2025
+Gerente: Sr. Noah Pastor
+
+Orçamento inicial: R$ 1755995.00
+Custo real atual: R$ 1592594.80
+Desvio orçamentário: -9.31%
+Índice de Desempenho de Custo (CPI): 1.10
+Valor Agregado (EV): R$ 1754239.01
+Estimativa para conclusão: R$ 1594.19
+Estimativa no término (EAC): R$ 1594188.99
+Variação no término (VAC): R$ 161806.01
+
+Detalhamento por categoria:
+- Pessoal: R$ 777383.53 (48.8%)
+- Equipamentos: R$ 278326.28 (17.5%)
+- Software: R$ 193433.37 (12.1%)
+- Serviços: R$ 245261.14 (15.4%)
+- Outros: R$ 98190.48 (6.2%)

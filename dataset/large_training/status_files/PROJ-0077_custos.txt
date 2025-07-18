@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A arte de concretizar seus projetos mais facilmente (PROJ-0077)
+Data: 14/07/2025
+Gerente: Maria Júlia da Rosa
+
+Orçamento inicial: R$ 1876996.00
+Custo real atual: R$ 1413231.96
+Desvio orçamentário: -17.86%
+Índice de Desempenho de Custo (CPI): 0.77
+Valor Agregado (EV): R$ 1088436.11
+Estimativa para conclusão: R$ 1023870.88
+Estimativa no término (EAC): R$ 2437102.84
+Variação no término (VAC): R$ -560106.84
+
+Detalhamento por categoria:
+- Pessoal: R$ 727784.25 (51.5%)
+- Equipamentos: R$ 248525.86 (17.6%)
+- Software: R$ 132875.37 (9.4%)
+- Serviços: R$ 210336.83 (14.9%)
+- Outros: R$ 93709.66 (6.6%)

@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O direito de inovar com confiança (PROJ-0651)
+Data: 14/07/2025
+Gerente: Gabrielly Caldeira
+
+Orçamento inicial: R$ 210586.00
+Custo real atual: R$ 130678.07
+Desvio orçamentário: -37.95%
+Índice de Desempenho de Custo (CPI): 0.82
+Valor Agregado (EV): R$ 107074.65
+Estimativa para conclusão: R$ 126329.28
+Estimativa no término (EAC): R$ 257007.36
+Variação no término (VAC): R$ -46421.36
+
+Detalhamento por categoria:
+- Pessoal: R$ 66892.41 (51.2%)
+- Equipamentos: R$ 26345.65 (20.2%)
+- Software: R$ 15068.59 (11.5%)
+- Serviços: R$ 14071.21 (10.8%)
+- Outros: R$ 8300.21 (6.4%)

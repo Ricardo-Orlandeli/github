@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A vantagem de inovar naturalmente (PROJ-0578)
+Data: 14/07/2025
+Gerente: Olivia Borges
+
+Orçamento inicial: R$ 3415358.00
+Custo real atual: R$ 321141.03
+Desvio orçamentário: -5.97%
+Índice de Desempenho de Custo (CPI): 0.71
+Valor Agregado (EV): R$ 228547.39
+Estimativa para conclusão: R$ 4477914.42
+Estimativa no término (EAC): R$ 4799055.45
+Variação no término (VAC): R$ -1383697.45
+
+Detalhamento por categoria:
+- Pessoal: R$ 186756.26 (58.2%)
+- Equipamentos: R$ 48878.35 (15.2%)
+- Software: R$ 17511.25 (5.5%)
+- Serviços: R$ 43567.65 (13.6%)
+- Outros: R$ 24427.52 (7.6%)

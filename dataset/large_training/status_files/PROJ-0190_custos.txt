@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A arte de mudar com força total (PROJ-0190)
+Data: 14/07/2025
+Gerente: Laura Monteiro
+
+Orçamento inicial: R$ 3853200.00
+Custo real atual: R$ 3536808.71
+Desvio orçamentário: -8.21%
+Índice de Desempenho de Custo (CPI): 0.91
+Valor Agregado (EV): R$ 3210111.82
+Estimativa para conclusão: R$ 708536.03
+Estimativa no término (EAC): R$ 4245344.74
+Variação no término (VAC): R$ -392144.74
+
+Detalhamento por categoria:
+- Pessoal: R$ 1743501.09 (49.3%)
+- Equipamentos: R$ 401127.09 (11.3%)
+- Software: R$ 553493.47 (15.6%)
+- Serviços: R$ 458730.66 (13.0%)
+- Outros: R$ 379956.41 (10.7%)

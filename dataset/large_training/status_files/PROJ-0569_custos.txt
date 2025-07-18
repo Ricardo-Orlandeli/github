@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A liberdade de evoluir sem preocupação (PROJ-0569)
+Data: 14/07/2025
+Gerente: Gabriel Rodrigues
+
+Orçamento inicial: R$ 2122013.00
+Custo real atual: R$ 2400414.20
+Desvio orçamentário: 13.12%
+Índice de Desempenho de Custo (CPI): 0.88
+Valor Agregado (EV): R$ 2122013.00
+Estimativa para conclusão: R$ 0.00
+Estimativa no término (EAC): R$ 2400414.20
+Variação no término (VAC): R$ -278401.20
+
+Detalhamento por categoria:
+- Pessoal: R$ 1199737.28 (50.0%)
+- Equipamentos: R$ 312714.85 (13.0%)
+- Software: R$ 381721.62 (15.9%)
+- Serviços: R$ 298401.95 (12.4%)
+- Outros: R$ 207838.52 (8.7%)

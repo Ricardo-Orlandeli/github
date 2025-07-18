@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A arte de concretizar seus projetos mais rapidamente (PROJ-0040)
+Data: 14/07/2025
+Gerente: Heloísa Borges
+
+Orçamento inicial: R$ 1169682.00
+Custo real atual: R$ 1226287.53
+Desvio orçamentário: 4.84%
+Índice de Desempenho de Custo (CPI): 0.95
+Valor Agregado (EV): R$ 1168512.32
+Estimativa para conclusão: R$ 1227.52
+Estimativa no término (EAC): R$ 1227515.05
+Variação no término (VAC): R$ -57833.05
+
+Detalhamento por categoria:
+- Pessoal: R$ 588198.32 (48.0%)
+- Equipamentos: R$ 156176.41 (12.7%)
+- Software: R$ 124076.44 (10.1%)
+- Serviços: R$ 274166.80 (22.4%)
+- Outros: R$ 83669.56 (6.8%)

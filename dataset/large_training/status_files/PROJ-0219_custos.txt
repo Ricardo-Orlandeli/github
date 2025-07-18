@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A simplicidade de avançar direto da fonte (PROJ-0219)
+Data: 14/07/2025
+Gerente: Heloísa Silveira
+
+Orçamento inicial: R$ 1629030.00
+Custo real atual: R$ 1629136.34
+Desvio orçamentário: 0.01%
+Índice de Desempenho de Custo (CPI): 0.74
+Valor Agregado (EV): R$ 1212793.72
+Estimativa para conclusão: R$ 559126.95
+Estimativa no término (EAC): R$ 2188263.28
+Variação no término (VAC): R$ -559233.28
+
+Detalhamento por categoria:
+- Pessoal: R$ 839004.08 (51.5%)
+- Equipamentos: R$ 271007.20 (16.6%)
+- Software: R$ 144191.95 (8.9%)
+- Serviços: R$ 249260.71 (15.3%)
+- Outros: R$ 125672.39 (7.7%)

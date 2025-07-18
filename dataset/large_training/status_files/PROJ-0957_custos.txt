@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A certeza de conseguir direto da fonte (PROJ-0957)
+Data: 14/07/2025
+Gerente: Felipe Lima
+
+Orçamento inicial: R$ 3276411.00
+Custo real atual: R$ 2774714.69
+Desvio orçamentário: -15.31%
+Índice de Desempenho de Custo (CPI): 1.18
+Valor Agregado (EV): R$ 3276411.00
+Estimativa para conclusão: R$ 0.00
+Estimativa no término (EAC): R$ 2774714.69
+Variação no término (VAC): R$ 501696.31
+
+Detalhamento por categoria:
+- Pessoal: R$ 1248547.77 (45.0%)
+- Equipamentos: R$ 407110.86 (14.7%)
+- Software: R$ 463262.78 (16.7%)
+- Serviços: R$ 492855.92 (17.8%)
+- Outros: R$ 162937.36 (5.9%)

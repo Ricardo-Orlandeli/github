@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A liberdade de ganhar antes de tudo (PROJ-0884)
+Data: 14/07/2025
+Gerente: Vitória Vargas
+
+Orçamento inicial: R$ 4122292.00
+Custo real atual: R$ 4310582.15
+Desvio orçamentário: 4.57%
+Índice de Desempenho de Custo (CPI): 0.96
+Valor Agregado (EV): R$ 4118169.71
+Estimativa para conclusão: R$ 4314.90
+Estimativa no término (EAC): R$ 4314897.05
+Variação no término (VAC): R$ -192605.05
+
+Detalhamento por categoria:
+- Pessoal: R$ 2131544.95 (49.4%)
+- Equipamentos: R$ 839985.05 (19.5%)
+- Software: R$ 391756.47 (9.1%)
+- Serviços: R$ 553189.99 (12.8%)
+- Outros: R$ 394105.69 (9.1%)

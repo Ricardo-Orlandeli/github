@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE ESCOPO
+Projeto: A liberdade de atingir seus objetivos mais rapidamente (PROJ-0878)
+Data: 14/07/2025
+Gerente: Henry Machado
+
+Escopo original: Sistema para a liberdade de atingir seus objetivos mais rapidamente
+Houve mudança de escopo: Não
+Descrição das mudanças: N/A
+Impacto no cronograma: 0 dias
+Impacto no custo: R$ 0.00
+
+Solicitações de mudança:
+
+Requisitos atuais:
+- REQ-01: O sistema deve ter interface responsiva
+- REQ-02: O sistema deve ter backup automático diário
+- REQ-03: O sistema deve ter alta disponibilidade (99.9%)
+- REQ-04: O sistema deve ter documentação completa
+- REQ-05: O sistema deve ter documentação completa
+- REQ-06: O sistema deve ser compatível com navegadores modernos

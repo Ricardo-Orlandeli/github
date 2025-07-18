@@ -1,0 +1,26 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: O prazer de atingir seus objetivos mais facilmente (PROJ-0814)
+Data: 14/07/2025
+Gerente: Srta. Maria Silva
+
+Status atual: Em andamento
+Percentual de conclusão: 46.9%
+Data de início: 20/12/2024
+Data de término planejada: 14/12/2025
+Data de término real/prevista: 14/12/2025
+Atraso atual: 0 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.06
+Valor Planejado (PV): R$ 1139336.08
+Valor Agregado (EV): R$ 930701.60
+
+Tarefas críticas:
+- Migração de dados legados
+- Integração com sistema de pagamentos
+- Integração com sistema de pagamentos
+- Integração com sistema de pagamentos
+- Desenvolvimento do módulo de autenticação
+- Testes de aceitação do usuário
+- Integração com sistema de pagamentos
+
+Tarefas atrasadas:

@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O prazer de ganhar sem preocupação (PROJ-0694)
+Data: 14/07/2025
+Gerente: Elisa Teixeira
+
+Orçamento inicial: R$ 3574694.00
+Custo real atual: R$ 162791.66
+Desvio orçamentário: -1.94%
+Índice de Desempenho de Custo (CPI): 0.79
+Valor Agregado (EV): R$ 129113.05
+Estimativa para conclusão: R$ 4344346.76
+Estimativa no término (EAC): R$ 4507138.42
+Variação no término (VAC): R$ -932444.42
+
+Detalhamento por categoria:
+- Pessoal: R$ 88242.96 (54.2%)
+- Equipamentos: R$ 26598.60 (16.3%)
+- Software: R$ 9233.46 (5.7%)
+- Serviços: R$ 26744.29 (16.4%)
+- Outros: R$ 11972.35 (7.4%)

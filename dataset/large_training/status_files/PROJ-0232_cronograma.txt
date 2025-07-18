@@ -1,0 +1,25 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: O poder de mudar simplesmente (PROJ-0232)
+Data: 14/07/2025
+Gerente: Léo Aragão
+
+Status atual: Atrasado
+Percentual de conclusão: 89.7%
+Data de início: 10/11/2024
+Data de término planejada: 05/07/2025
+Data de término real/prevista: 18/12/2025
+Atraso atual: 9 dias
+Motivo do atraso: Estimativas imprecisas
+Índice de Desempenho de Cronograma (SPI): 0.90
+Valor Planejado (PV): R$ 1022442.00
+Valor Agregado (EV): R$ 917503.67
+
+Tarefas críticas:
+- Implementação do módulo de análise de dados
+- Testes de segurança
+- Implementação do módulo de exportação de dados
+- Implementação da API REST
+
+Tarefas atrasadas:
+- Testes de segurança
+- Implementação do módulo de análise de dados

@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O prazer de conseguir com confiança (PROJ-0559)
+Data: 14/07/2025
+Gerente: Sabrina Cavalcante
+
+Orçamento inicial: R$ 4650111.00
+Custo real atual: R$ 5351944.08
+Desvio orçamentário: 15.09%
+Índice de Desempenho de Custo (CPI): 0.87
+Valor Agregado (EV): R$ 4645460.89
+Estimativa para conclusão: R$ 5357.30
+Estimativa no término (EAC): R$ 5357301.38
+Variação no término (VAC): R$ -707190.38
+
+Detalhamento por categoria:
+- Pessoal: R$ 3084084.54 (57.6%)
+- Equipamentos: R$ 607998.44 (11.4%)
+- Software: R$ 642356.48 (12.0%)
+- Serviços: R$ 641895.40 (12.0%)
+- Outros: R$ 375609.22 (7.0%)

@@ -1,0 +1,24 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: O poder de inovar naturalmente (PROJ-0028)
+Data: 14/07/2025
+Gerente: Leandro Alves
+
+Status atual: Atrasado
+Percentual de conclusão: 54.5%
+Data de início: 13/09/2024
+Data de término planejada: 21/01/2025
+Data de término real/prevista: 21/03/2025
+Atraso atual: 174 dias
+Motivo do atraso: Atraso na entrega de componentes por fornecedores
+Índice de Desempenho de Cronograma (SPI): 0.54
+Valor Planejado (PV): R$ 693438.00
+Valor Agregado (EV): R$ 377619.61
+
+Tarefas críticas:
+- Testes de aceitação do usuário
+- Implementação do sistema de backup
+- Integração com sistema de pagamentos
+- Implementação do módulo de relatórios
+
+Tarefas atrasadas:
+- Implementação do módulo de relatórios

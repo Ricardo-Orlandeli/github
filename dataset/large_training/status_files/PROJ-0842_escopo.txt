@@ -1,0 +1,23 @@
+RELATÓRIO DE STATUS DE ESCOPO
+Projeto: A liberdade de ganhar mais rapidamente (PROJ-0842)
+Data: 14/07/2025
+Gerente: Dr. Gael da Rosa
+
+Escopo original: Sistema para a liberdade de ganhar mais rapidamente
+Houve mudança de escopo: Sim
+Descrição das mudanças: Adição de novos requisitos de segurança
+Impacto no cronograma: 29 dias
+Impacto no custo: R$ 8735.50
+
+Solicitações de mudança:
+- SCM-01: Adição de funcionalidade de autenticação biométrica
+- SCM-02: Adição de relatórios gerenciais
+- SCM-03: Alteração nos requisitos de desempenho
+- SCM-04: Adição de funcionalidade de autenticação biométrica
+
+Requisitos atuais:
+- REQ-01: O sistema deve passar por testes de segurança
+- REQ-02: O sistema deve registrar logs de auditoria
+- REQ-03: O sistema deve permitir exportação de dados em formato CSV
+- REQ-04: O sistema deve ter interface responsiva
+- REQ-05: O sistema deve implementar criptografia de dados sensíveis

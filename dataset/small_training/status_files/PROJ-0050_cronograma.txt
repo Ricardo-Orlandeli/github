@@ -1,0 +1,27 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A liberdade de evoluir com confiança (PROJ-0050)
+Data: 14/07/2025
+Gerente: Antonella Caldeira
+
+Status atual: Em andamento
+Percentual de conclusão: 69.6%
+Data de início: 08/01/2025
+Data de término planejada: 16/11/2025
+Data de término real/prevista: 14/12/2025
+Atraso atual: 0 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.11
+Valor Planejado (PV): R$ 1854326.16
+Valor Agregado (EV): R$ 2153360.07
+
+Tarefas críticas:
+- Implementação do sistema de backup
+- Testes de aceitação do usuário
+- Desenvolvimento do painel administrativo
+- Desenvolvimento do painel administrativo
+- Implementação do sistema de backup
+- Desenvolvimento do módulo de autenticação
+- Desenvolvimento do módulo de autenticação
+- Testes de segurança
+
+Tarefas atrasadas:

@@ -1,0 +1,29 @@
+RELATÓRIO DE STATUS DE ESCOPO
+Projeto: A segurança de avançar simplesmente (PROJ-0036)
+Data: 14/07/2025
+Gerente: Dr. Valentim Marques
+
+Escopo original: Sistema para a segurança de avançar simplesmente
+Houve mudança de escopo: Sim
+Descrição das mudanças: Alteração nas especificações técnicas
+Impacto no cronograma: 46 dias
+Impacto no custo: R$ 548464.95
+
+Solicitações de mudança:
+- SCM-01: Mudança no banco de dados
+- SCM-02: Mudança no banco de dados
+- SCM-03: Alteração na interface do usuário
+- SCM-04: Adição de relatórios gerenciais
+- SCM-05: Alteração nos requisitos de desempenho
+
+Requisitos atuais:
+- REQ-01: O sistema deve ter alta disponibilidade (99.9%)
+- REQ-02: O sistema deve ser compatível com dispositivos móveis
+- REQ-03: O sistema deve registrar logs de auditoria
+- REQ-04: O sistema deve processar transações em menos de 2 seconds
+- REQ-05: O sistema deve processar transações em menos de 2 seconds
+- REQ-06: O sistema deve ter alta disponibilidade (99.9%)
+- REQ-07: O sistema deve permitir integração com APIs externas
+- REQ-08: O sistema deve permitir integração com APIs externas
+- REQ-09: O sistema deve ter interface responsiva
+- REQ-10: O sistema deve ter interface responsiva

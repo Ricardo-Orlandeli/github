@@ -1,0 +1,35 @@
+RELATÓRIO DE STATUS DE RISCOS
+Projeto: A possibilidade de mudar em estado puro (PROJ-0845)
+Data: 14/07/2025
+Gerente: Dr. Juan das Neves
+
+Riscos identificados:
+- R01: Atraso na entrega de componentes críticos
+  Probabilidade: 4/5, Impacto: 1/5, Nível: Baixo
+  Mitigação: Otimizar código e infraestrutura
+
+- R02: Mudanças regulatórias
+  Probabilidade: 2/5, Impacto: 5/5, Nível: Médio
+  Mitigação: Refinar estimativas com base em dados históricos
+
+- R03: Requisitos mal definidos
+  Probabilidade: 1/5, Impacto: 5/5, Nível: Baixo
+  Mitigação: Refinar estimativas com base em dados históricos
+
+- R04: Estimativas imprecisas
+  Probabilidade: 4/5, Impacto: 4/5, Nível: Alto
+  Mitigação: Monitorar mudanças regulatórias
+
+Riscos ocorridos:
+- R02 (ocorrido em 23/07/2024)
+  Impacto real: Atraso de 2 semanas no cronograma
+  Ações tomadas: Revisão de processos
+
+- R03 (ocorrido em 27/08/2024)
+  Impacto real: Atraso de 2 semanas no cronograma
+  Ações tomadas: Revisão de prioridades
+
+- R01 (ocorrido em 18/12/2024)
+  Impacto real: Retrabalho significativo
+  Ações tomadas: Implementação de controles adicionais
+

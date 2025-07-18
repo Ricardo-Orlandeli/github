@@ -1,0 +1,25 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A simplicidade de mudar com força total (PROJ-0053)
+Data: 14/07/2025
+Gerente: Sarah Almeida
+
+Status atual: Em andamento
+Percentual de conclusão: 49.6%
+Data de início: 15/02/2025
+Data de término planejada: 12/12/2025
+Data de término real/prevista: 03/12/2025
+Atraso atual: 0 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 1.04
+Valor Planejado (PV): R$ 1023577.85
+Valor Agregado (EV): R$ 1022214.96
+
+Tarefas críticas:
+- Testes de aceitação do usuário
+- Implementação do módulo de análise de dados
+- Implementação do sistema de backup
+- Desenvolvimento da interface do usuário
+- Implementação do módulo de notificações
+- Implementação da API REST
+
+Tarefas atrasadas:

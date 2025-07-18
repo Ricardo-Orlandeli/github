@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A segurança de evoluir direto da fonte (PROJ-0100)
+Data: 14/07/2025
+Gerente: Sr. Caleb Borges
+
+Orçamento inicial: R$ 4847492.00
+Custo real atual: R$ 3881925.30
+Desvio orçamentário: -19.92%
+Índice de Desempenho de Custo (CPI): 0.79
+Valor Agregado (EV): R$ 3083093.42
+Estimativa para conclusão: R$ 2221555.61
+Estimativa no término (EAC): R$ 6103480.92
+Variação no término (VAC): R$ -1255988.92
+
+Detalhamento por categoria:
+- Pessoal: R$ 1805871.26 (46.5%)
+- Equipamentos: R$ 789731.41 (20.3%)
+- Software: R$ 355537.90 (9.2%)
+- Serviços: R$ 719571.19 (18.5%)
+- Outros: R$ 211213.54 (5.4%)

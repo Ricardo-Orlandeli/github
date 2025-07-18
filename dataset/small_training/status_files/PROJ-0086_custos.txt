@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A vantagem de inovar direto da fonte (PROJ-0086)
+Data: 14/07/2025
+Gerente: Clarice Pereira
+
+Orçamento inicial: R$ 470047.00
+Custo real atual: R$ 367726.66
+Desvio orçamentário: 9.52%
+Índice de Desempenho de Custo (CPI): 1.06
+Valor Agregado (EV): R$ 388012.51
+Estimativa para conclusão: R$ 77745.61
+Estimativa no término (EAC): R$ 445472.27
+Variação no término (VAC): R$ 24574.73
+
+Detalhamento por categoria:
+- Pessoal: R$ 205912.84 (56.0%)
+- Equipamentos: R$ 68002.66 (18.5%)
+- Software: R$ 20149.86 (5.5%)
+- Serviços: R$ 48773.91 (13.3%)
+- Outros: R$ 24887.39 (6.8%)

@@ -1,0 +1,24 @@
+RELATÓRIO DE STATUS DE ESCOPO
+Projeto: A vantagem de concretizar seus projetos simplesmente (PROJ-0805)
+Data: 14/07/2025
+Gerente: Théo Pinto
+
+Escopo original: Sistema para a vantagem de concretizar seus projetos simplesmente
+Houve mudança de escopo: Sim
+Descrição das mudanças: Alteração nas especificações técnicas
+Impacto no cronograma: 58 dias
+Impacto no custo: R$ 348015.81
+
+Solicitações de mudança:
+- SCM-01: Mudança no banco de dados
+- SCM-02: Alteração na interface do usuário
+
+Requisitos atuais:
+- REQ-01: O sistema deve ser escalável para suportar até 10.000 usuários simultâneos
+- REQ-02: O sistema deve ter interface responsiva
+- REQ-03: O sistema deve ter backup automático diário
+- REQ-04: O sistema deve permitir exportação de dados em formato CSV
+- REQ-05: O sistema deve ter documentação completa
+- REQ-06: O sistema deve ser compatível com navegadores modernos
+- REQ-07: O sistema deve ter documentação completa
+- REQ-08: O sistema deve implementar criptografia de dados sensíveis

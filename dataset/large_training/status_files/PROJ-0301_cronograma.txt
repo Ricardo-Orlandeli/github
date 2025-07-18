@@ -1,0 +1,27 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: A possibilidade de ganhar naturalmente (PROJ-0301)
+Data: 14/07/2025
+Gerente: Thomas Correia
+
+Status atual: Atrasado
+Percentual de conclusão: 87.4%
+Data de início: 13/02/2024
+Data de término planejada: 13/12/2024
+Data de término real/prevista: 09/02/2025
+Atraso atual: 213 dias
+Motivo do atraso: Problemas de integração com sistemas legados
+Índice de Desempenho de Cronograma (SPI): 0.87
+Valor Planejado (PV): R$ 1628793.00
+Valor Agregado (EV): R$ 1423191.97
+
+Tarefas críticas:
+- Testes de segurança
+- Configuração do ambiente de produção
+- Testes de aceitação do usuário
+- Desenvolvimento da interface do usuário
+- Implementação do módulo de relatórios
+
+Tarefas atrasadas:
+- Testes de aceitação do usuário
+- Configuração do ambiente de produção
+- Testes de segurança

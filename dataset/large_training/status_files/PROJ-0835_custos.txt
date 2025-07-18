@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A vantagem de avançar com confiança (PROJ-0835)
+Data: 14/07/2025
+Gerente: Clara Mendonça
+
+Orçamento inicial: R$ 4348345.00
+Custo real atual: R$ 1655971.65
+Desvio orçamentário: -61.92%
+Índice de Desempenho de Custo (CPI): 0.86
+Valor Agregado (EV): R$ 1425922.84
+Estimativa para conclusão: R$ 3393906.13
+Estimativa no término (EAC): R$ 5049877.77
+Variação no término (VAC): R$ -701532.77
+
+Detalhamento por categoria:
+- Pessoal: R$ 884532.88 (53.4%)
+- Equipamentos: R$ 218591.81 (13.2%)
+- Software: R$ 182810.00 (11.0%)
+- Serviços: R$ 279545.08 (16.9%)
+- Outros: R$ 90491.88 (5.5%)

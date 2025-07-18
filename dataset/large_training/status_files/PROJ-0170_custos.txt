@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A arte de ganhar antes de tudo (PROJ-0170)
+Data: 14/07/2025
+Gerente: Benjamin Gomes
+
+Orçamento inicial: R$ 3348769.00
+Custo real atual: R$ 3247882.29
+Desvio orçamentário: -3.01%
+Índice de Desempenho de Custo (CPI): 0.92
+Valor Agregado (EV): R$ 2985139.81
+Estimativa para conclusão: R$ 395634.67
+Estimativa no término (EAC): R$ 3643516.96
+Variação no término (VAC): R$ -294747.96
+
+Detalhamento por categoria:
+- Pessoal: R$ 1652079.04 (50.9%)
+- Equipamentos: R$ 501958.96 (15.5%)
+- Software: R$ 383032.26 (11.8%)
+- Serviços: R$ 385803.77 (11.9%)
+- Outros: R$ 325008.25 (10.0%)

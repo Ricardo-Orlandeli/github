@@ -1,0 +1,31 @@
+RELATÓRIO DE STATUS DE ESCOPO
+Projeto: A possibilidade de conseguir com toda a tranquilidade (PROJ-0752)
+Data: 14/07/2025
+Gerente: Nina Fonseca
+
+Escopo original: Sistema para a possibilidade de conseguir com toda a tranquilidade
+Houve mudança de escopo: Sim
+Descrição das mudanças: Redução do escopo devido a restrições orçamentárias
+Impacto no cronograma: 8 dias
+Impacto no custo: R$ 235732.43
+
+Solicitações de mudança:
+- SCM-01: Alteração na interface do usuário
+- SCM-02: Mudança na arquitetura do sistema
+- SCM-03: Alteração na interface do usuário
+- SCM-04: Implementação de módulo de exportação de dados
+- SCM-05: Alteração nos requisitos de desempenho
+
+Requisitos atuais:
+- REQ-01: O sistema deve registrar logs de auditoria
+- REQ-02: O sistema deve ter interface responsiva
+- REQ-03: O sistema deve processar transações em menos de 2 seconds
+- REQ-04: O sistema deve ter backup automático diário
+- REQ-05: O sistema deve permitir exportação de dados em formato CSV
+- REQ-06: O sistema deve ter interface responsiva
+- REQ-07: O sistema deve registrar logs de auditoria
+- REQ-08: O sistema deve ser compatível com navegadores modernos
+- REQ-09: O sistema deve ter backup automático diário
+- REQ-10: O sistema deve ser compatível com navegadores modernos
+- REQ-11: O sistema deve ter interface responsiva
+- REQ-12: O sistema deve ter backup automático diário

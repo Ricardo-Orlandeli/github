@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A possibilidade de mudar em estado puro (PROJ-0845)
+Data: 14/07/2025
+Gerente: Dr. Juan das Neves
+
+Orçamento inicial: R$ 1406760.00
+Custo real atual: R$ 1364056.73
+Desvio orçamentário: -3.04%
+Índice de Desempenho de Custo (CPI): 1.03
+Valor Agregado (EV): R$ 1406760.00
+Estimativa para conclusão: R$ 0.00
+Estimativa no término (EAC): R$ 1364056.73
+Variação no término (VAC): R$ 42703.27
+
+Detalhamento por categoria:
+- Pessoal: R$ 756229.84 (55.4%)
+- Equipamentos: R$ 162693.87 (11.9%)
+- Software: R$ 96404.84 (7.1%)
+- Serviços: R$ 216106.55 (15.8%)
+- Outros: R$ 132621.62 (9.7%)

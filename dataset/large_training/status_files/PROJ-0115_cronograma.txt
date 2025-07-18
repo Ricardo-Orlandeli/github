@@ -1,0 +1,25 @@
+RELATÓRIO DE STATUS DE CRONOGRAMA
+Projeto: O direito de mudar de maneira eficaz (PROJ-0115)
+Data: 14/07/2025
+Gerente: Samuel Macedo
+
+Status atual: Em andamento
+Percentual de conclusão: 98.8%
+Data de início: 13/12/2023
+Data de término planejada: 20/11/2024
+Data de término real/prevista: 18/12/2024
+Atraso atual: 236 dias
+Motivo do atraso: N/A
+Índice de Desempenho de Cronograma (SPI): 0.92
+Valor Planejado (PV): R$ 4732116.00
+Valor Agregado (EV): R$ 4677688.04
+
+Tarefas críticas:
+- Testes de aceitação do usuário
+- Implementação do sistema de backup
+- Implementação do módulo de notificações
+- Migração de dados legados
+- Desenvolvimento do módulo de autenticação
+- Desenvolvimento do painel administrativo
+
+Tarefas atrasadas:

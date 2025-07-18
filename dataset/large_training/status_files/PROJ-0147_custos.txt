@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: A possibilidade de conseguir antes de tudo (PROJ-0147)
+Data: 14/07/2025
+Gerente: Dr. Raul Nunes
+
+Orçamento inicial: R$ 4025724.00
+Custo real atual: R$ 2856443.69
+Desvio orçamentário: -29.05%
+Índice de Desempenho de Custo (CPI): 0.85
+Valor Agregado (EV): R$ 2432249.93
+Estimativa para conclusão: R$ 1871382.08
+Estimativa no término (EAC): R$ 4727825.77
+Variação no término (VAC): R$ -702101.77
+
+Detalhamento por categoria:
+- Pessoal: R$ 1594475.50 (55.8%)
+- Equipamentos: R$ 322726.64 (11.3%)
+- Software: R$ 398640.13 (14.0%)
+- Serviços: R$ 280961.88 (9.8%)
+- Outros: R$ 259639.54 (9.1%)

@@ -1,0 +1,20 @@
+RELATÓRIO DE STATUS DE CUSTOS
+Projeto: O conforto de realizar seus sonhos mais rapidamente (PROJ-0593)
+Data: 14/07/2025
+Gerente: Ana Lívia Ferreira
+
+Orçamento inicial: R$ 3175201.00
+Custo real atual: R$ 2854662.53
+Desvio orçamentário: -10.10%
+Índice de Desempenho de Custo (CPI): 0.95
+Valor Agregado (EV): R$ 2726149.69
+Estimativa para conclusão: R$ 470219.94
+Estimativa no término (EAC): R$ 3324882.47
+Variação no término (VAC): R$ -149681.47
+
+Detalhamento por categoria:
+- Pessoal: R$ 1391298.17 (48.7%)
+- Equipamentos: R$ 605478.10 (21.2%)
+- Software: R$ 196749.85 (6.9%)
+- Serviços: R$ 432476.37 (15.1%)
+- Outros: R$ 228660.03 (8.0%)
